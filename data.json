@@ -16960,5 +16960,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=2&sn=18fd68348f0aa5ac8cf42fe1d25cfe00": "2025-W29/2025-07-19/CVE-2025-30762｜Oracle WebLogic Server存在未授权访问漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487834&idx=1&sn=ab354dd326ae72b7c8f31e4dc3c183e7": "2025-W29/2025-07-20/新手练习向——基于文件上传漏洞获得网站shell权限.md",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900983&idx=1&sn=3d4458bba407897627376170973de9b3": "2025-W29/2025-07-20/旧漏洞的“新魔术”：从Linuxsys到GhostContainer，深度解析攻击者的“合法化伪装”.md",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "2025-W29/2025-07-20/紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警.md"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "2025-W29/2025-07-20/紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警.md",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "2025-W29/2025-07-20/汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483941&idx=1&sn=2d0124416fb498dc8f044ec3f1ce3919": "2025-W29/2025-07-20/MetaCRM 客户关系管理系统 download-new.jsp 任意文件读取漏洞.md"
 }
