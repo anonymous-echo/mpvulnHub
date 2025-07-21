@@ -16991,5 +16991,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "2025-W30/2025-07-21/Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程.md",
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519647&idx=1&sn=370451197471ce419512ef5c847e2724": "2025-W30/2025-07-21/干货 | 一个弱口令引起的内网渗透.md",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "2025-W30/2025-07-21/关于Google Chrome V8存在类型混淆漏洞的安全公告.md",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "2025-W30/2025-07-21/漏洞预警 | SemCms SQL注入漏洞.md"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=1&sn=89febd1aefe606db1792ffd89f135a01": "2025-W30/2025-07-21/漏洞预警 | SemCms SQL注入漏洞.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "2025-W30/2025-07-21/Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "2025-W30/2025-07-21/【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489178&idx=1&sn=da94d972d802ca4c55bf8dfd5a5cac85": "2025-W30/2025-07-21/漏洞预警|请尽快更新Windows微信到4.0版本.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "2025-W30/2025-07-21/【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）.md"
 }
