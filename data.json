@@ -17071,5 +17071,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501054&idx=2&sn=0e1504b211c27221500053460b6e5931": "2025-W30/2025-07-22/联想电脑管家存在命令执行漏洞.md",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492890&idx=1&sn=a6e376f994c56d69bd1ef926c3b08fb9": "2025-W30/2025-07-22/【风险提示】Microsoft SharePoint 远程代码执行漏洞(CVE-2025-53770).md",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "2025-W30/2025-07-22/7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级.md",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "2025-W30/2025-07-22/【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传.md"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "2025-W30/2025-07-22/【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传.md",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486523&idx=2&sn=82688b0a491a403cc8e82061b12df048": "2025-W30/2025-07-22/契约锁pdfverifier RCE攻防绕过史.md",
+    "https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247483856&idx=1&sn=7963b410daa8e6556cf0f0bad2f086af": "2025-W30/2025-07-22/EDUSRC捡漏案例分享 | 某高校系统存在前端敏感信息泄露，成功获取超级管理员权限！.md"
 }
