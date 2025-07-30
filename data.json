@@ -17461,5 +17461,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501085&idx=1&sn=36381a7d7bc6ff0ce2d3276e623d0008": "安多多-Wiz级多云安全平台，资产真实风险一张图看清，正式开放使用",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486634&idx=1&sn=5bd9761a21c992a1b6f1df976904ff07": "大华智能物联管理平台1day分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488405&idx=1&sn=9e29357002547b2052ef66a252ad04fe": "HW（2025-7-30）护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260393&idx=1&sn=b09cedd4d13ce2b75968851c9845d1db": "无人愿谈的应用安全危机内幕"
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260393&idx=1&sn=b09cedd4d13ce2b75968851c9845d1db": "无人愿谈的应用安全危机内幕",
+    "https://mp.weixin.qq.com/s?__biz=MzI1Mjc3NTUwMQ==&mid=2247539553&idx=1&sn=4e5b82ca1488323390cd75a14662f76e": "红队进阶之0day零日漏洞挖掘——污点分析（一）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484031&idx=1&sn=44275afd4139d402668eb8966113dca0": "渗透测试与SRC漏洞挖掘基础教程",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488085&idx=1&sn=19c0895c234b114d9024b5eb76281568": "PHP 文件包含 | 最新爆出的文件内容不含 PHP 代码的代码执行 trick（include邂逅phar）",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247485831&idx=3&sn=cb7dfe005fa270e01af97fc14f8084f8": "利用基于计时器的 Shellcode 执行进行远程 DLL 注入",
+    "https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650278729&idx=2&sn=5bc687b782235535c0ac4cda0fa22d59": "海陆空天一体化网络的“金钟罩”——盛邦安全网络加密机！国产设备照样可以很便宜",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490726&idx=1&sn=29bb2aae51670dee74031533da93ff51": "【手册】NOP Team 的Linux 应急响应手册",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzYwNDU0Mg==&mid=2649253455&idx=3&sn=968925ef982c7c9443591f2d8715af17": "【业务】DSMM 认证：筑牢企业数据安全防线，赋能业务稳健发展",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485132&idx=1&sn=2873bcc060b7ebf227d968c066b19ca8": "【吃瓜】前端不算扒丨 成人性玩具厂商被曝产品存在远程控制漏洞与白帽扯皮",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486460&idx=1&sn=b140431742a306934a2a56adf409b0cc": "首个“AI黑客”恶意软件曝光：俄罗斯APT28操纵LameHug发动精准数据窃取！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247534222&idx=1&sn=d68a32374971e527f09613e27be69e7e": "征求意见稿丨网络安全技术  工业控制系统网络安全防护能力成熟度模型（附下载）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487876&idx=2&sn=243462e37ab8582db67dd39983afc5cb": "猎洞时刻SRC挖洞培训第三期 | 快速上车手则",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096435&idx=1&sn=6812312962a1bc5b511dbf6409921b4b": "Chrome 允许内存纵和任意代码执行高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096435&idx=2&sn=7ac4ba1575912f7a4d07a78f29b7ded9": "macOS存在允许攻击者绕过 TCC 窃取私人文件漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492654&idx=1&sn=8796c36c3404bec4f0a869ebf94f4949": "《我真得控制你了》-厂商和白帽扯皮，披露了远程控制性玩具漏洞细节",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486603&idx=1&sn=5acbd88cb0d3455a8d132e0fda56a10c": "WAF绕过-权限控制篇-后门免杀",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODI2MTg3Mw==&mid=2649819962&idx=2&sn=f50ab6b1b72c4a2eba534e36b2c38ec0": "ISC.AI 2025 Agentic SOC: 安全运营新范式论坛 议程提前看！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555586&idx=2&sn=8736926c58b10a0a9a850f7f6c04b80c": "【免费领】渗透测试工具：SQLMap实操技巧大全"
 }
