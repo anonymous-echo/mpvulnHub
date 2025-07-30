@@ -6,18 +6,19 @@ name: update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */4 * * *'
 permissions:
   contents: write
+  actions: read
 jobs:
   build:
 
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Set up Python 3.10
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: "3.10"
     - name: Install dependencies
@@ -27,7 +28,7 @@ jobs:
       env: 
          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
-        python run.py today | tee /tmp/update.log
+        python run.py --skip-binary | tee /tmp/update.log
     - name: Commit and push if changed
       run: |
         git config --global user.email "791751568@qq.com"
