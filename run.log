@@ -1,0 +1,34 @@
+2025-07-30 08:17:28,116 - INFO - === 开始执行微信文章归档工具 ===
+2025-07-30 08:17:28,117 - INFO - 数据文件: data.json
+2025-07-30 08:17:28,117 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2025-07-30 08:17:28,117 - INFO - 文档目录: doc
+2025-07-30 08:17:28,149 - INFO - 已加载 17415 条历史记录
+2025-07-30 08:17:28,149 - INFO - === 开始今日拉取 ===
+2025-07-30 08:17:28,149 - INFO - 开始获取Doonsec RSS
+2025-07-30 08:17:28,149 - INFO - 目标日期: 2025-07-30
+2025-07-30 08:17:30,081 - INFO - Doonsec RSS请求成功
+2025-07-30 08:17:30,083 - INFO - RSS中共有 200 个条目
+2025-07-30 08:17:30,084 - INFO - Doonsec获取到 124 个2025-07-30的微信文章URL
+2025-07-30 08:17:30,084 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2025/2025-07-30.md
+2025-07-30 08:17:30,099 - INFO - ChainReactors md文件下载状态码: 200
+2025-07-30 08:17:30,101 - INFO - ChainReactors获取到 180 个URL
+2025-07-30 08:17:30,101 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2025/2025-07-30.md
+2025-07-30 08:17:30,114 - INFO - BruceFeIix md文件下载状态码: 200
+2025-07-30 08:17:30,115 - INFO - BruceFeIix获取到 178 个URL
+2025-07-30 08:17:30,115 - INFO - === 开始处理 2025-07-30 的数据 ===
+2025-07-30 08:17:30,115 - INFO - Doonsec原始数据: 124 个
+2025-07-30 08:17:30,115 - INFO - ChainReactors原始数据: 180 个
+2025-07-30 08:17:30,115 - INFO - BruceFeIix原始数据: 178 个
+2025-07-30 08:17:30,115 - INFO - 开始处理Doonsec数据...
+2025-07-30 08:17:30,115 - INFO - 开始处理ChainReactors数据...
+2025-07-30 08:17:30,116 - INFO - 开始处理BruceFeIix数据...
+2025-07-30 08:17:30,116 - INFO - 去重后共 199 个URL待处理，跳过 283 个重复URL
+2025-07-30 08:17:30,116 - INFO - 去重后统计 - Doonsec: 100 个, ChainReactors: 97 个, BruceFeIix: 2 个
+2025-07-30 08:17:30,116 - INFO - === 开始关键词过滤 ===
+2025-07-30 08:17:30,123 - INFO - 关键词过滤: 匹配 14 个，跳过 185 个
+2025-07-30 08:17:30,123 - INFO - 关键词过滤后统计 - Doonsec: 14 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2025-07-30 08:17:30,143 - INFO - 已创建每日报告: md/2025-07-30.md
+2025-07-30 08:17:30,143 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2025-07-30 08:17:30,173 - INFO - 已更新data.json，添加了 14 个URL
+2025-07-30 08:17:30,173 - INFO - 已创建每日报告: md/2025-07-30.md
+2025-07-30 08:17:30,174 - INFO - === 执行完成 ===
