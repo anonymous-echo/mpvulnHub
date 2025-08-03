@@ -17815,5 +17815,15 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532018&idx=3&sn=aae7c57afb9c264787dac0fd165f3a4b": "UNC2891 银行入侵案：ATM 后门与 Linux 取证规避",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484063&idx=1&sn=a1454ba2473dcfd42873e5e1620d19a6": "【已复现】爱数AnyShare远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484054&idx=1&sn=5a64ea99948cbfe1e6817747065d0159": "孚盟云CRM ClientCardHandler.ashx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494359&idx=1&sn=2e66bc9b31105a9f36bd6830cfdd359a": "【SRC】从任意文件上传bypass到SSRF内网突破"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494359&idx=1&sn=2e66bc9b31105a9f36bd6830cfdd359a": "【SRC】从任意文件上传bypass到SSRF内网突破",
+    "https://mp.weixin.qq.com/s?__biz=MzIyOTY1NDE5Mg==&mid=2247485112&idx=1&sn=494f9563cca0f7b7e4b1d2849971de85": "浅谈大模型在安全运营中的落地",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690895&idx=1&sn=91081768bb3c41b4ea865be614a2a266": "0049. 我是如何发现漏洞赏金项目中最奇怪的漏洞的——它真的值得吗……",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070961&idx=1&sn=b8c7c8f1988fca2052e2f2bebaeb3c52": "【安全圈】黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070961&idx=2&sn=fb9e745ed2ed680ddff5b2ccd778c48b": "【安全圈】朝鲜黑客利用虚假招聘诱骗窃取加密资产",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490272&idx=1&sn=3b5fa9a961490a9f6ab1b772ccc8259f": "加密钱包安全2——通过私有的API窃取钱包助记词",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325746&idx=1&sn=c9a207cc63e3d6b40ae53826122470d5": "人工智能安全工具的性能取决于数据质量：劣质数据如同垃圾食品",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325746&idx=3&sn=e32bf5acdcb5aa514e0f5aa34b987860": "新型\\\"瘟疫\\\"恶意软件攻击Linux服务器以获取持久SSH访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njg5NzUzMw==&mid=2247491699&idx=1&sn=e4dcaf9c5e7da60e62e614a9000f4368": "TikTok DOM XSS 5000刀 漏洞复现代码参考-自己动手研究以下吧！",
+    "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493048&idx=1&sn=c571bfd82fde102c651121b77c98120f": "银狐黑产组织相关攻击技术汇总-下",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174028&idx=1&sn=7717604733c651fc9f626f526f0047fe": "吴世忠院士：大模型安全治理的现状与展望"
 }
