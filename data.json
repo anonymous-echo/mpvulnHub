@@ -18166,5 +18166,16 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493944&idx=1&sn=d4f9185a8d6eb5b488b4739bb08269a7": "20W+漏洞赏金实录：499元课程如何批量制造“万元户”？",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490267&idx=1&sn=7247965b4484cdca47465b4318679712": "FlowiseAI 任意文件写入漏洞（CVE-2025–26319）",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532107&idx=1&sn=d059a185e09805819b16e53b131e8c2b": "你的浏览器现在是你的敌人：向你的本地服务器提供 PHP RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532107&idx=2&sn=014d26758b90a9750a5828259725226e": "揭秘 Tor 启用的 Docker 漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532107&idx=2&sn=014d26758b90a9750a5828259725226e": "揭秘 Tor 启用的 Docker 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488857&idx=1&sn=3f35d255da58b400fcfb36504529a426": "jeecg-boot getDictItemsByTable接口存在SQL注入漏洞CVE-2024-48307 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636859&idx=4&sn=4f19c1af3a8293dd82b331b582cc8ea2": "虚假加密机器人骗局：智能合约与AI视频如何在YouTube窃取数百万美元",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247489974&idx=1&sn=5a830f86337122746357bf3625b4d53b": "XSS攻击利用之凭据盗取",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247489974&idx=2&sn=0d8e613367f58d29b6eaa8a8c81a4dd1": "XSS攻击利用之数据提交",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484086&idx=1&sn=a20516e04e0e843669a9485a1c0c564f": "【已复现】金和OA TaskCreate.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519622&idx=1&sn=8009ac709253ecede7da46b0011ff30b": "EDUSRC、CNVD挖洞技巧分享",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499993&idx=1&sn=abfe2bd518462f9b36998ed8ef5b52bc": "应急响应 | 一次银狐病毒的排查思路总结记录",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522524&idx=1&sn=83c9836d881713c6dc45c3cbce2056d9": "黑客工具 | jeecg综合漏洞利用工具",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NjgzOTAyMg==&mid=2247524450&idx=2&sn=d253b258ba667d7214ebaa546233897f": "开课啦 | 红队班的老学员，快来免费重读12期的课程",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490560&idx=1&sn=e908e0ac9513290f60205ff8cf445a18": "【高危漏洞预警】React Native Bottom Tabs任意代码执行漏洞CVE-2025-54594",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjQwOTc4MQ==&mid=2247490573&idx=1&sn=9851404251aba032a29b2abfdeebeae6": "网络安全行业的新工具Kali GPT,专为渗透测试场景打造的智能助手!"
 }
