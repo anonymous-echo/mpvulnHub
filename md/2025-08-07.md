@@ -2,24 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 30
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 30篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **安全运营**: 6篇
-- **攻击技术**: 3篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 4篇
+- **安全运营**: 2篇
+- **供应链**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 4篇
-- **系统漏洞**: 2篇
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **应用漏洞**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,36 +65,17 @@
 
 ### Doonsec
 
-- [【安全圈】谷歌遭UNC6040黑客组织钓鱼攻击：Salesforce数据泄露敲响企业安全警钟](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=1&sn=efa9a12605c9b49d42914a90e85da8ee) (发布日期: 2025-08-07)
-- [【安全圈】荷兰KLM航空证实第三方系统遭入侵 部分客户信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=4&sn=2e85a7f962931ee3191a0d3fc2e6acb1) (发布日期: 2025-08-07)
-- [FATF 年度大考：全球加密监管成绩单揭晓](https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247489529&idx=1&sn=e9de31329e670d7719081d46e4ab2772) (发布日期: 2025-08-07)
-- [Warning：请立刻淘汰这7种过时的安全防护手段！](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=1&sn=dc8542a31ec7224fc09ccc93d8608ad9) (发布日期: 2025-08-07)
-- [应对云原生与 AI 场景下的运行时安全挑战，“蚂蚁容器安全（AntCWPP）蓝皮书”发布](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=2&sn=d12c4f09caaf488a970f328ec2f01095) (发布日期: 2025-08-07)
-- [在Z｜SHEIN高薪诚招安全运营（反入侵、云安全、攻击模拟/紫队等方向）](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=3&sn=382695246a1df7c223694e766c3726a9) (发布日期: 2025-08-07)
-- [免费赠送丨2025红蓝对抗网络安全意识培训课程27节](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=4&sn=a96a6f7f232621e60f3219bd08166fc9) (发布日期: 2025-08-07)
-- [关于2025年全国行业职业技能竞赛—第四届全国数据安全职业技能竞赛暨第四届全国安防行业职业技能竞赛预通知](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493046&idx=1&sn=43ac0579a447dd59e665ed60ed829200) (发布日期: 2025-08-07)
-- [内网被打穿了，怎么办？](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498009&idx=1&sn=177c71b9bbd1cbfb9d4230c53706313f) (发布日期: 2025-08-07)
-- [QAXSRC漏洞评级标准更新啦！](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=1&sn=1bf25c74f4b62ed9d64c9bdcb18ed613) (发布日期: 2025-08-07)
-- [《奇安信SRC产品漏洞评级标准V3.0》](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=2&sn=904d6c4d3c1367a91e3a041918c71ae3) (发布日期: 2025-08-07)
-- [《奇安信SRC隐私合规漏洞评级标准V1.0》](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=3&sn=57a14a5c05cf1a95fc01be9931c20460) (发布日期: 2025-08-07)
-- [微软推出\"愤怒计划\"：利用AI工具实现恶意软件自主分类](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325990&idx=1&sn=d7e0fdb717986d48ec4714016e005cfd) (发布日期: 2025-08-07)
-- [API安全防线：申通与阿里云共筑数据护城河](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664092794&idx=1&sn=7876d6b5c3458ca9732ba8afeba4bf59) (发布日期: 2025-08-07)
-- [数据安全连载 | 三法一条例之【数据安全法】](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506813&idx=1&sn=e9c6bc2133c7f80e1da3e98b0b0ae3f9) (发布日期: 2025-08-07)
-- [谷歌8月修复两个已遭在野利用的高通漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523757&idx=1&sn=a85850b7ce1813e05057454b25b4afe7) (发布日期: 2025-08-07)
-- [0 基础也能挖出高危漏洞！IRify 代码审计全过程](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528501&idx=1&sn=8dac080ef1c527ffe1ac8d661d9083ef) (发布日期: 2025-08-07)
-- [深入理解加密算法篇：哈希算法MD5](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598226&idx=2&sn=6a24a0f30fc52a6be9de1d969061d22e) (发布日期: 2025-08-07)
-- [HTTP/1.1 漏洞致数百万网站遭恶意接管](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598226&idx=3&sn=0a93274a7e19b1a53543777a006dc8e9) (发布日期: 2025-08-07)
-- [行业 | 多智能体分链协作 驱动安全运营效能跃迁](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247224&idx=4&sn=33d7eb7e9459694174136be2d3f5f038) (发布日期: 2025-08-07)
-- [ISC.AI 2025 赵志国：深化AI与安全融合，筑牢智能安全底座](https://mp.weixin.qq.com/s?__biz=MjM5ODI2MTg3Mw==&mid=2649820243&idx=2&sn=e55cbfebc2ce5005da49046f11a399a2) (发布日期: 2025-08-07)
-- [如何通过一个逻辑漏洞爆赚9000$](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484196&idx=1&sn=d800e841a70e33783ac666d9eccb3c9b) (发布日期: 2025-08-07)
-- [终端安全新时代！AI自主逆向软件并找出未知恶意软件](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514799&idx=1&sn=0e90e0bfa5bf4c996784cedc138e6ee0) (发布日期: 2025-08-07)
-- [工信部：关于防范BERT勒索软件的风险提示](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514799&idx=2&sn=7ff33e2efb8cc05c1b70ba7406a4e182) (发布日期: 2025-08-07)
-- [预警丨防范BERT勒索软件风险](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174087&idx=2&sn=9dfd01911d08f22656e3a4c11c8a9b09) (发布日期: 2025-08-07)
-- [php 文件上传不含一句 php 代码 RCE 最新新姿势](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522562&idx=1&sn=301b56570ae58c419b43f69596db0659) (发布日期: 2025-08-07)
-- [日常漏洞管理的小工具，收藏~](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574379&idx=1&sn=55f961a22fbd95ba5bf0022f9e0bd346) (发布日期: 2025-08-07)
-- [培训做了没效果？企业需要一个真正能落地的安全平台](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493964&idx=1&sn=1d796da4a723a0b6a8ff386fff52cd66) (发布日期: 2025-08-07)
-- [勒索软件组织升级\"四重勒索\"策略以进行最大化施压](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260430&idx=1&sn=412f75429aa77d3e55c15fda00582199) (发布日期: 2025-08-07)
-- [【2025】黑客教你月入过万小技巧：SRC漏洞挖掘 怎么挖漏洞赚钱](https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486986&idx=1&sn=69f3ee6dc2e0cb651365c581fde89087) (发布日期: 2025-08-07)
+- [Firefox插件商店成供应链攻击新跳板](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491816&idx=1&sn=7898bd0c3c94ae9919628fb5a00fbeec) (发布日期: 2025-08-07)
+- [【高危漏洞预警】Adobe Experience Manager配置错误可致RCE](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490567&idx=1&sn=981b8d08db5aa6421e37596950a746a0) (发布日期: 2025-08-07)
+- [停更3个月，我没有追逐AGI，而是为安全运营挖了一口“深井”](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484885&idx=1&sn=1d1520b9a0ece6734411655d01a5d8a7) (发布日期: 2025-08-07)
+- [某统一身份认证系统（检测）](https://mp.weixin.qq.com/s?__biz=MzIyMDkxMTk4MQ==&mid=2247484104&idx=1&sn=b2866c6253ec4692b104b623264bad7c) (发布日期: 2025-08-07)
+- [攻防演练中如何快速抢分](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519627&idx=1&sn=1fa83db2195ed265f745811f0496b7c6) (发布日期: 2025-08-07)
+- [SRC挖掘之“捡”洞系列](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522721&idx=1&sn=d493d29a47ffa42e0cbddcc17fde92b4) (发布日期: 2025-08-07)
+- [GoPhantom 是一个为红队演练和安全研究设计的下一代荷载加载器（Payload Loader）生成器，具有免杀能力](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247485956&idx=1&sn=1c3b7364b449c760909b0d0aed13152f) (发布日期: 2025-08-07)
+- [ESN-合集【黑客红队】启用2025/0807](https://mp.weixin.qq.com/s?__biz=MzU5Njg5NzUzMw==&mid=2247491724&idx=1&sn=9b2a0ecdfd412a38990853fb9fb85bb4) (发布日期: 2025-08-07)
+- [紧急警报：高危漏洞CVE-2025-3770威胁EDK2安全根基，供应链防线面临瓦解！](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488447&idx=1&sn=b47c8b8732b9c4c18bde45434f2d9107) (发布日期: 2025-08-07)
+- [【工具推荐】z0scan-用于 Web 漏洞检测和红队的安全工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484349&idx=1&sn=da54297121e874547f81f1fda3aed3bb) (发布日期: 2025-08-07)
+- [PHP、Java、JavaScrip、python反序列化漏洞大盘点--JavaScript漏洞分析](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484683&idx=1&sn=92da994afa331806cf5e03d68b2ac9b4) (发布日期: 2025-08-07)
 
 
 ## 🎯 威胁详情分析
@@ -106,46 +84,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | QAXSRC漏洞评级标准更新啦！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=1&sn=1bf25c74f4b62ed9d64c9bdcb18ed613](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=1&sn=1bf25c74f4b62ed9d64c9bdcb18ed613) |
-| 2 | 《奇安信SRC产品漏洞评级标准V3.0》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=2&sn=904d6c4d3c1367a91e3a041918c71ae3](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=2&sn=904d6c4d3c1367a91e3a041918c71ae3) |
-| 3 | 《奇安信SRC隐私合规漏洞评级标准V1.0》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=3&sn=57a14a5c05cf1a95fc01be9931c20460](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=3&sn=57a14a5c05cf1a95fc01be9931c20460) |
-| 4 | 谷歌8月修复两个已遭在野利用的高通漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523757&idx=1&sn=a85850b7ce1813e05057454b25b4afe7](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523757&idx=1&sn=a85850b7ce1813e05057454b25b4afe7) |
-| 5 | 0 基础也能挖出高危漏洞！IRify 代码审计全过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528501&idx=1&sn=8dac080ef1c527ffe1ac8d661d9083ef](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528501&idx=1&sn=8dac080ef1c527ffe1ac8d661d9083ef) |
-| 6 | HTTP/1.1 漏洞致数百万网站遭恶意接管 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598226&idx=3&sn=0a93274a7e19b1a53543777a006dc8e9](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598226&idx=3&sn=0a93274a7e19b1a53543777a006dc8e9) |
-| 7 | 如何通过一个逻辑漏洞爆赚9000$ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484196&idx=1&sn=d800e841a70e33783ac666d9eccb3c9b](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484196&idx=1&sn=d800e841a70e33783ac666d9eccb3c9b) |
-| 8 | 日常漏洞管理的小工具，收藏~ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574379&idx=1&sn=55f961a22fbd95ba5bf0022f9e0bd346](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574379&idx=1&sn=55f961a22fbd95ba5bf0022f9e0bd346) |
-| 9 | 【2025】黑客教你月入过万小技巧：SRC漏洞挖掘 怎么挖漏洞赚钱 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486986&idx=1&sn=69f3ee6dc2e0cb651365c581fde89087](https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486986&idx=1&sn=69f3ee6dc2e0cb651365c581fde89087) |
+| 1 | 【高危漏洞预警】Adobe Experience Manager配置错误可致RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490567&idx=1&sn=981b8d08db5aa6421e37596950a746a0](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490567&idx=1&sn=981b8d08db5aa6421e37596950a746a0) |
+| 2 | 紧急警报：高危漏洞CVE-2025-3770威胁EDK2安全根基，供应链防线面临瓦解！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488447&idx=1&sn=b47c8b8732b9c4c18bde45434f2d9107](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488447&idx=1&sn=b47c8b8732b9c4c18bde45434f2d9107) |
+| 3 | 【工具推荐】z0scan-用于 Web 漏洞检测和红队的安全工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484349&idx=1&sn=da54297121e874547f81f1fda3aed3bb](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484349&idx=1&sn=da54297121e874547f81f1fda3aed3bb) |
+| 4 | PHP、Java、JavaScrip、python反序列化漏洞大盘点--JavaScript漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484683&idx=1&sn=92da994afa331806cf5e03d68b2ac9b4](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484683&idx=1&sn=92da994afa331806cf5e03d68b2ac9b4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】谷歌遭UNC6040黑客组织钓鱼攻击：Salesforce数据泄露敲响企业安全警钟 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=1&sn=efa9a12605c9b49d42914a90e85da8ee](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=1&sn=efa9a12605c9b49d42914a90e85da8ee) |
-| 2 | 内网被打穿了，怎么办？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498009&idx=1&sn=177c71b9bbd1cbfb9d4230c53706313f](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498009&idx=1&sn=177c71b9bbd1cbfb9d4230c53706313f) |
-| 3 | php 文件上传不含一句 php 代码 RCE 最新新姿势 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522562&idx=1&sn=301b56570ae58c419b43f69596db0659](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522562&idx=1&sn=301b56570ae58c419b43f69596db0659) |
+| 1 | 【高危漏洞预警】Adobe Experience Manager配置错误可致RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490567&idx=1&sn=981b8d08db5aa6421e37596950a746a0](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490567&idx=1&sn=981b8d08db5aa6421e37596950a746a0) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 在Z｜SHEIN高薪诚招安全运营（反入侵、云安全、攻击模拟/紫队等方向） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=3&sn=382695246a1df7c223694e766c3726a9](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642388&idx=3&sn=382695246a1df7c223694e766c3726a9) |
-| 2 | QAXSRC漏洞评级标准更新啦！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=1&sn=1bf25c74f4b62ed9d64c9bdcb18ed613](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=1&sn=1bf25c74f4b62ed9d64c9bdcb18ed613) |
-| 3 | 《奇安信SRC产品漏洞评级标准V3.0》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=2&sn=904d6c4d3c1367a91e3a041918c71ae3](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=2&sn=904d6c4d3c1367a91e3a041918c71ae3) |
-| 4 | 《奇安信SRC隐私合规漏洞评级标准V1.0》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=3&sn=57a14a5c05cf1a95fc01be9931c20460](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522603&idx=3&sn=57a14a5c05cf1a95fc01be9931c20460) |
-| 5 | 行业 | 多智能体分链协作 驱动安全运营效能跃迁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247224&idx=4&sn=33d7eb7e9459694174136be2d3f5f038](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247224&idx=4&sn=33d7eb7e9459694174136be2d3f5f038) |
-| 6 | 【2025】黑客教你月入过万小技巧：SRC漏洞挖掘 怎么挖漏洞赚钱 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486986&idx=1&sn=69f3ee6dc2e0cb651365c581fde89087](https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486986&idx=1&sn=69f3ee6dc2e0cb651365c581fde89087) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】谷歌遭UNC6040黑客组织钓鱼攻击：Salesforce数据泄露敲响企业安全警钟 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=1&sn=efa9a12605c9b49d42914a90e85da8ee](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=1&sn=efa9a12605c9b49d42914a90e85da8ee) |
+| 1 | 停更3个月，我没有追逐AGI，而是为安全运营挖了一口“深井” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484885&idx=1&sn=1d1520b9a0ece6734411655d01a5d8a7](https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484885&idx=1&sn=1d1520b9a0ece6734411655d01a5d8a7) |
+| 2 | SRC挖掘之“捡”洞系列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522721&idx=1&sn=d493d29a47ffa42e0cbddcc17fde92b4](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522721&idx=1&sn=d493d29a47ffa42e0cbddcc17fde92b4) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】荷兰KLM航空证实第三方系统遭入侵 部分客户信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=4&sn=2e85a7f962931ee3191a0d3fc2e6acb1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071032&idx=4&sn=2e85a7f962931ee3191a0d3fc2e6acb1) |
+| 1 | Firefox插件商店成供应链攻击新跳板 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491816&idx=1&sn=7898bd0c3c94ae9919628fb5a00fbeec](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491816&idx=1&sn=7898bd0c3c94ae9919628fb5a00fbeec) |
+| 2 | 紧急警报：高危漏洞CVE-2025-3770威胁EDK2安全根基，供应链防线面临瓦解！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488447&idx=1&sn=b47c8b8732b9c4c18bde45434f2d9107](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488447&idx=1&sn=b47c8b8732b9c4c18bde45434f2d9107) |
 
 
 ## 📁 归档路径
@@ -161,8 +123,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -171,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-07 12:46:09*
+*生成时间: 2025-08-07 16:28:24*
 *报告工具: 微信文章安全归档系统*
