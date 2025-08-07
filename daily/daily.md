@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
-- **漏洞利用**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 5篇
+- **安全运营**: 3篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 2篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,11 +64,26 @@
 
 ### Doonsec
 
-- [ShinyHunters 通过 Salesforce 发动“金融级”数据盗取行动](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32) (发布日期: 2025-08-07)
-- [《红队最怕遇到的蓝队技能TOP10，你掌握了几项？》](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484039&idx=1&sn=685dcf27cbd80af2a371f740c96e049e) (发布日期: 2025-08-07)
-- [AI智能体平台白盒审计思路（RCE篇）](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641) (发布日期: 2025-08-07)
-- [星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f) (发布日期: 2025-08-07)
-- [全自动AI驱动的SQL注入扫描系统 - 完整功能说明](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221) (发布日期: 2025-08-07)
+- [RemoteWebScreen红队实战屏幕监控利器](https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485483&idx=1&sn=21be5f2e3bef3e1199713b24b3fcf492) (发布日期: 2025-08-07)
+- [CVE-2025-53004 DataEase 的 JDBC 连接参数绕过导致的 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489804&idx=1&sn=ec76e11301fdece73d1e2e033d8edbcd) (发布日期: 2025-08-07)
+- [数据决定上限：你的AI安全工具强大程度和所喂数据强相关](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539816&idx=1&sn=c8f614668ec13383778d4188f123dbd5) (发布日期: 2025-08-07)
+- [Web开发-JS应用&NodeJS&原型链污染&文件系统&Express模块&数据库通讯&审计](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485531&idx=1&sn=59a030dc22c94637c4c6f73ec65052dc) (发布日期: 2025-08-07)
+- [如果你被勒索病毒勒索了……](https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485604&idx=1&sn=08fc8f81794852dcf94e56b43b6cf132) (发布日期: 2025-08-07)
+- [【云原生安全】容器环境DIND场景下的漏洞发现与利用](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487058&idx=1&sn=12c6fd28b07bd69c6de86d1f54e5735a) (发布日期: 2025-08-07)
+- [2025年IT人必看的安全应急响应指南！](https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495782&idx=1&sn=b7df102f3f5f4d32f645f50dad0c23f5) (发布日期: 2025-08-07)
+- [2025年浙江省信息通信业职业技能竞赛-数据安全管理员竞赛-初赛WriteUp](https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488127&idx=1&sn=99cdf3bcc5f363d864c8323f09d1a667) (发布日期: 2025-08-07)
+- [Ivanti Endpoint Manager Mobile 远程命令执行漏洞(CVE-2025-4427)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492365&idx=1&sn=6370b75b7ce2429bcd9c647a37637151) (发布日期: 2025-08-07)
+- [【渗透测试】开局一个登录框，破解验签防篡改](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247520994&idx=1&sn=5eb0872745957e3820f9660056b2a7cb) (发布日期: 2025-08-07)
+- [移动安全运营新实践助推国标落地，梆梆安全深度参编《网络安全技术 网络安全运维实施指南》](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136090&idx=1&sn=0522bbfbdcee0699b346354578328814) (发布日期: 2025-08-07)
+- [奖金限时翻倍 | 补天专属厂商“合合SRC”发布【AI专项】活动！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509072&idx=1&sn=48c70160370f8344daeced91cdf23b04) (发布日期: 2025-08-07)
+- [思科：身份服务引擎中存在严重的RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584176&idx=1&sn=91f74988bdab62d8e39a9abbe26f1df3) (发布日期: 2025-08-07)
+- [Harvest Now, Decrypt Later：量子计算机对传统加密的威胁与挑战](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247484942&idx=1&sn=824033f39e2ed81902e30d12c2e2978f) (发布日期: 2025-08-07)
+- [【严重】1Panel代理证书验证绕过导致任意命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485819&idx=1&sn=abea07ad762f0f45950b4fbd04935f5f) (发布日期: 2025-08-07)
+- [【宝典】Redis未授权渗透测试漏洞汇总](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494489&idx=1&sn=9f6c74867d3e7b8d793d5d2d2b20d159) (发布日期: 2025-08-07)
+- [能源企业数字化转型能力评价 网络安全防护](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288728&idx=2&sn=bd89d72f61213d3dc38f1a16c7447d8a) (发布日期: 2025-08-07)
+- [医院网络安全运营能力成熟度评估指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288728&idx=3&sn=e23d09ba254f3e780f0ecfa57783798e) (发布日期: 2025-08-07)
+- [无需重启、内存 Linux 持久性 PoC，利用命名空间加入、用户命名空间提升和自我删除](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532121&idx=2&sn=a764d74a85490630cf6ef23744425c08) (发布日期: 2025-08-07)
+- [FeatherScan v4.0 - 一款Linux内网全自动信息收集工具](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5NzA3NQ==&mid=2247486834&idx=1&sn=68aa468d12da1750efe6cbb4452e75e9) (发布日期: 2025-08-07)
 
 
 ## 🎯 威胁详情分析
@@ -76,15 +92,39 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f) |
+| 1 | CVE-2025-53004 DataEase 的 JDBC 连接参数绕过导致的 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489804&idx=1&sn=ec76e11301fdece73d1e2e033d8edbcd](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489804&idx=1&sn=ec76e11301fdece73d1e2e033d8edbcd) |
+| 2 | Web开发-JS应用&NodeJS&原型链污染&文件系统&Express模块&数据库通讯&审计 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485531&idx=1&sn=59a030dc22c94637c4c6f73ec65052dc](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485531&idx=1&sn=59a030dc22c94637c4c6f73ec65052dc) |
+| 3 | 【云原生安全】容器环境DIND场景下的漏洞发现与利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487058&idx=1&sn=12c6fd28b07bd69c6de86d1f54e5735a](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487058&idx=1&sn=12c6fd28b07bd69c6de86d1f54e5735a) |
+| 4 | Ivanti Endpoint Manager Mobile 远程命令执行漏洞(CVE-2025-4427) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492365&idx=1&sn=6370b75b7ce2429bcd9c647a37637151](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492365&idx=1&sn=6370b75b7ce2429bcd9c647a37637151) |
+| 5 | 思科：身份服务引擎中存在严重的RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584176&idx=1&sn=91f74988bdab62d8e39a9abbe26f1df3](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584176&idx=1&sn=91f74988bdab62d8e39a9abbe26f1df3) |
+| 6 | 【严重】1Panel代理证书验证绕过导致任意命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485819&idx=1&sn=abea07ad762f0f45950b4fbd04935f5f](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485819&idx=1&sn=abea07ad762f0f45950b4fbd04935f5f) |
+| 7 | 【宝典】Redis未授权渗透测试漏洞汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494489&idx=1&sn=9f6c74867d3e7b8d793d5d2d2b20d159](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494489&idx=1&sn=9f6c74867d3e7b8d793d5d2d2b20d159) |
+| 8 | 无需重启、内存 Linux 持久性 PoC，利用命名空间加入、用户命名空间提升和自我删除 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532121&idx=2&sn=a764d74a85490630cf6ef23744425c08](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532121&idx=2&sn=a764d74a85490630cf6ef23744425c08) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ShinyHunters 通过 Salesforce 发动“金融级”数据盗取行动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32) |
-| 2 | AI智能体平台白盒审计思路（RCE篇） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641) |
-| 3 | 全自动AI驱动的SQL注入扫描系统 - 完整功能说明 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221) |
+| 1 | CVE-2025-53004 DataEase 的 JDBC 连接参数绕过导致的 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489804&idx=1&sn=ec76e11301fdece73d1e2e033d8edbcd](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489804&idx=1&sn=ec76e11301fdece73d1e2e033d8edbcd) |
+| 2 | Ivanti Endpoint Manager Mobile 远程命令执行漏洞(CVE-2025-4427) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492365&idx=1&sn=6370b75b7ce2429bcd9c647a37637151](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492365&idx=1&sn=6370b75b7ce2429bcd9c647a37637151) |
+| 3 | 思科：身份服务引擎中存在严重的RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584176&idx=1&sn=91f74988bdab62d8e39a9abbe26f1df3](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584176&idx=1&sn=91f74988bdab62d8e39a9abbe26f1df3) |
+| 4 | 【严重】1Panel代理证书验证绕过导致任意命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485819&idx=1&sn=abea07ad762f0f45950b4fbd04935f5f](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485819&idx=1&sn=abea07ad762f0f45950b4fbd04935f5f) |
+| 5 | FeatherScan v4.0 - 一款Linux内网全自动信息收集工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzI5NzA3NQ==&mid=2247486834&idx=1&sn=68aa468d12da1750efe6cbb4452e75e9](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5NzA3NQ==&mid=2247486834&idx=1&sn=68aa468d12da1750efe6cbb4452e75e9) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 如果你被勒索病毒勒索了…… | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485604&idx=1&sn=08fc8f81794852dcf94e56b43b6cf132](https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485604&idx=1&sn=08fc8f81794852dcf94e56b43b6cf132) |
+| 2 | 2025年IT人必看的安全应急响应指南！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495782&idx=1&sn=b7df102f3f5f4d32f645f50dad0c23f5](https://mp.weixin.qq.com/s?__biz=MzkxMTIyMjg0NQ==&mid=2247495782&idx=1&sn=b7df102f3f5f4d32f645f50dad0c23f5) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 移动安全运营新实践助推国标落地，梆梆安全深度参编《网络安全技术 网络安全运维实施指南》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136090&idx=1&sn=0522bbfbdcee0699b346354578328814](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136090&idx=1&sn=0522bbfbdcee0699b346354578328814) |
+| 2 | 奖金限时翻倍 | 补天专属厂商“合合SRC”发布【AI专项】活动！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509072&idx=1&sn=48c70160370f8344daeced91cdf23b04](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509072&idx=1&sn=48c70160370f8344daeced91cdf23b04) |
+| 3 | 医院网络安全运营能力成熟度评估指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288728&idx=3&sn=e23d09ba254f3e780f0ecfa57783798e](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288728&idx=3&sn=e23d09ba254f3e780f0ecfa57783798e) |
 
 
 ## 📁 归档路径
@@ -100,7 +140,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -110,5 +150,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-07 04:45:16*
+*生成时间: 2025-08-07 08:29:55*
 *报告工具: 微信文章安全归档系统*
