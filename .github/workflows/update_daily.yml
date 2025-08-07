@@ -1,0 +1,47 @@
+# 此工作流会在update_today.yml执行成功后触发，用于更新daily.md文件
+
+name: Update_daily
+
+on:
+  workflow_run:
+    workflows: ["Update_today_wxmp"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  update_daily:
+    runs-on: ubuntu-latest
+    # 仅当触发的工作流成功时才运行
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        # 必须获取完整历史，因为我们需要检查最新的文件
+        fetch-depth: 0
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.10"
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run Getdaily.py
+      run: |
+        python Getdaily.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "791751568@qq.com"
+        git config --global user.name "大清第一巴图鲁"
+        git add daily/daily.md
+        git diff-index --quiet HEAD || git commit -m "Update daily.md with latest security report"
+        git push
