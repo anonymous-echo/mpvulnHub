@@ -2,22 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 20
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 10篇
-  - ChainReactors: 10篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 5篇
-- **威胁情报**: 1篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 2篇
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,29 +63,11 @@
 
 ### Doonsec
 
-- [漏洞预警 HiBOS酒店宽带运营系统buy_time.php SQL注入](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492322&idx=1&sn=e0a0dfa2892ec37920b460de8edbd6c3) (发布日期: 2025-08-07)
-- [2025年浙江省信息通信业职业技能竞赛-数据安全管理员竞赛-初赛WriteUp](https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247491375&idx=1&sn=feeb24e9fc854dc9627bfe34ed0fcbd3) (发布日期: 2025-08-07)
-- [谷歌发生重大数据泄漏，大厂也怵勒索软件](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503850&idx=2&sn=bee42a6e3f1be14d0a6f3880a3d8ee01) (发布日期: 2025-08-07)
-- [绕过所有杀软 !新型SSH后门与Linux融为一体](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493650&idx=1&sn=85372a5c0eaf332fdc3a436fc1ec3a16) (发布日期: 2025-08-07)
-- [小白想挖漏洞赚钱，一个靶场就够了](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498266&idx=1&sn=144ad0b08998d3b568f5fc358aef89c3) (发布日期: 2025-08-07)
-- [第九届工业信息安全技能大赛人工智能安全锦标赛报名通知](https://mp.weixin.qq.com/s?__biz=MjM5NDU3MjExNw==&mid=2247515705&idx=1&sn=3c70e179caf610eec0612e95993bc912) (发布日期: 2025-08-07)
-- [谷歌搜索爆出惊天漏洞，可彻底封杀任何人的文章|沃尔沃安全神话破灭，软件漏洞导致刹车失灵](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=1&sn=5ae3cb95be980ead99adbb82f981996a) (发布日期: 2025-08-07)
-- [《2025年中漏洞态势研究报告》：漏洞呈现数量增、威胁大、攻击快三大特征](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=3&sn=06f483f97ced924af14feab6c229a4d0) (发布日期: 2025-08-07)
-- [守护数字边界的利器：10款热门高级端点安全工具盘点](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=4&sn=caad8aa0a2f0793c20dd25badae02621) (发布日期: 2025-08-07)
-- [伪装成Chrome安装程序银狐最新攻击样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493118&idx=1&sn=963a4f9123b3a27d75e30a8465f7c054) (发布日期: 2025-08-07)
-
-### ChainReactors
-
-- [ ] [招聘红队-中国电信总部25-40k（高级安全研究员），需要哪些技能](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545435&idx=1&sn=7af30c8c4b3adcb2c58c65c67c4df490) (发布日期: 2025-08-07)
-- [ ] [【已复现】Cursor 远程代码执行漏洞(CVE-2025-54135)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d) (发布日期: 2025-08-07)
-- [ ] [LegalPwn：利用法律免责条款，操纵ChatGPT等主流AI工具执行恶意代码](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=1&sn=6c0fcdc701b8736fbbc0e8beea390380) (发布日期: 2025-08-07)
-- [ ] [Adobe 紧急修复 AEM Forms 中的两个0day漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=2&sn=107431463b8a59e595bc603cdfbdaa98) (发布日期: 2025-08-07)
-- [ ] [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-54135）](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec) (发布日期: 2025-08-07)
-- [ ] [ViewState 演化简史，从结构性缺陷到触发RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7) (发布日期: 2025-08-07)
-- [ ] [英伟达深夜再发文：芯片没有后门、终止开关和监控软件；戴尔上百款笔记本曝严重安全漏洞，可被植入持久性后门 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138243&idx=2&sn=5e4dfe20da737ef445093a70b963ac3b) (发布日期: 2025-08-07)
-- [ ] [OpenAI完成80亿美元融资，估值3000亿；宇树发布新一代机器狗；英伟达深夜发声：不存在后门、终止开关、监控软件｜极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653084233&idx=1&sn=e8405ba4b71c5b9db2fcbf1788e2958e) (发布日期: 2025-08-07)
-- [ ] [【安全圈】Trend Micro Apex One 关键 RCE 漏洞遭在野利用，企业需紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0) (发布日期: 2025-08-07)
-- [ ] [XCon2025议题||基于YASA的智能代码审计能力](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584165&idx=2&sn=0e9bcd60800a278f4e9286f6eccbbb1c) (发布日期: 2025-08-07)
+- [ShinyHunters 通过 Salesforce 发动“金融级”数据盗取行动](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32) (发布日期: 2025-08-07)
+- [《红队最怕遇到的蓝队技能TOP10，你掌握了几项？》](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484039&idx=1&sn=685dcf27cbd80af2a371f740c96e049e) (发布日期: 2025-08-07)
+- [AI智能体平台白盒审计思路（RCE篇）](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641) (发布日期: 2025-08-07)
+- [星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f) (发布日期: 2025-08-07)
+- [全自动AI驱动的SQL注入扫描系统 - 完整功能说明](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221) (发布日期: 2025-08-07)
 
 
 ## 🎯 威胁详情分析
@@ -97,32 +76,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警 HiBOS酒店宽带运营系统buy_time.php SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492322&idx=1&sn=e0a0dfa2892ec37920b460de8edbd6c3](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492322&idx=1&sn=e0a0dfa2892ec37920b460de8edbd6c3) |
-| 2 | 小白想挖漏洞赚钱，一个靶场就够了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498266&idx=1&sn=144ad0b08998d3b568f5fc358aef89c3](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498266&idx=1&sn=144ad0b08998d3b568f5fc358aef89c3) |
-| 3 | 谷歌搜索爆出惊天漏洞，可彻底封杀任何人的文章|沃尔沃安全神话破灭，软件漏洞导致刹车失灵 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=1&sn=5ae3cb95be980ead99adbb82f981996a](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=1&sn=5ae3cb95be980ead99adbb82f981996a) |
-| 4 | 《2025年中漏洞态势研究报告》：漏洞呈现数量增、威胁大、攻击快三大特征 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=3&sn=06f483f97ced924af14feab6c229a4d0](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611709&idx=3&sn=06f483f97ced924af14feab6c229a4d0) |
-| 5 |  ] [【已复现】Cursor 远程代码执行漏洞(CVE-2025-54135)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d) |
-| 6 |  ] [Adobe 紧急修复 AEM Forms 中的两个0day漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=2&sn=107431463b8a59e595bc603cdfbdaa98](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523749&idx=2&sn=107431463b8a59e595bc603cdfbdaa98) |
-| 7 |  ] [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-54135） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec) |
-| 8 |  ] [ViewState 演化简史，从结构性缺陷到触发RCE漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7) |
-| 9 |  ] [英伟达深夜再发文：芯片没有后门、终止开关和监控软件；戴尔上百款笔记本曝严重安全漏洞，可被植入持久性后门 | 牛览 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138243&idx=2&sn=5e4dfe20da737ef445093a70b963ac3b](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138243&idx=2&sn=5e4dfe20da737ef445093a70b963ac3b) |
-| 10 |  ] [【安全圈】Trend Micro Apex One 关键 RCE 漏洞遭在野利用，企业需紧急修复 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0) |
+| 1 | 星巴克漏洞挖掘-从bypass WAF到上亿客户信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616824&idx=1&sn=9d14d2556b48bea5d6e5ed651bced54f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警 HiBOS酒店宽带运营系统buy_time.php SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492322&idx=1&sn=e0a0dfa2892ec37920b460de8edbd6c3](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492322&idx=1&sn=e0a0dfa2892ec37920b460de8edbd6c3) |
-| 2 |  ] [【已复现】Cursor 远程代码执行漏洞(CVE-2025-54135)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503752&idx=1&sn=2ad8f29e84fc6b44b85556378931275d) |
-| 3 |  ] [【漏洞通告】Cursor远程代码执行漏洞（CVE-2025-54135） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec](https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247489323&idx=1&sn=c4d72b4b6396266a676f50a2545641ec) |
-| 4 |  ] [ViewState 演化简史，从结构性缺陷到触发RCE漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500242&idx=1&sn=8379312f9f5cdaf6afc3e2372b32e5c7) |
-| 5 |  ] [【安全圈】Trend Micro Apex One 关键 RCE 漏洞遭在野利用，企业需紧急修复 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071012&idx=3&sn=462702952ea80abd857a3e185b8c9fe0) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 伪装成Chrome安装程序银狐最新攻击样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493118&idx=1&sn=963a4f9123b3a27d75e30a8465f7c054](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493118&idx=1&sn=963a4f9123b3a27d75e30a8465f7c054) |
+| 1 | ShinyHunters 通过 Salesforce 发动“金融级”数据盗取行动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484342&idx=1&sn=b65b47dacb8cb496ba4ed467f5ccbb32) |
+| 2 | AI智能体平台白盒审计思路（RCE篇） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145561&idx=1&sn=41804ee4dae04fd27b46a80b35445641) |
+| 3 | 全自动AI驱动的SQL注入扫描系统 - 完整功能说明 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514917&idx=1&sn=c49b19c64d830825a7b67ebe34f71221) |
 
 
 ## 📁 归档路径
@@ -138,7 +100,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -148,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-07 03:37:09*
+*生成时间: 2025-08-07 04:45:16*
 *报告工具: 微信文章安全归档系统*
