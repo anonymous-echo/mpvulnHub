@@ -2,18 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 
@@ -64,14 +61,13 @@
 
 ### Doonsec
 
-- [NextCyber学习记录—CVE-2021-43008复现](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa) (发布日期: 2025-08-09)
-- [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7) (发布日期: 2025-08-09)
-- [一个人的甲方安全团队？你需要建立“安全看板”平台](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326046&idx=2&sn=d3df6f9d2078df67b7e4719d4bc72ddf) (发布日期: 2025-08-09)
-- [通过挖掘隐藏参数到命令执行](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510) (发布日期: 2025-08-09)
-- [SRC漏洞挖掘培训第四期来袭—小白也能学！](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) (发布日期: 2025-08-09)
-- [酒泉农商银行因“未健全数据安全管理制度 确定网络安全负责人”等被罚23.95万](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=1&sn=f65755b0989dcc1f1d5f0b7f26424044) (发布日期: 2025-08-09)
-- [荷兰皇家航空公司(KLM)遭第三方系统数据泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) (发布日期: 2025-08-09)
-- [【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) (发布日期: 2025-08-09)
+- [NetExec！新一代内网/域渗透神器](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c) (发布日期: 2025-08-09)
+- [凌日网络与信息安全团队邀您旁听2025年中会](https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484526&idx=1&sn=5e21914a6b3521ae422635a593ca29ff) (发布日期: 2025-08-09)
+- [黑客工具 | OA漏洞利用工具 I-Wanna-Get-All](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab) (发布日期: 2025-08-09)
+- [从API文档泄露在到未授权用户越权访问](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483905&idx=1&sn=66891f3afb9008bb39b376fb072cf44e) (发布日期: 2025-08-09)
+- [400页PPT Al智能体安全治理+AI讲师教练孵化营](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288913&idx=1&sn=4576aef1a2231659c360a1911e88ee16) (发布日期: 2025-08-09)
+- [终端安全新时代！AI自主逆向软件并找出未知恶意软件](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636900&idx=2&sn=ac8beddc868412f154a6cc27eaf50142) (发布日期: 2025-08-09)
+- [Flipper Zero暗网固件可破解主流汽车品牌滚动码安全系统](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636900&idx=4&sn=9112458c0f9fdb483a6fc31395c760bf) (发布日期: 2025-08-09)
 
 
 ## 🎯 威胁详情分析
@@ -80,35 +76,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NextCyber学习记录—CVE-2021-43008复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa) |
-| 2 | SRC漏洞挖掘培训第四期来袭—小白也能学！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) |
-| 3 | 【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) |
+| 1 | 黑客工具 | OA漏洞利用工具 I-Wanna-Get-All | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | .NET 内网攻防实战电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7) |
-| 2 | 通过挖掘隐藏参数到命令执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SRC漏洞挖掘培训第四期来袭—小白也能学！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) |
-| 2 | 【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 荷兰皇家航空公司(KLM)遭第三方系统数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 荷兰皇家航空公司(KLM)遭第三方系统数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) |
+| 1 | NetExec！新一代内网/域渗透神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c) |
 
 
 ## 📁 归档路径
@@ -124,7 +98,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -134,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-09 12:39:06*
+*生成时间: 2025-08-09 16:24:00*
 *报告工具: 微信文章安全归档系统*
