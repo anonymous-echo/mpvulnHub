@@ -1,19 +1,20 @@
-# 2025-08-08 安全威胁态势报告
+# 2025-08-09 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +63,20 @@
 
 ### Doonsec
 
-- [NextCyber学习记录—CVE-2021-21311复现](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487680&idx=1&sn=4f22aa55943349ed5855123153cb92ec) (发布日期: 2025-08-08)
-- [攻击链中的共享武器：揭秘 EDR Killer 与多个勒索软件团伙的隐秘联系](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489855&idx=1&sn=ac92f433a3b577c4332be8d48721a080) (发布日期: 2025-08-08)
-- [【高危漏洞预警】Jenkins Git Parameter远程命令执行漏洞CVE-2025-53652](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600) (发布日期: 2025-08-08)
-- [我给 netcat 装上了 P2P“引擎”！希望它可以成为内网穿透神器](https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486670&idx=1&sn=d9c12b8b4a23e2579a73cb681071937a) (发布日期: 2025-08-08)
-- [100页 中国人工智能安全全景报告（2025）](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288870&idx=1&sn=435d1da330cdf8e5bfd4dc07d6a43338) (发布日期: 2025-08-08)
-- [分享一篇红队面经](https://mp.weixin.qq.com/s?__biz=Mzg4Njc1MTIzMw==&mid=2247485889&idx=1&sn=fdd657193b66157407a3290c7c4d5b00) (发布日期: 2025-08-08)
-- [风险可量化、治理可协同：APP 分级指南重塑移动安全新秩序](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650748753&idx=1&sn=d056404a80aaf1c1218a5d86b253e465) (发布日期: 2025-08-08)
+- [【渗透测试】手把手带你玩转SSRF漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494621&idx=1&sn=a7b114611aa3ad7a0527f47e53521481) (发布日期: 2025-08-09)
+- [2025年浙江省信息通信业职业技能竞赛-数据安全管理员竞赛-初赛WriteUp](https://mp.weixin.qq.com/s?__biz=Mzg3NTg4NTkyMQ==&mid=2247485779&idx=1&sn=f49da460054de2a6f28502381231aadd) (发布日期: 2025-08-09)
+- [一次实战中命令执行回显绕过](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487607&idx=1&sn=13f4fae09cb2790931fc318a912a322c) (发布日期: 2025-08-09)
+- [警用和军用无线电加密技术可能被轻易破解](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247512907&idx=1&sn=a04aefb65a0bbc48b4040ba1dca854c8) (发布日期: 2025-08-09)
+- [针对中国！美国议员要求调查开源AI模型数据安全风险](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247519525&idx=1&sn=5533ccdf319c480442a341259f14572e) (发布日期: 2025-08-09)
+- [漏洞预警 | 万户ezOFFICE SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=1&sn=c89b80c3f089b2e0bae5b72757cab215) (发布日期: 2025-08-09)
+- [漏洞预警 | 金和OA XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=2&sn=d7e745190dfd0f5a13364c2154311b0a) (发布日期: 2025-08-09)
+- [漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5) (发布日期: 2025-08-09)
+- [空白页面引起的高危src漏洞-再次绕过](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5) (发布日期: 2025-08-09)
+- [NET语言代码审计获取CNVD](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485464&idx=1&sn=06b190194c6142b604333fb2a4211091) (发布日期: 2025-08-09)
+- [JavaSecLab 综合Java漏洞平台搭建](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484556&idx=1&sn=6a5389ac78e85496238da08e1409ed8a) (发布日期: 2025-08-09)
+- [网络安全架构设计要点](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516065&idx=1&sn=17c06299327134187e7db92599d8c054) (发布日期: 2025-08-09)
+- [红队必备！TscanPlus 正版Key免费送激活码，2300+POC全解锁！](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493684&idx=1&sn=cfb0e1ee45715b84e11ab2be5255725f) (发布日期: 2025-08-09)
+- [哪些网络安全漏洞难以修复，该怎么办](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485766&idx=1&sn=144b66f29635a0cbecdd374e930744e4) (发布日期: 2025-08-09)
 
 
 ## 🎯 威胁详情分析
@@ -77,20 +85,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NextCyber学习记录—CVE-2021-21311复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487680&idx=1&sn=4f22aa55943349ed5855123153cb92ec](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487680&idx=1&sn=4f22aa55943349ed5855123153cb92ec) |
-| 2 | 【高危漏洞预警】Jenkins Git Parameter远程命令执行漏洞CVE-2025-53652 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600) |
+| 1 | 【渗透测试】手把手带你玩转SSRF漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494621&idx=1&sn=a7b114611aa3ad7a0527f47e53521481](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494621&idx=1&sn=a7b114611aa3ad7a0527f47e53521481) |
+| 2 | 漏洞预警 | 万户ezOFFICE SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=1&sn=c89b80c3f089b2e0bae5b72757cab215](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=1&sn=c89b80c3f089b2e0bae5b72757cab215) |
+| 3 | 漏洞预警 | 金和OA XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=2&sn=d7e745190dfd0f5a13364c2154311b0a](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=2&sn=d7e745190dfd0f5a13364c2154311b0a) |
+| 4 | 漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5) |
+| 5 | 空白页面引起的高危src漏洞-再次绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5) |
+| 6 | NET语言代码审计获取CNVD | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485464&idx=1&sn=06b190194c6142b604333fb2a4211091](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485464&idx=1&sn=06b190194c6142b604333fb2a4211091) |
+| 7 | JavaSecLab 综合Java漏洞平台搭建 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484556&idx=1&sn=6a5389ac78e85496238da08e1409ed8a](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484556&idx=1&sn=6a5389ac78e85496238da08e1409ed8a) |
+| 8 | 红队必备！TscanPlus 正版Key免费送激活码，2300+POC全解锁！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493684&idx=1&sn=cfb0e1ee45715b84e11ab2be5255725f](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493684&idx=1&sn=cfb0e1ee45715b84e11ab2be5255725f) |
+| 9 | 哪些网络安全漏洞难以修复，该怎么办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485766&idx=1&sn=144b66f29635a0cbecdd374e930744e4](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485766&idx=1&sn=144b66f29635a0cbecdd374e930744e4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Jenkins Git Parameter远程命令执行漏洞CVE-2025-53652 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490576&idx=1&sn=0696f261866fbdf470f69dc7075f8600) |
-| 2 | 我给 netcat 装上了 P2P“引擎”！希望它可以成为内网穿透神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486670&idx=1&sn=d9c12b8b4a23e2579a73cb681071937a](https://mp.weixin.qq.com/s?__biz=Mzg4MDYwNDc5Nw==&mid=2247486670&idx=1&sn=d9c12b8b4a23e2579a73cb681071937a) |
+| 1 | 一次实战中命令执行回显绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487607&idx=1&sn=13f4fae09cb2790931fc318a912a322c](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487607&idx=1&sn=13f4fae09cb2790931fc318a912a322c) |
+| 2 | 漏洞预警 | 万户ezOFFICE SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=1&sn=c89b80c3f089b2e0bae5b72757cab215](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=1&sn=c89b80c3f089b2e0bae5b72757cab215) |
+| 3 | 漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494014&idx=3&sn=f4709ee1ef3886bae1a03a25797196f5) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 空白页面引起的高危src漏洞-再次绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494082&idx=1&sn=6d1cc92a049d28b5395d417e0a5203a5) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W32/2025-08-08/`
+文章已归档到: `doc/2025/2025-08/2025-W32/2025-08-09/`
 
 ## 🔗 数据源说明
 
@@ -101,8 +123,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -111,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-08 16:24:55*
+*生成时间: 2025-08-09 01:40:43*
 *报告工具: 微信文章安全归档系统*
