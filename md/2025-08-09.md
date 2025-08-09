@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
 - **攻击技术**: 2篇
+- **安全运营**: 2篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +64,14 @@
 
 ### Doonsec
 
-- [绑定微信功能挖掘的 0-Click 任意账号接管漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490460&idx=2&sn=fe9bf2a1ec6f847d706e6eeda4dccb34) (发布日期: 2025-08-09)
-- [在变革浪潮中强化科技安全治理能力](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651621580&idx=1&sn=76537ef524e6f6d1f0dcc25c5d40bcfa) (发布日期: 2025-08-09)
-- [SQLiScannerPro2.0 Ai驱动自动化注入引擎 发布](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514925&idx=1&sn=7771f512657ba2d1682ee532cd33231e) (发布日期: 2025-08-09)
-- [【通知】关于举办全国总工会第二届职工数字化应用技术技能大赛福建省选拔赛（数据安全管理员赛项）的通知](https://mp.weixin.qq.com/s?__biz=MjM5NzYwNDU0Mg==&mid=2649253748&idx=3&sn=b2bdc213b5ecf69ab4741614647bdf83) (发布日期: 2025-08-09)
-- [【严重】用友-U8渠道管理高级版存在文件上传漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485830&idx=1&sn=365d1ebf993a16d281c1fb7f571d7a69) (发布日期: 2025-08-09)
-- [RCE漏洞（二）](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd) (发布日期: 2025-08-09)
-- [关于开展媒体数据安全主题分享活动的通知](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512087&idx=1&sn=5156039225a79f27c5b6cf63127fdd2c) (发布日期: 2025-08-09)
+- [NextCyber学习记录—CVE-2021-43008复现](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa) (发布日期: 2025-08-09)
+- [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7) (发布日期: 2025-08-09)
+- [一个人的甲方安全团队？你需要建立“安全看板”平台](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326046&idx=2&sn=d3df6f9d2078df67b7e4719d4bc72ddf) (发布日期: 2025-08-09)
+- [通过挖掘隐藏参数到命令执行](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510) (发布日期: 2025-08-09)
+- [SRC漏洞挖掘培训第四期来袭—小白也能学！](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) (发布日期: 2025-08-09)
+- [酒泉农商银行因“未健全数据安全管理制度 确定网络安全负责人”等被罚23.95万](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=1&sn=f65755b0989dcc1f1d5f0b7f26424044) (发布日期: 2025-08-09)
+- [荷兰皇家航空公司(KLM)遭第三方系统数据泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) (发布日期: 2025-08-09)
+- [【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) (发布日期: 2025-08-09)
 
 
 ## 🎯 威胁详情分析
@@ -78,16 +80,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 绑定微信功能挖掘的 0-Click 任意账号接管漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490460&idx=2&sn=fe9bf2a1ec6f847d706e6eeda4dccb34](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490460&idx=2&sn=fe9bf2a1ec6f847d706e6eeda4dccb34) |
-| 2 | 【严重】用友-U8渠道管理高级版存在文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485830&idx=1&sn=365d1ebf993a16d281c1fb7f571d7a69](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485830&idx=1&sn=365d1ebf993a16d281c1fb7f571d7a69) |
-| 3 | RCE漏洞（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd) |
+| 1 | NextCyber学习记录—CVE-2021-43008复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487716&idx=1&sn=43565d7d586e37067ef3ae3d1febe2fa) |
+| 2 | SRC漏洞挖掘培训第四期来袭—小白也能学！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) |
+| 3 | 【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SQLiScannerPro2.0 Ai驱动自动化注入引擎 发布 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514925&idx=1&sn=7771f512657ba2d1682ee532cd33231e](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514925&idx=1&sn=7771f512657ba2d1682ee532cd33231e) |
-| 2 | RCE漏洞（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485302&idx=1&sn=a565bd88cdae1aec349fb3876d0082bd) |
+| 1 | .NET 内网攻防实战电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500262&idx=2&sn=e01fe4e4930272e56ac1868ac2babbc7) |
+| 2 | 通过挖掘隐藏参数到命令执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498017&idx=1&sn=48c354977b8d2743b376fb6bd0e02510) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC漏洞挖掘培训第四期来袭—小白也能学！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485826&idx=1&sn=8aa6f84ced1ad531b409df4b19f55816) |
+| 2 | 【腾讯SRC】漏洞挖掘之并发点赞/点踩漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488332&idx=1&sn=e86f533bbe0e522d01a2db2484ca87b7) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 荷兰皇家航空公司(KLM)遭第三方系统数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 荷兰皇家航空公司(KLM)遭第三方系统数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498448&idx=5&sn=d5f76f074f3a4a97cda483f920620345) |
 
 
 ## 📁 归档路径
@@ -104,7 +125,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +134,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-09 08:25:17*
+*生成时间: 2025-08-09 12:39:06*
 *报告工具: 微信文章安全归档系统*
