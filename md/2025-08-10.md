@@ -9,12 +9,13 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
 - **漏洞利用**: 2篇
-- **安全运营**: 1篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -64,15 +65,15 @@
 
 ### Doonsec
 
-- [人工智能安全治理的国际经验和启示](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651621584&idx=1&sn=2f1567d48a2d5045ffd39eb0d641fdf9) (发布日期: 2025-08-10)
-- [大模型promp注入太有意思了](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c) (发布日期: 2025-08-10)
-- [智能体的致命三要素及六种安全设计模式](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486255&idx=1&sn=486e5a032aa44378dfc27a03a87066b4) (发布日期: 2025-08-10)
-- [红队高度可控可拓展的自动化引擎gogo](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247513165&idx=1&sn=c9baa344611cbff94c7d2f71ff558b77) (发布日期: 2025-08-10)
-- [通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) (发布日期: 2025-08-10)
-- [EDUSRC挖洞实战之组合拳拿下高危10Rank](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5) (发布日期: 2025-08-10)
-- [XSS 钓鱼与文件上传漏洞全解析](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) (发布日期: 2025-08-10)
-- [独家观察：美国如何给芯片安“后门”](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515563&idx=1&sn=18f7b85025523606726c4c9087595489) (发布日期: 2025-08-10)
-- [暗网里的加密货币洗钱](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489582&idx=1&sn=c85bf02c3abd32f54a5e1916a4aafa11) (发布日期: 2025-08-10)
+- [渗透测试中的逻辑漏洞思路博弈（一）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7) (发布日期: 2025-08-10)
+- [一文讲透汽车区域控制架构，以及那些关键技术](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf) (发布日期: 2025-08-10)
+- [【安全圈】沉浸式翻译曝重大数据安全事件：用户敏感快照遭公开索引，商业合同与私钥外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=1&sn=fdfd5cc5dc78faa234261c98b07bf084) (发布日期: 2025-08-10)
+- [【安全圈】联想部分摄像头曝可远程变身BadUSB：可注入恶意指令、持久感染系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48) (发布日期: 2025-08-10)
+- [狡诈之狐，伪装成flash插件的最新银狐攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2) (发布日期: 2025-08-10)
+- [新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f) (发布日期: 2025-08-10)
+- [攻击者利用拼写错误的PyPI软件包窃取Bittensor钱包加密货币](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=3&sn=50ad01b938018f89fc7dbe583ce33c10) (发布日期: 2025-08-10)
+- [知识星球 | 做网信办内容安全监测有哪些支撑单位？基于杀伤链勒索软件如何防御？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642514&idx=1&sn=ab60e8a7f50dbefb5425534698f293e0) (发布日期: 2025-08-10)
+- [悟空代码安全团队——悟空代码安全介绍](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486647&idx=1&sn=9b7dc1f7fa1c8781210582b58430a8d7) (发布日期: 2025-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -81,22 +82,21 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) |
-| 2 | XSS 钓鱼与文件上传漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) |
+| 1 | 渗透测试中的逻辑漏洞思路博弈（一） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7) |
+| 2 | 新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大模型promp注入太有意思了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c) |
-| 2 | 通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) |
-| 3 | XSS 钓鱼与文件上传漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) |
+| 1 | 一文讲透汽车区域控制架构，以及那些关键技术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf) |
+| 2 | 【安全圈】联想部分摄像头曝可远程变身BadUSB：可注入恶意指令、持久感染系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | EDUSRC挖洞实战之组合拳拿下高危10Rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5) |
+| 1 | 狡诈之狐，伪装成flash插件的最新银狐攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2) |
 
 
 ## 📁 归档路径
@@ -112,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-10 08:25:37*
+*生成时间: 2025-08-10 12:39:36*
 *报告工具: 微信文章安全归档系统*
