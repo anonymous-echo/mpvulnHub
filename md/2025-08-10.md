@@ -2,18 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 8篇
+  - ChainReactors: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
+- **安全运营**: 2篇
+- **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +67,20 @@
 
 ### Doonsec
 
-- [Android四大组件常见漏洞](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) (发布日期: 2025-08-10)
-- [威胁情报之威胁](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee) (发布日期: 2025-08-10)
-- [AutoSwagger【API安全检测工具】](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486729&idx=1&sn=b947a96333f2c520d1572f88c6c4ecab) (发布日期: 2025-08-10)
-- [Endgame Gear 鼠标配置工具中藏了感染恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493310&idx=1&sn=dd552f91792734f38a3f4d7ca2c8bd85) (发布日期: 2025-08-10)
-- [苹果手机视频加密，苹果手机视频加密隐藏](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484772&idx=1&sn=96ff635f5f3b72c6a2e21531bfe1eb99) (发布日期: 2025-08-10)
-- [文件加密解密神器](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484772&idx=2&sn=d2348ae015cb34bfe7bbcb4a9b5e0669) (发布日期: 2025-08-10)
+- [荣耀SRC | 邀请你，挖秋天的第一个漏洞！](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) (发布日期: 2025-08-10)
+- [2025年AI安全运营中心（AI SOC）市场格局](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac) (发布日期: 2025-08-10)
+- [中国汽车工程研究院：国内外汽车数据安全管理体系的对比分析及建议](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=2&sn=b4aa7025183ed69226cfffecf9648269) (发布日期: 2025-08-10)
+- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555) (发布日期: 2025-08-10)
+- [谷歌发生重大数据泄漏，大厂也怵勒索软件|美联邦法院电子档案系统遭大规模黑客攻击 或泄露机密证人身份](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611767&idx=1&sn=a649f4695595dff39fc5d15278a515fd) (发布日期: 2025-08-10)
+- [攻防演练中如何快速抢分](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492779&idx=1&sn=83a21b1b84d041699e61c27df280b1e9) (发布日期: 2025-08-10)
+- [【渗透测试】前端加密请求包后的SQL注入](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040) (发布日期: 2025-08-10)
+- [.NET内网实战：解密自定义的 3DES 数据库字符串](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc) (发布日期: 2025-08-10)
+
+### ChainReactors
+
+- [ ] [【安全圈】公司史上最严重数据泄露事件，诺基亚 9.4 万名员工敏感信息遭流出](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e) (发布日期: 2025-08-10)
+- [ ] [【安全圈】Win10/Win11 用户请升级 7.13 版：WinRAR 修复高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8) (发布日期: 2025-08-10)
+- [ ] [【安全圈】ChatGPT 连接器漏洞曝光：无需用户交互，可毒化文档窃取敏感数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed) (发布日期: 2025-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -76,19 +89,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Android四大组件常见漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) |
+| 1 | 荣耀SRC | 邀请你，挖秋天的第一个漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) |
+| 2 |  ] [【安全圈】Win10/Win11 用户请升级 7.13 版：WinRAR 修复高危漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8) |
+| 3 |  ] [【安全圈】ChatGPT 连接器漏洞曝光：无需用户交互，可毒化文档窃取敏感数据 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报之威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee) |
+| 1 | 【渗透测试】前端加密请求包后的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040) |
+| 2 | .NET内网实战：解密自定义的 3DES 数据库字符串 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 荣耀SRC | 邀请你，挖秋天的第一个漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) |
+| 2 | 2025年AI安全运营中心（AI SOC）市场格局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】公司史上最严重数据泄露事件，诺基亚 9.4 万名员工敏感信息遭流出 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Android四大组件常见漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) |
+| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555) |
 
 
 ## 📁 归档路径
@@ -104,8 +133,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +143,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-10 01:54:04*
+*生成时间: 2025-08-10 04:40:19*
 *报告工具: 微信文章安全归档系统*
