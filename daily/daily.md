@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **攻击技术**: 4篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 - **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,38 +62,24 @@
 
 ### Doonsec
 
-- [渗透测试中的逻辑漏洞思路博弈（一）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7) (发布日期: 2025-08-10)
-- [一文讲透汽车区域控制架构，以及那些关键技术](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf) (发布日期: 2025-08-10)
-- [【安全圈】沉浸式翻译曝重大数据安全事件：用户敏感快照遭公开索引，商业合同与私钥外泄](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=1&sn=fdfd5cc5dc78faa234261c98b07bf084) (发布日期: 2025-08-10)
-- [【安全圈】联想部分摄像头曝可远程变身BadUSB：可注入恶意指令、持久感染系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48) (发布日期: 2025-08-10)
-- [狡诈之狐，伪装成flash插件的最新银狐攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2) (发布日期: 2025-08-10)
-- [新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f) (发布日期: 2025-08-10)
-- [攻击者利用拼写错误的PyPI软件包窃取Bittensor钱包加密货币](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=3&sn=50ad01b938018f89fc7dbe583ce33c10) (发布日期: 2025-08-10)
-- [知识星球 | 做网信办内容安全监测有哪些支撑单位？基于杀伤链勒索软件如何防御？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642514&idx=1&sn=ab60e8a7f50dbefb5425534698f293e0) (发布日期: 2025-08-10)
-- [悟空代码安全团队——悟空代码安全介绍](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486647&idx=1&sn=9b7dc1f7fa1c8781210582b58430a8d7) (发布日期: 2025-08-10)
+- [Weekly08:再谈内网穿透技术](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7) (发布日期: 2025-08-10)
+- [XSS之CSP讲解](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294) (发布日期: 2025-08-10)
+- [100页 新加坡人工智能安全全景报告+全球人工智能安全研究优先事项](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288956&idx=1&sn=92b67e5393d14223fedc068409ca208c) (发布日期: 2025-08-10)
+- [新一代内网/域渗透神器NetExec](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425) (发布日期: 2025-08-10)
+- [国内网页搜索用「必应」比百度强](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e) (发布日期: 2025-08-10)
+- [EPM投毒+域权限提升：新型攻击链威胁企业安全](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488456&idx=1&sn=087b7343d78a55f8e20fa96a071edee8) (发布日期: 2025-08-10)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 渗透测试中的逻辑漏洞思路博弈（一） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488334&idx=1&sn=f373826f0f28610cfa62f8492dd400d7) |
-| 2 | 新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326054&idx=1&sn=c90b6d2031164252b89ef772ea683c6f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一文讲透汽车区域控制架构，以及那些关键技术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558105&idx=2&sn=3952cf1a63d4d890cdcc07e80369d4bf) |
-| 2 | 【安全圈】联想部分摄像头曝可远程变身BadUSB：可注入恶意指令、持久感染系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071080&idx=4&sn=356dc67df87adf99594b3cf6eda08b48) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 狡诈之狐，伪装成flash插件的最新银狐攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600906&idx=3&sn=bbf546756313831b924b1b9b1f04ded2) |
+| 1 | Weekly08:再谈内网穿透技术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7) |
+| 2 | XSS之CSP讲解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294) |
+| 3 | 新一代内网/域渗透神器NetExec | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425) |
+| 4 | 国内网页搜索用「必应」比百度强 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e) |
 
 
 ## 📁 归档路径
@@ -112,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-10 12:39:36*
+*生成时间: 2025-08-10 16:24:04*
 *报告工具: 微信文章安全归档系统*
