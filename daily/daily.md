@@ -1,16 +1,17 @@
-# 2025-08-09 安全威胁态势报告
+# 2025-08-10 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 
@@ -61,13 +62,12 @@
 
 ### Doonsec
 
-- [NetExec！新一代内网/域渗透神器](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c) (发布日期: 2025-08-09)
-- [凌日网络与信息安全团队邀您旁听2025年中会](https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484526&idx=1&sn=5e21914a6b3521ae422635a593ca29ff) (发布日期: 2025-08-09)
-- [黑客工具 | OA漏洞利用工具 I-Wanna-Get-All](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab) (发布日期: 2025-08-09)
-- [从API文档泄露在到未授权用户越权访问](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483905&idx=1&sn=66891f3afb9008bb39b376fb072cf44e) (发布日期: 2025-08-09)
-- [400页PPT Al智能体安全治理+AI讲师教练孵化营](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288913&idx=1&sn=4576aef1a2231659c360a1911e88ee16) (发布日期: 2025-08-09)
-- [终端安全新时代！AI自主逆向软件并找出未知恶意软件](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636900&idx=2&sn=ac8beddc868412f154a6cc27eaf50142) (发布日期: 2025-08-09)
-- [Flipper Zero暗网固件可破解主流汽车品牌滚动码安全系统](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636900&idx=4&sn=9112458c0f9fdb483a6fc31395c760bf) (发布日期: 2025-08-09)
+- [Android四大组件常见漏洞](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) (发布日期: 2025-08-10)
+- [威胁情报之威胁](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee) (发布日期: 2025-08-10)
+- [AutoSwagger【API安全检测工具】](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486729&idx=1&sn=b947a96333f2c520d1572f88c6c4ecab) (发布日期: 2025-08-10)
+- [Endgame Gear 鼠标配置工具中藏了感染恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493310&idx=1&sn=dd552f91792734f38a3f4d7ca2c8bd85) (发布日期: 2025-08-10)
+- [苹果手机视频加密，苹果手机视频加密隐藏](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484772&idx=1&sn=96ff635f5f3b72c6a2e21531bfe1eb99) (发布日期: 2025-08-10)
+- [文件加密解密神器](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484772&idx=2&sn=d2348ae015cb34bfe7bbcb4a9b5e0669) (发布日期: 2025-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -76,18 +76,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客工具 | OA漏洞利用工具 I-Wanna-Get-All | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522694&idx=1&sn=dfd30fb430144c52e32e111e916389ab) |
+| 1 | Android四大组件常见漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) |
 
-### 攻击技术
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NetExec！新一代内网/域渗透神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519643&idx=1&sn=f936fc6785b295a25d903339ac76886c) |
+| 1 | 威胁情报之威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501243&idx=1&sn=11085f6b3ed5558da44b9065681aafee) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Android四大组件常见漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522715&idx=1&sn=ba7e78f560cf7ddac8c3159a556dd01e) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W32/2025-08-09/`
+文章已归档到: `doc/2025/2025-08/2025-W32/2025-08-10/`
 
 ## 🔗 数据源说明
 
@@ -108,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-09 16:24:00*
+*生成时间: 2025-08-10 01:54:04*
 *报告工具: 微信文章安全归档系统*
