@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 8篇
-  - ChainReactors: 3篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
-- **安全运营**: 2篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
@@ -67,20 +64,15 @@
 
 ### Doonsec
 
-- [荣耀SRC | 邀请你，挖秋天的第一个漏洞！](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) (发布日期: 2025-08-10)
-- [2025年AI安全运营中心（AI SOC）市场格局](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac) (发布日期: 2025-08-10)
-- [中国汽车工程研究院：国内外汽车数据安全管理体系的对比分析及建议](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=2&sn=b4aa7025183ed69226cfffecf9648269) (发布日期: 2025-08-10)
-- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555) (发布日期: 2025-08-10)
-- [谷歌发生重大数据泄漏，大厂也怵勒索软件|美联邦法院电子档案系统遭大规模黑客攻击 或泄露机密证人身份](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611767&idx=1&sn=a649f4695595dff39fc5d15278a515fd) (发布日期: 2025-08-10)
-- [攻防演练中如何快速抢分](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492779&idx=1&sn=83a21b1b84d041699e61c27df280b1e9) (发布日期: 2025-08-10)
-- [【渗透测试】前端加密请求包后的SQL注入](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040) (发布日期: 2025-08-10)
-- [.NET内网实战：解密自定义的 3DES 数据库字符串](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc) (发布日期: 2025-08-10)
-
-### ChainReactors
-
-- [ ] [【安全圈】公司史上最严重数据泄露事件，诺基亚 9.4 万名员工敏感信息遭流出](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e) (发布日期: 2025-08-10)
-- [ ] [【安全圈】Win10/Win11 用户请升级 7.13 版：WinRAR 修复高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8) (发布日期: 2025-08-10)
-- [ ] [【安全圈】ChatGPT 连接器漏洞曝光：无需用户交互，可毒化文档窃取敏感数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed) (发布日期: 2025-08-10)
+- [人工智能安全治理的国际经验和启示](https://mp.weixin.qq.com/s?__biz=MzI1OTExNDY1NQ==&mid=2651621584&idx=1&sn=2f1567d48a2d5045ffd39eb0d641fdf9) (发布日期: 2025-08-10)
+- [大模型promp注入太有意思了](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c) (发布日期: 2025-08-10)
+- [智能体的致命三要素及六种安全设计模式](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486255&idx=1&sn=486e5a032aa44378dfc27a03a87066b4) (发布日期: 2025-08-10)
+- [红队高度可控可拓展的自动化引擎gogo](https://mp.weixin.qq.com/s?__biz=MzkxMzIwNTY1OA==&mid=2247513165&idx=1&sn=c9baa344611cbff94c7d2f71ff558b77) (发布日期: 2025-08-10)
+- [通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) (发布日期: 2025-08-10)
+- [EDUSRC挖洞实战之组合拳拿下高危10Rank](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5) (发布日期: 2025-08-10)
+- [XSS 钓鱼与文件上传漏洞全解析](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) (发布日期: 2025-08-10)
+- [独家观察：美国如何给芯片安“后门”](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515563&idx=1&sn=18f7b85025523606726c4c9087595489) (发布日期: 2025-08-10)
+- [暗网里的加密货币洗钱](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489582&idx=1&sn=c85bf02c3abd32f54a5e1916a4aafa11) (发布日期: 2025-08-10)
 
 
 ## 🎯 威胁详情分析
@@ -89,35 +81,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 荣耀SRC | 邀请你，挖秋天的第一个漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) |
-| 2 |  ] [【安全圈】Win10/Win11 用户请升级 7.13 版：WinRAR 修复高危漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=2&sn=35e99b81766690d322e81f5f8c5c67c8) |
-| 3 |  ] [【安全圈】ChatGPT 连接器漏洞曝光：无需用户交互，可毒化文档窃取敏感数据 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=3&sn=1bc950d1ab2170512b2889b5d00f61ed) |
+| 1 | 通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) |
+| 2 | XSS 钓鱼与文件上传漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【渗透测试】前端加密请求包后的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521018&idx=1&sn=8dd5e63306945539722cae54896ec040) |
-| 2 | .NET内网实战：解密自定义的 3DES 数据库字符串 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500269&idx=1&sn=a35358af8e1876c90f76321a674d45bc) |
+| 1 | 大模型promp注入太有意思了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491821&idx=1&sn=b38c6edf747905494dc4645467b18c9c) |
+| 2 | 通过 Git 参数在 Jenkins 中注入命令（CVE-2025-53652） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532178&idx=1&sn=4ebc9a913fe0621b9db6b5acc0bfa616) |
+| 3 | XSS 钓鱼与文件上传漏洞全解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517434&idx=1&sn=3546a39024419c67103a55623104b861) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 荣耀SRC | 邀请你，挖秋天的第一个漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6](https://mp.weixin.qq.com/s?__biz=MzkzNTcwOTgxMQ==&mid=2247486139&idx=1&sn=54eb63ae860d0ce30d4f5ad152e756f6) |
-| 2 | 2025年AI安全运营中心（AI SOC）市场格局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484768&idx=1&sn=a0ac77c0a9ada8ca086914e380f53eac) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【安全圈】公司史上最严重数据泄露事件，诺基亚 9.4 万名员工敏感信息遭流出 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071062&idx=1&sn=bab59e1aa5b2df9043f1043b8537142e) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626586&idx=3&sn=e9a4ae6bebfd2e8b6fc9cfb03f6a4555) |
+| 1 | EDUSRC挖洞实战之组合拳拿下高危10Rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551228&idx=1&sn=f6ff463294eb0c3998c6a8249d9da4d5) |
 
 
 ## 📁 归档路径
@@ -133,7 +112,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -143,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-10 04:40:19*
+*生成时间: 2025-08-10 08:25:37*
 *报告工具: 微信文章安全归档系统*
