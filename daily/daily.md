@@ -1,4 +1,4 @@
-# 2025-08-10 安全威胁态势报告
+# 2025-08-11 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -9,11 +9,13 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 4篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,29 +64,45 @@
 
 ### Doonsec
 
-- [Weekly08:再谈内网穿透技术](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7) (发布日期: 2025-08-10)
-- [XSS之CSP讲解](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294) (发布日期: 2025-08-10)
-- [100页 新加坡人工智能安全全景报告+全球人工智能安全研究优先事项](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655288956&idx=1&sn=92b67e5393d14223fedc068409ca208c) (发布日期: 2025-08-10)
-- [新一代内网/域渗透神器NetExec](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425) (发布日期: 2025-08-10)
-- [国内网页搜索用「必应」比百度强](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e) (发布日期: 2025-08-10)
-- [EPM投毒+域权限提升：新型攻击链威胁企业安全](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488456&idx=1&sn=087b7343d78a55f8e20fa96a071edee8) (发布日期: 2025-08-10)
+- [【渗透测试】前端加密请求包和响应包后的SQL注入](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8) (发布日期: 2025-08-11)
+- [SRC挖掘之“捡”洞系列](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6) (发布日期: 2025-08-11)
+- [中小企业如何做好网络攻防演练，并附特别建议（省钱省力方案）](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516073&idx=1&sn=dabfd41bf497ed873e356602a0d90f99) (发布日期: 2025-08-11)
+- [黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241) (发布日期: 2025-08-11)
+- [JWT安全漏洞攻防指南JSON Web Token (JWT) 渗透技巧总结|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8) (发布日期: 2025-08-11)
+- [威胁情报的效用](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1) (发布日期: 2025-08-11)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241) |
+| 2 | JWT安全漏洞攻防指南JSON Web Token (JWT) 渗透技巧总结|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Weekly08:再谈内网穿透技术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492273&idx=1&sn=ec329cccdcea3672e692b7e2ad1541c7) |
-| 2 | XSS之CSP讲解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490016&idx=1&sn=407ccb0147271f4090df1c4e61135294) |
-| 3 | 新一代内网/域渗透神器NetExec | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486027&idx=1&sn=db3753178755ad1d2cee0dfce8942425) |
-| 4 | 国内网页搜索用「必应」比百度强 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488483&idx=1&sn=2950a7f23f08337f35a1d4f8689c103e) |
+| 1 | 【渗透测试】前端加密请求包和响应包后的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 威胁情报的效用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC挖掘之“捡”洞系列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W32/2025-08-10/`
+文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-11/`
 
 ## 🔗 数据源说明
 
@@ -95,7 +113,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -105,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-10 16:24:04*
+*生成时间: 2025-08-11 01:50:35*
 *报告工具: 微信文章安全归档系统*
