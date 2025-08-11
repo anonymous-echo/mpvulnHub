@@ -2,20 +2,24 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 21篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 4篇
+- **威胁情报**: 4篇
+- **安全运营**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 3篇
+- **网络攻击**: 3篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,12 +68,31 @@
 
 ### Doonsec
 
-- [【渗透测试】前端加密请求包和响应包后的SQL注入](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8) (发布日期: 2025-08-11)
-- [SRC挖掘之“捡”洞系列](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6) (发布日期: 2025-08-11)
-- [中小企业如何做好网络攻防演练，并附特别建议（省钱省力方案）](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516073&idx=1&sn=dabfd41bf497ed873e356602a0d90f99) (发布日期: 2025-08-11)
-- [黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241) (发布日期: 2025-08-11)
-- [JWT安全漏洞攻防指南JSON Web Token (JWT) 渗透技巧总结|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8) (发布日期: 2025-08-11)
-- [威胁情报的效用](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1) (发布日期: 2025-08-11)
+- [web渗透实战 | js.map文件泄露导致的通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551252&idx=1&sn=8ef84f80562c7edf9c80036b9c6f120a) (发布日期: 2025-08-11)
+- [渗透测试实战-从匿名账户到RCE](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616840&idx=1&sn=17fe33d6e87a0e8273eb11bd55faf5c5) (发布日期: 2025-08-11)
+- [CTEM、ASM与漏洞管理，三者有何区别？](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501336&idx=1&sn=bcf60a1cf36eeba39de544cbe1c8fc83) (发布日期: 2025-08-11)
+- [一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494928&idx=1&sn=4ee3348946dcbe165dda3d40a9be1a1d) (发布日期: 2025-08-11)
+- [vivo签署《人工智能安全承诺》并参与《中国人工智能安全承诺框架》，共筑AI可信未来](https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492180&idx=1&sn=04b8e5dbe38b793d8700c84454217107) (发布日期: 2025-08-11)
+- [两大顶级APT组织较量，影子经纪人高级持续攻击方程式组织全过程](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486533&idx=1&sn=61f2800e5ea949f43fb17c75912d8611) (发布日期: 2025-08-11)
+- [CVE-2025-38001：Linux HFSC Eltree 释放后使用漏洞 - Debian 12 PoC](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532183&idx=1&sn=d36ddcaf2a6994613782a4c9f030e027) (发布日期: 2025-08-11)
+- [图形化安服/渗透测试报告自动生成工具 -- SSReportTools（8月8日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517122&idx=1&sn=cba4940f18f12c96ad9a045ece53ea94) (发布日期: 2025-08-11)
+- [【腾讯SRC】漏洞挖掘之某小程序越权漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f) (发布日期: 2025-08-11)
+- [锐捷EWEB路由器 timeout.php 任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492394&idx=1&sn=cf8666cc1432551e10a82804f1eaebfa) (发布日期: 2025-08-11)
+- [工信部发布安全提醒：防范BERT勒索软件风险](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252356&idx=1&sn=b47dac73124ba2977051f95bf2b94166) (发布日期: 2025-08-11)
+- [银狐病毒最新防范攻略](https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650601582&idx=1&sn=2eb8db65ba923636586f42c10962ee4a) (发布日期: 2025-08-11)
+- [关于举办2025年第一届全国大学生人工智能安全竞赛决赛的通知](https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650972839&idx=1&sn=43c693e64d116c122a3440644345e78c) (发布日期: 2025-08-11)
+- [Google 赏金猎手的胜利：如何发现并利用一个价值$10,000的反序列化RCE漏洞？](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a) (发布日期: 2025-08-11)
+- [银狐新型注入型攻击样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493165&idx=1&sn=787562d0fd87d5fd8f1267a4fb57fcc1) (发布日期: 2025-08-11)
+- [锐捷EWEB路由器 control.php 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96) (发布日期: 2025-08-11)
+- [活动｜BKSRC数据保护专项活动2期来啦～～～](https://mp.weixin.qq.com/s?__biz=MzA5MjA0OTAwOQ==&mid=2247485523&idx=1&sn=0daeec3ed0cc359d7afaafdf60add37a) (发布日期: 2025-08-11)
+- [谷歌发生重大数据泄漏，大厂也怵勒索软件 | 新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248318&idx=1&sn=53f6743c4dac2805405b837a2cf11dd3) (发布日期: 2025-08-11)
+- [【PHP代审】信呼OA分析+0day挖掘思路与实操](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492781&idx=1&sn=731191a08bc4bb87f92acf49cfa3da0c) (发布日期: 2025-08-11)
+- [电子科技大学、广东为辰信息：基于威胁情报的汽车攻击检测技术](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=1&sn=69d881503b371f0b9ea142cf956ea7d6) (发布日期: 2025-08-11)
+- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=2&sn=4c3100351f6cca9e387718b51622b4d1) (发布日期: 2025-08-11)
+
+### ChainReactors
+
+- [ ] [SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4) (发布日期: 2025-08-11)
 
 
 ## 🎯 威胁详情分析
@@ -78,26 +101,49 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客利用 SAP NetWeaver 漏洞部署 Linux Auto-Color 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493311&idx=1&sn=fafbc2889be6d1cbf5693a359650b241) |
-| 2 | JWT安全漏洞攻防指南JSON Web Token (JWT) 渗透技巧总结|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493763&idx=1&sn=2031afa21bce15b47e261a1f5d8f4df8) |
+| 1 | web渗透实战 | js.map文件泄露导致的通杀漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551252&idx=1&sn=8ef84f80562c7edf9c80036b9c6f120a](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551252&idx=1&sn=8ef84f80562c7edf9c80036b9c6f120a) |
+| 2 | CTEM、ASM与漏洞管理，三者有何区别？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501336&idx=1&sn=bcf60a1cf36eeba39de544cbe1c8fc83](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501336&idx=1&sn=bcf60a1cf36eeba39de544cbe1c8fc83) |
+| 3 | 一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494928&idx=1&sn=4ee3348946dcbe165dda3d40a9be1a1d](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494928&idx=1&sn=4ee3348946dcbe165dda3d40a9be1a1d) |
+| 4 | CVE-2025-38001：Linux HFSC Eltree 释放后使用漏洞 - Debian 12 PoC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532183&idx=1&sn=d36ddcaf2a6994613782a4c9f030e027](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532183&idx=1&sn=d36ddcaf2a6994613782a4c9f030e027) |
+| 5 | 【腾讯SRC】漏洞挖掘之某小程序越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f) |
+| 6 | 锐捷EWEB路由器 timeout.php 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492394&idx=1&sn=cf8666cc1432551e10a82804f1eaebfa](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492394&idx=1&sn=cf8666cc1432551e10a82804f1eaebfa) |
+| 7 | Google 赏金猎手的胜利：如何发现并利用一个价值$10,000的反序列化RCE漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a) |
+| 8 | 锐捷EWEB路由器 control.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96) |
+| 9 | 谷歌发生重大数据泄漏，大厂也怵勒索软件 | 新型Linux内核漏洞可直接通过Chrome渲染器沙箱发起攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248318&idx=1&sn=53f6743c4dac2805405b837a2cf11dd3](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248318&idx=1&sn=53f6743c4dac2805405b837a2cf11dd3) |
+| 10 | 【PHP代审】信呼OA分析+0day挖掘思路与实操 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492781&idx=1&sn=731191a08bc4bb87f92acf49cfa3da0c](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492781&idx=1&sn=731191a08bc4bb87f92acf49cfa3da0c) |
+| 11 |  ] [SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【渗透测试】前端加密请求包和响应包后的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521044&idx=1&sn=69f8d0e41129696bf5d6c8c8f0d513a8) |
+| 1 | 渗透测试实战-从匿名账户到RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616840&idx=1&sn=17fe33d6e87a0e8273eb11bd55faf5c5](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616840&idx=1&sn=17fe33d6e87a0e8273eb11bd55faf5c5) |
+| 2 | Google 赏金猎手的胜利：如何发现并利用一个价值$10,000的反序列化RCE漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261518&idx=1&sn=fc8fcc5ee3e66c749af96e950d60b36a) |
+| 3 | 银狐新型注入型攻击样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493165&idx=1&sn=787562d0fd87d5fd8f1267a4fb57fcc1](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493165&idx=1&sn=787562d0fd87d5fd8f1267a4fb57fcc1) |
+| 4 | 锐捷EWEB路由器 control.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492385&idx=1&sn=fb480ca934a92251eca9c3ec7e003a96) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报的效用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501257&idx=1&sn=59266fcc92a5e0d405b720a295d2cdd1) |
+| 1 | 两大顶级APT组织较量，影子经纪人高级持续攻击方程式组织全过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486533&idx=1&sn=61f2800e5ea949f43fb17c75912d8611](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486533&idx=1&sn=61f2800e5ea949f43fb17c75912d8611) |
+| 2 | 银狐病毒最新防范攻略 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650601582&idx=1&sn=2eb8db65ba923636586f42c10962ee4a](https://mp.weixin.qq.com/s?__biz=MjM5MTAzNjYyMA==&mid=2650601582&idx=1&sn=2eb8db65ba923636586f42c10962ee4a) |
+| 3 | 银狐新型注入型攻击样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493165&idx=1&sn=787562d0fd87d5fd8f1267a4fb57fcc1](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493165&idx=1&sn=787562d0fd87d5fd8f1267a4fb57fcc1) |
+| 4 | 电子科技大学、广东为辰信息：基于威胁情报的汽车攻击检测技术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=1&sn=69d881503b371f0b9ea142cf956ea7d6](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=1&sn=69d881503b371f0b9ea142cf956ea7d6) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC挖掘之“捡”洞系列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522834&idx=1&sn=ecd3ed25ab5224f2179e3ca77a969fa6) |
+| 1 | 【腾讯SRC】漏洞挖掘之某小程序越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488345&idx=1&sn=4a2a4dd4c2ee08e81f3d64c85829946f) |
+| 2 | 活动｜BKSRC数据保护专项活动2期来啦～～～ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MjA0OTAwOQ==&mid=2247485523&idx=1&sn=0daeec3ed0cc359d7afaafdf60add37a](https://mp.weixin.qq.com/s?__biz=MzA5MjA0OTAwOQ==&mid=2247485523&idx=1&sn=0daeec3ed0cc359d7afaafdf60add37a) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=2&sn=4c3100351f6cca9e387718b51622b4d1](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626613&idx=2&sn=4c3100351f6cca9e387718b51622b4d1) |
+| 2 |  ] [SDL 81/100问：如何快速应急开源组件漏洞，比如fastjson？ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487000&idx=1&sn=46e7accf39c45239402403c64980d3e4) |
 
 
 ## 📁 归档路径
@@ -113,8 +159,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +169,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-11 01:50:35*
+*生成时间: 2025-08-11 04:43:49*
 *报告工具: 微信文章安全归档系统*
