@@ -1,22 +1,20 @@
-# 2025-08-11 安全威胁态势报告
+# 2025-08-12 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
 - **安全运营**: 2篇
-- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,15 +63,21 @@
 
 ### Doonsec
 
-- [SpringAop反序列化链](https://mp.weixin.qq.com/s?__biz=Mzg5MzE4MjAxMw==&mid=2247484522&idx=1&sn=dc6583db5906f6fe12244f968d28e213) (发布日期: 2025-08-11)
-- [大华智能物联管理平台evo-runs/v1.0/push和evo-runs/v1.0/receive接口存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8) (发布日期: 2025-08-11)
-- [大华智能物联管理平台1day分析](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488586&idx=1&sn=8452e8aa92d0e36821374cb3b879981c) (发布日期: 2025-08-11)
-- [银狐近期捕获IOC清单（2025年6、7月）](https://mp.weixin.qq.com/s?__biz=MzIwNDI2NjAxOQ==&mid=2247483766&idx=1&sn=da1ead3fdccae7ce21502f571c5d7656) (发布日期: 2025-08-11)
-- [【Brup插件推荐】漏洞挖掘利器](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501136&idx=1&sn=c45155ff374b39bae01af16a9c19943f) (发布日期: 2025-08-11)
-- [src | 奇怪的任意用户重置密码组合拳漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0) (发布日期: 2025-08-11)
-- [src专项挖掘知识库](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=2&sn=057610ab1e38673a0a559006b6f8dee8) (发布日期: 2025-08-11)
-- [BypassUAC提权漏洞分析](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247485983&idx=1&sn=63acfb00a98f2ec5956b89e6571970b4) (发布日期: 2025-08-11)
-- [【成功复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d) (发布日期: 2025-08-11)
+- [猎洞时刻SRC挖洞培训第三期 | 快速上车手则](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488037&idx=2&sn=60c319dab09fe8e306ba78ec4e386152) (发布日期: 2025-08-12)
+- [代码审计之正则表达式的应用](https://mp.weixin.qq.com/s?__biz=Mzg3ODk1MjI5NQ==&mid=2247484827&idx=1&sn=cfb12e23e3214c12a4ae24b45caabf93) (发布日期: 2025-08-12)
+- [CNVD漏洞周报2025年第30期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500248&idx=1&sn=5fa7317c15a00db1d0b5abfe1e962dd7) (发布日期: 2025-08-12)
+- [收集内网密码全网最系统思路](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484562&idx=1&sn=f2732691a9308a12bf68db757ef9edae) (发布日期: 2025-08-12)
+- [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=2&sn=236be09935c3afdb78593c960e233827) (发布日期: 2025-08-12)
+- [通过 Sharp4ExecMemory 实现内存远程加载 .NET 文件绕过终端安全防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=3&sn=bd051276f18d95297b7dd6f0500d2912) (发布日期: 2025-08-12)
+- [【密码学PQC】SMAUG-T算法解读](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492294&idx=1&sn=0564757c995b4ea99b1e3007f4e2551b) (发布日期: 2025-08-12)
+- [重磅！国内最专业的 [ .NET 代码审计 ] 体系化学习互动社区，强势来袭！](https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247493792&idx=2&sn=30e3adf208ea72fc64c2dad0bc649e86) (发布日期: 2025-08-12)
+- [某电力公司web.config的RCE之旅](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507007&idx=1&sn=1b5be39bfc5255d79d69c6797576e659) (发布日期: 2025-08-12)
+- [《人脸识别技术应用安全管理办法》解读](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485788&idx=1&sn=f920dcb0968cb80c7660907274032d2f) (发布日期: 2025-08-12)
+- [YongYouNCPocTool【用友NC漏洞批量检测工具】](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486761&idx=1&sn=6f98ebc99c1340c1b2358866b0e54313) (发布日期: 2025-08-12)
+- [谷歌Chromium输入验证零日漏洞正遭攻击者利用](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522872&idx=1&sn=6a46819bbd350cda87130de3e2668fa7) (发布日期: 2025-08-12)
+- [SSReportTools上线！漏洞库+自动化生成报告只需3分钟|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=1&sn=50334e6e01117005f90485cdf150fb47) (发布日期: 2025-08-12)
+- [Edu src证书站IOT(物联网)漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299) (发布日期: 2025-08-12)
+- [零信任架构设计原则：零信任简介](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501260&idx=2&sn=00d212282e892ff9cc7c03f8ee4cd2b5) (发布日期: 2025-08-12)
 
 
 ## 🎯 威胁详情分析
@@ -82,37 +86,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大华智能物联管理平台evo-runs/v1.0/push和evo-runs/v1.0/receive接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8) |
-| 2 | 大华智能物联管理平台1day分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488586&idx=1&sn=8452e8aa92d0e36821374cb3b879981c](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488586&idx=1&sn=8452e8aa92d0e36821374cb3b879981c) |
-| 3 | 【Brup插件推荐】漏洞挖掘利器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501136&idx=1&sn=c45155ff374b39bae01af16a9c19943f](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501136&idx=1&sn=c45155ff374b39bae01af16a9c19943f) |
-| 4 | src | 奇怪的任意用户重置密码组合拳漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0) |
-| 5 | BypassUAC提权漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247485983&idx=1&sn=63acfb00a98f2ec5956b89e6571970b4](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247485983&idx=1&sn=63acfb00a98f2ec5956b89e6571970b4) |
-| 6 | 【成功复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d) |
+| 1 | CNVD漏洞周报2025年第30期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500248&idx=1&sn=5fa7317c15a00db1d0b5abfe1e962dd7](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500248&idx=1&sn=5fa7317c15a00db1d0b5abfe1e962dd7) |
+| 2 | YongYouNCPocTool【用友NC漏洞批量检测工具】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486761&idx=1&sn=6f98ebc99c1340c1b2358866b0e54313](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486761&idx=1&sn=6f98ebc99c1340c1b2358866b0e54313) |
+| 3 | 谷歌Chromium输入验证零日漏洞正遭攻击者利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522872&idx=1&sn=6a46819bbd350cda87130de3e2668fa7](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247522872&idx=1&sn=6a46819bbd350cda87130de3e2668fa7) |
+| 4 | SSReportTools上线！漏洞库+自动化生成报告只需3分钟|工具分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=1&sn=50334e6e01117005f90485cdf150fb47](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=1&sn=50334e6e01117005f90485cdf150fb47) |
+| 5 | Edu src证书站IOT(物联网)漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 大华智能物联管理平台evo-runs/v1.0/push和evo-runs/v1.0/receive接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488870&idx=1&sn=2a5ddc7a82a22f342e3990037633bff8) |
-| 2 | 【成功复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503542&idx=1&sn=0c86e29efbc62dc73a028247c8438b9d) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐近期捕获IOC清单（2025年6、7月） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDI2NjAxOQ==&mid=2247483766&idx=1&sn=da1ead3fdccae7ce21502f571c5d7656](https://mp.weixin.qq.com/s?__biz=MzIwNDI2NjAxOQ==&mid=2247483766&idx=1&sn=da1ead3fdccae7ce21502f571c5d7656) |
+| 1 | 收集内网密码全网最系统思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484562&idx=1&sn=f2732691a9308a12bf68db757ef9edae](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484562&idx=1&sn=f2732691a9308a12bf68db757ef9edae) |
+| 2 | .NET 内网攻防实战电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=2&sn=236be09935c3afdb78593c960e233827](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500290&idx=2&sn=236be09935c3afdb78593c960e233827) |
+| 3 | 某电力公司web.config的RCE之旅 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507007&idx=1&sn=1b5be39bfc5255d79d69c6797576e659](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507007&idx=1&sn=1b5be39bfc5255d79d69c6797576e659) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | src | 奇怪的任意用户重置密码组合拳漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=1&sn=131935688857f3a70253d746c15118d0) |
-| 2 | src专项挖掘知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=2&sn=057610ab1e38673a0a559006b6f8dee8](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519647&idx=2&sn=057610ab1e38673a0a559006b6f8dee8) |
+| 1 | 猎洞时刻SRC挖洞培训第三期 | 快速上车手则 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488037&idx=2&sn=60c319dab09fe8e306ba78ec4e386152](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488037&idx=2&sn=60c319dab09fe8e306ba78ec4e386152) |
+| 2 | Edu src证书站IOT(物联网)漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493787&idx=2&sn=1d1de2a79be5859e912701bd81305299) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-11/`
+文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-12/`
 
 ## 🔗 数据源说明
 
@@ -123,8 +121,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +131,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-11 16:27:21*
+*生成时间: 2025-08-12 01:40:25*
 *报告工具: 微信文章安全归档系统*
