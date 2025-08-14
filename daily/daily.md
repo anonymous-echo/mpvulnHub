@@ -1,4 +1,4 @@
-# 2025-08-13 安全威胁态势报告
+# 2025-08-14 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -61,7 +61,7 @@
 
 ### Doonsec
 
-- [APT组织攻击手法及技术分析](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487724&idx=1&sn=963d9b389654d8f1092f17fab7285a24) (发布日期: 2025-08-13)
+- [Charon 勒索软件利用 APT 组织的战术袭击中东地区](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796019&idx=1&sn=ed0cd048ac0eb059b61446c2841e9259) (发布日期: 2025-08-14)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +70,12 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | APT组织攻击手法及技术分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487724&idx=1&sn=963d9b389654d8f1092f17fab7285a24](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487724&idx=1&sn=963d9b389654d8f1092f17fab7285a24) |
+| 1 | Charon 勒索软件利用 APT 组织的战术袭击中东地区 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796019&idx=1&sn=ed0cd048ac0eb059b61446c2841e9259](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796019&idx=1&sn=ed0cd048ac0eb059b61446c2841e9259) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-13/`
+文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-14/`
 
 ## 🔗 数据源说明
 
@@ -96,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-13 20:22:26*
+*生成时间: 2025-08-14 01:42:38*
 *报告工具: 微信文章安全归档系统*
