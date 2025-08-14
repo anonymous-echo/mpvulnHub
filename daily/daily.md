@@ -2,14 +2,13 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,22 +59,10 @@
 
 ### Doonsec
 
-- [H200|红队  正常速度更新之中](https://mp.weixin.qq.com/s?__biz=MzU5Njg5NzUzMw==&mid=2247491827&idx=1&sn=64fbabb8903123ece9bb694da8adb931) (发布日期: 2025-08-14)
-- [一文带你学会机器学习在Web入侵检测中的应用](https://mp.weixin.qq.com/s?__biz=Mzk0NDI2MTQzMw==&mid=2247484717&idx=1&sn=550c22dfd4aaf4afc65a80e07a03aa17) (发布日期: 2025-08-14)
-- [临时蓝队防守心得](https://mp.weixin.qq.com/s?__biz=MzI4Njk5NjY4OQ==&mid=2247486295&idx=1&sn=b311a43ac716c484406c22c163f2a277) (发布日期: 2025-08-14)
-- [高级的域内后门权限维持-使用黄金票据的权限维持](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486155&idx=1&sn=a3ef09470ff92d4c889df7503c1f88b4) (发布日期: 2025-08-14)
-- [高级的域内后门权限维持-高级权限维持的历史](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486142&idx=1&sn=40751dc1c13b4fcdc8d0f3cdf291f526) (发布日期: 2025-08-14)
-- [安全工程师招聘](https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486375&idx=1&sn=51a14e2e0538281a904e28e306fed358) (发布日期: 2025-08-14)
-- [强强联手！美亚法度 × 福建美亚柏科司法鉴定中心，为执法办案注入电子数据 “硬核” 动能](https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651445347&idx=2&sn=8843df5da1113872fdddb1aa76520f1d) (发布日期: 2025-08-14)
+- [国家计算机病毒应急处理中心检测发现70款违法违规收集使用个人信息的移动应用](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650748770&idx=2&sn=fb157a167b7ea2a0c9a653de1731ad62) (发布日期: 2025-08-14)
 
 
 ## 🎯 威胁详情分析
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 强强联手！美亚法度 × 福建美亚柏科司法鉴定中心，为执法办案注入电子数据 “硬核” 动能 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651445347&idx=2&sn=8843df5da1113872fdddb1aa76520f1d](https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651445347&idx=2&sn=8843df5da1113872fdddb1aa76520f1d) |
 
 
 ## 📁 归档路径
@@ -91,7 +78,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -101,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-14 16:27:11*
+*生成时间: 2025-08-14 20:22:48*
 *报告工具: 微信文章安全归档系统*
