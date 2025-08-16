@@ -2,17 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 4篇
+- **威胁情报**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +65,26 @@
 
 ### Doonsec
 
-- [热点关注丨WAIC发布《中国人工智能安全承诺框架》](https://mp.weixin.qq.com/s?__biz=Mzg2MTU5ODQ2Mg==&mid=2247507455&idx=1&sn=3c7fffa2b9c74519484458961919cc4f) (发布日期: 2025-08-16)
-- [Weblogic反序列化漏洞](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485353&idx=1&sn=3f3ec8cdce917b19699ea94c66ef529f) (发布日期: 2025-08-16)
-- [【取证分析】IE&火狐浏览器取证分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247494915&idx=1&sn=d03a0c3271cdcf144fb281c07bdbc328) (发布日期: 2025-08-16)
+- [NextCyber学习记录-Mysql 身份认证绕过漏洞（CVE-2012-2122）](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487819&idx=1&sn=7c6f51ca8377945bf9e067080a0c214e) (发布日期: 2025-08-16)
+- [【0day】某能源系统存在RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d) (发布日期: 2025-08-16)
+- [大语言模型在软件安全中的应用：代码分析、恶意软件分析与逆向工程](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289390&idx=1&sn=691ef480251512a25295ba1db3d01709) (发布日期: 2025-08-16)
+- [一文学会内网横向](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519663&idx=1&sn=58afe49efe8812c9e93aa941087e305c) (发布日期: 2025-08-16)
+- [一名合格红队的成长之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519663&idx=2&sn=993e6b08c9a2a9145936b7bb2ebd8518) (发布日期: 2025-08-16)
+- [200小时狂赚$20,300：漏洞赏金黑客挑战实录](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498049&idx=1&sn=aab638b3a285214481b6c01ccc98e1ea) (发布日期: 2025-08-16)
+- [CVE-2025-49113——Roundcube 远程代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29) (发布日期: 2025-08-16)
+- [【攻防实战】红队攻防之Goby反杀](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503474&idx=1&sn=acd06fb1731c6855548ef56b9cd6cd64) (发布日期: 2025-08-16)
+- [XSS绕过整理](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490207&idx=1&sn=161b9c9d70512a94fd6303ef26abf113) (发布日期: 2025-08-16)
+- [新型NFC驱动PhantomCard安卓恶意软件瞄准银行用户](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326317&idx=3&sn=bd6589093df5e0897d157a7c6ad64e67) (发布日期: 2025-08-16)
+- [2025年智能安全运营市场分析](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289358&idx=1&sn=7b138a65d2a13ec920889bccb72bea6b) (发布日期: 2025-08-16)
+- [红队评估｜分享某管理系统代码审计](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495016&idx=1&sn=57269697a744ad14aefe709465fa1932) (发布日期: 2025-08-16)
+- [关于防范NordDragonScan恶意软件的风险提示](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489280&idx=1&sn=429274b891148da018f03e52ab03afab) (发布日期: 2025-08-16)
+- [收藏~应急响应实战笔记](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574529&idx=2&sn=55924a9fc74f64dcba330c9eca16d6f6) (发布日期: 2025-08-16)
+- [一图读懂 | 国家标准《数据安全技术 数据安全风险评估方法》](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174190&idx=1&sn=4c77cbe1bee346cc2c1174635dc79e8b) (发布日期: 2025-08-16)
+- [手工解决银狐类木马的反沙箱对抗](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485648&idx=1&sn=81e1c404da8b383ed7f59a318eef8e62) (发布日期: 2025-08-16)
+- [一图读懂 | 国家标准GB/T 45577—2025《数据安全技术 数据安全风险评估方法》](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497350&idx=1&sn=8b0ba91061531dfc630f6ddaac7a246e) (发布日期: 2025-08-16)
+- [关于对《数据安全国家标准体系（2025版）》《个人信息保护国家标准体系（2025版）》征求意见稿公开征求意见的通知](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497350&idx=2&sn=e1462fabec081da9b6f65ab96f47ebef) (发布日期: 2025-08-16)
+- [团队会议 | 凌日网络与信息安全团队年中会议](https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484538&idx=1&sn=bb5b0b010a727671ae4a91444d3efb2d) (发布日期: 2025-08-16)
+- [寰球密码简报（第200期）丨美国安全政策：密码学的两用监管及其对监控的影响](https://mp.weixin.qq.com/s?__biz=Mzg5NTA5NTMzMQ==&mid=2247501757&idx=1&sn=f33250aa3eaf7001bb4ea7ed493ce432) (发布日期: 2025-08-16)
 
 
 ## 🎯 威胁详情分析
@@ -72,7 +93,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Weblogic反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485353&idx=1&sn=3f3ec8cdce917b19699ea94c66ef529f](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485353&idx=1&sn=3f3ec8cdce917b19699ea94c66ef529f) |
+| 1 | NextCyber学习记录-Mysql 身份认证绕过漏洞（CVE-2012-2122） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487819&idx=1&sn=7c6f51ca8377945bf9e067080a0c214e](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487819&idx=1&sn=7c6f51ca8377945bf9e067080a0c214e) |
+| 2 | 【0day】某能源系统存在RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d) |
+| 3 | 200小时狂赚$20,300：漏洞赏金黑客挑战实录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498049&idx=1&sn=aab638b3a285214481b6c01ccc98e1ea](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498049&idx=1&sn=aab638b3a285214481b6c01ccc98e1ea) |
+| 4 | CVE-2025-49113——Roundcube 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【0day】某能源系统存在RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484117&idx=1&sn=cd70d24212640d11a116b42d65d9156d) |
+| 2 | 一文学会内网横向 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519663&idx=1&sn=58afe49efe8812c9e93aa941087e305c](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519663&idx=1&sn=58afe49efe8812c9e93aa941087e305c) |
+| 3 | CVE-2025-49113——Roundcube 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532288&idx=2&sn=26c7d7d34622319e10482fe0ed54cf29) |
+| 4 | XSS绕过整理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490207&idx=1&sn=161b9c9d70512a94fd6303ef26abf113](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490207&idx=1&sn=161b9c9d70512a94fd6303ef26abf113) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 收藏~应急响应实战笔记 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574529&idx=2&sn=55924a9fc74f64dcba330c9eca16d6f6](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574529&idx=2&sn=55924a9fc74f64dcba330c9eca16d6f6) |
+| 2 | 手工解决银狐类木马的反沙箱对抗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485648&idx=1&sn=81e1c404da8b383ed7f59a318eef8e62](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485648&idx=1&sn=81e1c404da8b383ed7f59a318eef8e62) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2025年智能安全运营市场分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289358&idx=1&sn=7b138a65d2a13ec920889bccb72bea6b](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289358&idx=1&sn=7b138a65d2a13ec920889bccb72bea6b) |
 
 
 ## 📁 归档路径
@@ -88,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-16 08:24:21*
+*生成时间: 2025-08-16 16:22:11*
 *报告工具: 微信文章安全归档系统*
