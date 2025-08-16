@@ -1,10 +1,10 @@
-# 2025-08-15 安全威胁态势报告
+# 2025-08-16 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
@@ -13,6 +13,8 @@
 - **漏洞利用**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,14 +63,9 @@
 
 ### Doonsec
 
-- [一种新型的AI安全工具HexStrike问世](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491859&idx=1&sn=b41d1092b3e41daf3d28605061bc20fd) (发布日期: 2025-08-15)
-- [NextCyber学习记录—ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2) (发布日期: 2025-08-15)
-- [渗透测试|小白也能学会渗透测试！某医院HIS系统渗透测试靶场学习](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487728&idx=1&sn=49177c883f5a4c6e39cccbebbd415962) (发布日期: 2025-08-15)
-- [全球首个密码学大模型--玄知大模型](https://mp.weixin.qq.com/s?__biz=MzI2NDg5NjY0OA==&mid=2247491507&idx=1&sn=04c6c8d2a9f1127267eaa47e37dd6bc8) (发布日期: 2025-08-15)
-- [[译] 威胁分析报告：14.揭露Kimsuky组织的攻击流程与技战术](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247501974&idx=1&sn=50ff5f32054d11094ff74bdf0db42297) (发布日期: 2025-08-15)
-- [机器学习技术在物联网入侵检测系统中的应用](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289355&idx=1&sn=b48308190425c71fc4c45dd0f9cca30d) (发布日期: 2025-08-15)
-- [七大SIEM工具对比](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489626&idx=1&sn=fec82e0026f8f5f04c4c090c34ba6099) (发布日期: 2025-08-15)
-- [华中科技大学 | 基于优化的针对作为评判器的LLM的提示注入攻击](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493397&idx=1&sn=f54c13084bc0d57de5e70ccfb671b57f) (发布日期: 2025-08-15)
+- [CISA 将 PaperCut RCE 漏洞标记为攻击利用，请立即修补](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469) (发布日期: 2025-08-16)
+- [CISP-PTS vs OSCP+ | 谁更胜一筹？](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518274&idx=1&sn=cf2d291cbcac7662d7aa7c87970885c4) (发布日期: 2025-08-16)
+- [那些不寻常的XSS场景小总结](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487758&idx=1&sn=c0fdd61f97a46d30b3846abee3a4e093) (发布日期: 2025-08-16)
 
 
 ## 🎯 威胁详情分析
@@ -77,19 +74,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NextCyber学习记录—ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2) |
+| 1 | CISA 将 PaperCut RCE 漏洞标记为攻击利用，请立即修补 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NextCyber学习记录—ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2](https://mp.weixin.qq.com/s?__biz=MzkzMDg1MzIwNA==&mid=2247487812&idx=1&sn=5c6f5f82138d61c06c7a15c0f09d3dc2) |
-| 2 | 华中科技大学 | 基于优化的针对作为评判器的LLM的提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493397&idx=1&sn=f54c13084bc0d57de5e70ccfb671b57f](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493397&idx=1&sn=f54c13084bc0d57de5e70ccfb671b57f) |
+| 1 | CISA 将 PaperCut RCE 漏洞标记为攻击利用，请立即修补 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493316&idx=1&sn=af1b36ec1165a05c02593509dd2fc469) |
+| 2 | 那些不寻常的XSS场景小总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487758&idx=1&sn=c0fdd61f97a46d30b3846abee3a4e093](https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487758&idx=1&sn=c0fdd61f97a46d30b3846abee3a4e093) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-15/`
+文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-16/`
 
 ## 🔗 数据源说明
 
@@ -101,7 +98,7 @@
 
 ### 今日重点关注
 - **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-15 16:25:01*
+*生成时间: 2025-08-16 01:37:40*
 *报告工具: 微信文章安全归档系统*
