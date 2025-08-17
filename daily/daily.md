@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,11 +65,16 @@
 
 ### Doonsec
 
-- [2025浙江省信息通信协会数据安全大赛决赛WriteUp](https://mp.weixin.qq.com/s?__biz=Mzg3OTU1MzMxOA==&mid=2247485350&idx=1&sn=5a2c8fb1286b028c6b8d0d8dc77e5bb4) (发布日期: 2025-08-17)
-- [“游蛇（银狐）”黑产最新变种攻击活动](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211771&idx=1&sn=728c9c39340336f3111f974a11b3566a) (发布日期: 2025-08-17)
-- [GUI 安服/渗透测试报告自动生成工具，安服渗透仔摸鱼划水必备](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497557&idx=1&sn=d174f834b1af999aa0c036663426973c) (发布日期: 2025-08-17)
-- [记一次企业SRC之MSSQL报错注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7) (发布日期: 2025-08-17)
-- [【外网打点到内网突破】某公司比赛内网渗透测试记录](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495014&idx=1&sn=cb643e32f64f305024e6b2044d2d5656) (发布日期: 2025-08-17)
+- [MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告](https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d) (发布日期: 2025-08-17)
+- [山雨欲来！全球飞塔(Fortinet)设备正遭疯狂攻击，背后或隐藏惊天0-day漏洞！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92) (发布日期: 2025-08-17)
+- [【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b) (发布日期: 2025-08-17)
+- [知识星球 | 哪家厂商有在工控网上主机安全产品？软件供应链安全政策有哪些？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7) (发布日期: 2025-08-17)
+- [白帽子做渗透测试的全流程详细讲解](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485731&idx=1&sn=05df7e60c1de7711d5a97f10837d515d) (发布日期: 2025-08-17)
+- [从0到1 自学路线（ciso）](https://mp.weixin.qq.com/s?__biz=Mzg5OTkwMjEwMg==&mid=2247483980&idx=1&sn=00b1cf598f12cd188945e32d3d2eb2ec) (发布日期: 2025-08-17)
+- [当防御者变成攻击者：Elastic EDR 0-Day（RCE + DoS）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c) (发布日期: 2025-08-17)
+- [预警丨防范NordDragonScan恶意软件](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174194&idx=1&sn=84367ad32acd9ee570e3a6d56d9de338) (发布日期: 2025-08-17)
+- [2025 年 上半年加密货币损失事件大揭秘](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517676&idx=1&sn=90e336d663282f18f777762ec6ba2103) (发布日期: 2025-08-17)
+- [所有安卓用户：立即检查更新！你的手机芯片曝出“在逃”0day漏洞，黑客或已在利用！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f) (发布日期: 2025-08-17)
 
 
 ## 🎯 威胁详情分析
@@ -76,26 +83,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次企业SRC之MSSQL报错注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7) |
+| 1 | MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d](https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d) |
+| 2 | 山雨欲来！全球飞塔(Fortinet)设备正遭疯狂攻击，背后或隐藏惊天0-day漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92) |
+| 3 | 所有安卓用户：立即检查更新！你的手机芯片曝出“在逃”0day漏洞，黑客或已在利用！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次企业SRC之MSSQL报错注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7) |
-| 2 | 【外网打点到内网突破】某公司比赛内网渗透测试记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495014&idx=1&sn=cb643e32f64f305024e6b2044d2d5656](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495014&idx=1&sn=cb643e32f64f305024e6b2044d2d5656) |
+| 1 | 当防御者变成攻击者：Elastic EDR 0-Day（RCE + DoS） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | “游蛇（银狐）”黑产最新变种攻击活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211771&idx=1&sn=728c9c39340336f3111f974a11b3566a](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211771&idx=1&sn=728c9c39340336f3111f974a11b3566a) |
-
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次企业SRC之MSSQL报错注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488144&idx=2&sn=bfea9570c614c1b8f2e23b7a65db72e7) |
+| 1 | 【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 知识星球 | 哪家厂商有在工控网上主机安全产品？软件供应链安全政策有哪些？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7) |
 
 
 ## 📁 归档路径
@@ -111,8 +119,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +129,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-17 08:25:43*
+*生成时间: 2025-08-17 12:38:25*
 *报告工具: 微信文章安全归档系统*
