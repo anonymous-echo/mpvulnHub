@@ -1,15 +1,17 @@
-# 2025-08-16 安全威胁态势报告
+# 2025-08-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 
@@ -60,8 +62,13 @@
 
 ### Doonsec
 
-- [新手必看 | 如何成为一名“漏洞赏金猎人”](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491575&idx=1&sn=d65e65bfcbf7f2a26b67a50e5ec8dd12) (发布日期: 2025-08-16)
-- [《数据安全国家标准体系（2025版）》《个人信息保护国家标准体系（2025版）》征求意见稿公开征求意见](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498528&idx=2&sn=4007e2643774bb768ce4bdc387b7e34b) (发布日期: 2025-08-16)
+- [一图读懂《数据安全技术 数据安全风险评估方法》附下载](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491590&idx=1&sn=aeba56d5f167e35b499d7be4de5b1aaa) (发布日期: 2025-08-17)
+- [抓住半价折扣，SRC案例与代码审计教程-锁定永久知识库](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218) (发布日期: 2025-08-17)
+- [安全产品不安全？某安全厂商SIEM存在超危漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe) (发布日期: 2025-08-17)
+- [网络安全与业务安全双轮驱动：现代企业安全体系构建指南](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516157&idx=1&sn=003bd53e2ba0541755701174af084781) (发布日期: 2025-08-17)
+- [数据安全评估资质最新一览表](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117607&idx=2&sn=3a4131001d18e821d4b2ff8b59b728bb) (发布日期: 2025-08-17)
+- [网络安全知识：什么是人工智能安全？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501286&idx=1&sn=c7fd30b345192c76fc43b4f1685afccc) (发布日期: 2025-08-17)
+- [法国军舰建造商海军集团调查 1TB 数据泄露事件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c) (发布日期: 2025-08-17)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +77,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新手必看 | 如何成为一名“漏洞赏金猎人” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491575&idx=1&sn=d65e65bfcbf7f2a26b67a50e5ec8dd12](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491575&idx=1&sn=d65e65bfcbf7f2a26b67a50e5ec8dd12) |
+| 1 | 安全产品不安全？某安全厂商SIEM存在超危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 抓住半价折扣，SRC案例与代码审计教程-锁定永久知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 法国军舰建造商海军集团调查 1TB 数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-16/`
+文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-17/`
 
 ## 🔗 数据源说明
 
@@ -96,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-16 20:19:56*
+*生成时间: 2025-08-17 01:47:58*
 *报告工具: 微信文章安全归档系统*
