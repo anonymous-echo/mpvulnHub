@@ -2,18 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 9
 - **数据源分布**:
   - Doonsec: 7篇
+  - ChainReactors: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
+- **网络攻击**: 2篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +67,18 @@
 
 ### Doonsec
 
-- [一图读懂《数据安全技术 数据安全风险评估方法》附下载](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491590&idx=1&sn=aeba56d5f167e35b499d7be4de5b1aaa) (发布日期: 2025-08-17)
-- [抓住半价折扣，SRC案例与代码审计教程-锁定永久知识库](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218) (发布日期: 2025-08-17)
-- [安全产品不安全？某安全厂商SIEM存在超危漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe) (发布日期: 2025-08-17)
-- [网络安全与业务安全双轮驱动：现代企业安全体系构建指南](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516157&idx=1&sn=003bd53e2ba0541755701174af084781) (发布日期: 2025-08-17)
-- [数据安全评估资质最新一览表](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117607&idx=2&sn=3a4131001d18e821d4b2ff8b59b728bb) (发布日期: 2025-08-17)
-- [网络安全知识：什么是人工智能安全？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501286&idx=1&sn=c7fd30b345192c76fc43b4f1685afccc) (发布日期: 2025-08-17)
-- [法国军舰建造商海军集团调查 1TB 数据泄露事件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c) (发布日期: 2025-08-17)
+- [钓鱼群发 Efimer 木马邮件窃取加密货币](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616891&idx=1&sn=baae862ba8e3308d680d86c8770ee47f) (发布日期: 2025-08-17)
+- [中东告急！新型Charon勒索软件来了：APT级手法偷家，航空业和政府成目标](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486576&idx=1&sn=c8101e47669c0a1092ad3a2619f51ce8) (发布日期: 2025-08-17)
+- [.NET内网实战： 剖析 ACL & ACE 与 系统内置账户](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=1&sn=45bf90d527b6f155ff3ee7ff68b38d45) (发布日期: 2025-08-17)
+- [一种进化算法重塑Web安全爬虫的技术突破与实战案例](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486446&idx=1&sn=f2ba2bb2429ea68495d84caf5c99f3b0) (发布日期: 2025-08-17)
+- [【重磅预告】免费开放一个月！我的红蓝对抗/渗透测试技术库即将公开](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484084&idx=1&sn=5ebfb4cd15970cfe026c0165ee8532fc) (发布日期: 2025-08-17)
+- [网络安全行业，为什么网络安全运维工作越来越碎片化了](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247493004&idx=1&sn=f25ec1283cf2f536d8bc1360ab3c12db) (发布日期: 2025-08-17)
+- [RCE漏洞（二）](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173) (发布日期: 2025-08-17)
+
+### ChainReactors
+
+- [ ] [CVE-2025-49113 Roundcube Webmail反序列化漏洞分析](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484570&idx=1&sn=553c7aad3fb835183e6fe5ba1b9b799f) (发布日期: 2025-08-17)
+- [ ] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736) (发布日期: 2025-08-17)
 
 
 ## 🎯 威胁详情分析
@@ -77,19 +87,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全产品不安全？某安全厂商SIEM存在超危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491871&idx=1&sn=bfbf1d20ba3e4b9cf7a88a7b00f425fe) |
+| 1 | RCE漏洞（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173) |
+| 2 |  ] [CVE-2025-49113 Roundcube Webmail反序列化漏洞分析 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484570&idx=1&sn=553c7aad3fb835183e6fe5ba1b9b799f](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484570&idx=1&sn=553c7aad3fb835183e6fe5ba1b9b799f) |
+| 3 |  ] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 抓住半价折扣，SRC案例与代码审计教程-锁定永久知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488441&idx=1&sn=1da205a8ae94735a2b5482c6939e4218) |
-
-### 信息泄露
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 法国军舰建造商海军集团调查 1TB 数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493317&idx=1&sn=55fefe8d6b4be1c6b87b5203009f718c) |
+| 1 | .NET内网实战： 剖析 ACL & ACE 与 系统内置账户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=1&sn=45bf90d527b6f155ff3ee7ff68b38d45](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500314&idx=1&sn=45bf90d527b6f155ff3ee7ff68b38d45) |
+| 2 | RCE漏洞（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492802&idx=1&sn=b6caca432f0622d73695a349ef5c5173) |
+| 3 |  ] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 中东告急！新型Charon勒索软件来了：APT级手法偷家，航空业和政府成目标 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486576&idx=1&sn=c8101e47669c0a1092ad3a2619f51ce8](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486576&idx=1&sn=c8101e47669c0a1092ad3a2619f51ce8) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】【高危预警】1Panel管理面板惊现供应链级RCE漏洞！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071203&idx=3&sn=3763540d68e06c4ef3f58ec16e4c1736) |
 
 
 ## 📁 归档路径
@@ -105,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-17 01:47:58*
+*生成时间: 2025-08-17 04:32:22*
 *报告工具: 微信文章安全归档系统*
