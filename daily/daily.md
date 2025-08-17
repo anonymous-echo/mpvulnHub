@@ -2,21 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,45 +60,17 @@
 
 ### Doonsec
 
-- [MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告](https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d) (发布日期: 2025-08-17)
-- [山雨欲来！全球飞塔(Fortinet)设备正遭疯狂攻击，背后或隐藏惊天0-day漏洞！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92) (发布日期: 2025-08-17)
-- [【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b) (发布日期: 2025-08-17)
-- [知识星球 | 哪家厂商有在工控网上主机安全产品？软件供应链安全政策有哪些？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7) (发布日期: 2025-08-17)
-- [白帽子做渗透测试的全流程详细讲解](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485731&idx=1&sn=05df7e60c1de7711d5a97f10837d515d) (发布日期: 2025-08-17)
-- [从0到1 自学路线（ciso）](https://mp.weixin.qq.com/s?__biz=Mzg5OTkwMjEwMg==&mid=2247483980&idx=1&sn=00b1cf598f12cd188945e32d3d2eb2ec) (发布日期: 2025-08-17)
-- [当防御者变成攻击者：Elastic EDR 0-Day（RCE + DoS）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c) (发布日期: 2025-08-17)
-- [预警丨防范NordDragonScan恶意软件](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174194&idx=1&sn=84367ad32acd9ee570e3a6d56d9de338) (发布日期: 2025-08-17)
-- [2025 年 上半年加密货币损失事件大揭秘](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517676&idx=1&sn=90e336d663282f18f777762ec6ba2103) (发布日期: 2025-08-17)
-- [所有安卓用户：立即检查更新！你的手机芯片曝出“在逃”0day漏洞，黑客或已在利用！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f) (发布日期: 2025-08-17)
+- [《云原生安全攻防》-- Docker容器安全事件响应](https://mp.weixin.qq.com/s?__biz=MzA3NzE2MjgwMg==&mid=2448909729&idx=1&sn=934f7e94f9a5c5d95330a8084719c926) (发布日期: 2025-08-17)
+- [MineCraftCTF、Solar应急响应月赛 内存取证题目](https://mp.weixin.qq.com/s?__biz=MzkzNTQzNTQzMQ==&mid=2247485719&idx=1&sn=823e099ad7880498e0e2dba42316ccb0) (发布日期: 2025-08-17)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | MySQL JDBC反序列化漏洞（CVE-2017-3523）分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d](https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488568&idx=1&sn=ce076db5d5640a2859d89a7425c39e3d) |
-| 2 | 山雨欲来！全球飞塔(Fortinet)设备正遭疯狂攻击，背后或隐藏惊天0-day漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901145&idx=1&sn=70da6e8c8eeab7a5fca534dc8d90bd92) |
-| 3 | 所有安卓用户：立即检查更新！你的手机芯片曝出“在逃”0day漏洞，黑客或已在利用！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901121&idx=1&sn=2283d6582e6560b8ed8ccb1b787de04f) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 当防御者变成攻击者：Elastic EDR 0-Day（RCE + DoS） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532303&idx=1&sn=e6660ccf62c0c42490be7de4ceba632c) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】披露两次大规模数据泄露后，美电信巨头赔1.77亿美元和解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=2&sn=bfe35b7a53d00c3fcff96d4b32bce02b) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 知识星球 | 哪家厂商有在工控网上主机安全产品？软件供应链安全政策有哪些？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642715&idx=1&sn=e7aeb5041b330d0e869c4ba7564a5ec7) |
+| 1 | MineCraftCTF、Solar应急响应月赛 内存取证题目 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTQzNTQzMQ==&mid=2247485719&idx=1&sn=823e099ad7880498e0e2dba42316ccb0](https://mp.weixin.qq.com/s?__biz=MzkzNTQzNTQzMQ==&mid=2247485719&idx=1&sn=823e099ad7880498e0e2dba42316ccb0) |
 
 
 ## 📁 归档路径
@@ -119,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -129,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-17 12:38:25*
+*生成时间: 2025-08-17 16:22:56*
 *报告工具: 微信文章安全归档系统*
