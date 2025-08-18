@@ -2,18 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 13篇
+  - ChainReactors: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +64,24 @@
 
 ### Doonsec
 
-- [JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) (发布日期: 2025-08-18)
-- [从边缘入口到核心腹地，揭秘弱口令引发的“多米诺骨牌式”安全崩塌](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486178&idx=1&sn=4c0c013d9958d280ee983e52757e4361) (发布日期: 2025-08-18)
-- [数据安全建设资质最新一览表](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117610&idx=1&sn=89ad73dbb641369fd0586894e6f624cb) (发布日期: 2025-08-18)
-- [密码学知识：哈希算法简介与实践](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117610&idx=2&sn=81060335db7a41635c50ce47f0bad38b) (发布日期: 2025-08-18)
-- [事件日志记录和威胁检测的最佳实践](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501296&idx=1&sn=7721ef375105198cd02becbc9edd4406) (发布日期: 2025-08-18)
-- [新型webshell免杀 | 哥斯拉 Websocket型 webshell](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495655&idx=1&sn=776f65e8cbd3e26f33f7a99874022f3f) (发布日期: 2025-08-18)
-- [新型FireWood恶意软件攻击Linux系统执行命令并窃取敏感数据](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523003&idx=1&sn=9799aaa3233d60d2bb1daa3fcb2c62e5) (发布日期: 2025-08-18)
+- [漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551448&idx=1&sn=b869d8e0b21b9c997e3f0607c0217f65) (发布日期: 2025-08-18)
+- [区块链学习笔记01: 区块链?哈希函数?数字签名?](https://mp.weixin.qq.com/s?__biz=Mzk0MzUwNDEzNg==&mid=2247484451&idx=1&sn=e2c19bf37aef97a160627a939d1601bc) (发布日期: 2025-08-18)
+- [惊！朝鲜黑客把恶意软件藏进JPEG，Windows系统危在旦夕](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486577&idx=1&sn=e44c1ca1a78c2c3fb19e10e3031244a1) (发布日期: 2025-08-18)
+- [研究了200天LLM，越权漏洞检测准确率才提升这点点？](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495380&idx=1&sn=d2e309e34ea2e3a88ee3e578e11d8197) (发布日期: 2025-08-18)
+- [Rust安全开发 | 零成本抽象](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488205&idx=2&sn=2340a0450dd64023ebef55ca71d44f38) (发布日期: 2025-08-18)
+- [构建在CISP知识体系下的信息安全规划设计](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494060&idx=1&sn=fe1bdc9ecca9b8dfb2a6090dbf87db6b) (发布日期: 2025-08-18)
+- [【资料】以色列的情报和安全系统](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151638&idx=1&sn=f6cf630bf17c5047ddd9a972843ae8d9) (发布日期: 2025-08-18)
+- [swagger 接口未授权漏洞怎么玩儿！](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519439&idx=1&sn=7318c9917351c69b1ba850a6c064ecd8) (发布日期: 2025-08-18)
+- [西部数据 remoteBackups.php 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93) (发布日期: 2025-08-18)
+- [银狐最新变种样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493235&idx=1&sn=d3ff43fd9f3244a89096d5f208d70f50) (发布日期: 2025-08-18)
+- [2025智能网联汽车信息安全测试白皮书](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247520382&idx=1&sn=ea1f1364b9411521593389eecc01ce99) (发布日期: 2025-08-18)
+- [诈骗者反遭自家恶意软件攻击，牟利460万美元团伙曝光](https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486229&idx=1&sn=b768d0bc841993b2f5ebad75b36b1e18) (发布日期: 2025-08-18)
+- [技术分享：SRC一次小程序逆向到云密钥aksk泄露导致云资源接管的全流程记录](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247483961&idx=1&sn=c575e54e23d38cd3315b8eaaf0e85d4e) (发布日期: 2025-08-18)
+
+### ChainReactors
+
+- [ ] [【全网首发】金和OA 0/1/N Day漏洞合集](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484572&idx=1&sn=0453587999820ccbd738fdd3cd30bf3d) (发布日期: 2025-08-18)
+- [ ] [【安全圈】Cisco Secure Firewall 管理中心软件 RADIUS 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e) (发布日期: 2025-08-18)
 
 
 ## 🎯 威胁详情分析
@@ -77,13 +90,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) |
+| 1 | 漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551448&idx=1&sn=b869d8e0b21b9c997e3f0607c0217f65](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551448&idx=1&sn=b869d8e0b21b9c997e3f0607c0217f65) |
+| 2 | 研究了200天LLM，越权漏洞检测准确率才提升这点点？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495380&idx=1&sn=d2e309e34ea2e3a88ee3e578e11d8197](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495380&idx=1&sn=d2e309e34ea2e3a88ee3e578e11d8197) |
+| 3 | swagger 接口未授权漏洞怎么玩儿！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519439&idx=1&sn=7318c9917351c69b1ba850a6c064ecd8](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519439&idx=1&sn=7318c9917351c69b1ba850a6c064ecd8) |
+| 4 | 西部数据 remoteBackups.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93) |
+| 5 |  ] [【全网首发】金和OA 0/1/N Day漏洞合集 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484572&idx=1&sn=0453587999820ccbd738fdd3cd30bf3d](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484572&idx=1&sn=0453587999820ccbd738fdd3cd30bf3d) |
+| 6 |  ] [【安全圈】Cisco Secure Firewall 管理中心软件 RADIUS 远程代码执行漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) |
+| 1 | 西部数据 remoteBackups.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492463&idx=1&sn=2344752acd0e4eb9be1de7cda6dbfd93) |
+| 2 |  ] [【安全圈】Cisco Secure Firewall 管理中心软件 RADIUS 远程代码执行漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071217&idx=3&sn=5a8bb9cfe3a4cd7c3f48d25a74aa349e) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐最新变种样本分析与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493235&idx=1&sn=d3ff43fd9f3244a89096d5f208d70f50](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493235&idx=1&sn=d3ff43fd9f3244a89096d5f208d70f50) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 技术分享：SRC一次小程序逆向到云密钥aksk泄露导致云资源接管的全流程记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247483961&idx=1&sn=c575e54e23d38cd3315b8eaaf0e85d4e](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247483961&idx=1&sn=c575e54e23d38cd3315b8eaaf0e85d4e) |
 
 
 ## 📁 归档路径
@@ -99,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-18 01:48:31*
+*生成时间: 2025-08-18 04:38:36*
 *报告工具: 微信文章安全归档系统*
