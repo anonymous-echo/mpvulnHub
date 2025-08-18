@@ -1,16 +1,19 @@
-# 2025-08-17 安全威胁态势报告
+# 2025-08-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +62,33 @@
 
 ### Doonsec
 
-- [【资讯】国家数据局综合司发布《关于征集数据流通安全治理典型案例的通知》](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555045&idx=1&sn=aaac6e6a90ef57b35189cfff8dfb12a3) (发布日期: 2025-08-17)
+- [JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) (发布日期: 2025-08-18)
+- [从边缘入口到核心腹地，揭秘弱口令引发的“多米诺骨牌式”安全崩塌](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486178&idx=1&sn=4c0c013d9958d280ee983e52757e4361) (发布日期: 2025-08-18)
+- [数据安全建设资质最新一览表](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117610&idx=1&sn=89ad73dbb641369fd0586894e6f624cb) (发布日期: 2025-08-18)
+- [密码学知识：哈希算法简介与实践](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117610&idx=2&sn=81060335db7a41635c50ce47f0bad38b) (发布日期: 2025-08-18)
+- [事件日志记录和威胁检测的最佳实践](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501296&idx=1&sn=7721ef375105198cd02becbc9edd4406) (发布日期: 2025-08-18)
+- [新型webshell免杀 | 哥斯拉 Websocket型 webshell](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495655&idx=1&sn=776f65e8cbd3e26f33f7a99874022f3f) (发布日期: 2025-08-18)
+- [新型FireWood恶意软件攻击Linux系统执行命令并窃取敏感数据](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523003&idx=1&sn=9799aaa3233d60d2bb1daa3fcb2c62e5) (发布日期: 2025-08-18)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | JSONP注入漏洞研究 JavaScript回调函数引发的会话弹窗劫持|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493843&idx=1&sn=28b69d4ba3d876c28c23c6897a096e2d) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W33/2025-08-17/`
+文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-18/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-17 20:21:13*
+*生成时间: 2025-08-18 01:48:31*
 *报告工具: 微信文章安全归档系统*
