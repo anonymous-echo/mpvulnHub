@@ -2,23 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 14篇
-  - ChainReactors: 10篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 5篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,33 +65,23 @@
 
 ### Doonsec
 
-- [记一次小程序漏洞挖掘：从越权登录到信息泄露（轻松易上手）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551463&idx=1&sn=a073ebbb7858e9e00184b3be1fe3da08) (发布日期: 2025-08-19)
-- [拿下摄像头四个高危漏洞，影响数万台设备](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616905&idx=1&sn=ae5d0fd225e620569e4c35b622293b3a) (发布日期: 2025-08-19)
-- [泄露英特尔 27 万员工信息的历史漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501938&idx=1&sn=29d24a68eed94d45cc4e1107ee8c5902) (发布日期: 2025-08-19)
-- [我的前 150 天漏洞赏金猎人生涯](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507340&idx=1&sn=6aa2958acd5c23035eca5fb333acfaf8) (发布日期: 2025-08-19)
-- [【已复现】Smartbi 远程代码执行漏洞(QVD-2025-31926)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725) (发布日期: 2025-08-19)
-- [Database 2.10.10 代码审计](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522822&idx=1&sn=95e52fcd99b4ae6220f99a61b5a8f823) (发布日期: 2025-08-19)
-- [PagerMaid-Pyro后台管理系统 run_sh 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b) (发布日期: 2025-08-19)
-- [欧澳PicHome textviewer 任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492483&idx=1&sn=60156f15987e6e224b8c2e7411f642ac) (发布日期: 2025-08-19)
-- [399元买14年前的免杀技术，竟能让云安全产品秒变\"吉祥物\"？](https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488635&idx=1&sn=dd6501bf91741834c3d4c41770cf9e65) (发布日期: 2025-08-19)
-- [CodeVulnScan-基于正则的代码审计工具](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484574&idx=1&sn=5aa01cf4799af18b8a957d1e7bba9216) (发布日期: 2025-08-19)
-- [知名HR软件Workday遭数据泄露，第三方系统被攻陷](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512107&idx=1&sn=870b81b316ab263eff41bad546893d5a) (发布日期: 2025-08-19)
-- [【深圳】招商局集团招聘信息安全管理岗](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506481&idx=1&sn=7bb62f731c8ecad6d19b97b8400e8ba5) (发布日期: 2025-08-19)
-- [广东南方工报传媒（国企）招聘网络安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506481&idx=4&sn=1465d26df323adff8de14e196ef7cbb7) (发布日期: 2025-08-19)
-- [【前瞻版】大华ICC push/receive 命令执行漏洞利用工具V0.1](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9) (发布日期: 2025-08-19)
-
-### ChainReactors
-
-- [ ] [西部数码NAS modUserName.php接口存在命令执行漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d) (发布日期: 2025-08-19)
-- [ ] [【0day】某物联网系统存在任意用户注册漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484129&idx=1&sn=4159fa6c3b71d64b9d4469c07f813a77) (发布日期: 2025-08-19)
-- [ ] [互联网数据中心（IDC）安全防护要求](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289501&idx=4&sn=374ae1feaae5686d1867a6867a8f6f86) (发布日期: 2025-08-19)
-- [ ] [禅道各版本漏洞复现汇总上篇](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522821&idx=1&sn=dc33f4172b8f7601e4b19ba73f33efac) (发布日期: 2025-08-19)
-- [ ] [一款支持自定义规则的代码安全审计工具](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486799&idx=1&sn=2fc7f8275a7f3874ec83f11008b52f0c) (发布日期: 2025-08-19)
-- [ ] [黑客利用图像隐写术传播Quasar RAT恶意软件](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492734&idx=1&sn=4e5b693d87b3f172c1728a6a5559a466) (发布日期: 2025-08-19)
-- [ ] [CSOP2025看点 | 某股份行陈宇磊：数智化安全运营建设与实践](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184455&idx=1&sn=86f19d9e781fb6d4a5a206b19905e533) (发布日期: 2025-08-19)
-- [ ] [【已复现】Fortinet FortiSIEM 远程命令执行漏洞(CVE-2025-25256)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538) (发布日期: 2025-08-19)
-- [ ] [【高级威胁追踪(APT)】amdc6766团伙最新双平台特马攻击事件分析](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524545&idx=1&sn=d6b8b3abdcf7cde392298cc316b42c70) (发布日期: 2025-08-19)
-- [ ] [WinRAR零日漏洞攻击的分析详解](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584284&idx=1&sn=a1499ea1c90b5c328f983e2150ad1689) (发布日期: 2025-08-19)
+- [汽车出海全产业数据安全合规发展白皮书](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626767&idx=2&sn=04aca6140c06e25acdd60b66bfd128ea) (发布日期: 2025-08-19)
+- [自动驾驶道路测试数据安全风险评估方法](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626767&idx=3&sn=9716f52c0c3a6aee582beefea6cb5222) (发布日期: 2025-08-19)
+- [JDK17不出网？Shiro反序列化极限RCE！](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488324&idx=1&sn=f2d62aaa335a0f067108180b14755bb8) (发布日期: 2025-08-19)
+- [山石网科中标｜新疆维吾尔自治区数据资源和政务服务中心安全防护项目](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661302285&idx=1&sn=1de8cc100c1564aa0ee2d02eb9bb5731) (发布日期: 2025-08-19)
+- [多云和多云安全指的是什么](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138357&idx=1&sn=2bd448f08e4b04f7286e49254b2736c3) (发布日期: 2025-08-19)
+- [西安电子科技大学团队发布全球首个密码学大语言模型；1580万条PayPal明文账号信息泄露；FIDO认证可被破解绕过 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138357&idx=2&sn=bb9db05910c7963b771a4c812ec20b60) (发布日期: 2025-08-19)
+- [一图读懂 | 国家标准GB/T 45577—2025《数据安全技术 数据安全风险评估方法》](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485801&idx=1&sn=ba677ab05557c6bf0cb49ccdadcaab11) (发布日期: 2025-08-19)
+- [dataease最新绕过利用json覆盖属性RCE](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495093&idx=1&sn=d648cd410b76f7361c5792b8cb1b6f65) (发布日期: 2025-08-19)
+- [区块链金融应用安全风险分类分级研究](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289540&idx=3&sn=1dc36d6991ae222645ee322cf8e02308) (发布日期: 2025-08-19)
+- [数字钱包安全开发与应用实践](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289540&idx=7&sn=607fb554aeb558f0769242e58ab5bcdc) (发布日期: 2025-08-19)
+- [文件包含漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484111&idx=1&sn=db0059dd220dfa07d10c51b477a89efa) (发布日期: 2025-08-19)
+- [《Java代码审计高阶实战班》第二期招生啦，在第一期 100 节基础与实战，第二期又新增更多有趣实战！](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487515&idx=1&sn=b46cd632eeb59760ee7f5f0add4c36f1) (发布日期: 2025-08-19)
+- [神州希望协助白沙黎族自治县人民法院开展网络安全意识培训](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650725861&idx=1&sn=4d6d36917fdc38c4735c6f30a65b840e) (发布日期: 2025-08-19)
+- [2025年上半年区块链安全与反洗钱报告](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289537&idx=5&sn=d7a35a2863242a36520ad061e34877c7) (发布日期: 2025-08-19)
+- [麦当劳内部系统惊现多重漏洞：员工、API与奖励轻松被搞定](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486603&idx=1&sn=ecfbbf4d30e2c906864d13d8fff5ccd5) (发布日期: 2025-08-19)
+- [【实战SRC】漏洞挖掘之风控绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818) (发布日期: 2025-08-19)
+- [长城华西银行被罚402.8万元：五大违规行为暴露内控漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498558&idx=1&sn=14870e7dc7574e3deb1bff0b494c47c4) (发布日期: 2025-08-19)
 
 
 ## 🎯 威胁详情分析
@@ -102,53 +90,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次小程序漏洞挖掘：从越权登录到信息泄露（轻松易上手） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551463&idx=1&sn=a073ebbb7858e9e00184b3be1fe3da08](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551463&idx=1&sn=a073ebbb7858e9e00184b3be1fe3da08) |
-| 2 | 拿下摄像头四个高危漏洞，影响数万台设备 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616905&idx=1&sn=ae5d0fd225e620569e4c35b622293b3a](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616905&idx=1&sn=ae5d0fd225e620569e4c35b622293b3a) |
-| 3 | 泄露英特尔 27 万员工信息的历史漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501938&idx=1&sn=29d24a68eed94d45cc4e1107ee8c5902](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247501938&idx=1&sn=29d24a68eed94d45cc4e1107ee8c5902) |
-| 4 | 我的前 150 天漏洞赏金猎人生涯 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507340&idx=1&sn=6aa2958acd5c23035eca5fb333acfaf8](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507340&idx=1&sn=6aa2958acd5c23035eca5fb333acfaf8) |
-| 5 | 【已复现】Smartbi 远程代码执行漏洞(QVD-2025-31926)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725) |
-| 6 | PagerMaid-Pyro后台管理系统 run_sh 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b) |
-| 7 | 欧澳PicHome textviewer 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492483&idx=1&sn=60156f15987e6e224b8c2e7411f642ac](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492483&idx=1&sn=60156f15987e6e224b8c2e7411f642ac) |
-| 8 | 【前瞻版】大华ICC push/receive 命令执行漏洞利用工具V0.1 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9) |
-| 9 |  ] [西部数码NAS modUserName.php接口存在命令执行漏洞 附POC | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d) |
-| 10 |  ] [【0day】某物联网系统存在任意用户注册漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484129&idx=1&sn=4159fa6c3b71d64b9d4469c07f813a77](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484129&idx=1&sn=4159fa6c3b71d64b9d4469c07f813a77) |
-| 11 |  ] [禅道各版本漏洞复现汇总上篇 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522821&idx=1&sn=dc33f4172b8f7601e4b19ba73f33efac](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522821&idx=1&sn=dc33f4172b8f7601e4b19ba73f33efac) |
-| 12 |  ] [【已复现】Fortinet FortiSIEM 远程命令执行漏洞(CVE-2025-25256)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538) |
-| 13 |  ] [WinRAR零日漏洞攻击的分析详解 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584284&idx=1&sn=a1499ea1c90b5c328f983e2150ad1689](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584284&idx=1&sn=a1499ea1c90b5c328f983e2150ad1689) |
+| 1 | 文件包含漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484111&idx=1&sn=db0059dd220dfa07d10c51b477a89efa](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484111&idx=1&sn=db0059dd220dfa07d10c51b477a89efa) |
+| 2 | 麦当劳内部系统惊现多重漏洞：员工、API与奖励轻松被搞定 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486603&idx=1&sn=ecfbbf4d30e2c906864d13d8fff5ccd5](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486603&idx=1&sn=ecfbbf4d30e2c906864d13d8fff5ccd5) |
+| 3 | 【实战SRC】漏洞挖掘之风控绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818) |
+| 4 | 长城华西银行被罚402.8万元：五大违规行为暴露内控漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498558&idx=1&sn=14870e7dc7574e3deb1bff0b494c47c4](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498558&idx=1&sn=14870e7dc7574e3deb1bff0b494c47c4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】Smartbi 远程代码执行漏洞(QVD-2025-31926)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503823&idx=1&sn=29633740671761e62a63e50193c6c725) |
-| 2 | PagerMaid-Pyro后台管理系统 run_sh 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492492&idx=1&sn=adbd27e258ef98eeee4c8b87d167396b) |
-| 3 | 【前瞻版】大华ICC push/receive 命令执行漏洞利用工具V0.1 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485283&idx=1&sn=7c0c97a2ede4e24eceffe40dff11f1d9) |
-| 4 |  ] [西部数码NAS modUserName.php接口存在命令执行漏洞 附POC | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488906&idx=1&sn=04255613945c0ee8bc6988cc8167974d) |
-| 5 |  ] [【已复现】Fortinet FortiSIEM 远程命令执行漏洞(CVE-2025-25256)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503815&idx=1&sn=749e5d185d7a30d414775a90514bb538) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [【高级威胁追踪(APT)】amdc6766团伙最新双平台特马攻击事件分析 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524545&idx=1&sn=d6b8b3abdcf7cde392298cc316b42c70](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524545&idx=1&sn=d6b8b3abdcf7cde392298cc316b42c70) |
+| 1 | JDK17不出网？Shiro反序列化极限RCE！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488324&idx=1&sn=f2d62aaa335a0f067108180b14755bb8](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488324&idx=1&sn=f2d62aaa335a0f067108180b14755bb8) |
+| 2 | dataease最新绕过利用json覆盖属性RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495093&idx=1&sn=d648cd410b76f7361c5792b8cb1b6f65](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495093&idx=1&sn=d648cd410b76f7361c5792b8cb1b6f65) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [CSOP2025看点 | 某股份行陈宇磊：数智化安全运营建设与实践 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184455&idx=1&sn=86f19d9e781fb6d4a5a206b19905e533](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184455&idx=1&sn=86f19d9e781fb6d4a5a206b19905e533) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 知名HR软件Workday遭数据泄露，第三方系统被攻陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512107&idx=1&sn=870b81b316ab263eff41bad546893d5a](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512107&idx=1&sn=870b81b316ab263eff41bad546893d5a) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 知名HR软件Workday遭数据泄露，第三方系统被攻陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512107&idx=1&sn=870b81b316ab263eff41bad546893d5a](https://mp.weixin.qq.com/s?__biz=MzAwMTg3MDQzOA==&mid=2247512107&idx=1&sn=870b81b316ab263eff41bad546893d5a) |
+| 1 | 【实战SRC】漏洞挖掘之风控绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488471&idx=1&sn=672069227bc8f7c3453fc989bf825818) |
 
 
 ## 📁 归档路径
@@ -164,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -174,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-19 04:22:48*
+*生成时间: 2025-08-19 08:26:41*
 *报告工具: 微信文章安全归档系统*
