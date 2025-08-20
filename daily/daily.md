@@ -1,22 +1,18 @@
-# 2025-08-19 安全威胁态势报告
+# 2025-08-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,22 +61,10 @@
 
 ### Doonsec
 
-- [西部数码NAS ftp_download.php接口存在命令执行漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833) (发布日期: 2025-08-19)
-- [学习干货|小白女友看完这篇文章后，面试工作和护网蓝队初级竟然秒通过！建议收藏](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487736&idx=1&sn=f573eebb2874baf454e9a59ea8d735b5) (发布日期: 2025-08-19)
-- [AI驱动的黑盒漏洞自动审计系统：从人工复现到智能判断的技术实践](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485174&idx=1&sn=4fa2aa68828148098914e5b01e0ffd68) (发布日期: 2025-08-19)
-- [Day26 Web漏洞-XSS跨站脚本](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29) (发布日期: 2025-08-19)
-- [【Java代审】小白如何根据1day挖出天锐绿盾前台RCE 0day?](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1) (发布日期: 2025-08-19)
-- [区块链 安全指标要求与测试方法](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289576&idx=6&sn=0b5672fb546e49d141fa56e6a4e859e4) (发布日期: 2025-08-19)
-- [电信网和互联网区块链基础设施安全防护检测要求](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289576&idx=7&sn=b71e100c6e3bd7d2d5619c6d3f6e2f56) (发布日期: 2025-08-19)
-- [银狐类棘手木马的清理工作](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485666&idx=1&sn=f0a90750c5a3a9f97bf653110d590674) (发布日期: 2025-08-19)
-- [一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497566&idx=1&sn=493e4ccee61bc3f8d868ae3328a98234) (发布日期: 2025-08-19)
-- [国防科技大学 | 基于知识注入的生成式代码模型安全强化框架](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493444&idx=1&sn=863e7999c202355c8813613f18f081ed) (发布日期: 2025-08-19)
-- [[ 进攻性红队 ]自学资料指南和免费版指南录—Fiteerthac 月付计划和每月推广日规定](https://mp.weixin.qq.com/s?__biz=MzU5Njg5NzUzMw==&mid=2247491853&idx=1&sn=52a3756c4959198bbf543e1ebb34d4f4) (发布日期: 2025-08-19)
-- [OAuth2.0劫持账号漏洞挖掘案例](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=1&sn=54b8e860cdd344a2ba716ee43a0855ca) (发布日期: 2025-08-19)
-- [src专项挖掘知识库](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=2&sn=2fd05db71329d725161deafc8d8f284a) (发布日期: 2025-08-19)
-- [关于组织申报国家重点研发计划“网络空间安全治理”重点专项2025年度项目的通知](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637012&idx=2&sn=cab42069f5abf1677cb1fec07ef8d7e9) (发布日期: 2025-08-19)
-- [Linux内核netfilter漏洞可导致攻击者权限提升](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637012&idx=4&sn=81762945220d8ebfc155eb3683df3630) (发布日期: 2025-08-19)
-- [代码审计Ai-SAST工具 | 公开版正式发布啦！！！](https://mp.weixin.qq.com/s?__biz=Mzg3MTA1NDMxMw==&mid=2247484588&idx=1&sn=97cb4844f8baf434817ead3fa7ef8bd1) (发布日期: 2025-08-19)
+- [渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案)](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d) (发布日期: 2025-08-20)
+- [Star 4k+ 一款专注于渗透测试/红队作战的高性能漏洞扫描器更新|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874) (发布日期: 2025-08-20)
+- [“在TCP三次握手中注入七层攻击报文”的【技术可行性分析】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf) (发布日期: 2025-08-20)
+- [【蓝队】漏洞全生命周期管理平台](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917) (发布日期: 2025-08-20)
 
 
 ## 🎯 威胁详情分析
@@ -89,39 +73,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 西部数码NAS ftp_download.php接口存在命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833) |
-| 2 | AI驱动的黑盒漏洞自动审计系统：从人工复现到智能判断的技术实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485174&idx=1&sn=4fa2aa68828148098914e5b01e0ffd68](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485174&idx=1&sn=4fa2aa68828148098914e5b01e0ffd68) |
-| 3 | Day26 Web漏洞-XSS跨站脚本 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29) |
-| 4 | 【Java代审】小白如何根据1day挖出天锐绿盾前台RCE 0day? | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1) |
-| 5 | 一款最全未授权访问漏洞批量检测工具，集成40+常见未授权访问漏洞 | GUI界面 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497566&idx=1&sn=493e4ccee61bc3f8d868ae3328a98234](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497566&idx=1&sn=493e4ccee61bc3f8d868ae3328a98234) |
-| 6 | OAuth2.0劫持账号漏洞挖掘案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=1&sn=54b8e860cdd344a2ba716ee43a0855ca](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=1&sn=54b8e860cdd344a2ba716ee43a0855ca) |
-| 7 | Linux内核netfilter漏洞可导致攻击者权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637012&idx=4&sn=81762945220d8ebfc155eb3683df3630](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637012&idx=4&sn=81762945220d8ebfc155eb3683df3630) |
+| 1 | 渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d) |
+| 2 | Star 4k+ 一款专注于渗透测试/红队作战的高性能漏洞扫描器更新|工具分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874) |
+| 3 | 【蓝队】漏洞全生命周期管理平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 西部数码NAS ftp_download.php接口存在命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488934&idx=1&sn=02b3c680f9d546b099f4b45442189833) |
-| 2 | Day26 Web漏洞-XSS跨站脚本 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488147&idx=1&sn=7c37bb551b016e3335f2392189470f29) |
-| 3 | 【Java代审】小白如何根据1day挖出天锐绿盾前台RCE 0day? | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492909&idx=1&sn=a0beb8d9050124900598c579a61ef2a1) |
-| 4 | 国防科技大学 | 基于知识注入的生成式代码模型安全强化框架 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493444&idx=1&sn=863e7999c202355c8813613f18f081ed](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493444&idx=1&sn=863e7999c202355c8813613f18f081ed) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐类棘手木马的清理工作 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485666&idx=1&sn=f0a90750c5a3a9f97bf653110d590674](https://mp.weixin.qq.com/s?__biz=MzUyMTUwMzI3Ng==&mid=2247485666&idx=1&sn=f0a90750c5a3a9f97bf653110d590674) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | src专项挖掘知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=2&sn=2fd05db71329d725161deafc8d8f284a](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519671&idx=2&sn=2fd05db71329d725161deafc8d8f284a) |
+| 1 | “在TCP三次握手中注入七层攻击报文”的【技术可行性分析】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-19/`
+文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-20/`
 
 ## 🔗 数据源说明
 
@@ -132,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -142,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-19 16:25:00*
+*生成时间: 2025-08-20 01:27:17*
 *报告工具: 微信文章安全归档系统*
