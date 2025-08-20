@@ -38,10 +38,14 @@ jobs:
       run: |
         python Getdaily.py
 
+    - name: Convert daily.md to HTML
+      run: |
+        python md_to_html.py
+
     - name: Commit and push if changed
       run: |
         git config --global user.email "791751568@qq.com"
         git config --global user.name "大清第一巴图鲁"
         git add daily/*
-        git diff-index --quiet HEAD || git commit -m "Update daily.md with latest security report"
+        git diff-index --quiet HEAD || git commit -m "Update daily.md and generate daily.html with latest security report"
         git push
