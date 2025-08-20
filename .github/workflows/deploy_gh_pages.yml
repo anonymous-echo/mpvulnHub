@@ -38,12 +38,26 @@ jobs:
 
     - name: Prepare Pages content
       run: |
-        # 创建一个临时目录用于Pages部署
-        mkdir -p gh-pages
-        # 复制daily.html到临时目录并重命名为index.html
-        cp daily/daily.html gh-pages/index.html
-        # 创建404.html
-        echo "404 - Page not found" > gh-pages/404.html
+        # 显示当前工作目录和文件结构，用于调试
+        echo "当前工作目录: $(pwd)"
+        echo "列出根目录文件:"
+        ls -la
+        echo "列出daily目录文件:"
+        ls -la daily || echo "daily目录不存在"
+        
+        # 检查daily.html文件是否存在
+        if [ -f "daily/daily.html" ]; then
+          echo "找到daily/daily.html文件"
+          # 创建一个临时目录用于Pages部署
+          mkdir -p gh-pages
+          # 复制daily.html到临时目录并重命名为index.html
+          cp daily/daily.html gh-pages/index.html
+          # 创建404.html
+          echo "404 - Page not found" > gh-pages/404.html
+        else
+          echo "错误: 找不到daily/daily.html文件"
+          exit 1
+        fi
 
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
@@ -87,8 +101,15 @@ jobs:
           git push -u origin gh-pages
         fi
         
-        # 复制daily.html到根目录作为index.html
-        cp daily/daily.html index.html
+        # 检查daily.html文件是否存在
+        if [ -f "daily/daily.html" ]; then
+          echo "找到daily/daily.html文件"
+          # 复制daily.html到根目录作为index.html
+          cp daily/daily.html index.html
+        else
+          echo "错误: 找不到daily/daily.html文件"
+          exit 1
+        fi
         
         # 提交更改
         git add index.html
