@@ -17,6 +17,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        ref: main
     - name: Set up Python 3.10
       uses: actions/setup-python@v4
       with:
@@ -37,4 +39,4 @@ jobs:
         MESSAGE=$(cat /tmp/update.log)
         COMMIT_MESSAGE="$MESSAGE"
         git diff-index --quiet HEAD || git commit -m "$(echo -e "$COMMIT_MESSAGE")"
-        git push
+        git push origin main
