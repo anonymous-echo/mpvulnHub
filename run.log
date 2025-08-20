@@ -4722,3 +4722,35 @@
 2025-08-20 16:24:08,466 - INFO - 已更新data.json，添加了 9 个URL
 2025-08-20 16:24:08,467 - INFO - 已创建每日报告: md/2025-08-20.md
 2025-08-20 16:24:08,467 - INFO - === 执行完成 ===
+2025-08-20 20:21:09,452 - INFO - === 开始执行微信文章归档工具 ===
+2025-08-20 20:21:09,453 - INFO - 数据文件: data.json
+2025-08-20 20:21:09,453 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2025-08-20 20:21:09,453 - INFO - 文档目录: doc
+2025-08-20 20:21:09,486 - INFO - 已加载 19423 条历史记录
+2025-08-20 20:21:09,486 - INFO - === 开始今日拉取 ===
+2025-08-20 20:21:09,486 - INFO - 开始获取Doonsec RSS
+2025-08-20 20:21:09,486 - INFO - 目标日期: 2025-08-20
+2025-08-20 20:21:11,299 - INFO - Doonsec RSS请求成功
+2025-08-20 20:21:11,302 - INFO - RSS中共有 200 个条目
+2025-08-20 20:21:11,302 - INFO - Doonsec获取到 200 个2025-08-20的微信文章URL
+2025-08-20 20:21:11,303 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2025/2025-08-20.md
+2025-08-20 20:21:11,339 - INFO - ChainReactors md文件下载状态码: 200
+2025-08-20 20:21:11,340 - INFO - ChainReactors获取到 218 个URL
+2025-08-20 20:21:11,340 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2025/2025-08-20.md
+2025-08-20 20:21:11,374 - INFO - BruceFeIix md文件下载状态码: 200
+2025-08-20 20:21:11,375 - INFO - BruceFeIix获取到 214 个URL
+2025-08-20 20:21:11,375 - INFO - === 开始处理 2025-08-20 的数据 ===
+2025-08-20 20:21:11,375 - INFO - Doonsec原始数据: 200 个
+2025-08-20 20:21:11,375 - INFO - ChainReactors原始数据: 218 个
+2025-08-20 20:21:11,375 - INFO - BruceFeIix原始数据: 214 个
+2025-08-20 20:21:11,375 - INFO - 开始处理Doonsec数据...
+2025-08-20 20:21:11,376 - INFO - 开始处理ChainReactors数据...
+2025-08-20 20:21:11,376 - INFO - 开始处理BruceFeIix数据...
+2025-08-20 20:21:11,376 - INFO - 去重后共 277 个URL待处理，跳过 355 个重复URL
+2025-08-20 20:21:11,376 - INFO - 去重后统计 - Doonsec: 143 个, ChainReactors: 134 个, BruceFeIix: 0 个
+2025-08-20 20:21:11,376 - INFO - === 开始关键词过滤 ===
+2025-08-20 20:21:11,386 - INFO - 关键词过滤: 匹配 0 个，跳过 277 个
+2025-08-20 20:21:11,386 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2025-08-20 20:21:11,386 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2025-08-20 20:21:11,418 - INFO - 已更新data.json，添加了 0 个URL
+2025-08-20 20:21:11,418 - INFO - === 执行完成 ===
