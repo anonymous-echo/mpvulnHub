@@ -74,18 +74,17 @@ jobs:
         git config --global user.email "791751568@qq.com"
         git config --global user.name "大清第一巴图鲁"
         
-        # 检查daily.html文件是否存在
-        if [ ! -f "daily/daily.html" ]; then
-          echo "错误: 找不到daily/daily.html文件"
-          exit 1
-        fi
-        
         # 显示当前分支和远程状态
         git branch -a
         git remote -v
         
         # 确保获取所有远程分支信息
         git fetch --all
+        
+        # 先保存main分支下的daily目录内容到临时位置
+        echo "备份main分支下的daily目录..."
+        mkdir -p temp_daily
+        cp -r daily/* temp_daily/
         
         # 检查是否存在gh-pages分支
         if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
@@ -94,10 +93,28 @@ jobs:
           git fetch origin gh-pages
           # 强制创建或切换到gh-pages分支
           git checkout -B gh-pages origin/gh-pages
-          # 复制daily.html到当前目录并重命名为index.html
-          cp daily/daily.html index.html
         else
           echo "创建新的gh-pages分支..."
+          # 创建并切换到新的gh-pages分支
+          git checkout --orphan gh-pages
+          # 删除所有文件，准备初始提交
+          git rm -rf .
+        fi
+        
+        # 从临时位置恢复daily目录内容
+        echo "恢复daily目录内容..."
+        mkdir -p daily
+        cp -r temp_daily/* daily/
+        rm -rf temp_daily
+        
+        # 检查daily.html文件是否存在
+        if [ ! -f "daily/daily.html" ]; then
+          echo "错误: 找不到daily/daily.html文件"
+          exit 1
+        fi
+        
+        # 复制daily.html到当前目录并重命名为index.html
+        cp daily/daily.html index.html
           # 创建新的gh-pages分支
           git checkout --orphan gh-pages
           # 删除所有文件，只保留必要的
