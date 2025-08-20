@@ -2,17 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 5篇
+  - ChainReactors: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 4篇
+- **威胁情报**: 2篇
 - **攻击技术**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,10 +66,20 @@
 
 ### Doonsec
 
-- [渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案)](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d) (发布日期: 2025-08-20)
-- [Star 4k+ 一款专注于渗透测试/红队作战的高性能漏洞扫描器更新|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874) (发布日期: 2025-08-20)
-- [“在TCP三次握手中注入七层攻击报文”的【技术可行性分析】](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf) (发布日期: 2025-08-20)
-- [【蓝队】漏洞全生命周期管理平台](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917) (发布日期: 2025-08-20)
+- [KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492502&idx=1&sn=ee81aeb9c4686297a61bd51da9da5a6c) (发布日期: 2025-08-20)
+- [Linux常见进程解析及其在应急响应中的重要性（附资源分享）](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486970&idx=1&sn=23fddafca6513d7d89d3bce83c090e08) (发布日期: 2025-08-20)
+- [别催了,红队课程-公开课试听课地址在这里.速看](https://mp.weixin.qq.com/s?__biz=MzU2NjgzMDM3Mg==&mid=2247494395&idx=1&sn=24d76560f5ded0495e34eec0dee407aa) (发布日期: 2025-08-20)
+- [CVE-2025-49001 飞致云 DataEase Postgresql JDBC Bypass 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf) (发布日期: 2025-08-20)
+- [迪普科技赋能：筑牢政务云安全基座，打造信创实践范本](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650382315&idx=1&sn=c2fe3b872a5d540a7347de55b909abd4) (发布日期: 2025-08-20)
+
+### ChainReactors
+
+- [ ] [伪装成Firefox银狐最新攻击样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493249&idx=1&sn=51459cb2cf394e8c7778c3680ac2f49f) (发布日期: 2025-08-20)
+- [ ] [思科提醒注意Firewall 管理中心满分漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=1&sn=e417e55b90ede28fbc35dfca8a455248) (发布日期: 2025-08-20)
+- [ ] [PostgreSQL 紧急修复Core Utilities 中的多个高危漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=2&sn=7eda1a64dd8447af46435bb0a2477ef2) (发布日期: 2025-08-20)
+- [ ] [【安全圈】PipeMagic：新型模块化后门被用于跨区域攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071256&idx=3&sn=cde6068145a6d1dc27ce536a034fdb38) (发布日期: 2025-08-20)
+- [ ] [【安全圈】Manpower与Workday相继披露数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071256&idx=4&sn=75a0619c75c0b841e23e857b467bc00d) (发布日期: 2025-08-20)
+- [ ] [柯尔特电信遭遇WarLock勒索软件团伙攻击 被盗数据正出售](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584298&idx=2&sn=86ee40ff3cca8682b5c7ad64c006433a) (发布日期: 2025-08-20)
 
 
 ## 🎯 威胁详情分析
@@ -73,15 +88,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 渗透测试|柳暗花明(记一次有趣的高危漏洞以及思考修复方案) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487738&idx=1&sn=742f3407278f34c8cb4a9d884e122c9d) |
-| 2 | Star 4k+ 一款专注于渗透测试/红队作战的高性能漏洞扫描器更新|工具分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493879&idx=1&sn=c7ee6d7309a546e429c17a4e10b88874) |
-| 3 | 【蓝队】漏洞全生命周期管理平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493803&idx=1&sn=10daa12b5a3523bf4a1ecc665890f917) |
+| 1 | KEDACOM phoenix监控平台 upload_fcgi 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492502&idx=1&sn=ee81aeb9c4686297a61bd51da9da5a6c](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492502&idx=1&sn=ee81aeb9c4686297a61bd51da9da5a6c) |
+| 2 | CVE-2025-49001 飞致云 DataEase Postgresql JDBC Bypass 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf) |
+| 3 |  ] [思科提醒注意Firewall 管理中心满分漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=1&sn=e417e55b90ede28fbc35dfca8a455248](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=1&sn=e417e55b90ede28fbc35dfca8a455248) |
+| 4 |  ] [PostgreSQL 紧急修复Core Utilities 中的多个高危漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=2&sn=7eda1a64dd8447af46435bb0a2477ef2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523839&idx=2&sn=7eda1a64dd8447af46435bb0a2477ef2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | “在TCP三次握手中注入七层攻击报文”的【技术可行性分析】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516128&idx=1&sn=e6031f7f4a26e825257e32d9afb4bcdf) |
+| 1 | CVE-2025-49001 飞致云 DataEase Postgresql JDBC Bypass 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486010&idx=1&sn=dc65f0890994f27d14f764d934026bcf) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Linux常见进程解析及其在应急响应中的重要性（附资源分享） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486970&idx=1&sn=23fddafca6513d7d89d3bce83c090e08](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486970&idx=1&sn=23fddafca6513d7d89d3bce83c090e08) |
+| 2 |  ] [伪装成Firefox银狐最新攻击样本分析与威胁情报 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493249&idx=1&sn=51459cb2cf394e8c7778c3680ac2f49f](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493249&idx=1&sn=51459cb2cf394e8c7778c3680ac2f49f) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】Manpower与Workday相继披露数据泄露事件 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071256&idx=4&sn=75a0619c75c0b841e23e857b467bc00d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071256&idx=4&sn=75a0619c75c0b841e23e857b467bc00d) |
 
 
 ## 📁 归档路径
@@ -97,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-20 01:27:17*
+*生成时间: 2025-08-20 04:23:17*
 *报告工具: 微信文章安全归档系统*
