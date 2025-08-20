@@ -17,6 +17,8 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     # 仅当触发的工作流成功时才运行
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
 
