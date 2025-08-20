@@ -44,13 +44,13 @@ jobs:
         echo "404 - Page not found" > gh-pages/404.html
 
     - name: Upload Pages artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./gh-pages
 
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v3
+      uses: actions/deploy-pages@v4
 
     - name: Commit and push if changed
       run: |
