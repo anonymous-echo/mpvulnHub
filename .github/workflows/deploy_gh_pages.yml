@@ -1,0 +1,90 @@
+# 此工作流会在update_daily.yml执行成功后触发，用于将daily.html部署到GitHub Pages
+
+name: Deploy to GitHub Pages
+
+on:
+  workflow_run:
+    workflows: ["Update_daily"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    # 仅当触发的工作流成功时才运行
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Configure GitHub Pages
+      uses: actions/configure-pages@v4
+
+    - name: Prepare Pages content
+      run: |
+        # 创建一个临时目录用于Pages部署
+        mkdir -p gh-pages
+        # 复制daily.html到临时目录并重命名为index.html
+        cp daily/daily.html gh-pages/index.html
+        # 创建404.html
+        echo "404 - Page not found" > gh-pages/404.html
+
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: ./gh-pages
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v3
+
+    - name: Commit and push if changed
+      run: |
+        # 配置Git
+        git config --global user.email "791751568@qq.com"
+        git config --global user.name "大清第一巴图鲁"
+        
+        # 检查是否存在gh-pages分支
+        if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
+          echo "gh-pages分支已存在，尝试更新..."
+          # 拉取现有gh-pages分支
+          git fetch origin gh-pages
+          git checkout gh-pages
+        else
+          echo "创建新的gh-pages分支..."
+          # 创建新的gh-pages分支
+          git checkout --orphan gh-pages
+          # 删除所有文件，只保留必要的
+          git rm -rf .
+          touch .gitkeep
+          git add .gitkeep
+          git commit -m "Initial gh-pages commit"
+        fi
+        
+        # 复制daily.html到根目录作为index.html
+        cp daily/daily.html index.html
+        
+        # 提交更改
+        git add index.html
+        git diff-index --quiet HEAD || git commit -m "Update GitHub Pages with latest daily report"
+        
+        # 推送更改到gh-pages分支
+        git push origin gh-pages
+
+    - name: Show deployment URL
+      run: |
+        echo "部署成功！访问地址: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
