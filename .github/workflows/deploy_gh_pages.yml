@@ -66,15 +66,15 @@ jobs:
           # 拉取现有gh-pages分支
           git fetch origin gh-pages
           git checkout gh-pages
-        else
-          echo "创建新的gh-pages分支..."
-          # 创建新的gh-pages分支
-          git checkout --orphan gh-pages
-          # 删除所有文件，只保留必要的
-          git rm -rf .
-          touch .gitkeep
-          git add .gitkeep
-          git commit -m "Initial gh-pages commit"
+        # else
+        #   echo "创建新的gh-pages分支..."
+        #   # 创建新的gh-pages分支
+        #   git checkout --orphan gh-pages
+        #   # 删除所有文件，只保留必要的
+        #   git rm -rf .
+        #   touch .gitkeep
+        #   git add .gitkeep
+        #   git commit -m "Initial gh-pages commit"
         fi
         
         # 复制daily.html到根目录作为index.html
