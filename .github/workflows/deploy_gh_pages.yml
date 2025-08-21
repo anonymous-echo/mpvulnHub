@@ -86,33 +86,24 @@ jobs:
         mkdir -p temp_daily
         cp -r daily/* temp_daily/
         
-        # 检查是否存在gh-pages分支
+        # 无论远程分支是否存在，先确保本地没有gh-pages分支
+        if git show-ref --verify --quiet refs/heads/gh-pages; then
+          echo "删除本地gh-pages分支..."
+          git branch -D gh-pages
+        fi
+        
+        # 检查是否存在远程gh-pages分支
         if git show-ref --verify --quiet refs/remotes/origin/gh-pages; then
-          echo "gh-pages分支已存在，尝试更新..."
-          # 拉取现有gh-pages分支
-          git fetch origin gh-pages
-          
-          # 检查本地是否已存在gh-pages分支
-          if git show-ref --verify --quiet refs/heads/gh-pages; then
-            echo "本地gh-pages分支已存在，切换到该分支..."
-            git checkout gh-pages
-            # 从远程分支拉取最新更改
-            git pull origin gh-pages
-          else
-            echo "本地gh-pages分支不存在，创建并切换..."
-            # 创建并切换到gh-pages分支
-            git checkout -b gh-pages origin/gh-pages
-          fi
+          echo "远程gh-pages分支已存在，从远程创建并切换..."
+          # 从远程分支创建并切换
+          git checkout -b gh-pages origin/gh-pages
         else
-          echo "创建新的gh-pages分支..."
-          # 确保本地没有gh-pages分支
-          if git show-ref --verify --quiet refs/heads/gh-pages; then
-            echo "删除本地gh-pages分支..."
-            git branch -D gh-pages
-          fi
-          # 创建并切换到新的gh-pages分支
+          echo "远程gh-pages分支不存在，创建新的orphan分支..."
+          # 创建并切换到新的orphan分支
           git checkout --orphan gh-pages
           # 删除所有文件，准备初始提交
+          git rm -rf .
+        fi
           git rm -rf .
         fi
         
