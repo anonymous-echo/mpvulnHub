@@ -2,16 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 25篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 1篇
+- **漏洞利用**: 12篇
+- **攻击技术**: 4篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,19 +65,66 @@
 
 ### Doonsec
 
-- [人工智能和勒索病毒](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489628&idx=1&sn=f7ef65e62c66cb1f9278314734cf84b0) (发布日期: 2025-08-21)
-- [情报分析案例过程详解，思路复盘总结](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650561986&idx=1&sn=22dab1fb42e61f1eeb0319806718de47) (发布日期: 2025-08-21)
-- [100页 云安全PPT合集](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289727&idx=2&sn=f2b275cf7373d388bdf229b40e8bacbb) (发布日期: 2025-08-21)
-- [AES 加密算法详解与 Python 实现](https://mp.weixin.qq.com/s?__biz=Mzg5NTcxODQ4OA==&mid=2247486327&idx=1&sn=0f9847c97a801cd770c95836996c52be) (发布日期: 2025-08-21)
+- [【云原生安全】Kubernetes下的SSRF漏洞发现与利用](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487075&idx=1&sn=1c1a1deecbf2d2fe89ad1dc0193a1e33) (发布日期: 2025-08-21)
+- [【字典合集】史上最全的渗透测试字典合集大全](https://mp.weixin.qq.com/s?__biz=Mzk0OTY2ODE1NA==&mid=2247485630&idx=1&sn=cf34abb61f23dbeae7ad394c63b3f986) (发布日期: 2025-08-21)
+- [勒索软件攻击后，25% 的安全主管被替换](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540033&idx=1&sn=8a9c242a3a5bcc1330e4c811f836f0bd) (发布日期: 2025-08-21)
+- [GB/T 22080-2025《网络安全技术 信息安全管理体系 要求》解读](https://mp.weixin.qq.com/s?__biz=Mzg4MDE0MzQzMw==&mid=2247488348&idx=1&sn=e1437ac982a2cfeab95a22a7d2ffda7b) (发布日期: 2025-08-21)
+- [重磅|南瑞网安正式成为国家信息安全漏洞库（CNNVD）技术支撑单位](https://mp.weixin.qq.com/s?__biz=MzkzODI1NjMyNQ==&mid=2247484739&idx=1&sn=075537f5d64c7f5222c8a7b56e248541) (发布日期: 2025-08-21)
+- [GB/T 22080-2025《网络安全技术 信息安全管理体系 要求》解读（可下载）](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521312&idx=1&sn=5cda146b8d8308083b532fc3c888e28e) (发布日期: 2025-08-21)
+- [【26级导师团招生】东北大学计算机科学与工程学院工业网络安全团队](https://mp.weixin.qq.com/s?__biz=MzU3MzQyOTU0Nw==&mid=2247496020&idx=1&sn=8f5c6208279fa40a440462d10ecea419) (发布日期: 2025-08-21)
+- [【业界动态】中央网信办发布国家重点研发计划“网络空间安全治理”重点专项2025年度项目申报指南](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996038&idx=1&sn=8e76935657df35f84eda1d4a11059013) (发布日期: 2025-08-21)
+- [医疗制药企业电子文档数据安全解决方案](https://mp.weixin.qq.com/s?__biz=MzA5MjE0OTQzMw==&mid=2666307300&idx=1&sn=7822b0d3d764cfe9bff9bf00b314a10c) (发布日期: 2025-08-21)
+- [微软限制中国企业获取网络安全漏洞事件](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487193&idx=1&sn=b3a91bff9da3271617d7798164a08320) (发布日期: 2025-08-21)
+- [走进“乌云”教科书书里的漏洞（3）【修改金额薅羊毛漏洞】](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485983&idx=1&sn=e28d8ae5f6ac99fe2e7aae8d03fdae09) (发布日期: 2025-08-21)
+- [$500 赏金：逻辑漏洞如何让金融应用实现静默登录](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507371&idx=1&sn=a9fd6f3ab55eb0bad8002ba19775137c) (发布日期: 2025-08-21)
+- [【2025.8保姆教程】飞牛NAS+FRP内网穿透+云服务器=本地搭建网站在公网直接访问（没有公网IP的请进）](https://mp.weixin.qq.com/s?__biz=Mzg3MTY5MzkzOQ==&mid=2247483947&idx=1&sn=a2d222d221f01a35d1ceea28ea66c1fb) (发布日期: 2025-08-21)
+- [智慧校园(安校易)管理系统 PPlugList.ashx SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29) (发布日期: 2025-08-21)
+- [【活动】LPSRC 翻倍活动开启！！最高三倍奖励！！！](https://mp.weixin.qq.com/s?__biz=Mzg5MjY0MTEzMQ==&mid=2247483867&idx=1&sn=1510503ac986d3f09167e8ff69f67db2) (发布日期: 2025-08-21)
+- [山石方案｜某高校数据中心站点安全防护解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661302320&idx=3&sn=90cbf13a9c11b9f5bc37c2f1a4786af2) (发布日期: 2025-08-21)
+- [面对域名过期漏洞，PyPI阻断了账户劫持与攻击风险](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584348&idx=1&sn=6d1432bd4fca14a647832a914daae622) (发布日期: 2025-08-21)
+- [现在的电脑病毒都去哪了？](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247498846&idx=1&sn=659c49a714451fa8ee931d8cf95e102b) (发布日期: 2025-08-21)
+- [“免费VPN”插件被曝后台监控用户屏幕，疑似间谍工具](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503942&idx=2&sn=10581eff4b768062479d6a4d8c5c6c46) (发布日期: 2025-08-21)
+- [代码安全审计工具 -- CodeVulnScan（8月15日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517189&idx=1&sn=f1fc32d190df8a5c829d3f81037fa189) (发布日期: 2025-08-21)
+- [未授权漏洞渗透技巧总结分享（五）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488528&idx=1&sn=b633fe9412531a69685b4dca268507e6) (发布日期: 2025-08-21)
+- [swagger 接口未授权漏洞怎么玩儿！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=3&sn=62ccfae62ae23134d68b6b056a78df97) (发布日期: 2025-08-21)
+- [【高危漏洞预警】Smartbi远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7) (发布日期: 2025-08-21)
+- [漏洞预警 | 西部数码NAS命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297) (发布日期: 2025-08-21)
+- [漏洞预警 | 用友NC任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=3&sn=9d9347e6ff2ab4a3b2866ebd98fd6eee) (发布日期: 2025-08-21)
 
 
 ## 🎯 威胁详情分析
 
-### 威胁情报
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 人工智能和勒索病毒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489628&idx=1&sn=f7ef65e62c66cb1f9278314734cf84b0](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489628&idx=1&sn=f7ef65e62c66cb1f9278314734cf84b0) |
+| 1 | 【云原生安全】Kubernetes下的SSRF漏洞发现与利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487075&idx=1&sn=1c1a1deecbf2d2fe89ad1dc0193a1e33](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487075&idx=1&sn=1c1a1deecbf2d2fe89ad1dc0193a1e33) |
+| 2 | 重磅|南瑞网安正式成为国家信息安全漏洞库（CNNVD）技术支撑单位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODI1NjMyNQ==&mid=2247484739&idx=1&sn=075537f5d64c7f5222c8a7b56e248541](https://mp.weixin.qq.com/s?__biz=MzkzODI1NjMyNQ==&mid=2247484739&idx=1&sn=075537f5d64c7f5222c8a7b56e248541) |
+| 3 | 微软限制中国企业获取网络安全漏洞事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487193&idx=1&sn=b3a91bff9da3271617d7798164a08320](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487193&idx=1&sn=b3a91bff9da3271617d7798164a08320) |
+| 4 | 走进“乌云”教科书书里的漏洞（3）【修改金额薅羊毛漏洞】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485983&idx=1&sn=e28d8ae5f6ac99fe2e7aae8d03fdae09](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485983&idx=1&sn=e28d8ae5f6ac99fe2e7aae8d03fdae09) |
+| 5 | $500 赏金：逻辑漏洞如何让金融应用实现静默登录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507371&idx=1&sn=a9fd6f3ab55eb0bad8002ba19775137c](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507371&idx=1&sn=a9fd6f3ab55eb0bad8002ba19775137c) |
+| 6 | 智慧校园(安校易)管理系统 PPlugList.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29) |
+| 7 | 面对域名过期漏洞，PyPI阻断了账户劫持与攻击风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584348&idx=1&sn=6d1432bd4fca14a647832a914daae622](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584348&idx=1&sn=6d1432bd4fca14a647832a914daae622) |
+| 8 | 未授权漏洞渗透技巧总结分享（五） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488528&idx=1&sn=b633fe9412531a69685b4dca268507e6](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488528&idx=1&sn=b633fe9412531a69685b4dca268507e6) |
+| 9 | swagger 接口未授权漏洞怎么玩儿！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=3&sn=62ccfae62ae23134d68b6b056a78df97](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=3&sn=62ccfae62ae23134d68b6b056a78df97) |
+| 10 | 【高危漏洞预警】Smartbi远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7) |
+| 11 | 漏洞预警 | 西部数码NAS命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297) |
+| 12 | 漏洞预警 | 用友NC任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=3&sn=9d9347e6ff2ab4a3b2866ebd98fd6eee](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=3&sn=9d9347e6ff2ab4a3b2866ebd98fd6eee) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【2025.8保姆教程】飞牛NAS+FRP内网穿透+云服务器=本地搭建网站在公网直接访问（没有公网IP的请进） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MTY5MzkzOQ==&mid=2247483947&idx=1&sn=a2d222d221f01a35d1ceea28ea66c1fb](https://mp.weixin.qq.com/s?__biz=Mzg3MTY5MzkzOQ==&mid=2247483947&idx=1&sn=a2d222d221f01a35d1ceea28ea66c1fb) |
+| 2 | 智慧校园(安校易)管理系统 PPlugList.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492511&idx=1&sn=fa78f180f4ab6634edb6a8467147fb29) |
+| 3 | 【高危漏洞预警】Smartbi远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611941&idx=4&sn=38f51a58920713225c4d44441de62ef7) |
+| 4 | 漏洞预警 | 西部数码NAS命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494152&idx=2&sn=4a50fde13f1be0ee87afef3ebd9e1297) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【活动】LPSRC 翻倍活动开启！！最高三倍奖励！！！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MjY0MTEzMQ==&mid=2247483867&idx=1&sn=1510503ac986d3f09167e8ff69f67db2](https://mp.weixin.qq.com/s?__biz=Mzg5MjY0MTEzMQ==&mid=2247483867&idx=1&sn=1510503ac986d3f09167e8ff69f67db2) |
 
 
 ## 📁 归档路径
@@ -88,8 +140,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +150,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-21 05:40:09*
+*生成时间: 2025-08-21 08:26:17*
 *报告工具: 微信文章安全归档系统*
