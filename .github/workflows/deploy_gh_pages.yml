@@ -104,8 +104,6 @@ jobs:
           # 删除所有文件，准备初始提交
           git rm -rf .
         fi
-          git rm -rf .
-        fi
         
         # 从临时位置恢复daily目录内容
         echo "恢复daily目录内容..."
@@ -119,30 +117,9 @@ jobs:
           exit 1
         fi
         
+        echo "找到daily/daily.html文件"
         # 复制daily.html到当前目录并重命名为index.html
         cp daily/daily.html index.html
-          # 创建新的gh-pages分支
-          git checkout --orphan gh-pages
-          # 删除所有文件，只保留必要的
-          git rm -rf .
-          # 复制daily.html到当前目录并重命名为index.html
-          cp daily/daily.html index.html
-          touch .gitkeep
-          git add index.html .gitkeep
-          git commit -m "Initial gh-pages commit with daily content"
-          # 推送新分支到远程
-          git push -u origin gh-pages
-        fi
-        
-        # 检查daily.html文件是否存在
-        if [ -f "daily/daily.html" ]; then
-          echo "找到daily/daily.html文件"
-          # 复制daily.html到根目录作为index.html
-          cp daily/daily.html index.html
-        else
-          echo "错误: 找不到daily/daily.html文件"
-          exit 1
-        fi
         
         # 提交更改
         git add index.html
