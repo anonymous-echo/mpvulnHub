@@ -2,22 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **安全运营**: 2篇
-- **信息泄露**: 2篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,17 +62,7 @@
 
 ### Doonsec
 
-- [【资讯】北京市政数局发布《关于征集数据流通安全治理典型案例的通知》](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555178&idx=4&sn=092f33dc27cf5d2e8da52075b75bb8a6) (发布日期: 2025-08-22)
-- [健身 APP 惊现漏洞链，500 万邮箱数据岌岌可危！！！](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485862&idx=1&sn=7f0f15f5d4a9884a1b331ed8a461787f) (发布日期: 2025-08-22)
-- [DLL劫持漏洞挖掘以及实现白+黑](https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485113&idx=1&sn=bd447c8599e5029a3d3948883f142d9b) (发布日期: 2025-08-22)
-- [【实战SRC】漏洞挖掘之XSS漏洞案例](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4) (发布日期: 2025-08-22)
-- [DLL劫持漏洞挖掘以及实现白+黑](https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485110&idx=1&sn=b1b70e9f09c2ff8386bff470515bfb89) (发布日期: 2025-08-22)
-- [2025软件供应链安全技术路线未来趋势预测](https://mp.weixin.qq.com/s?__biz=MzI2MjY2NTM0MA==&mid=2247492761&idx=1&sn=03de98de2bb189054740e9697e641379) (发布日期: 2025-08-22)
-- [麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574605&idx=1&sn=9f8db0eca6b2c22c6eb76b856ef63bbe) (发布日期: 2025-08-22)
-- [大模型生态的数据泄露危机：从向量数据库到AI助手的“失控链”](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499059&idx=1&sn=0f07aebaa9ee52530fc3c8e3e845c70e) (发布日期: 2025-08-22)
-- [【业界动态】新态势·新实战 | CSOP 2025 网络安全运营实战大会在京开幕](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996062&idx=2&sn=53a1f550c72d2d00a290a56265f40b58) (发布日期: 2025-08-22)
-- [网络安全意识培训PPT（领导版）](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522508&idx=1&sn=d7aedaedbf0733014ff54adaf14e458d) (发布日期: 2025-08-22)
-- [Europol悬赏5万骗局揭露：勒索软件犯罪团伙的新型心理战](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486634&idx=1&sn=e651b9953a93fedd4b85a894c483d58c) (发布日期: 2025-08-22)
+- [CVE-2024-21762 FortiOS RCE 复现与分析](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) (发布日期: 2025-08-22)
 
 
 ## 🎯 威胁详情分析
@@ -85,37 +71,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 健身 APP 惊现漏洞链，500 万邮箱数据岌岌可危！！！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485862&idx=1&sn=7f0f15f5d4a9884a1b331ed8a461787f](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485862&idx=1&sn=7f0f15f5d4a9884a1b331ed8a461787f) |
-| 2 | DLL劫持漏洞挖掘以及实现白+黑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485113&idx=1&sn=bd447c8599e5029a3d3948883f142d9b](https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485113&idx=1&sn=bd447c8599e5029a3d3948883f142d9b) |
-| 3 | 【实战SRC】漏洞挖掘之XSS漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4) |
-| 4 | DLL劫持漏洞挖掘以及实现白+黑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485110&idx=1&sn=b1b70e9f09c2ff8386bff470515bfb89](https://mp.weixin.qq.com/s?__biz=MzkxMjg3MjkyOA==&mid=2247485110&idx=1&sn=b1b70e9f09c2ff8386bff470515bfb89) |
-| 5 | 麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574605&idx=1&sn=9f8db0eca6b2c22c6eb76b856ef63bbe](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574605&idx=1&sn=9f8db0eca6b2c22c6eb76b856ef63bbe) |
+| 1 | CVE-2024-21762 FortiOS RCE 复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【实战SRC】漏洞挖掘之XSS漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【实战SRC】漏洞挖掘之XSS漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488557&idx=1&sn=c0fde2a563e2e3df0f90eb7df494dea4) |
-| 2 | 【业界动态】新态势·新实战 | CSOP 2025 网络安全运营实战大会在京开幕 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996062&idx=2&sn=53a1f550c72d2d00a290a56265f40b58](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996062&idx=2&sn=53a1f550c72d2d00a290a56265f40b58) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574605&idx=1&sn=9f8db0eca6b2c22c6eb76b856ef63bbe](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574605&idx=1&sn=9f8db0eca6b2c22c6eb76b856ef63bbe) |
-| 2 | 大模型生态的数据泄露危机：从向量数据库到AI助手的“失控链” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499059&idx=1&sn=0f07aebaa9ee52530fc3c8e3e845c70e](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499059&idx=1&sn=0f07aebaa9ee52530fc3c8e3e845c70e) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2025软件供应链安全技术路线未来趋势预测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MjY2NTM0MA==&mid=2247492761&idx=1&sn=03de98de2bb189054740e9697e641379](https://mp.weixin.qq.com/s?__biz=MzI2MjY2NTM0MA==&mid=2247492761&idx=1&sn=03de98de2bb189054740e9697e641379) |
+| 1 | CVE-2024-21762 FortiOS RCE 复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) |
 
 
 ## 📁 归档路径
@@ -131,8 +93,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -141,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-22 16:23:17*
+*生成时间: 2025-08-22 20:20:39*
 *报告工具: 微信文章安全归档系统*
