@@ -2,21 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 5篇
-  - ChainReactors: 6篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +60,9 @@
 
 ### Doonsec
 
-- [红队快速扫描js文件提取工具 -- jsapiscan（8月15日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517196&idx=1&sn=42fbd0391233735cf58287e5fcb23b17) (发布日期: 2025-08-22)
-- [Agentic AI是否能化解网络安全危机?|研究员发现5G网络安全漏洞：可实时嗅探流量、拒绝服务、网络降级](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=2&sn=8329494513383aef45c789b0fc88460d) (发布日期: 2025-08-22)
-- [Linux内核netfilter漏洞可导致攻击者权限提升](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=3&sn=46253be4b3aa169c358cdcd799cc154e) (发布日期: 2025-08-22)
-- [漏洞预警|Windows被曝休眠中的IPv6可被利用以劫持网络](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489214&idx=1&sn=5d5333cebdb9c5e58ae31911d40c1b4c) (发布日期: 2025-08-22)
-- [红队工具｜攻防神器！Dshell 一款多平台，原生支持Linux上线&socks5反向代理的c2工具](https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488295&idx=1&sn=c17636911ad6a51d14f001c38b7b145d) (发布日期: 2025-08-22)
-
-### ChainReactors
-
-- [ ] [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=1&sn=db5c1855865263ca7f38add61146ead3) (发布日期: 2025-08-22)
-- [ ] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce) (发布日期: 2025-08-22)
-- [ ] [Swagger UI 的隐藏陷阱，XSS 注入一击即中（CVE-2025-8191）](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74) (发布日期: 2025-08-22)
-- [ ] [下载量达 3000 万次的 npm 软件包如何传播恶意软件](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512670&idx=1&sn=e3dbdf3adafe203dff4b45c5b21e3040) (发布日期: 2025-08-22)
-- [ ] [中秋第一趴 | 专属SRC福利活动速度冲！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509115&idx=2&sn=7c5479a9e9f4526d1c30d57ea28f3282) (发布日期: 2025-08-22)
-- [ ] [【漏洞通告】Commvault 未授权远程代码执行漏洞(CVE-2025-57790)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633) (发布日期: 2025-08-22)
+- [Clash Verge局域网共享VPN，不限设备共享代理](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247484994&idx=1&sn=394a5b1a86de7b7d1203607d6a91c2c1) (发布日期: 2025-08-22)
+- [活动回顾 ｜BlockSec CEO亮相南洋区块链大会，解析稳定币安全合规与Web3-AI融合](https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247489631&idx=1&sn=6f342756b251b3aae3c5271dca1467c7) (发布日期: 2025-08-22)
+- [空白页面到未授权获取token在到垂直越权漏洞挖掘之旅](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483926&idx=1&sn=ab0b20a013f81d5d5360b1638866479d) (发布日期: 2025-08-22)
 
 
 ## 🎯 威胁详情分析
@@ -87,27 +71,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Agentic AI是否能化解网络安全危机?|研究员发现5G网络安全漏洞：可实时嗅探流量、拒绝服务、网络降级 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=2&sn=8329494513383aef45c789b0fc88460d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=2&sn=8329494513383aef45c789b0fc88460d) |
-| 2 | Linux内核netfilter漏洞可导致攻击者权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=3&sn=46253be4b3aa169c358cdcd799cc154e](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611952&idx=3&sn=46253be4b3aa169c358cdcd799cc154e) |
-| 3 | 漏洞预警|Windows被曝休眠中的IPv6可被利用以劫持网络 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489214&idx=1&sn=5d5333cebdb9c5e58ae31911d40c1b4c](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489214&idx=1&sn=5d5333cebdb9c5e58ae31911d40c1b4c) |
-| 4 |  ] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce) |
-| 5 |  ] [Swagger UI 的隐藏陷阱，XSS 注入一击即中（CVE-2025-8191） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74) |
-| 6 |  ] [【漏洞通告】Commvault 未授权远程代码执行漏洞(CVE-2025-57790) | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=1&sn=db5c1855865263ca7f38add61146ead3](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=1&sn=db5c1855865263ca7f38add61146ead3) |
-| 2 |  ] [.NET 旧威胁新挑战：2025年 SQL 注入漏洞攻与防 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500341&idx=3&sn=435d7f05bb9e8a523d92cbcfa4a297ce) |
-| 3 |  ] [Swagger UI 的隐藏陷阱，XSS 注入一击即中（CVE-2025-8191） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484578&idx=1&sn=c7566697c939d878ee985fb93b6eaf74) |
-| 4 |  ] [【漏洞通告】Commvault 未授权远程代码执行漏洞(CVE-2025-57790) | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524548&idx=1&sn=dbcaf48999dd7953424a331e925d3633) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [中秋第一趴 | 专属SRC福利活动速度冲！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509115&idx=2&sn=7c5479a9e9f4526d1c30d57ea28f3282](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509115&idx=2&sn=7c5479a9e9f4526d1c30d57ea28f3282) |
+| 1 | 空白页面到未授权获取token在到垂直越权漏洞挖掘之旅 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483926&idx=1&sn=ab0b20a013f81d5d5360b1638866479d](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483926&idx=1&sn=ab0b20a013f81d5d5360b1638866479d) |
 
 
 ## 📁 归档路径
@@ -123,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -133,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-22 04:21:59*
+*生成时间: 2025-08-22 08:26:24*
 *报告工具: 微信文章安全归档系统*
