@@ -19527,5 +19527,22 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5OTg4MTIxMw==&mid=2247504504&idx=1&sn=2fcd850efa5b5de00d55e0854a769e2e": "CertiK《2025 Skynet RWA安全报告》（附报告全文链接）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519687&idx=1&sn=fdda03ac4c79a261d57c79578a919d52": "SRC实战|置空鉴权字段的妙用",
     "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247626831&idx=2&sn=6750780905e0934e94130d1f0806fda0": "全国网络安全标准化技术委员会：数据安全国家标准体系（2025版）",
-    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230": "【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265"
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230": "【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507132&idx=1&sn=1e4a469385d2e83702944202a8ab8ff2": "图形化安服/渗透测试报告自动生成工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=1&sn=2ce6cdd60e79944a30aaeaaa10eac016": "苹果修复了第七个被主动利用的零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=2&sn=f87a13c12b66b41a5db7c36b8944bc16": "黑客利用Apache ActiveMQ漏洞部署DripDropper恶意软件，请及时修补系统以规避检测风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=3&sn=38ffa062456e79f00f6c33dd26f413d9": "美国联邦调查局披露：俄罗斯关联组织Static Tundra利用旧版思科漏洞实施网络间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486499&idx=1&sn=ff6be2bd7cfee9434b08b76bd0d793b8": "【渗透测试】全网最全爆破字典合集",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492742&idx=1&sn=07c2f4ca22ff0aeac5ae6b9a6419f363": "新APT组织Curly COMrades针对地缘政治热点地区展开攻击活动——每周威胁情报动态第236期（08.15-08.21）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491284&idx=1&sn=865884431f18938668728db998c1ad9a": "幻影|一款漏洞挖掘的辅助工具|收集中的隐藏接口和敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487188&idx=1&sn=1b5b05bce995e3e0d068b967a8b2313f": "Nginx 代理安全防护实用指南：从基础配置到风险规避",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495361&idx=1&sn=48283073b325e360823da8dec27a7508": "手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796107&idx=3&sn=80497881df136ccc40143921e99fab68": "麒麟勒索软件团伙入侵日产设计公司CBI窃取4TB机密数据",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5": "EDUSRC、CNVD挖洞技巧分享",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NDg5NjY0OA==&mid=2247491522&idx=1&sn=ed53d1f8dfa7702cac55929a8c54d8d2": "大语言模型后门威胁综述",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493930&idx=1&sn=c911ce1270a745a9a98775ab13e7b289": "红队新神器！平替Vshell/CS新增支持Linux上线功能|全新Rshell跨平台多协议C2框架",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524746&idx=3&sn=79b99c59e7b7fd30e9611f4a9cdfbb53": "数据安全&合规证书这里全都有！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493363&idx=1&sn=c351817672b2a90abd50ca44b3c4b824": "新一波 Android 恶意软件通过 NFC 中继欺诈、呼叫劫持和 Root 漏洞袭击银行",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901": "黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117683&idx=1&sn=fec53f3aef55f61718118b5daa4bde26": "网络安全知识：什么是企业安全？"
 }
