@@ -1,18 +1,21 @@
-# 2025-08-21 安全威胁态势报告
+# 2025-08-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 7篇
+- **安全运营**: 2篇
 - **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -61,7 +64,23 @@
 
 ### Doonsec
 
-- [【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230) (发布日期: 2025-08-21)
+- [图形化安服/渗透测试报告自动生成工具](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507132&idx=1&sn=1e4a469385d2e83702944202a8ab8ff2) (发布日期: 2025-08-22)
+- [苹果修复了第七个被主动利用的零日漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=1&sn=2ce6cdd60e79944a30aaeaaa10eac016) (发布日期: 2025-08-22)
+- [黑客利用Apache ActiveMQ漏洞部署DripDropper恶意软件，请及时修补系统以规避检测风险](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=2&sn=f87a13c12b66b41a5db7c36b8944bc16) (发布日期: 2025-08-22)
+- [美国联邦调查局披露：俄罗斯关联组织Static Tundra利用旧版思科漏洞实施网络间谍活动](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=3&sn=38ffa062456e79f00f6c33dd26f413d9) (发布日期: 2025-08-22)
+- [【渗透测试】全网最全爆破字典合集](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486499&idx=1&sn=ff6be2bd7cfee9434b08b76bd0d793b8) (发布日期: 2025-08-22)
+- [新APT组织Curly COMrades针对地缘政治热点地区展开攻击活动——每周威胁情报动态第236期（08.15-08.21）](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492742&idx=1&sn=07c2f4ca22ff0aeac5ae6b9a6419f363) (发布日期: 2025-08-22)
+- [幻影|一款漏洞挖掘的辅助工具|收集中的隐藏接口和敏感信息](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491284&idx=1&sn=865884431f18938668728db998c1ad9a) (发布日期: 2025-08-22)
+- [Nginx 代理安全防护实用指南：从基础配置到风险规避](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487188&idx=1&sn=1b5b05bce995e3e0d068b967a8b2313f) (发布日期: 2025-08-22)
+- [手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495361&idx=1&sn=48283073b325e360823da8dec27a7508) (发布日期: 2025-08-22)
+- [麒麟勒索软件团伙入侵日产设计公司CBI窃取4TB机密数据](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796107&idx=3&sn=80497881df136ccc40143921e99fab68) (发布日期: 2025-08-22)
+- [EDUSRC、CNVD挖洞技巧分享](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5) (发布日期: 2025-08-22)
+- [大语言模型后门威胁综述](https://mp.weixin.qq.com/s?__biz=MzI2NDg5NjY0OA==&mid=2247491522&idx=1&sn=ed53d1f8dfa7702cac55929a8c54d8d2) (发布日期: 2025-08-22)
+- [红队新神器！平替Vshell/CS新增支持Linux上线功能|全新Rshell跨平台多协议C2框架](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493930&idx=1&sn=c911ce1270a745a9a98775ab13e7b289) (发布日期: 2025-08-22)
+- [数据安全&合规证书这里全都有！](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524746&idx=3&sn=79b99c59e7b7fd30e9611f4a9cdfbb53) (发布日期: 2025-08-22)
+- [新一波 Android 恶意软件通过 NFC 中继欺诈、呼叫劫持和 Root 漏洞袭击银行](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493363&idx=1&sn=c351817672b2a90abd50ca44b3c4b824) (发布日期: 2025-08-22)
+- [黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901) (发布日期: 2025-08-22)
+- [网络安全知识：什么是企业安全？](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117683&idx=1&sn=fec53f3aef55f61718118b5daa4bde26) (发布日期: 2025-08-22)
 
 
 ## 🎯 威胁详情分析
@@ -70,18 +89,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230) |
+| 1 | 苹果修复了第七个被主动利用的零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=1&sn=2ce6cdd60e79944a30aaeaaa10eac016](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=1&sn=2ce6cdd60e79944a30aaeaaa10eac016) |
+| 2 | 黑客利用Apache ActiveMQ漏洞部署DripDropper恶意软件，请及时修补系统以规避检测风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=2&sn=f87a13c12b66b41a5db7c36b8944bc16](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=2&sn=f87a13c12b66b41a5db7c36b8944bc16) |
+| 3 | 美国联邦调查局披露：俄罗斯关联组织Static Tundra利用旧版思科漏洞实施网络间谍活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=3&sn=38ffa062456e79f00f6c33dd26f413d9](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494578&idx=3&sn=38ffa062456e79f00f6c33dd26f413d9) |
+| 4 | 幻影|一款漏洞挖掘的辅助工具|收集中的隐藏接口和敏感信息 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491284&idx=1&sn=865884431f18938668728db998c1ad9a](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491284&idx=1&sn=865884431f18938668728db998c1ad9a) |
+| 5 | EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5) |
+| 6 | 新一波 Android 恶意软件通过 NFC 中继欺诈、呼叫劫持和 Root 漏洞袭击银行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493363&idx=1&sn=c351817672b2a90abd50ca44b3c4b824](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493363&idx=1&sn=c351817672b2a90abd50ca44b3c4b824) |
+| 7 | 黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490633&idx=1&sn=6a601fac7075ae3ef9c0b5a7c598b230) |
+| 1 | 黑客组织涉嫌在暗网兜售Windows零日远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523073&idx=1&sn=dcb49d3586ee0f376f097d3a5e23f901) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 新APT组织Curly COMrades针对地缘政治热点地区展开攻击活动——每周威胁情报动态第236期（08.15-08.21） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492742&idx=1&sn=07c2f4ca22ff0aeac5ae6b9a6419f363](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492742&idx=1&sn=07c2f4ca22ff0aeac5ae6b9a6419f363) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495361&idx=1&sn=48283073b325e360823da8dec27a7508](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495361&idx=1&sn=48283073b325e360823da8dec27a7508) |
+| 2 | EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490648&idx=1&sn=c39a1c80b16ca596f92337d224a431a5) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-21/`
+文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-22/`
 
 ## 🔗 数据源说明
 
@@ -92,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -102,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-21 20:20:34*
+*生成时间: 2025-08-22 01:26:57*
 *报告工具: 微信文章安全归档系统*
