@@ -1,19 +1,22 @@
-# 2025-08-22 安全威胁态势报告
+# 2025-08-23 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
+- **攻击技术**: 4篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
 - **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,7 +65,17 @@
 
 ### Doonsec
 
-- [CVE-2024-21762 FortiOS RCE 复现与分析](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) (发布日期: 2025-08-22)
+- [信息收集实战，进入某校内网](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519458&idx=1&sn=bcaf0b71ba4a856d725b35c661d4b4bc) (发布日期: 2025-08-23)
+- [WordPress Cloudflare Image Resizing 插件存在前台代码执行漏洞(RCE)](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc) (发布日期: 2025-08-23)
+- [通过未净化的 SVG 文件上传实现的存储型 X-S-S](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507391&idx=1&sn=4f1530f1ffc9457375c7fb70be76c5c7) (发布日期: 2025-08-23)
+- [华测监测预警系统2.2 sysGroupEdit.aspx SQL注入](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486022&idx=1&sn=a37cffa9ad03765b6d0bf6f731eeec17) (发布日期: 2025-08-23)
+- [【转载】2022年首届数据安全大赛 | 赛道一数据安全大闯关预赛圆满结束](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493673&idx=1&sn=87221157c7317e1af6dcf23d3e3c34d8) (发布日期: 2025-08-23)
+- [【转载】2022年首届数据安全大赛——数据安全大闯关 | 线上赛参赛手册及注意事项说明](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493673&idx=2&sn=7ac727fccbdac1bb8114ff0ddf5b6515) (发布日期: 2025-08-23)
+- [【转载】首届全国数据安全大赛火热报名中欢迎大家积极报名参与](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493673&idx=3&sn=a9ad5705d8ec78217b21ce1810033957) (发布日期: 2025-08-23)
+- [【转载】首届数据安全大赛报名活动正式启动](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493673&idx=4&sn=1bd5a34ba863d9bed32cad73bb5c2ed5) (发布日期: 2025-08-23)
+- [从js逆向到sql注入waf绕过到net审计-edu证书漏洞](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a) (发布日期: 2025-08-23)
+- [【安全圈】1Password 等 6 款主流密码管理器曝严重漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071344&idx=3&sn=56c8e0d0ac4d914dd76ed35a22fd6a7b) (发布日期: 2025-08-23)
+- [全球APT攻击格局：国内外黑客组织手法与特征深度解析](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516193&idx=1&sn=ee01f3dec31e080a3cd4bb8e177f78d1) (发布日期: 2025-08-23)
 
 
 ## 🎯 威胁详情分析
@@ -71,18 +84,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2024-21762 FortiOS RCE 复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) |
+| 1 | WordPress Cloudflare Image Resizing 插件存在前台代码执行漏洞(RCE) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc) |
+| 2 | 从js逆向到sql注入waf绕过到net审计-edu证书漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a) |
+| 3 | 【安全圈】1Password 等 6 款主流密码管理器曝严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071344&idx=3&sn=56c8e0d0ac4d914dd76ed35a22fd6a7b](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071344&idx=3&sn=56c8e0d0ac4d914dd76ed35a22fd6a7b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2024-21762 FortiOS RCE 复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488803&idx=1&sn=475878fd84419d0815410886c3acbf28) |
+| 1 | 信息收集实战，进入某校内网 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519458&idx=1&sn=bcaf0b71ba4a856d725b35c661d4b4bc](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519458&idx=1&sn=bcaf0b71ba4a856d725b35c661d4b4bc) |
+| 2 | WordPress Cloudflare Image Resizing 插件存在前台代码执行漏洞(RCE) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490303&idx=1&sn=2d39c88f9338a42004e16f8cccc107bc) |
+| 3 | 华测监测预警系统2.2 sysGroupEdit.aspx SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486022&idx=1&sn=a37cffa9ad03765b6d0bf6f731eeec17](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486022&idx=1&sn=a37cffa9ad03765b6d0bf6f731eeec17) |
+| 4 | 从js逆向到sql注入waf绕过到net审计-edu证书漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494171&idx=1&sn=0d589d01dfbb068e53f9ad9c22676d7a) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球APT攻击格局：国内外黑客组织手法与特征深度解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516193&idx=1&sn=ee01f3dec31e080a3cd4bb8e177f78d1](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516193&idx=1&sn=ee01f3dec31e080a3cd4bb8e177f78d1) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-22/`
+文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-23/`
 
 ## 🔗 数据源说明
 
@@ -93,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-22 20:20:39*
+*生成时间: 2025-08-23 01:24:54*
 *报告工具: 微信文章安全归档系统*
