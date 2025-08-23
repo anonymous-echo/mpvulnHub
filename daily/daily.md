@@ -2,23 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 8篇
-  - ChainReactors: 16篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **威胁情报**: 3篇
-- **安全运营**: 3篇
 - **攻击技术**: 2篇
-- **信息泄露**: 2篇
 
 ### 漏洞类型分析
-- **网络攻击**: 3篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,80 +60,20 @@
 
 ### Doonsec
 
-- [AI成黑客新武器？俄罗斯APT28新型恶意软件“LAMEHUG”曝光！](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486631&idx=1&sn=322670ff0a5e2ff828e701a4bd83f0cb) (发布日期: 2025-08-23)
-- [网络安全意识培训课件（员工版）](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523098&idx=1&sn=2a9c348996401b325c79840f33337354) (发布日期: 2025-08-23)
-- [20个网站备份泄漏漏洞挖掘技巧！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611962&idx=3&sn=7b31396172279e11785ad4aa11757279) (发布日期: 2025-08-23)
-- [FastBurp 是一款基于浏览器扩展的轻量级HTTP/HTTPS请求拦截、重放、分析和AI辅助安全分析浏览器插件](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611962&idx=4&sn=8b28cc4468e40ab027cd93d9e192ab3d) (发布日期: 2025-08-23)
-- [【Java代码审计】手把手带你学，小白也能变大神！更有重磅网安就业班，未就业不满意免费退！](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495016&idx=1&sn=68daf98143e2ece5612b36355e503760) (发布日期: 2025-08-23)
-- [【实战SRC】漏洞挖掘之docker未授权](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92) (发布日期: 2025-08-23)
-- [【Java代码审计】手把手带你学，小白也能变大神！更有重磅网安就业班，未就业不满意免费退！](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513475&idx=1&sn=d41ad1fbcd314b44a4cba606ce88e978) (发布日期: 2025-08-23)
-- [Web Exploit Tool【图形化综合Web漏洞利用工具】](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517712&idx=1&sn=aed7f90b75de9adac5211837b7477f31) (发布日期: 2025-08-23)
-
-### ChainReactors
-
-- [ ] [Lockbit Linux ESXi 勒索软件变种规避技术与加密机制揭示](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788965&idx=1&sn=6ec1ac8297c8a5abe52405849fbb3244) (发布日期: 2025-08-23)
-- [ ] [【已复现】Docker Desktop 未授权访问漏洞(CVE-2025-9074)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503830&idx=1&sn=99d1c79a77988821bcf94a3f4fd13498) (发布日期: 2025-08-23)
-- [ ] [Commvault 预认证利用链可用于实施RCE攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523861&idx=1&sn=d7b88fdc84ab443ced7ac3c7ee6786b6) (发布日期: 2025-08-23)
-- [ ] [每周高级威胁情报解读(2025.08.15~08.21)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515688&idx=1&sn=00c6ffb4a9738356415eed522c78dce9) (发布日期: 2025-08-23)
-- [ ] [一套利用链报价超1.4亿元！这家公司战略储备零日漏洞](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514884&idx=1&sn=5cd4226955120777c874071a82aa3564) (发布日期: 2025-08-23)
-- [ ] [【已复现】Docker Desktop Engine API 未授权访问漏洞安全通告(CVE-2025-9074)](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492932&idx=1&sn=b4f9abb7a784d419f0a0ce226e3cee57) (发布日期: 2025-08-23)
-- [ ] [别再被 MISC 题目劝退！20小时吃透加密/隐写/取证，竞赛拿分稳了](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598803&idx=4&sn=556fd8ded11821d5b79fc4cea7526dad) (发布日期: 2025-08-23)
-- [ ] [美电信巨头同意支付约1.77亿美元，以解决因两次数据泄露引发的集体诉讼](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247500711&idx=1&sn=62814627a25d7e408d23faf2a889bee0) (发布日期: 2025-08-23)
-- [ ] [微软拟限制我国企业获取安全漏洞通知权限；曾对DeepSeek发起攻击的22岁黑客在美被捕；日产汽车4TB机密数据泄露 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30) (发布日期: 2025-08-23)
-- [ ] [.NET MVC 漏洞挖掘，通过匿名访问实现权限绕过](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500352&idx=3&sn=c4539cf2099c369f41644cb638b5d953) (发布日期: 2025-08-23)
-- [ ] [关于举办“2025年网络攻防专项行动总结提升暨蓝队防守能力强化培训”的通知](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247868&idx=3&sn=3e3ebc473e8f47d2ccc547ba5a1377a5) (发布日期: 2025-08-23)
-- [ ] [聚焦 | CSOP 2025网络安全运营实战大会在京开幕](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247868&idx=4&sn=a8e2aba51bbda65b35e15d4b44cf0d03) (发布日期: 2025-08-23)
-- [ ] [威胁情报：Clickfix 钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247502965&idx=1&sn=5189e40ba499deb9bd01652cde37345a) (发布日期: 2025-08-23)
-- [ ] [入选！长亭科技与国泰海通共创“智慧安全运营平台项目”获工信部认可](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389616&idx=2&sn=8292861ece1575d886a00e75f56e03a3) (发布日期: 2025-08-23)
-- [ ] [Vulinbox SQL 注入攻防实录：靶场通关与技巧拆解](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528561&idx=1&sn=704eef09961f37b3ab14d6e70b7072cf) (发布日期: 2025-08-23)
-- [ ] [价值1.4 W人民币漏洞！骚！](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498084&idx=1&sn=d2e8070514f4eaf7b4ac884804facfe6) (发布日期: 2025-08-23)
+- [提示词注入的分类介绍](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486269&idx=1&sn=3f064d32ad1f2a4b1a5a58914f957e06) (发布日期: 2025-08-23)
+- [SSTI（Server-side template injection） 模板注入](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485363&idx=1&sn=298bcf15df9ab5d2dab937b6ff2b632f) (发布日期: 2025-08-23)
+- [红队公开课｜各种API FUZZ的隐藏技巧](https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488298&idx=1&sn=380f2178dcb406439be051481c1e6dcf) (发布日期: 2025-08-23)
+- [Windows安全机制与EDR（终端检测与响应）绕过技术](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502069&idx=3&sn=4d4995d7e11ad8abee2961ecd686dd81) (发布日期: 2025-08-23)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 20个网站备份泄漏漏洞挖掘技巧！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611962&idx=3&sn=7b31396172279e11785ad4aa11757279](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611962&idx=3&sn=7b31396172279e11785ad4aa11757279) |
-| 2 | 【实战SRC】漏洞挖掘之docker未授权 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92) |
-| 3 | Web Exploit Tool【图形化综合Web漏洞利用工具】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517712&idx=1&sn=aed7f90b75de9adac5211837b7477f31](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517712&idx=1&sn=aed7f90b75de9adac5211837b7477f31) |
-| 4 |  ] [【已复现】Docker Desktop 未授权访问漏洞(CVE-2025-9074)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503830&idx=1&sn=99d1c79a77988821bcf94a3f4fd13498](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503830&idx=1&sn=99d1c79a77988821bcf94a3f4fd13498) |
-| 5 |  ] [一套利用链报价超1.4亿元！这家公司战略储备零日漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514884&idx=1&sn=5cd4226955120777c874071a82aa3564](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514884&idx=1&sn=5cd4226955120777c874071a82aa3564) |
-| 6 |  ] [【已复现】Docker Desktop Engine API 未授权访问漏洞安全通告(CVE-2025-9074) | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492932&idx=1&sn=b4f9abb7a784d419f0a0ce226e3cee57](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492932&idx=1&sn=b4f9abb7a784d419f0a0ce226e3cee57) |
-| 7 |  ] [微软拟限制我国企业获取安全漏洞通知权限；曾对DeepSeek发起攻击的22岁黑客在美被捕；日产汽车4TB机密数据泄露 | 牛览 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30) |
-| 8 |  ] [.NET MVC 漏洞挖掘，通过匿名访问实现权限绕过 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500352&idx=3&sn=c4539cf2099c369f41644cb638b5d953](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500352&idx=3&sn=c4539cf2099c369f41644cb638b5d953) |
-| 9 |  ] [价值1.4 W人民币漏洞！骚！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498084&idx=1&sn=d2e8070514f4eaf7b4ac884804facfe6](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498084&idx=1&sn=d2e8070514f4eaf7b4ac884804facfe6) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [Commvault 预认证利用链可用于实施RCE攻击 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523861&idx=1&sn=d7b88fdc84ab443ced7ac3c7ee6786b6](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523861&idx=1&sn=d7b88fdc84ab443ced7ac3c7ee6786b6) |
-| 2 |  ] [Vulinbox SQL 注入攻防实录：靶场通关与技巧拆解 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528561&idx=1&sn=704eef09961f37b3ab14d6e70b7072cf](https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528561&idx=1&sn=704eef09961f37b3ab14d6e70b7072cf) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | AI成黑客新武器？俄罗斯APT28新型恶意软件“LAMEHUG”曝光！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486631&idx=1&sn=322670ff0a5e2ff828e701a4bd83f0cb](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486631&idx=1&sn=322670ff0a5e2ff828e701a4bd83f0cb) |
-| 2 |  ] [每周高级威胁情报解读(2025.08.15~08.21) | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515688&idx=1&sn=00c6ffb4a9738356415eed522c78dce9](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515688&idx=1&sn=00c6ffb4a9738356415eed522c78dce9) |
-| 3 |  ] [威胁情报：Clickfix 钓鱼攻击 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247502965&idx=1&sn=5189e40ba499deb9bd01652cde37345a](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247502965&idx=1&sn=5189e40ba499deb9bd01652cde37345a) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【实战SRC】漏洞挖掘之docker未授权 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488581&idx=1&sn=4b9ca116f0413f9ffcb4a6554e8c1b92) |
-| 2 |  ] [聚焦 | CSOP 2025网络安全运营实战大会在京开幕 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247868&idx=4&sn=a8e2aba51bbda65b35e15d4b44cf0d03](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664247868&idx=4&sn=a8e2aba51bbda65b35e15d4b44cf0d03) |
-| 3 |  ] [入选！长亭科技与国泰海通共创“智慧安全运营平台项目”获工信部认可 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389616&idx=2&sn=8292861ece1575d886a00e75f56e03a3](https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389616&idx=2&sn=8292861ece1575d886a00e75f56e03a3) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [美电信巨头同意支付约1.77亿美元，以解决因两次数据泄露引发的集体诉讼 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247500711&idx=1&sn=62814627a25d7e408d23faf2a889bee0](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247500711&idx=1&sn=62814627a25d7e408d23faf2a889bee0) |
-| 2 |  ] [微软拟限制我国企业获取安全漏洞通知权限；曾对DeepSeek发起攻击的22岁黑客在美被捕；日产汽车4TB机密数据泄露 | 牛览 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138387&idx=2&sn=78cc23e5afb435d849e9f00be2ae3f30) |
+| 1 | 提示词注入的分类介绍 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486269&idx=1&sn=3f064d32ad1f2a4b1a5a58914f957e06](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486269&idx=1&sn=3f064d32ad1f2a4b1a5a58914f957e06) |
+| 2 | SSTI（Server-side template injection） 模板注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485363&idx=1&sn=298bcf15df9ab5d2dab937b6ff2b632f](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485363&idx=1&sn=298bcf15df9ab5d2dab937b6ff2b632f) |
 
 
 ## 📁 归档路径
@@ -156,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -166,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-23 04:21:53*
+*生成时间: 2025-08-23 08:22:32*
 *报告工具: 微信文章安全归档系统*
