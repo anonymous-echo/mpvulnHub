@@ -2,17 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
 - **威胁情报**: 2篇
-- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -62,10 +64,21 @@
 
 ### Doonsec
 
-- [市面罕见全套安全管理体系文件，已整理好](https://mp.weixin.qq.com/s?__biz=MzkzNjQwOTc4MQ==&mid=2247490732&idx=1&sn=9d2d62e335c15bb4712e6ebdcd264be1) (发布日期: 2025-08-24)
-- [零日漏洞经纪人“先进安全..”为远程攻破iPhone手机提供2000万美元](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33) (发布日期: 2025-08-24)
-- [英国重磅制裁！俄黑客APT28盯上微软云服务，揭秘“AUTHENTIC ANTICS”间谍木马](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3) (发布日期: 2025-08-24)
-- [伪装成钉钉安装程序银狐最新攻击样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622) (发布日期: 2025-08-24)
+- [流量管理、漏洞探测插件 - Brup_TLA](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67) (发布日期: 2025-08-24)
+- [渗透测试工具集制作指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289967&idx=1&sn=1f49efadde94491d9470d9804e5a8949) (发布日期: 2025-08-24)
+- [CPU、MPU、MCU、SOC的概念与区别](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558754&idx=1&sn=5713ebaf0ac90e098b303c7ec1e731d8) (发布日期: 2025-08-24)
+- [谁是最终的王者？第一届全国大学生人工智能安全竞赛决赛榜单明日揭晓](https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650973750&idx=1&sn=54a3a209ca47d4f182169fc0ec02581e) (发布日期: 2025-08-24)
+- [图形化安服/渗透测试报告自动生成工具](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574611&idx=1&sn=caf41672014ba52dacd6fd9b8e4c0911) (发布日期: 2025-08-24)
+- [回答一个关于 ViewState 反序列化的问题，感兴趣的朋友可以看一下](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500369&idx=1&sn=7272d63e017f01ddd2b1e3ab0f33a672) (发布日期: 2025-08-24)
+- [内网被打穿了，怎么办，还能怎么办，跑路呗](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8) (发布日期: 2025-08-24)
+- [教你如何看懂反病毒软件报告（二）](https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485638&idx=1&sn=4a0f0cdff5e8473525cdcd903246ee23) (发布日期: 2025-08-24)
+- [六大密码管理器全军覆没！密码账号可被点击劫持攻击泄漏|“免费VPN”插件被曝后台监控用户屏幕，疑似间谍工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=1&sn=5af45ea9e7304dedb9a51ced8f719ed6) (发布日期: 2025-08-24)
+- [十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) (发布日期: 2025-08-24)
+- [一个集成多源威胁情报的聚合平台，提供实时威胁情报查询和播报服务、主动拦截威胁IP，集成AI等多项常用安全类工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f) (发布日期: 2025-08-24)
+- [【转载】2022年首届数据安全大赛 | 决赛圆满成功！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=1&sn=1814b33d1f2c7823b5b0e33d8a7c9fd4) (发布日期: 2025-08-24)
+- [【转载】2022年首届数据安全大赛（赛道一）| 决赛圆满成功！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=2&sn=8755e277a700dbe31d1aa5ac37e23af8) (发布日期: 2025-08-24)
+- [【转载】报名倒计时！“2023数字中国创新大赛•网络数据安全赛道”报名从速！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=3&sn=2025e4a4b206e22833f0dd43ae38b3d5) (发布日期: 2025-08-24)
+- [【转载】2023数字中国创新大赛·网络数据安全赛道报名正式开启！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=5&sn=57ce10a813e0b8a884901e6ab891b0e6) (发布日期: 2025-08-24)
 
 
 ## 🎯 威胁详情分析
@@ -74,14 +87,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 零日漏洞经纪人“先进安全..”为远程攻破iPhone手机提供2000万美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33) |
+| 1 | 流量管理、漏洞探测插件 - Brup_TLA | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67) |
+| 2 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 内网被打穿了，怎么办，还能怎么办，跑路呗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8) |
+| 2 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 英国重磅制裁！俄黑客APT28盯上微软云服务，揭秘“AUTHENTIC ANTICS”间谍木马 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3) |
-| 2 | 伪装成钉钉安装程序银狐最新攻击样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622) |
+| 1 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
+| 2 | 一个集成多源威胁情报的聚合平台，提供实时威胁情报查询和播报服务、主动拦截威胁IP，集成AI等多项常用安全类工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f) |
 
 
 ## 📁 归档路径
@@ -97,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-24 08:22:15*
+*生成时间: 2025-08-24 12:36:26*
 *报告工具: 微信文章安全归档系统*
