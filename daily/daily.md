@@ -1,17 +1,20 @@
-# 2025-08-23 安全威胁态势报告
+# 2025-08-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 2篇
+  - ChainReactors: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **应用漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,10 +61,11 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### ChainReactors
 
-- [复旦大学 | 检测微服务应用中的污点风格漏洞](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493535&idx=1&sn=8874a2770afc252f5a107d712433dd37) (发布日期: 2025-08-23)
-- [安全策略快读《Cybersecurity Strategies and Best Practices》](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491856&idx=1&sn=bce2a8f26f035b0314b676c508eb53fd) (发布日期: 2025-08-23)
+- [ ] [英国电信公司遭勒索软件攻击，AI平台助长网络犯罪|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135125&idx=1&sn=5cbfacab46e488898274bafb7fb8078d) (发布日期: 2025-08-24)
+- [ ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) (发布日期: 2025-08-24)
+- [ ] [通杀高版本JDK: Spring最新无依赖原生反序列化漏洞利用链分析](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be) (发布日期: 2025-08-24)
 
 
 ## 🎯 威胁详情分析
@@ -70,12 +74,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 复旦大学 | 检测微服务应用中的污点风格漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493535&idx=1&sn=8874a2770afc252f5a107d712433dd37](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493535&idx=1&sn=8874a2770afc252f5a107d712433dd37) |
+| 1 |  ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) |
+| 2 |  ] [通杀高版本JDK: Spring最新无依赖原生反序列化漏洞利用链分析 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-23/`
+文章已归档到: `doc/2025/2025-08/2025-W34/2025-08-24/`
 
 ## 🔗 数据源说明
 
@@ -86,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -96,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-23 16:20:34*
+*生成时间: 2025-08-24 04:25:19*
 *报告工具: 微信文章安全归档系统*
