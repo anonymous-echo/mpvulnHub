@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 6篇
 - **攻击技术**: 2篇
-- **威胁情报**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **应用漏洞**: 2篇
+- **Web安全**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -64,21 +66,16 @@
 
 ### Doonsec
 
-- [流量管理、漏洞探测插件 - Brup_TLA](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67) (发布日期: 2025-08-24)
-- [渗透测试工具集制作指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655289967&idx=1&sn=1f49efadde94491d9470d9804e5a8949) (发布日期: 2025-08-24)
-- [CPU、MPU、MCU、SOC的概念与区别](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558754&idx=1&sn=5713ebaf0ac90e098b303c7ec1e731d8) (发布日期: 2025-08-24)
-- [谁是最终的王者？第一届全国大学生人工智能安全竞赛决赛榜单明日揭晓](https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650973750&idx=1&sn=54a3a209ca47d4f182169fc0ec02581e) (发布日期: 2025-08-24)
-- [图形化安服/渗透测试报告自动生成工具](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574611&idx=1&sn=caf41672014ba52dacd6fd9b8e4c0911) (发布日期: 2025-08-24)
-- [回答一个关于 ViewState 反序列化的问题，感兴趣的朋友可以看一下](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500369&idx=1&sn=7272d63e017f01ddd2b1e3ab0f33a672) (发布日期: 2025-08-24)
-- [内网被打穿了，怎么办，还能怎么办，跑路呗](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8) (发布日期: 2025-08-24)
-- [教你如何看懂反病毒软件报告（二）](https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485638&idx=1&sn=4a0f0cdff5e8473525cdcd903246ee23) (发布日期: 2025-08-24)
-- [六大密码管理器全军覆没！密码账号可被点击劫持攻击泄漏|“免费VPN”插件被曝后台监控用户屏幕，疑似间谍工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=1&sn=5af45ea9e7304dedb9a51ced8f719ed6) (发布日期: 2025-08-24)
-- [十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) (发布日期: 2025-08-24)
-- [一个集成多源威胁情报的聚合平台，提供实时威胁情报查询和播报服务、主动拦截威胁IP，集成AI等多项常用安全类工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f) (发布日期: 2025-08-24)
-- [【转载】2022年首届数据安全大赛 | 决赛圆满成功！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=1&sn=1814b33d1f2c7823b5b0e33d8a7c9fd4) (发布日期: 2025-08-24)
-- [【转载】2022年首届数据安全大赛（赛道一）| 决赛圆满成功！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=2&sn=8755e277a700dbe31d1aa5ac37e23af8) (发布日期: 2025-08-24)
-- [【转载】报名倒计时！“2023数字中国创新大赛•网络数据安全赛道”报名从速！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=3&sn=2025e4a4b206e22833f0dd43ae38b3d5) (发布日期: 2025-08-24)
-- [【转载】2023数字中国创新大赛·网络数据安全赛道报名正式开启！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493674&idx=5&sn=57ce10a813e0b8a884901e6ab891b0e6) (发布日期: 2025-08-24)
+- [从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487789&idx=1&sn=7f1b94513ef2cb92bbafa4ffc69b9c73) (发布日期: 2025-08-24)
+- [警报：新型Linux恶意软件利用RAR文件名逃避防病毒检测](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488497&idx=1&sn=562419db1720c1b67c2180917f2fc5cc) (发布日期: 2025-08-24)
+- [SRC专项圈子](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519705&idx=1&sn=d396882dda75e6325b4fa3fe35cb4074) (发布日期: 2025-08-24)
+- [AiLock勒索软件详解](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489630&idx=1&sn=df3e22746db6962f1a10cfa770205f5f) (发布日期: 2025-08-24)
+- [黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637065&idx=3&sn=7eb02e143a502fcb8d7eaee6646a8aeb) (发布日期: 2025-08-24)
+- [麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939) (发布日期: 2025-08-24)
+- [汉王e脸通综合管理平台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0) (发布日期: 2025-08-24)
+- [海外党/出国党必看，手把手教你搭建个人回国VPN，让你在海外也能使用国内网络，解决身在海外无法使用国内软件问题](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485018&idx=1&sn=ff6adedceb58d9c448d54b9c66e14a70) (发布日期: 2025-08-24)
+- [逻辑漏洞渗透商场平台技巧分享（二）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488580&idx=1&sn=bf79f98733b8b2969e26e5a01064f6ca) (发布日期: 2025-08-24)
+- [浏览器存储桶配置漏洞检测插件BucketTool](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488657&idx=1&sn=3b4362005b252ac4f44bb2e1c56209fa) (发布日期: 2025-08-24)
 
 
 ## 🎯 威胁详情分析
@@ -87,22 +84,31 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 流量管理、漏洞探测插件 - Brup_TLA | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486488&idx=1&sn=6bcda11b406fc8e3f7951dcdb8962a67) |
-| 2 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
+| 1 | 从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487789&idx=1&sn=7f1b94513ef2cb92bbafa4ffc69b9c73](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487789&idx=1&sn=7f1b94513ef2cb92bbafa4ffc69b9c73) |
+| 2 | 黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637065&idx=3&sn=7eb02e143a502fcb8d7eaee6646a8aeb](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637065&idx=3&sn=7eb02e143a502fcb8d7eaee6646a8aeb) |
+| 3 | 麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939) |
+| 4 | 汉王e脸通综合管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0) |
+| 5 | 逻辑漏洞渗透商场平台技巧分享（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488580&idx=1&sn=bf79f98733b8b2969e26e5a01064f6ca](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488580&idx=1&sn=bf79f98733b8b2969e26e5a01064f6ca) |
+| 6 | 浏览器存储桶配置漏洞检测插件BucketTool | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488657&idx=1&sn=3b4362005b252ac4f44bb2e1c56209fa](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488657&idx=1&sn=3b4362005b252ac4f44bb2e1c56209fa) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网被打穿了，怎么办，还能怎么办，跑路呗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527103&idx=1&sn=5103b43dfd797b4e8130438be6828ad8) |
-| 2 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
+| 1 | 汉王e脸通综合管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486026&idx=1&sn=29e407b3a4da314e9cd18e4175edceb0) |
+| 2 | 海外党/出国党必看，手把手教你搭建个人回国VPN，让你在海外也能使用国内网络，解决身在海外无法使用国内软件问题 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485018&idx=1&sn=ff6adedceb58d9c448d54b9c66e14a70](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485018&idx=1&sn=ff6adedceb58d9c448d54b9c66e14a70) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 十年渗透：俄罗斯APT组织如何长期利用思科设备漏洞|Cisco FMC RADIUS远程代码执行漏洞CVE-2025-20265 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=2&sn=100e6c136244dda79adab498ce7b4dfc) |
-| 2 | 一个集成多源威胁情报的聚合平台，提供实时威胁情报查询和播报服务、主动拦截威胁IP，集成AI等多项常用安全类工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611975&idx=3&sn=443f867aea6ed92ba9c3881a9bdabb0f) |
+| 1 | SRC专项圈子 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519705&idx=1&sn=d396882dda75e6325b4fa3fe35cb4074](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519705&idx=1&sn=d396882dda75e6325b4fa3fe35cb4074) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 麦当劳系统漏洞事件：从免费鸡块漏洞到高管数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495954&idx=1&sn=77b026fc821549943594fca3168ac939) |
 
 
 ## 📁 归档路径
@@ -118,8 +124,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -128,5 +134,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-24 12:36:26*
+*生成时间: 2025-08-24 16:21:31*
 *报告工具: 微信文章安全归档系统*
