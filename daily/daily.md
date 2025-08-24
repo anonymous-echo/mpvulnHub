@@ -2,18 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 4
 - **数据源分布**:
-  - ChainReactors: 3篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
+- **威胁情报**: 2篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -61,11 +60,12 @@
 
 ## 📰 文章详细列表
 
-### ChainReactors
+### Doonsec
 
-- [ ] [英国电信公司遭勒索软件攻击，AI平台助长网络犯罪|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135125&idx=1&sn=5cbfacab46e488898274bafb7fb8078d) (发布日期: 2025-08-24)
-- [ ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) (发布日期: 2025-08-24)
-- [ ] [通杀高版本JDK: Spring最新无依赖原生反序列化漏洞利用链分析](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be) (发布日期: 2025-08-24)
+- [市面罕见全套安全管理体系文件，已整理好](https://mp.weixin.qq.com/s?__biz=MzkzNjQwOTc4MQ==&mid=2247490732&idx=1&sn=9d2d62e335c15bb4712e6ebdcd264be1) (发布日期: 2025-08-24)
+- [零日漏洞经纪人“先进安全..”为远程攻破iPhone手机提供2000万美元](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33) (发布日期: 2025-08-24)
+- [英国重磅制裁！俄黑客APT28盯上微软云服务，揭秘“AUTHENTIC ANTICS”间谍木马](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3) (发布日期: 2025-08-24)
+- [伪装成钉钉安装程序银狐最新攻击样本与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622) (发布日期: 2025-08-24)
 
 
 ## 🎯 威胁详情分析
@@ -74,14 +74,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) |
-| 2 |  ] [通杀高版本JDK: Spring最新无依赖原生反序列化漏洞利用链分析 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492311&idx=1&sn=9922b0495216c1442d0b9868051388be) |
+| 1 | 零日漏洞经纪人“先进安全..”为远程攻破iPhone手机提供2000万美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486506&idx=1&sn=30ddc2dca3f566977b3828c62fbfdc33) |
 
-### 攻击技术
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [.NET内网实战：通过 VisualUiaVerifyNative 反序列化漏洞执行命令 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500357&idx=1&sn=20aa619c6b117f6b43119d4953a21aef) |
+| 1 | 英国重磅制裁！俄黑客APT28盯上微软云服务，揭秘“AUTHENTIC ANTICS”间谍木马 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486632&idx=1&sn=5495990627b36cdf5841ea5dffe112a3) |
+| 2 | 伪装成钉钉安装程序银狐最新攻击样本与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493272&idx=1&sn=a52dd335efb3b54726cfa0958fce2622) |
 
 
 ## 📁 归档路径
@@ -97,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-24 04:25:19*
+*生成时间: 2025-08-24 08:22:15*
 *报告工具: 微信文章安全归档系统*
