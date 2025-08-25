@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
 - **安全运营**: 2篇
-- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,23 +65,24 @@
 
 ### Doonsec
 
-- [警惕！IPv6默认配置成为黑客入侵企业内网的新“漏洞”](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982) (发布日期: 2025-08-25)
-- [新加坡团队推出新型AI工具，革新内网威胁防御测试体系](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326689&idx=1&sn=ec0cbd070ed5128d5ed38bf6e1ee4cd9) (发布日期: 2025-08-25)
-- [针对女性的钓鱼邮件：借化妆品试用之名，点开即感染恶意软件](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326689&idx=3&sn=3b81c85b3d1782c7f02661e3bce70ea7) (发布日期: 2025-08-25)
-- [免费赠送丨网络安全意识：宣传讲义6篇](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247642949&idx=3&sn=83ba927360e8e1dabce00df7e0c4d3f8) (发布日期: 2025-08-25)
-- [【安全圈】假冒 CoinMarketCap 记者的钓鱼攻击瞄准加密高管](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071368&idx=4&sn=1fef00a9cb07059a2be32de401bd2388) (发布日期: 2025-08-25)
-- [一套利用链报价超1.4亿元！这家公司战略储备零日漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497386&idx=1&sn=983e5eb6c44a53a65b926e588d5e2c0d) (发布日期: 2025-08-25)
-- [CNVD漏洞周报2025年第32期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=1&sn=b98713b85ea2b1fb114a24695dc50978) (发布日期: 2025-08-25)
-- [上周关注度较高的产品安全漏洞(20250818-20250824](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=2&sn=01ce63ed042a94bde7e31b9ca7ce7873) (发布日期: 2025-08-25)
-- [成为网络安全精英，CISSP助您抢占职业高地](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493078&idx=1&sn=d0ae302d13b3a71f6b72452117622b0a) (发布日期: 2025-08-25)
-- [每周网安资讯（8.19-8.25） | IBM多款产品存在指定输入类型的验证不恰当漏洞](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506880&idx=1&sn=de3a879d6541fbaf781e877ba74d2e3b) (发布日期: 2025-08-25)
-- [OWASP发布的2025年风险项有哪些？](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521416&idx=1&sn=6e390c01730e180a07fd724ae2e54b3a) (发布日期: 2025-08-25)
-- [别让 JWT 成护网突破口！安全研究员分步拆解算法降级攻击，威胁情报实战指南来了！！！](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485888&idx=1&sn=bc6b9cfb821ec3d8bc8f829347fb46b7) (发布日期: 2025-08-25)
-- [某 SRC 实录：我的完全回显 SSRF，为何抵不过 “业务说隔离”？](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498098&idx=1&sn=badd1aa36cc097f13fe77cf36cf387b8) (发布日期: 2025-08-25)
-- [某飞 SRC 实录：我的完全回显 SSRF，为何抵不过 “业务说隔离”？](https://mp.weixin.qq.com/s?__biz=Mzg2OTg3MzM4MQ==&mid=2247484334&idx=1&sn=dad372bcfcf17b53b46be8a8b698ccae) (发布日期: 2025-08-25)
-- [警惕！早期漏洞再被利用。黑客入侵云服务器后竟帮你打补丁！你以为安全了？](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901192&idx=1&sn=d1552cf87a01fae7e928e7558883dea6) (发布日期: 2025-08-25)
-- [漏洞预警 | SmartBI远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f) (发布日期: 2025-08-25)
-- [漏洞预警 | 索贝融合媒体内容管理平台XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=3&sn=055d8e924aae22393ac393cb4dcda7fb) (发布日期: 2025-08-25)
+- [东胜物流软件UploadMailFil接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488959&idx=1&sn=f96b16f17949a4e5377b13388c0f203f) (发布日期: 2025-08-25)
+- [免费风险检测：ERM外部风险管理驱动安全运营可视化](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491905&idx=1&sn=5c9f0e39ce71f893d0e0835fbb57003b) (发布日期: 2025-08-25)
+- [【实战】文都 OA 云协同系统分析+漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=1&sn=e71b281b21a01cfe728ae5467102c04b) (发布日期: 2025-08-25)
+- [Database 2.10.10 代码审计](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=2&sn=0acc7eb230c9b76e7d6ec842ea047f02) (发布日期: 2025-08-25)
+- [双项入选2025网络安全十大创新方向，长亭科技以创新引领智能安全新时代](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=1&sn=437f13757f14bdf6469c6681a402301f) (发布日期: 2025-08-25)
+- [长亭解决方案｜СТЕМ-漏洞运营解决方案](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498) (发布日期: 2025-08-25)
+- [Linux企业网络安全防护体系建设：从入侵检测到应急响应](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574621&idx=1&sn=cffd5f1a06cb88e21aa27aba3fe6be89) (发布日期: 2025-08-25)
+- [渗透测试全笔记](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574621&idx=2&sn=e735c8ba885fb42b81cbd9ddf45716b6) (发布日期: 2025-08-25)
+- [反病毒引擎长视频完整版解说词来了](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212175&idx=1&sn=15ee3c84107215daa091e4c6b3613503) (发布日期: 2025-08-25)
+- [天锐绿盾审批系统 findUserPage 信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484083&idx=1&sn=c5a02123a13bafe9cdce1dd92bd0a810) (发布日期: 2025-08-25)
+- [第27届高交会网络信息与数据安全展火热招募中！](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522526&idx=1&sn=6e4f3498c7d80859bc63bcd7fbb52e40) (发布日期: 2025-08-25)
+- [【万字密码学干货】第九届工业信息安全技能大赛密码应用安全锦标赛-决赛复盘WP](https://mp.weixin.qq.com/s?__biz=MzkwODE4ODUzMg==&mid=2247487048&idx=1&sn=c3614e5d2a0140a70b79e30478b233ee) (发布日期: 2025-08-25)
+- [赛事招标丨昆明市 2025 年网络与信息安全管理员、人工智能训练师技能竞赛项目](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493707&idx=1&sn=2492fc3e8fa90c363d2da85d78334ce6) (发布日期: 2025-08-25)
+- [直播预告 | 全国总工会第二届职工数字化应用技术技能大赛福建省选拔赛（数据安全管理员赛项）决赛倒计时1天！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493707&idx=3&sn=e040ebd9aa6398a0c33f8a18f68a2761) (发布日期: 2025-08-25)
+- [Smartbi 最新认证绕过导致RCE漏洞分析](https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c) (发布日期: 2025-08-25)
+- [权威背书 + 实战淬炼 | OSWE 从代码审计到漏洞利用全通关](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518376&idx=1&sn=32387485acf7334ef4f780a16b309e21) (发布日期: 2025-08-25)
+- [Smartbi 最新认证绕过导致RCE漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27) (发布日期: 2025-08-25)
+- [应急响应：记一次Phorpiex病毒处理](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485241&idx=1&sn=c833646fdd7366fc532fd7b61c6ca639) (发布日期: 2025-08-25)
 
 
 ## 🎯 威胁详情分析
@@ -89,35 +91,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 警惕！IPv6默认配置成为黑客入侵企业内网的新“漏洞” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982) |
-| 2 | 一套利用链报价超1.4亿元！这家公司战略储备零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497386&idx=1&sn=983e5eb6c44a53a65b926e588d5e2c0d](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497386&idx=1&sn=983e5eb6c44a53a65b926e588d5e2c0d) |
-| 3 | CNVD漏洞周报2025年第32期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=1&sn=b98713b85ea2b1fb114a24695dc50978](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=1&sn=b98713b85ea2b1fb114a24695dc50978) |
-| 4 | 上周关注度较高的产品安全漏洞(20250818-20250824 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=2&sn=01ce63ed042a94bde7e31b9ca7ce7873](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496251&idx=2&sn=01ce63ed042a94bde7e31b9ca7ce7873) |
-| 5 | 每周网安资讯（8.19-8.25） | IBM多款产品存在指定输入类型的验证不恰当漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506880&idx=1&sn=de3a879d6541fbaf781e877ba74d2e3b](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506880&idx=1&sn=de3a879d6541fbaf781e877ba74d2e3b) |
-| 6 | 警惕！早期漏洞再被利用。黑客入侵云服务器后竟帮你打补丁！你以为安全了？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901192&idx=1&sn=d1552cf87a01fae7e928e7558883dea6](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901192&idx=1&sn=d1552cf87a01fae7e928e7558883dea6) |
-| 7 | 漏洞预警 | SmartBI远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f) |
-| 8 | 漏洞预警 | 索贝融合媒体内容管理平台XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=3&sn=055d8e924aae22393ac393cb4dcda7fb](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=3&sn=055d8e924aae22393ac393cb4dcda7fb) |
+| 1 | 东胜物流软件UploadMailFil接口存在任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488959&idx=1&sn=f96b16f17949a4e5377b13388c0f203f](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488959&idx=1&sn=f96b16f17949a4e5377b13388c0f203f) |
+| 2 | 【实战】文都 OA 云协同系统分析+漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=1&sn=e71b281b21a01cfe728ae5467102c04b](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522858&idx=1&sn=e71b281b21a01cfe728ae5467102c04b) |
+| 3 | 长亭解决方案｜СТЕМ-漏洞运营解决方案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498) |
+| 4 | 天锐绿盾审批系统 findUserPage 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484083&idx=1&sn=c5a02123a13bafe9cdce1dd92bd0a810](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484083&idx=1&sn=c5a02123a13bafe9cdce1dd92bd0a810) |
+| 5 | Smartbi 最新认证绕过导致RCE漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c](https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c) |
+| 6 | 权威背书 + 实战淬炼 | OSWE 从代码审计到漏洞利用全通关 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518376&idx=1&sn=32387485acf7334ef4f780a16b309e21](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518376&idx=1&sn=32387485acf7334ef4f780a16b309e21) |
+| 7 | Smartbi 最新认证绕过导致RCE漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27](https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 警惕！IPv6默认配置成为黑客入侵企业内网的新“漏洞” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492745&idx=1&sn=bfec93cbb249dace19bb6c2b554f7982) |
-| 2 | 新加坡团队推出新型AI工具，革新内网威胁防御测试体系 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326689&idx=1&sn=ec0cbd070ed5128d5ed38bf6e1ee4cd9](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326689&idx=1&sn=ec0cbd070ed5128d5ed38bf6e1ee4cd9) |
-| 3 | 漏洞预警 | SmartBI远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494182&idx=2&sn=5c0a909f008db16c200c68081000614f) |
+| 1 | Smartbi 最新认证绕过导致RCE漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c](https://mp.weixin.qq.com/s?__biz=MzIxOTQ1OTY4OQ==&mid=2247487175&idx=1&sn=b385904891fe27f5dc6a73b2b1d3d04c) |
+| 2 | Smartbi 最新认证绕过导致RCE漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27](https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484370&idx=1&sn=be428ab626a8dfdf968d1dc50aab0c27) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 别让 JWT 成护网突破口！安全研究员分步拆解算法降级攻击，威胁情报实战指南来了！！！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485888&idx=1&sn=bc6b9cfb821ec3d8bc8f829347fb46b7](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247485888&idx=1&sn=bc6b9cfb821ec3d8bc8f829347fb46b7) |
+| 1 | Linux企业网络安全防护体系建设：从入侵检测到应急响应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574621&idx=1&sn=cffd5f1a06cb88e21aa27aba3fe6be89](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574621&idx=1&sn=cffd5f1a06cb88e21aa27aba3fe6be89) |
+| 2 | 应急响应：记一次Phorpiex病毒处理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485241&idx=1&sn=c833646fdd7366fc532fd7b61c6ca639](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485241&idx=1&sn=c833646fdd7366fc532fd7b61c6ca639) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某 SRC 实录：我的完全回显 SSRF，为何抵不过 “业务说隔离”？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498098&idx=1&sn=badd1aa36cc097f13fe77cf36cf387b8](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498098&idx=1&sn=badd1aa36cc097f13fe77cf36cf387b8) |
-| 2 | 某飞 SRC 实录：我的完全回显 SSRF，为何抵不过 “业务说隔离”？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2OTg3MzM4MQ==&mid=2247484334&idx=1&sn=dad372bcfcf17b53b46be8a8b698ccae](https://mp.weixin.qq.com/s?__biz=Mzg2OTg3MzM4MQ==&mid=2247484334&idx=1&sn=dad372bcfcf17b53b46be8a8b698ccae) |
+| 1 | 免费风险检测：ERM外部风险管理驱动安全运营可视化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491905&idx=1&sn=5c9f0e39ce71f893d0e0835fbb57003b](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491905&idx=1&sn=5c9f0e39ce71f893d0e0835fbb57003b) |
+| 2 | 长亭解决方案｜СТЕМ-漏洞运营解决方案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488353&idx=2&sn=443b5d77aff816f227b629efe4043498) |
 
 
 ## 📁 归档路径
@@ -133,8 +134,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +144,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-25 12:40:38*
+*生成时间: 2025-08-25 16:24:41*
 *报告工具: 微信文章安全归档系统*
