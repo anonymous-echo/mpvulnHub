@@ -2,18 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,31 +59,12 @@
 
 ### Doonsec
 
-- [入选2025网络安全十大创新方向   边界无限RASP/ADR领跑应用安全新细分市场](https://mp.weixin.qq.com/s?__biz=MzAwNzk0NTkxNw==&mid=2247487289&idx=1&sn=0cbb61c39d4ef4c55342b19a4b40f2a9) (发布日期: 2025-08-25)
-- [黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353) (发布日期: 2025-08-25)
-- [未授权漏洞渗透技巧总结分享（六）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507) (发布日期: 2025-08-25)
-- [京东安全工程师笔试的核心题库](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485486&idx=1&sn=27cf4cba90c1bfb17ee1d3735947efba) (发布日期: 2025-08-25)
-- [从 500 错误到成功注入：ASP.NET + SQL Server 时间盲注案例](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360) (发布日期: 2025-08-25)
-- [【若依专题】超详细的环境搭建教学+SQL注入漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) (发布日期: 2025-08-25)
-- [【密码学】NewHope 算法解读](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492588&idx=1&sn=d1d84873de140e263271a273cf1856d3) (发布日期: 2025-08-25)
+- [【红队】一款用 Go 编写的端口扫描工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493824&idx=1&sn=1fbd16b0987b4a8531ef7cceff82501a) (发布日期: 2025-08-25)
+- [Linux Rootkit恶意软件检测技术研究](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493302&idx=1&sn=d7ae645b1a9b84535971360e8862df61) (发布日期: 2025-08-25)
+- [物联网遭遇围攻：基于Mirai的Gayfemboy僵尸网络卷土重来](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494595&idx=1&sn=9ad26130d4b72adb3c29e8f51446d2dc) (发布日期: 2025-08-25)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353) |
-| 2 | 未授权漏洞渗透技巧总结分享（六） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507) |
-| 3 | 【若依专题】超详细的环境搭建教学+SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 从 500 错误到成功注入：ASP.NET + SQL Server 时间盲注案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360) |
-| 2 | 【若依专题】超详细的环境搭建教学+SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) |
 
 
 ## 📁 归档路径
@@ -102,8 +80,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -112,5 +90,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-25 04:26:54*
+*生成时间: 2025-08-25 08:28:02*
 *报告工具: 微信文章安全归档系统*
