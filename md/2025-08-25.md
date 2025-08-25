@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 25篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **威胁情报**: 2篇
-- **攻击技术**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 3篇
-- **网络攻击**: 3篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -65,31 +62,13 @@
 
 ### Doonsec
 
-- [安全、高效、可扩展 | 中孚信息跨网跨域数据安全交换解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247511604&idx=1&sn=668907143e038c9196b2ea2c2cc1f90d) (发布日期: 2025-08-25)
-- [Linux服务器安全防护完全指南：从0到1构建铜墙铁壁](https://mp.weixin.qq.com/s?__biz=MzI1NzI5NDM4Mw==&mid=2247499050&idx=1&sn=5e7ad208af25f601f3f3c8b30793303f) (发布日期: 2025-08-25)
-- [攻防演练中如何快速抢分](https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491609&idx=1&sn=81f24fc5e8a80c371c79d42c5ddd6d9e) (发布日期: 2025-08-25)
-- [Dr.Web报告新型安卓恶意软件伪装成杀毒软件针对俄企业员工](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796117&idx=1&sn=46f696b45f07b4b4857807eac8c38d81) (发布日期: 2025-08-25)
-- [广东总工会直属国有企业招聘网络安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506513&idx=1&sn=6f40d456e04dadde82f110e6fe807f2a) (发布日期: 2025-08-25)
-- [【新产品】AI安全扫描器](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484580&idx=1&sn=74bc0fda01bb2d07fc459fe4762c3863) (发布日期: 2025-08-25)
-- [勒索软件组织升级\"四重勒索\"策略以进行最大化施压](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548018&idx=1&sn=2040e1eaca5018e1a75f68eab494722d) (发布日期: 2025-08-25)
-- [黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548018&idx=2&sn=aa7b8a6d974f39743d5cdc727eb79566) (发布日期: 2025-08-25)
-- [勒索软件生命周期的七个阶段及四点缓解措施](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548018&idx=3&sn=21a0e28b37014f843a776c2fca5bc1d2) (发布日期: 2025-08-25)
-- [【Java代码审计】手把手带你学，小白也能变大神！更有重磅网安就业班，未就业不满意免费退！](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491290&idx=1&sn=0fb7bef21521b33e4c2d0c28293309a7) (发布日期: 2025-08-25)
-- [一次 .NET 代码审计案例：LINQPad 不安全反序列化](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500373&idx=1&sn=2b45d8b8bd605efd942d67e8c1a97153) (发布日期: 2025-08-25)
-- [回答一个关于 ViewState 反序列化的问题，感兴趣的朋友可以看一下](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500373&idx=2&sn=e53e802195fa5a5ef607d1def738ce81) (发布日期: 2025-08-25)
-- [汉王e脸通 upload.do 任意文件上传](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486030&idx=1&sn=417dde82d86fcec7de141518c1d4cf98) (发布日期: 2025-08-25)
-- [我们真的需要安全架构师吗？](https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485394&idx=1&sn=7893d3d28385690d3ebbb7208179c3e4) (发布日期: 2025-08-25)
-- [【代码审计实战】一款网校在线系统（上篇）](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500532&idx=1&sn=6f7e4ff9e6ab50324a22fb6c8b3c096f) (发布日期: 2025-08-25)
-- [500页 协作网络威胁情报：国家层面高级网络攻击的检测与应对](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290005&idx=1&sn=7b1f16d2d15f5ec4b28fbc19fb908a8f) (发布日期: 2025-08-25)
-- [GB∕T 19714-2025 网络安全技术 公钥基础设施 证书管理协议](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290005&idx=2&sn=355b0b2dd1b00ee8061366908946e47f) (发布日期: 2025-08-25)
-- [Vulinbox SQL 注入攻防实录：靶场通关与技巧拆解](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488659&idx=1&sn=898098d003624161eea30c4e133cc436) (发布日期: 2025-08-25)
-- [粉丝福利：白嫖天翼云免费的VPN网关及1000块钱](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861055&idx=1&sn=2150b2498a8fa62d9ccee5400ded76e3) (发布日期: 2025-08-25)
-- [上海市通管局印发《关于规范开展2025年信息通信网络安全防护工作的通知》](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498642&idx=2&sn=5b84fb9ee9ada8c2f8ddc2885b48f00c) (发布日期: 2025-08-25)
-- [Weekly09-10:从Tor争议谈0day与Nday漏洞](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492355&idx=1&sn=fd9af7042438d4b87dd6d5dbeed72403) (发布日期: 2025-08-25)
-- [Web安全-业务逻辑漏洞常用技巧与实战案例汇总|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494052&idx=1&sn=991eb02879ed0684aa1f2fcbbfdb9b1e) (发布日期: 2025-08-25)
-- [平替Vshell | 开源Rshell新增Socks5代理，多协议C2框架深度实战评测](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495718&idx=1&sn=27b27ec244dd52dc56baa495d1a1e3d1) (发布日期: 2025-08-25)
-- [黑客活动分子与僵尸网络推高DDoS攻击浪潮：2025年7月网络攻击态势分析](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523123&idx=1&sn=b2b51f3504625eea0f2a127633a49e4f) (发布日期: 2025-08-25)
-- [隐秘信道：APT组织如何利用ICMP隧道绕过安全检测](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516203&idx=1&sn=c43239a2a85ce153beb9c377b48c6d3c) (发布日期: 2025-08-25)
+- [入选2025网络安全十大创新方向   边界无限RASP/ADR领跑应用安全新细分市场](https://mp.weixin.qq.com/s?__biz=MzAwNzk0NTkxNw==&mid=2247487289&idx=1&sn=0cbb61c39d4ef4c55342b19a4b40f2a9) (发布日期: 2025-08-25)
+- [黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353) (发布日期: 2025-08-25)
+- [未授权漏洞渗透技巧总结分享（六）](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507) (发布日期: 2025-08-25)
+- [京东安全工程师笔试的核心题库](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485486&idx=1&sn=27cf4cba90c1bfb17ee1d3735947efba) (发布日期: 2025-08-25)
+- [从 500 错误到成功注入：ASP.NET + SQL Server 时间盲注案例](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360) (发布日期: 2025-08-25)
+- [【若依专题】超详细的环境搭建教学+SQL注入漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) (发布日期: 2025-08-25)
+- [【密码学】NewHope 算法解读](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492588&idx=1&sn=d1d84873de140e263271a273cf1856d3) (发布日期: 2025-08-25)
 
 
 ## 🎯 威胁详情分析
@@ -98,22 +77,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548018&idx=2&sn=aa7b8a6d974f39743d5cdc727eb79566](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548018&idx=2&sn=aa7b8a6d974f39743d5cdc727eb79566) |
-| 2 | Weekly09-10:从Tor争议谈0day与Nday漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492355&idx=1&sn=fd9af7042438d4b87dd6d5dbeed72403](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492355&idx=1&sn=fd9af7042438d4b87dd6d5dbeed72403) |
-| 3 | Web安全-业务逻辑漏洞常用技巧与实战案例汇总|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494052&idx=1&sn=991eb02879ed0684aa1f2fcbbfdb9b1e](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494052&idx=1&sn=991eb02879ed0684aa1f2fcbbfdb9b1e) |
+| 1 | 黑客仅需简单短语即可绕过AI防护：ChatGPT-5降级攻击漏洞曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533088&idx=2&sn=5cd3528e3b903914a66f5936c51e0353) |
+| 2 | 未授权漏洞渗透技巧总结分享（六） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488596&idx=1&sn=203ed927927f826bfd45bee35eb47507) |
+| 3 | 【若依专题】超详细的环境搭建教学+SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Vulinbox SQL 注入攻防实录：靶场通关与技巧拆解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488659&idx=1&sn=898098d003624161eea30c4e133cc436](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488659&idx=1&sn=898098d003624161eea30c4e133cc436) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 500页 协作网络威胁情报：国家层面高级网络攻击的检测与应对 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290005&idx=1&sn=7b1f16d2d15f5ec4b28fbc19fb908a8f](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290005&idx=1&sn=7b1f16d2d15f5ec4b28fbc19fb908a8f) |
-| 2 | 隐秘信道：APT组织如何利用ICMP隧道绕过安全检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516203&idx=1&sn=c43239a2a85ce153beb9c377b48c6d3c](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516203&idx=1&sn=c43239a2a85ce153beb9c377b48c6d3c) |
+| 1 | 从 500 错误到成功注入：ASP.NET + SQL Server 时间盲注案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484157&idx=1&sn=ab13be8282023877489c05348d1b7360) |
+| 2 | 【若依专题】超详细的环境搭建教学+SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247495956&idx=1&sn=cd8d29b7a91a11cac66ecb4396dbcf14) |
 
 
 ## 📁 归档路径
@@ -130,7 +103,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-25 01:39:22*
+*生成时间: 2025-08-25 04:26:54*
 *报告工具: 微信文章安全归档系统*
