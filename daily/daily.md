@@ -2,18 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,35 +59,10 @@
 
 ### Doonsec
 
-- [用友NC importExcelTemplate接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488973&idx=1&sn=8525b9fb1757aea6b0df6a8580a7bb21) (发布日期: 2025-08-26)
-- [微软不提供0day预警，还需靠大家努力](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488247&idx=1&sn=111f0b37a0f621469695ac997a8e78ee) (发布日期: 2025-08-26)
-- [小小更新一波，EasyTools渗透测试工具箱v1.8.5](https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484517&idx=1&sn=bf133ae474996c154eebb559e89aec73) (发布日期: 2025-08-26)
-- [中国密码学会2025年密码测评学术会议将于9月13日召开](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637090&idx=2&sn=8545a33a0510bed7dd80a8a219959d0e) (发布日期: 2025-08-26)
-- [【SRC实战】CSRF漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5) (发布日期: 2025-08-26)
-- [src专项挖掘知识库](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=2&sn=17c89c27a54b00b510737f7c2a0d9b9c) (发布日期: 2025-08-26)
-- [火热报名！MediSec 2025中国医疗网络数据安全技术与合规峰会启动](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247558850&idx=2&sn=ce6a966a21c36a771e27a5e824d06fb1) (发布日期: 2025-08-26)
-- [渗透测试中的前端调试](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556141&idx=1&sn=3459c860227b17965ca3d973b35f465b) (发布日期: 2025-08-26)
-- [中网信安承办CISP-PTE考试，赋能信息安全人才队伍建设](https://mp.weixin.qq.com/s?__biz=MzA3Nzk3NTA4Nw==&mid=2247517663&idx=1&sn=b742f0ee054f0f7e784040e35760fafa) (发布日期: 2025-08-26)
-- [PipeMagic后门的演化：从 RansomExx 攻击事件到 CVE-2025-29824漏洞](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247486989&idx=1&sn=7f6371bfa680c9b6722211634dc7163b) (发布日期: 2025-08-26)
+- [警惕！朝鲜黑客盯上GitHub，伪装外交邮件植入病毒，全球使馆成目标](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486634&idx=1&sn=0d2d8afdd9421449dcc83210d98e2a67) (发布日期: 2025-08-26)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 用友NC importExcelTemplate接口存在任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488973&idx=1&sn=8525b9fb1757aea6b0df6a8580a7bb21](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488973&idx=1&sn=8525b9fb1757aea6b0df6a8580a7bb21) |
-| 2 | 微软不提供0day预警，还需靠大家努力 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488247&idx=1&sn=111f0b37a0f621469695ac997a8e78ee](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488247&idx=1&sn=111f0b37a0f621469695ac997a8e78ee) |
-| 3 | 【SRC实战】CSRF漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5) |
-| 4 | PipeMagic后门的演化：从 RansomExx 攻击事件到 CVE-2025-29824漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247486989&idx=1&sn=7f6371bfa680c9b6722211634dc7163b](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247486989&idx=1&sn=7f6371bfa680c9b6722211634dc7163b) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【SRC实战】CSRF漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=1&sn=dfa23db3ac214f2d9435b3c48c24faf5) |
-| 2 | src专项挖掘知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=2&sn=17c89c27a54b00b510737f7c2a0d9b9c](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519714&idx=2&sn=17c89c27a54b00b510737f7c2a0d9b9c) |
 
 
 ## 📁 归档路径
@@ -106,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-26 16:23:16*
+*生成时间: 2025-08-26 20:21:02*
 *报告工具: 微信文章安全归档系统*
