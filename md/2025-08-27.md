@@ -2,18 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 4篇
+  - ChainReactors: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 7篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,12 +59,19 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### ChainReactors
 
-- [渗透测试 | 某985高校漏洞挖掘小记](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea) (发布日期: 2025-08-27)
-- [CVE-2025-0566 A15-MIPS架构下栈溢出漏洞复现](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a) (发布日期: 2025-08-27)
-- [Windows服务器存在漏洞感染勒索病毒应急处理案例](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) (发布日期: 2025-08-27)
-- [Crypto24 勒索软件利用自定义 EDR 规避工具攻击大型组织](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493419&idx=1&sn=4419b13e20231dc4eb4d6035ce8877ca) (发布日期: 2025-08-27)
+- [ ] [新规解读《数据安全国家标准体系(2025版)》](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135210&idx=1&sn=4fe2e790ce20c824801d887eb3643a9a) (发布日期: 2025-08-27)
+- [ ] [雷神众测漏洞周报2025.8.18-2025.8.24](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503509&idx=1&sn=9a1e062039b116955669eb29e45b656a) (发布日期: 2025-08-27)
+- [ ] [网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788976&idx=1&sn=b2160a1d5716028aa5743d0801f18ee7) (发布日期: 2025-08-27)
+- [ ] [Tableau 服务器中严重漏洞可导致攻击者上传恶意文件](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523889&idx=1&sn=baef786161ffa4ee81a4cb94db27cd5f) (发布日期: 2025-08-27)
+- [ ] [漏洞通告 | 微步情报局再次发现DataEase存在高危漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507902&idx=1&sn=ef196d59c34733bf600830dc71d16500) (发布日期: 2025-08-27)
+- [ ] [【安全圈】Docker Desktop曝高危漏洞：恶意容器可劫持Windows主机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071388&idx=2&sn=73678592bffb2707d1938193f9c6ec31) (发布日期: 2025-08-27)
+- [ ] [【安全圈】HOOK 木马进化：银行木马、间谍软件与勒索软件三位一体](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071388&idx=3&sn=1d044bea58e065589daf8813098a3c76) (发布日期: 2025-08-27)
+- [ ] [【安全圈】WarLock勒索软件组织宣称攻击Colt电信公司，数据已被挂售](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071388&idx=4&sn=5099ce6e0007bb889512015c292d33f6) (发布日期: 2025-08-27)
+- [ ] [安卓逆向之 Autojs 加密 JS 文件提取和解密](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598989&idx=1&sn=d1ddb850a4f53b74cba001436d4e08ec) (发布日期: 2025-08-27)
+- [ ] [Docker 修复 9.3 分高危漏洞，Win/mac 用户速升级](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598989&idx=3&sn=12ad73fc5a75757f5a26f9b787074cac) (发布日期: 2025-08-27)
+- [ ] [CNVD漏洞周报2025年第32期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500294&idx=1&sn=f541162fb71587ca9fbeef21ada6bc5b) (发布日期: 2025-08-27)
 
 
 ## 🎯 威胁详情分析
@@ -74,15 +80,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 渗透测试 | 某985高校漏洞挖掘小记 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea) |
-| 2 | CVE-2025-0566 A15-MIPS架构下栈溢出漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a) |
-| 3 | Windows服务器存在漏洞感染勒索病毒应急处理案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Windows服务器存在漏洞感染勒索病毒应急处理案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) |
+| 1 |  ] [雷神众测漏洞周报2025.8.18-2025.8.24 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503509&idx=1&sn=9a1e062039b116955669eb29e45b656a](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503509&idx=1&sn=9a1e062039b116955669eb29e45b656a) |
+| 2 |  ] [网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788976&idx=1&sn=b2160a1d5716028aa5743d0801f18ee7](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788976&idx=1&sn=b2160a1d5716028aa5743d0801f18ee7) |
+| 3 |  ] [Tableau 服务器中严重漏洞可导致攻击者上传恶意文件 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523889&idx=1&sn=baef786161ffa4ee81a4cb94db27cd5f](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523889&idx=1&sn=baef786161ffa4ee81a4cb94db27cd5f) |
+| 4 |  ] [漏洞通告 | 微步情报局再次发现DataEase存在高危漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507902&idx=1&sn=ef196d59c34733bf600830dc71d16500](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507902&idx=1&sn=ef196d59c34733bf600830dc71d16500) |
+| 5 |  ] [【安全圈】Docker Desktop曝高危漏洞：恶意容器可劫持Windows主机 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071388&idx=2&sn=73678592bffb2707d1938193f9c6ec31](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071388&idx=2&sn=73678592bffb2707d1938193f9c6ec31) |
+| 6 |  ] [Docker 修复 9.3 分高危漏洞，Win/mac 用户速升级 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598989&idx=3&sn=12ad73fc5a75757f5a26f9b787074cac](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458598989&idx=3&sn=12ad73fc5a75757f5a26f9b787074cac) |
+| 7 |  ] [CNVD漏洞周报2025年第32期 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500294&idx=1&sn=f541162fb71587ca9fbeef21ada6bc5b](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500294&idx=1&sn=f541162fb71587ca9fbeef21ada6bc5b) |
 
 
 ## 📁 归档路径
@@ -98,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-27 01:25:38*
+*生成时间: 2025-08-27 04:22:57*
 *报告工具: 微信文章安全归档系统*
