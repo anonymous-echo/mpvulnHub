@@ -1,16 +1,19 @@
-# 2025-08-26 安全威胁态势报告
+# 2025-08-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +62,32 @@
 
 ### Doonsec
 
-- [警惕！朝鲜黑客盯上GitHub，伪装外交邮件植入病毒，全球使馆成目标](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486634&idx=1&sn=0d2d8afdd9421449dcc83210d98e2a67) (发布日期: 2025-08-26)
+- [渗透测试 | 某985高校漏洞挖掘小记](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea) (发布日期: 2025-08-27)
+- [CVE-2025-0566 A15-MIPS架构下栈溢出漏洞复现](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a) (发布日期: 2025-08-27)
+- [Windows服务器存在漏洞感染勒索病毒应急处理案例](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) (发布日期: 2025-08-27)
+- [Crypto24 勒索软件利用自定义 EDR 规避工具攻击大型组织](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493419&idx=1&sn=4419b13e20231dc4eb4d6035ce8877ca) (发布日期: 2025-08-27)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 渗透测试 | 某985高校漏洞挖掘小记 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea](https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487746&idx=1&sn=a8cc415725491eaab4845dcb200663ea) |
+| 2 | CVE-2025-0566 A15-MIPS架构下栈溢出漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523252&idx=1&sn=3a661a52edeae045ffe5778976140f4a) |
+| 3 | Windows服务器存在漏洞感染勒索病毒应急处理案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Windows服务器存在漏洞感染勒索病毒应急处理案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484277&idx=1&sn=3854df5ff3a5cb731b0afe531b07692c) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-26/`
+文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-27/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-26 20:21:02*
+*生成时间: 2025-08-27 01:25:38*
 *报告工具: 微信文章安全归档系统*
