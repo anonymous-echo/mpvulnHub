@@ -2,15 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 3篇
+  - ChainReactors: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -57,14 +62,46 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### ChainReactors
 
-- [SIEM引入的优先级日志：从业者指南](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501391&idx=1&sn=9c7fc75be4000c5e7864374369b0da80) (发布日期: 2025-08-28)
-- [一站式实现自动化信息收集与渗透测试平台|Nemo](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494096&idx=1&sn=a2d5572a443339c0d604c2ff5cd5a9f8) (发布日期: 2025-08-28)
-- [企业高级网络安全实战赋能计划：终身制高阶安全培训](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484293&idx=2&sn=3fa1f1600738135b59536b6063d5cb7a) (发布日期: 2025-08-28)
+- [ ] [【在野利用】Citrix NetScaler 内存溢出漏洞(CVE-2025-7775)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503847&idx=1&sn=3adb444bbcb1ac6ce14501ee51e12668) (发布日期: 2025-08-28)
+- [ ] [Citrix 紧急修复已遭利用的 NetScaler RCE 0day漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=1&sn=e11d4a106337143972fe49dc8aee936b) (发布日期: 2025-08-28)
+- [ ] [漏洞通告 | CrushFTP 身份认证绕过漏洞被黑客组织积极利用](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507906&idx=1&sn=72fd63f59c6d92e8c1effe15196079d7) (发布日期: 2025-08-28)
+- [ ] [揭秘参加 SRC 培训后的学员收入有多少？](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500073&idx=1&sn=47f421ada610904d49ec7d6938c423ef) (发布日期: 2025-08-28)
+- [ ] [3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599037&idx=3&sn=92ae50e75a40d302a6d812176bb7e7d9) (发布日期: 2025-08-28)
+- [ ] [【漏洞通告】NetScaler ADC和NetScaler Gateway内存溢出漏洞(CVE-2025-7775)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524553&idx=1&sn=e3d9d6b4cce8ffb39461980f2feab9a7) (发布日期: 2025-08-28)
+- [ ] [安天移动近期威胁情报盘点（8月13日-8月26日 ）](https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547359&idx=1&sn=b840d9d60d299c24a9987e1fe9fe5209) (发布日期: 2025-08-28)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【在野利用】Citrix NetScaler 内存溢出漏洞(CVE-2025-7775)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503847&idx=1&sn=3adb444bbcb1ac6ce14501ee51e12668](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503847&idx=1&sn=3adb444bbcb1ac6ce14501ee51e12668) |
+| 2 |  ] [Citrix 紧急修复已遭利用的 NetScaler RCE 0day漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=1&sn=e11d4a106337143972fe49dc8aee936b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=1&sn=e11d4a106337143972fe49dc8aee936b) |
+| 3 |  ] [漏洞通告 | CrushFTP 身份认证绕过漏洞被黑客组织积极利用 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507906&idx=1&sn=72fd63f59c6d92e8c1effe15196079d7](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507906&idx=1&sn=72fd63f59c6d92e8c1effe15196079d7) |
+| 4 |  ] [3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599037&idx=3&sn=92ae50e75a40d302a6d812176bb7e7d9](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599037&idx=3&sn=92ae50e75a40d302a6d812176bb7e7d9) |
+| 5 |  ] [【漏洞通告】NetScaler ADC和NetScaler Gateway内存溢出漏洞(CVE-2025-7775) | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524553&idx=1&sn=e3d9d6b4cce8ffb39461980f2feab9a7](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524553&idx=1&sn=e3d9d6b4cce8ffb39461980f2feab9a7) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [Citrix 紧急修复已遭利用的 NetScaler RCE 0day漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=1&sn=e11d4a106337143972fe49dc8aee936b](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523897&idx=1&sn=e11d4a106337143972fe49dc8aee936b) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [安天移动近期威胁情报盘点（8月13日-8月26日 ） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547359&idx=1&sn=b840d9d60d299c24a9987e1fe9fe5209](https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547359&idx=1&sn=b840d9d60d299c24a9987e1fe9fe5209) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [揭秘参加 SRC 培训后的学员收入有多少？ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500073&idx=1&sn=47f421ada610904d49ec7d6938c423ef](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500073&idx=1&sn=47f421ada610904d49ec7d6938c423ef) |
 
 
 ## 📁 归档路径
@@ -80,8 +117,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -90,5 +127,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-28 01:24:54*
+*生成时间: 2025-08-28 04:22:37*
 *报告工具: 微信文章安全归档系统*
