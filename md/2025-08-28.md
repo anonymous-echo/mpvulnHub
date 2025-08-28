@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **供应链**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,31 +61,17 @@
 
 ### Doonsec
 
-- [CrowdStrike豪掷2.9亿美元收购Onum：下一代SIEM的“秘密武器”](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491917&idx=1&sn=f37a303208e34580d9dcce5ba453f574) (发布日期: 2025-08-28)
-- [DC-8靶机复现](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523320&idx=1&sn=a87ad3b28e5bb2ffb2d6ab2e5392542a) (发布日期: 2025-08-28)
-- [东胜物流软件SoftMng/FileInputHandler/Upload接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489008&idx=1&sn=70800e9de65cc02e7b7ee9105efe6c43) (发布日期: 2025-08-28)
-- [犹他大学 | 探索深度学习模型中的固有后门](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493598&idx=1&sn=a5a968e29dcc2c99a7748c047ab63c1e) (发布日期: 2025-08-28)
-- [UNC2891银行劫案：从ATM物理后门到Linux反取证的攻防博弈](https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485654&idx=1&sn=c8db148b36f846eb694b60aabae8d1b6) (发布日期: 2025-08-28)
-- [第132篇：SolarWinds供应链攻击补充——Sunburst后门通信全貌揭秘](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487696&idx=1&sn=fd9d7dfc401acb463c83b120299f9271) (发布日期: 2025-08-28)
-- [【成功复现】Apache Druid服务端请求伪造漏洞(CVE-2025-27888)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503578&idx=1&sn=60ffc56465256fafbc8fcbd788338bc6) (发布日期: 2025-08-28)
-- [首个AI 驱动勒索软件 PromptLock 瞄准 Windows、Linux 和 macOS](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599064&idx=3&sn=fdefaddfd3b802ea5ff10a9a9f05d65b) (发布日期: 2025-08-28)
+- [XSS-challenge-tour[1-18关]通关记录](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34) (发布日期: 2025-08-28)
+- [【红队】红队自动化扫描工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493837&idx=1&sn=de57befae5f3a00f5193f5634e7f2a83) (发布日期: 2025-08-28)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | DC-8靶机复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523320&idx=1&sn=a87ad3b28e5bb2ffb2d6ab2e5392542a](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523320&idx=1&sn=a87ad3b28e5bb2ffb2d6ab2e5392542a) |
-| 2 | 东胜物流软件SoftMng/FileInputHandler/Upload接口存在任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489008&idx=1&sn=70800e9de65cc02e7b7ee9105efe6c43](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489008&idx=1&sn=70800e9de65cc02e7b7ee9105efe6c43) |
-| 3 | 【成功复现】Apache Druid服务端请求伪造漏洞(CVE-2025-27888) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503578&idx=1&sn=60ffc56465256fafbc8fcbd788338bc6](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503578&idx=1&sn=60ffc56465256fafbc8fcbd788338bc6) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 第132篇：SolarWinds供应链攻击补充——Sunburst后门通信全貌揭秘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487696&idx=1&sn=fd9d7dfc401acb463c83b120299f9271](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487696&idx=1&sn=fd9d7dfc401acb463c83b120299f9271) |
+| 1 | XSS-challenge-tour[1-18关]通关记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34) |
 
 
 ## 📁 归档路径
@@ -103,7 +87,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -113,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-28 16:24:19*
+*生成时间: 2025-08-28 20:20:35*
 *报告工具: 微信文章安全归档系统*
