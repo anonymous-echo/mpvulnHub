@@ -1,15 +1,18 @@
-# 2025-08-28 安全威胁态势报告
+# 2025-08-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
@@ -61,22 +64,55 @@
 
 ### Doonsec
 
-- [XSS-challenge-tour[1-18关]通关记录](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34) (发布日期: 2025-08-28)
-- [【红队】红队自动化扫描工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493837&idx=1&sn=de57befae5f3a00f5193f5634e7f2a83) (发布日期: 2025-08-28)
+- [0day披露-蓝凌EIS系统SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486987&idx=1&sn=8a7caec72474e67900ccec312b4639f6) (发布日期: 2025-08-29)
+- [【JAVA代审】万户OA代码审计与0day挖掘](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487003&idx=1&sn=ed2e6eeba351622a32b8517955101bc0) (发布日期: 2025-08-29)
+- [逍遥网络攻防实验 -- 渗透测试作业一](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484358&idx=1&sn=f20a7e76fba65caa56fc30132d8b92cd) (发布日期: 2025-08-29)
+- [逍遥网络攻防实验 -- 渗透测试作业二](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484358&idx=2&sn=c382fee732f23e82d954b41fdb5b8a17) (发布日期: 2025-08-29)
+- [“AI+云安全”融合！天融信入编《多云环境安全能力构建技术指南（2025 版）》](https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650973940&idx=1&sn=250f0f58ae7e312e92c436ed5e8434ed) (发布日期: 2025-08-29)
+- [新型webshell免杀 | 哥斯拉 Websocket型 webshell](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507196&idx=1&sn=c1e6f6fca395cae563420ad8585b698b) (发布日期: 2025-08-29)
+- [中国不明天然气公司涉嫌数据泄露事件分析及威胁行为者VYUN剖析](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486463&idx=1&sn=b18c639357d186815cf35f98d82bece0) (发布日期: 2025-08-29)
+- [渗透测试报告编写平台 | 简化和自动化渗透测试报告的生成过程。](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495066&idx=1&sn=ae3661575b88d723cb543dc3c93d93aa) (发布日期: 2025-08-29)
+- [《网络安全技术 鉴别与授权 基于属性的访问控制模型与管理规范》等4项国家标准征求意见](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498684&idx=1&sn=91b147919d26b1614df608b42ad2d665) (发布日期: 2025-08-29)
+- [法国零售集团欧尚(Auchan)数十万客户信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498684&idx=3&sn=0b0d5fd8013be539054b0c808af2b7b8) (发布日期: 2025-08-29)
+- [攻防演练 · 一起学习一起成长](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485384&idx=3&sn=a3a55bf3bdbfeca1df8a5c4af04285fd) (发布日期: 2025-08-29)
+- [应急响应：安装chrome浏览器中招远控木马](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485254&idx=1&sn=fda4f8b85f84539fb49cb92a7db577e5) (发布日期: 2025-08-29)
+- [红队免杀利器GoPhantom更新发布|一个为攻防和安全研究设计的下一代荷载加载器](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494106&idx=1&sn=0c499dcc7d40d251f0f10f6c9a95fb4b) (发布日期: 2025-08-29)
+- [数据安全——存储、备份](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117836&idx=2&sn=e95edfcecb63e7ab4a39f927f4a72a17) (发布日期: 2025-08-29)
+- [内网穿透神器大盘点！frp、WireGuard让你的服务器随时在线](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484799&idx=1&sn=4c2330d208d15897d3b5f592087b2779) (发布日期: 2025-08-29)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 0day披露-蓝凌EIS系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486987&idx=1&sn=8a7caec72474e67900ccec312b4639f6](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486987&idx=1&sn=8a7caec72474e67900ccec312b4639f6) |
+| 2 | 【JAVA代审】万户OA代码审计与0day挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487003&idx=1&sn=ed2e6eeba351622a32b8517955101bc0](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487003&idx=1&sn=ed2e6eeba351622a32b8517955101bc0) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | XSS-challenge-tour[1-18关]通关记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485854&idx=1&sn=2fbdb60efd2cb749acb1ee3423aeda34) |
+| 1 | 0day披露-蓝凌EIS系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486987&idx=1&sn=8a7caec72474e67900ccec312b4639f6](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486987&idx=1&sn=8a7caec72474e67900ccec312b4639f6) |
+| 2 | 内网穿透神器大盘点！frp、WireGuard让你的服务器随时在线 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484799&idx=1&sn=4c2330d208d15897d3b5f592087b2779](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484799&idx=1&sn=4c2330d208d15897d3b5f592087b2779) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 应急响应：安装chrome浏览器中招远控木马 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485254&idx=1&sn=fda4f8b85f84539fb49cb92a7db577e5](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485254&idx=1&sn=fda4f8b85f84539fb49cb92a7db577e5) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 中国不明天然气公司涉嫌数据泄露事件分析及威胁行为者VYUN剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486463&idx=1&sn=b18c639357d186815cf35f98d82bece0](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486463&idx=1&sn=b18c639357d186815cf35f98d82bece0) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-28/`
+文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-29/`
 
 ## 🔗 数据源说明
 
@@ -87,7 +123,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -97,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-28 20:20:35*
+*生成时间: 2025-08-29 01:25:21*
 *报告工具: 微信文章安全归档系统*
