@@ -2,20 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **威胁情报**: 2篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,43 +59,11 @@
 
 ### Doonsec
 
-- [【资讯】全国网安标委发布《关于人工智能安全标准应用实践案例入选建议名单的公示》](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555371&idx=3&sn=bd853a0deab3768a3be60c2be0434df7) (发布日期: 2025-08-29)
-- [首例！AI武器化供应链攻击震动安全圈：Nx Build成黑客新目标](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491923&idx=1&sn=87232f23015873304041b0e54814a47a) (发布日期: 2025-08-29)
-- [标准解读：《GB/T 45396-2025 数据安全技术 政务数据处理安全要求》](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597282&idx=1&sn=caf976fd6c1686b1c7283ce23f6039d8) (发布日期: 2025-08-29)
-- [Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574702&idx=1&sn=4be045f1dcde9e72532f6b69bd668e36) (发布日期: 2025-08-29)
-- [安全威胁情报周报（2025/08/23-2025/08/29）](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492563&idx=1&sn=98d9923296b2a3ee068c33e1bdd61a3e) (发布日期: 2025-08-29)
-- [围猎银狐 -- 终端安全能力建设共享第1期｜基于 YARA 的特征检测与银狐追踪](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510807&idx=1&sn=ccc17967f1bd9714711901a72e4243a5) (发布日期: 2025-08-29)
-- [【1day通报】成都索贝数码科技融媒体平台logicdelete接口存在SQL注入](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03) (发布日期: 2025-08-29)
-- [【红队思路】AppDomainManager劫持实现dll侧加载](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484499&idx=1&sn=d196160cc57083c3a650c17bba81d1b1) (发布日期: 2025-08-29)
+- [网络安全意识培训PPT（员工版）](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522547&idx=1&sn=9305eac43d4b7aaec10d24d4f8e1b72b) (发布日期: 2025-08-29)
+- [CISP-PTE & CISP-PTS 上福利！](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518395&idx=1&sn=e13699f301f9defdcc9e138893fc2f52) (发布日期: 2025-08-29)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574702&idx=1&sn=4be045f1dcde9e72532f6b69bd668e36](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574702&idx=1&sn=4be045f1dcde9e72532f6b69bd668e36) |
-| 2 | 【1day通报】成都索贝数码科技融媒体平台logicdelete接口存在SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【1day通报】成都索贝数码科技融媒体平台logicdelete接口存在SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484029&idx=1&sn=a6d4788e557dd0b7df39dfa93887bd03) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安全威胁情报周报（2025/08/23-2025/08/29） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492563&idx=1&sn=98d9923296b2a3ee068c33e1bdd61a3e](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492563&idx=1&sn=98d9923296b2a3ee068c33e1bdd61a3e) |
-| 2 | 围猎银狐 -- 终端安全能力建设共享第1期｜基于 YARA 的特征检测与银狐追踪 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510807&idx=1&sn=ccc17967f1bd9714711901a72e4243a5](https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510807&idx=1&sn=ccc17967f1bd9714711901a72e4243a5) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 首例！AI武器化供应链攻击震动安全圈：Nx Build成黑客新目标 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491923&idx=1&sn=87232f23015873304041b0e54814a47a](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247491923&idx=1&sn=87232f23015873304041b0e54814a47a) |
 
 
 ## 📁 归档路径
@@ -116,8 +79,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -126,5 +89,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-29 16:23:13*
+*生成时间: 2025-08-29 20:19:45*
 *报告工具: 微信文章安全归档系统*
