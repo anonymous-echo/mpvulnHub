@@ -2,17 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
+- **攻击技术**: 4篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,20 +63,37 @@
 
 ### Doonsec
 
-- [.NET内网实战：修改注册表关闭Windows Defender](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=1&sn=d60754fd735fc4398b2d396430e3c7cb) (发布日期: 2025-08-30)
-- [Web开发-JavaEE应用&原生和FastJson反序列化&URLDNS链&JDBC链&Gadget手搓](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485586&idx=1&sn=b774d756fb9b8e76bd89233e19648844) (发布日期: 2025-08-30)
-- [ES::Tools | ES::Portscan 3.2.21 更新红队模式【赠100优惠券】](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488279&idx=1&sn=998d61ad64bab58b93e7f801cb26b6cb) (发布日期: 2025-08-30)
-- [诚邀参赛 | 2025年北京市职工职业技能大赛暨“网安联杯”首届数据安全管理员职业技能竞赛](https://mp.weixin.qq.com/s?__biz=MzkyNDA5NjgyMg==&mid=2247502151&idx=1&sn=b5346e5e845c1248b4b5da3db13c3bbf) (发布日期: 2025-08-30)
-- [你一上网，屏幕就被“直播”！别再用这款免费VPN了，10万人的隐私或已“裸奔”！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901251&idx=1&sn=8f37656e117da8b071224eb1e7adaf29) (发布日期: 2025-08-30)
+- [【攻防实战】msf反弹shell打穿域控](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7) (发布日期: 2025-08-30)
+- [境外间谍情报机关将加密通信软件打造为“暗线通道”，拉拢腐蚀境内人员、窃取国家秘密，国安部提醒](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=1&sn=d0b5b904ecb7d8056f1779e9e693bf0b) (发布日期: 2025-08-30)
+- [日产确认遭勒索软件入侵，4TB核心数据被盗](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=4&sn=12ab49f052bba1c1d6ec2de9809fb393) (发布日期: 2025-08-30)
+- [无恶意软件勒索：详解威胁组织Storm-0501如何转向云原生攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326931&idx=1&sn=a2fc2f403562439aaaea1a0c0eeebf74) (发布日期: 2025-08-30)
+- [基于Linux Rootkit高级威胁恶意软件技术研究入门指导](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493316&idx=1&sn=06834bfe852c5d213f5ceef58d7d6dd2) (发布日期: 2025-08-30)
+- [68元抢《云安全技术》：不做“亡羊补牢”，要学“防患未然”](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=1&sn=a6f2d7fb68a406ad8971e5ff230d371e) (发布日期: 2025-08-30)
+- [一篇讲清楚渗透测试是什么？种类以及细节，渗透小白必看！](https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484580&idx=1&sn=4b13d0d903e74fdd08ea14b626abee22) (发布日期: 2025-08-30)
+- [金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) (发布日期: 2025-08-30)
+- [【严重】Apache Tika XML外部实体注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) (发布日期: 2025-08-30)
+- [内网渗透体系建设（建议收藏）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5) (发布日期: 2025-08-30)
+- [网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb) (发布日期: 2025-08-30)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) |
+| 2 | 【严重】Apache Tika XML外部实体注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) |
+| 3 | 网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | .NET内网实战：修改注册表关闭Windows Defender | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=1&sn=d60754fd735fc4398b2d396430e3c7cb](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500446&idx=1&sn=d60754fd735fc4398b2d396430e3c7cb) |
+| 1 | 【攻防实战】msf反弹shell打穿域控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7) |
+| 2 | 金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) |
+| 3 | 【严重】Apache Tika XML外部实体注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) |
+| 4 | 内网渗透体系建设（建议收藏） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5) |
 
 
 ## 📁 归档路径
@@ -90,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -100,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-30 08:21:52*
+*生成时间: 2025-08-30 12:34:47*
 *报告工具: 微信文章安全归档系统*
