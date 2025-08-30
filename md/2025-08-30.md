@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 4篇
-- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +63,13 @@
 
 ### Doonsec
 
-- [【攻防实战】msf反弹shell打穿域控](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7) (发布日期: 2025-08-30)
-- [境外间谍情报机关将加密通信软件打造为“暗线通道”，拉拢腐蚀境内人员、窃取国家秘密，国安部提醒](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=1&sn=d0b5b904ecb7d8056f1779e9e693bf0b) (发布日期: 2025-08-30)
-- [日产确认遭勒索软件入侵，4TB核心数据被盗](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=4&sn=12ab49f052bba1c1d6ec2de9809fb393) (发布日期: 2025-08-30)
-- [无恶意软件勒索：详解威胁组织Storm-0501如何转向云原生攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326931&idx=1&sn=a2fc2f403562439aaaea1a0c0eeebf74) (发布日期: 2025-08-30)
-- [基于Linux Rootkit高级威胁恶意软件技术研究入门指导](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493316&idx=1&sn=06834bfe852c5d213f5ceef58d7d6dd2) (发布日期: 2025-08-30)
-- [68元抢《云安全技术》：不做“亡羊补牢”，要学“防患未然”](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599163&idx=1&sn=a6f2d7fb68a406ad8971e5ff230d371e) (发布日期: 2025-08-30)
-- [一篇讲清楚渗透测试是什么？种类以及细节，渗透小白必看！](https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484580&idx=1&sn=4b13d0d903e74fdd08ea14b626abee22) (发布日期: 2025-08-30)
-- [金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) (发布日期: 2025-08-30)
-- [【严重】Apache Tika XML外部实体注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) (发布日期: 2025-08-30)
-- [内网渗透体系建设（建议收藏）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5) (发布日期: 2025-08-30)
-- [网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb) (发布日期: 2025-08-30)
+- [AVL SDK反病毒引擎升级公告 勘误说明和致歉](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486061&idx=1&sn=ef57d977273de1a6e410ca3cafb2fccb) (发布日期: 2025-08-30)
+- [泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6) (发布日期: 2025-08-30)
+- [如何避免LLM被提示注入攻击](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326) (发布日期: 2025-08-30)
+- [SRC边缘资产sql注入](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) (发布日期: 2025-08-30)
+- [一名合格红队的成长之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519726&idx=1&sn=99c4d5c5719387aabeecaf4c5afde4e0) (发布日期: 2025-08-30)
+- [无恶意软件勒索：详解威胁组织Storm-0501如何转向云原生攻击](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=3&sn=5bf6f1ab9de22c2d15e558c4ef6ef9e7) (发布日期: 2025-08-30)
+- [【代码审计】某在线拍卖系统代码审计](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496097&idx=1&sn=ffd14b4ec904eab9ec1108406987e3a8) (发布日期: 2025-08-30)
 
 
 ## 🎯 威胁详情分析
@@ -82,18 +78,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) |
-| 2 | 【严重】Apache Tika XML外部实体注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) |
-| 3 | 网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb) |
+| 1 | 泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【攻防实战】msf反弹shell打穿域控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247503535&idx=1&sn=1ed440794579de9a95be3f6447c413d7) |
-| 2 | 金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3) |
-| 3 | 【严重】Apache Tika XML外部实体注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760) |
-| 4 | 内网渗透体系建设（建议收藏） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5) |
+| 1 | 如何避免LLM被提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326) |
+| 2 | SRC边缘资产sql注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC边缘资产sql注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) |
 
 
 ## 📁 归档路径
@@ -109,7 +107,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -119,5 +117,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-30 12:34:47*
+*生成时间: 2025-08-30 16:20:39*
 *报告工具: 微信文章安全归档系统*

@@ -20132,5 +20132,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492594&idx=1&sn=6ea83062528df2abc06b4ac293ad60a3": "金华迪加 现场大屏互动系统 qiandao.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486033&idx=1&sn=6658b55a0c4d8b7ae56912221afce760": "【严重】Apache Tika XML外部实体注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=1&sn=4a2bb6997cc9e6288ed0800460d693f5": "内网渗透体系建设（建议收藏）",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb": "网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574714&idx=2&sn=de12b13ed3956eb17d5c963f4501bcfb": "网络安全脱钩！微软停止向中国网络安全公司发送漏洞预警情报",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486061&idx=1&sn=ef57d977273de1a6e410ca3cafb2fccb": "AVL SDK反病毒引擎升级公告 勘误说明和致歉",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6": "泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326": "如何避免LLM被提示注入攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac": "SRC边缘资产sql注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519726&idx=1&sn=99c4d5c5719387aabeecaf4c5afde4e0": "一名合格红队的成长之路",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=3&sn=5bf6f1ab9de22c2d15e558c4ef6ef9e7": "无恶意软件勒索：详解威胁组织Storm-0501如何转向云原生攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496097&idx=1&sn=ffd14b4ec904eab9ec1108406987e3a8": "【代码审计】某在线拍卖系统代码审计"
 }
