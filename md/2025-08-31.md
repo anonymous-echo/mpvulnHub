@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 7篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 4篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,18 +63,17 @@
 
 ### Doonsec
 
-- [腾讯云曝严重安全漏洞重要长期暴露公网|黑客动用上万IP，大规模扫描微软 RDP 服务](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49) (发布日期: 2025-08-31)
-- [Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21) (发布日期: 2025-08-31)
-- [渗透测试报告编写平台 | 简化和自动化渗透测试报告的生成过程](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=4&sn=f532e3ab300e24fb5fc49a929dc966c2) (发布日期: 2025-08-31)
-- [【渗透测试】逻辑漏洞挖掘思路图](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680) (发布日期: 2025-08-31)
-- [汉王e脸通 updateVisitorMapConfig.do 任意文件上传](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486061&idx=1&sn=aceb1729fc2a4f1d0bc824bd45c80a66) (发布日期: 2025-08-31)
-- [我的意外溯源全记录（那晚夜班摸鱼摸出个红队老哥）](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517746&idx=1&sn=24bc60c2db68a9c1a4ad970a739b7805) (发布日期: 2025-08-31)
-- [63种算法性能终极排行：谁才是无硬件加速的OpenVPN性能王者？](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861263&idx=1&sn=5bc20605df530b6cf23efda0e2d1d7f0) (发布日期: 2025-08-31)
-- [专注于漏洞利用开发 | 考OSED，速进！](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0) (发布日期: 2025-08-31)
-- [思科集成管理控制器虚拟键盘视频监视器开放重定向漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66) (发布日期: 2025-08-31)
-- [Cisco Nexus 3000和9000系列交换机中间系统到中间系统拒绝服务漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848) (发布日期: 2025-08-31)
-- [上福利 | CISP-PTE vs CISP-PTS vs OSCP vs OSEP](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524851&idx=1&sn=d00a0317083297894836da991006ea56) (发布日期: 2025-08-31)
-- [记一次真实的LKM rootkit 与挖矿病毒的结合应急案例](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523396&idx=1&sn=b5e652ad76004676eb2cce2a26a8ad6e) (发布日期: 2025-08-31)
+- [小程序漏洞挖掘 | 验证码缺陷＋springboot未授权组合拳拿下多个中危](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551589&idx=1&sn=b78cdfc0a448fcd11f9651168455861a) (发布日期: 2025-08-31)
+- [突发重磅！腾讯云惊爆严重安全漏洞，大量用户数据面临风险！](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491889&idx=1&sn=87c83e1a8f5b1ec5aa8d4a1fbdad4bb8) (发布日期: 2025-08-31)
+- [【Python代审】盒木ERP社区版代码审计](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492834&idx=1&sn=f60eb76087ace7a4bb265acf1910d5f9) (发布日期: 2025-08-31)
+- [深入研究银狐木马通过网络致盲安全软件的技术原理与解决方案](https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485364&idx=1&sn=8fd1ae4f1ee3e50572383bce2a7b4fff) (发布日期: 2025-08-31)
+- [喜讯！赛博研究院入选“上海市通信管理局2025年网络和数据安全支撑单位”名单](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247519833&idx=1&sn=d45c56a7615df68361838d359e90f554) (发布日期: 2025-08-31)
+- [AI写的病毒来了！首个“AI勒索软件”曝光，能自创攻击代码，传统杀毒软件或将失效！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901253&idx=1&sn=b67f173d4424fa9617f64d18dca806f3) (发布日期: 2025-08-31)
+- [手把手叫你如何仅仅从漏洞消息到分析 0day](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496132&idx=1&sn=a26e2c79418f2a43efed9debe0193ead) (发布日期: 2025-08-31)
+
+### ChainReactors
+
+- [ ] [【安全圈】FreePBX零日漏洞遭利用，官方通告：请立即锁定管理员访问](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316) (发布日期: 2025-08-31)
 
 
 ## 🎯 威胁详情分析
@@ -82,12 +82,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 腾讯云曝严重安全漏洞重要长期暴露公网|黑客动用上万IP，大规模扫描微软 RDP 服务 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49) |
-| 2 | Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21) |
-| 3 | 【渗透测试】逻辑漏洞挖掘思路图 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680) |
-| 4 | 专注于漏洞利用开发 | 考OSED，速进！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0) |
-| 5 | 思科集成管理控制器虚拟键盘视频监视器开放重定向漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66) |
-| 6 | Cisco Nexus 3000和9000系列交换机中间系统到中间系统拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848) |
+| 1 | 小程序漏洞挖掘 | 验证码缺陷＋springboot未授权组合拳拿下多个中危 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551589&idx=1&sn=b78cdfc0a448fcd11f9651168455861a](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551589&idx=1&sn=b78cdfc0a448fcd11f9651168455861a) |
+| 2 | 突发重磅！腾讯云惊爆严重安全漏洞，大量用户数据面临风险！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491889&idx=1&sn=87c83e1a8f5b1ec5aa8d4a1fbdad4bb8](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491889&idx=1&sn=87c83e1a8f5b1ec5aa8d4a1fbdad4bb8) |
+| 3 | 手把手叫你如何仅仅从漏洞消息到分析 0day | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496132&idx=1&sn=a26e2c79418f2a43efed9debe0193ead](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496132&idx=1&sn=a26e2c79418f2a43efed9debe0193ead) |
+| 4 |  ] [【安全圈】FreePBX零日漏洞遭利用，官方通告：请立即锁定管理员访问 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071454&idx=3&sn=a2347c2c70f78c9cdd8b34541194b316) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 深入研究银狐木马通过网络致盲安全软件的技术原理与解决方案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485364&idx=1&sn=8fd1ae4f1ee3e50572383bce2a7b4fff](https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485364&idx=1&sn=8fd1ae4f1ee3e50572383bce2a7b4fff) |
 
 
 ## 📁 归档路径
@@ -103,8 +107,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -113,5 +117,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-31 01:37:17*
+*生成时间: 2025-08-31 04:21:23*
 *报告工具: 微信文章安全归档系统*
