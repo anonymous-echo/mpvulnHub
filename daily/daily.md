@@ -1,20 +1,19 @@
-# 2025-08-30 安全威胁态势报告
+# 2025-08-31 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 6篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +62,18 @@
 
 ### Doonsec
 
-- [AVL SDK反病毒引擎升级公告 勘误说明和致歉](https://mp.weixin.qq.com/s?__biz=Mzg5MTU3NTM0Nw==&mid=2247486061&idx=1&sn=ef57d977273de1a6e410ca3cafb2fccb) (发布日期: 2025-08-30)
-- [泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6) (发布日期: 2025-08-30)
-- [如何避免LLM被提示注入攻击](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326) (发布日期: 2025-08-30)
-- [SRC边缘资产sql注入](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) (发布日期: 2025-08-30)
-- [一名合格红队的成长之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519726&idx=1&sn=99c4d5c5719387aabeecaf4c5afde4e0) (发布日期: 2025-08-30)
-- [无恶意软件勒索：详解威胁组织Storm-0501如何转向云原生攻击](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637134&idx=3&sn=5bf6f1ab9de22c2d15e558c4ef6ef9e7) (发布日期: 2025-08-30)
-- [【代码审计】某在线拍卖系统代码审计](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496097&idx=1&sn=ffd14b4ec904eab9ec1108406987e3a8) (发布日期: 2025-08-30)
+- [腾讯云曝严重安全漏洞重要长期暴露公网|黑客动用上万IP，大规模扫描微软 RDP 服务](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49) (发布日期: 2025-08-31)
+- [Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21) (发布日期: 2025-08-31)
+- [渗透测试报告编写平台 | 简化和自动化渗透测试报告的生成过程](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=4&sn=f532e3ab300e24fb5fc49a929dc966c2) (发布日期: 2025-08-31)
+- [【渗透测试】逻辑漏洞挖掘思路图](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680) (发布日期: 2025-08-31)
+- [汉王e脸通 updateVisitorMapConfig.do 任意文件上传](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486061&idx=1&sn=aceb1729fc2a4f1d0bc824bd45c80a66) (发布日期: 2025-08-31)
+- [我的意外溯源全记录（那晚夜班摸鱼摸出个红队老哥）](https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247517746&idx=1&sn=24bc60c2db68a9c1a4ad970a739b7805) (发布日期: 2025-08-31)
+- [63种算法性能终极排行：谁才是无硬件加速的OpenVPN性能王者？](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861263&idx=1&sn=5bc20605df530b6cf23efda0e2d1d7f0) (发布日期: 2025-08-31)
+- [专注于漏洞利用开发 | 考OSED，速进！](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0) (发布日期: 2025-08-31)
+- [思科集成管理控制器虚拟键盘视频监视器开放重定向漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66) (发布日期: 2025-08-31)
+- [Cisco Nexus 3000和9000系列交换机中间系统到中间系统拒绝服务漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848) (发布日期: 2025-08-31)
+- [上福利 | CISP-PTE vs CISP-PTS vs OSCP vs OSEP](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524851&idx=1&sn=d00a0317083297894836da991006ea56) (发布日期: 2025-08-31)
+- [记一次真实的LKM rootkit 与挖矿病毒的结合应急案例](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523396&idx=1&sn=b5e652ad76004676eb2cce2a26a8ad6e) (发布日期: 2025-08-31)
 
 
 ## 🎯 威胁详情分析
@@ -78,25 +82,17 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 泛微e-cology jqueryFileTree.jsp接口存在敏感信息泄露 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489020&idx=1&sn=61d0ca7112e05cc88e863476535d8cc6) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 如何避免LLM被提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290448&idx=1&sn=03536604ca6e1a8e1e7aae6fbd973326) |
-| 2 | SRC边缘资产sql注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SRC边缘资产sql注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498121&idx=1&sn=e6ec3519d246801337319ec2673ed8ac) |
+| 1 | 腾讯云曝严重安全漏洞重要长期暴露公网|黑客动用上万IP，大规模扫描微软 RDP 服务 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=1&sn=0f5afaa319b7aea60041c3005866dd49) |
+| 2 | Chrome浏览器高危零日漏洞PoC公开，已被用于野外攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612070&idx=3&sn=8964b945e4080080dd03a5d2c1a4db21) |
+| 3 | 【渗透测试】逻辑漏洞挖掘思路图 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486533&idx=1&sn=8f9e73d3819c2452634bad8989175680) |
+| 4 | 专注于漏洞利用开发 | 考OSED，速进！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518409&idx=1&sn=7d79f0848655dfd8bff2d728031a9ba0) |
+| 5 | 思科集成管理控制器虚拟键盘视频监视器开放重定向漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=1&sn=a64fa285327a924bf48150e816debb66) |
+| 6 | Cisco Nexus 3000和9000系列交换机中间系统到中间系统拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117878&idx=2&sn=e6250dfd15269c0bef2d5f6ea95a2848) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-30/`
+文章已归档到: `doc/2025/2025-08/2025-W35/2025-08-31/`
 
 ## 🔗 数据源说明
 
@@ -107,7 +103,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -117,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-30 16:20:39*
+*生成时间: 2025-08-31 01:37:17*
 *报告工具: 微信文章安全归档系统*
