@@ -2,22 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,49 +59,10 @@
 
 ### Doonsec
 
-- [【安全圈】SK电信因大规模数据泄露被处以创纪录1348亿韩元罚款](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=3&sn=5dff9cf262bcb8b2da1bea8babc08375) (发布日期: 2025-08-31)
-- [知识星球 | 现在有什么信创安全产品认证？AI失控如何应急响应？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643102&idx=1&sn=2f9923311b21b282add59f0c9c1f51be) (发布日期: 2025-08-31)
-- [攻击者利用Windows与Linux漏洞实施系统入侵的实战分析](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326943&idx=1&sn=d77b1b37efbeec4c416fd580e827a20c) (发布日期: 2025-08-31)
-- [HOOK安卓木马重大升级，勒索功能扩展至107项](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326943&idx=3&sn=f3030c6fac40c8bf3db264d1902f942c) (发布日期: 2025-08-31)
-- [『议题征集』倒计时15天！第九届安全开发者峰会（SDC 2025）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599164&idx=1&sn=9162619590f3ea341f67c2c66e80c5ce) (发布日期: 2025-08-31)
-- [通过URL参数传递所引发的SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075) (发布日期: 2025-08-31)
-- [【代码审计实战】一款网校在线系统（下篇）](https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500533&idx=1&sn=c7764ce5ebef7f832eff0880778be79f) (发布日期: 2025-08-31)
-- [再回答一个 .NET 反序列化问题，看看有没有你想要知道的？](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500453&idx=1&sn=ddbea7e7de5270aa24d398bbe5b1d2a0) (发布日期: 2025-08-31)
-- [.NET 本地提权，通过系统进程令牌模拟实现权限提升](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500453&idx=3&sn=7372f9674d2d3850487e9da33a5209ad) (发布日期: 2025-08-31)
-- [普通入行要参加网络安全培训吗？](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487000&idx=1&sn=2e9f273897320edcd7bc5baaed53be82) (发布日期: 2025-08-31)
-- [2025年网络安全工程师值得一看的19本书籍（附PDF）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574724&idx=1&sn=479a6620c5cf048afe70a6a35ef425e1) (发布日期: 2025-08-31)
-- [GoFinger - 红队资产指纹发现与管理利器](https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497844&idx=1&sn=556b4878a5e6feabec178b78d880f0c0) (发布日期: 2025-08-31)
-- [应急演练|深入浅出分析某海外能源巨头勒索模拟演练过程](https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487279&idx=1&sn=e8b02ac21e029804ece6ffd24692d2e2) (发布日期: 2025-08-31)
-- [紧急警报！俄罗斯黑客借思科漏洞，猛攻全球关键基础设施](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486651&idx=1&sn=308e6b0a148f7a61583a9964ccf8842b) (发布日期: 2025-08-31)
+- [从工业安全标杆看网络安全：杜邦安全管理体系在网络安全领域的应用](https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486146&idx=1&sn=f1186a15469df5f7f7e41c353c75edaa) (发布日期: 2025-08-31)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 攻击者利用Windows与Linux漏洞实施系统入侵的实战分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326943&idx=1&sn=d77b1b37efbeec4c416fd580e827a20c](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326943&idx=1&sn=d77b1b37efbeec4c416fd580e827a20c) |
-| 2 | 通过URL参数传递所引发的SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075) |
-| 3 | 紧急警报！俄罗斯黑客借思科漏洞，猛攻全球关键基础设施 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486651&idx=1&sn=308e6b0a148f7a61583a9964ccf8842b](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486651&idx=1&sn=308e6b0a148f7a61583a9964ccf8842b) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 通过URL参数传递所引发的SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498127&idx=1&sn=a964b55dfb2c2d356a30f12759202075) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 知识星球 | 现在有什么信创安全产品认证？AI失控如何应急响应？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643102&idx=1&sn=2f9923311b21b282add59f0c9c1f51be](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643102&idx=1&sn=2f9923311b21b282add59f0c9c1f51be) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】SK电信因大规模数据泄露被处以创纪录1348亿韩元罚款 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=3&sn=5dff9cf262bcb8b2da1bea8babc08375](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071465&idx=3&sn=5dff9cf262bcb8b2da1bea8babc08375) |
 
 
 ## 📁 归档路径
@@ -124,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -134,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-08-31 12:35:18*
+*生成时间: 2025-08-31 16:20:39*
 *报告工具: 微信文章安全归档系统*
