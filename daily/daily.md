@@ -2,22 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 27篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 4篇
-- **威胁情报**: 3篇
-- **安全运营**: 2篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,80 +59,12 @@
 
 ### Doonsec
 
-- [EDR、HIDS、RASP安全防护软件的那些事](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484743&idx=1&sn=9fed5b652a83a71c08cfb7bafee8d162) (发布日期: 2025-09-01)
-- [泛微E-Office SignatureDel.php SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a) (发布日期: 2025-09-01)
-- [应急响应：VPN告警蠕虫病毒是怎么回事](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485267&idx=1&sn=56e8bbcbfbbf216281eb8736597311ed) (发布日期: 2025-09-01)
-- [接口越权漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498131&idx=1&sn=157bfa81face94619be939af49ae02c4) (发布日期: 2025-09-01)
-- [预警丨防范Cursor代码编辑器远程代码执行高危漏洞](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c) (发布日期: 2025-09-01)
-- [CNVD漏洞周报2025年第33期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=1&sn=9f30d6c73cb74721d1f294706cac7afe) (发布日期: 2025-09-01)
-- [上周关注度较高的产品安全漏洞(20250825-20250831)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=2&sn=26f14c065dfeaf828ea111a8f4489926) (发布日期: 2025-09-01)
-- [荣誉｜银基科技入选上海市通信管理局2025年网络和数据安全重点支撑单位](https://mp.weixin.qq.com/s?__biz=MzIxMjU2NTU4NQ==&mid=2247489657&idx=1&sn=c5ab710cdad7b675df8964e077d8b69e) (发布日期: 2025-09-01)
-- [免费赠送丨网络安全意识：易拉宝41幅](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643118&idx=2&sn=da31bb96d65fb1e58890bf0d8ec35cd5) (发布日期: 2025-09-01)
-- [提示词注入攻击：如何通过用户输入绕过AI代理](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=2&sn=0cc60e6862790b32aa5c4daf67271f6a) (发布日期: 2025-09-01)
-- [银狐APT组织利用合法驱动绕过EDR与杀软，攻击Win10/11用户](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=4&sn=9cf6bb08df457261e59b06daaf36b371) (发布日期: 2025-09-01)
-- [低级错误引发严重数据泄露事故，知名运营商被罚近7亿元](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514930&idx=1&sn=787c8024a9f256b94b36688703610824) (发布日期: 2025-09-01)
-- [恰逢四周年，数据安全相关政策集锦建议收藏！（附下载）](https://mp.weixin.qq.com/s?__biz=MjM5NzgzMjMwNw==&mid=2650665321&idx=1&sn=7b53cc77898c8c4af29541a3ba2e4865) (发布日期: 2025-09-01)
-- [每周网安资讯（8.26-9.1） | Microsoft Tslint存在安全漏洞](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506888&idx=1&sn=ae5dfa16c29ffcd25723289e2f56187b) (发布日期: 2025-09-01)
-- [国务院印发“人工智能+”行动意见，奇安信推出AI安全治理框架](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628840&idx=2&sn=d3c2fbce4acb8ea445820085c2a4f428) (发布日期: 2025-09-01)
-- [CISSP中文版考试大纲，为您解锁CISSP](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493100&idx=1&sn=d7e292004eda433685a8adb7a69432ed) (发布日期: 2025-09-01)
-- [朗速ERP WebDwgDefault.aspx 任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492604&idx=1&sn=5a8a6bf06a60a89c0b19a8c47dc581f0) (发布日期: 2025-09-01)
-- [火线安全平台-白帽子“征兵”计划](https://mp.weixin.qq.com/s?__biz=MzU4MjEwNzMzMg==&mid=2247494783&idx=1&sn=e032865aeab3839717be9907e9bbfeda) (发布日期: 2025-09-01)
-- [安天移动安全荣任GIIC鸿蒙安全专委会创始成员，赋能生态安全新未来](https://mp.weixin.qq.com/s?__biz=MjM5NTY4NzcyNg==&mid=2650250422&idx=2&sn=cc1d01f9c03e0d3d58ab82efd3c56c27) (发布日期: 2025-09-01)
-- [安全运营中心陷入危机的七大根源与五步修复方案](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550156&idx=1&sn=13e38d179d2164cdd146be0b1913be6c) (发布日期: 2025-09-01)
-- [【免费领】大厂经验成果：DDoS攻击应急响应实战指导手册](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556187&idx=2&sn=3c8008e8ee194366b133e31b1aeffe35) (发布日期: 2025-09-01)
-- [内网恶意代码治理必须有效防护、全量归因](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212329&idx=1&sn=93e1e005df76154b52d6d65daa24e8e1) (发布日期: 2025-09-01)
-- [漏洞通告 | Gitblit 身份认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507910&idx=1&sn=362401b9a7dd66d10b30b0f51464af53) (发布日期: 2025-09-01)
-- [里程碑时刻！知道创宇荣获《大模型安全防护围栏产品认证(增强级)》证书](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872393&idx=1&sn=e58a871102b1f222ba5d26a5dc338d13) (发布日期: 2025-09-01)
-- [人工智能安全实战营启航：聚焦AI场景下的安全风险与应对之道](https://mp.weixin.qq.com/s?__biz=Mzg3Mjg4NTcyNg==&mid=2247490545&idx=1&sn=aeb72a8fac0ce65400f24a2ce5e4d168) (发布日期: 2025-09-01)
-- [手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490195&idx=1&sn=42c7606e3ac2c75dd0e849a19b96b068) (发布日期: 2025-09-01)
-- [【已复现】Gitblit 身份认证绕过漏洞(CVE-2024-28080)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503879&idx=1&sn=550b2cdc0e0b1afff444842dd891152d) (发布日期: 2025-09-01)
+- [共筑智能安全新生态｜观安信息多维度亮相上海网络安全产业创新大会](https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247509040&idx=1&sn=20c745804d99f63bedd1f08b483f9dd3) (发布日期: 2025-09-01)
+- [最后5天！CISA立减+返现+赠送礼+推荐礼+转发礼！](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524873&idx=1&sn=9dd43005013b85730dee5b1828e46c69) (发布日期: 2025-09-01)
+- [趁活动抢位！CISP-PTE/PTS 错过拍大腿](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524873&idx=2&sn=fd11695077ef4997f535005ef4bebe63) (发布日期: 2025-09-01)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 泛微E-Office SignatureDel.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a) |
-| 2 | 接口越权漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498131&idx=1&sn=157bfa81face94619be939af49ae02c4](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498131&idx=1&sn=157bfa81face94619be939af49ae02c4) |
-| 3 | 预警丨防范Cursor代码编辑器远程代码执行高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c) |
-| 4 | CNVD漏洞周报2025年第33期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=1&sn=9f30d6c73cb74721d1f294706cac7afe](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=1&sn=9f30d6c73cb74721d1f294706cac7afe) |
-| 5 | 上周关注度较高的产品安全漏洞(20250825-20250831) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=2&sn=26f14c065dfeaf828ea111a8f4489926](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496271&idx=2&sn=26f14c065dfeaf828ea111a8f4489926) |
-| 6 | 每周网安资讯（8.26-9.1） | Microsoft Tslint存在安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506888&idx=1&sn=ae5dfa16c29ffcd25723289e2f56187b](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506888&idx=1&sn=ae5dfa16c29ffcd25723289e2f56187b) |
-| 7 | 朗速ERP WebDwgDefault.aspx 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492604&idx=1&sn=5a8a6bf06a60a89c0b19a8c47dc581f0](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492604&idx=1&sn=5a8a6bf06a60a89c0b19a8c47dc581f0) |
-| 8 | 漏洞通告 | Gitblit 身份认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507910&idx=1&sn=362401b9a7dd66d10b30b0f51464af53](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507910&idx=1&sn=362401b9a7dd66d10b30b0f51464af53) |
-| 9 | 【已复现】Gitblit 身份认证绕过漏洞(CVE-2024-28080)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503879&idx=1&sn=550b2cdc0e0b1afff444842dd891152d](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503879&idx=1&sn=550b2cdc0e0b1afff444842dd891152d) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 泛微E-Office SignatureDel.php SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492613&idx=1&sn=db15f4d282385b18e7f723d3c97f9f1a) |
-| 2 | 预警丨防范Cursor代码编辑器远程代码执行高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174307&idx=2&sn=ed19163c4d329db1e9889ec3cbec415c) |
-| 3 | 提示词注入攻击：如何通过用户输入绕过AI代理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=2&sn=0cc60e6862790b32aa5c4daf67271f6a](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=2&sn=0cc60e6862790b32aa5c4daf67271f6a) |
-| 4 | 内网恶意代码治理必须有效防护、全量归因 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212329&idx=1&sn=93e1e005df76154b52d6d65daa24e8e1](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212329&idx=1&sn=93e1e005df76154b52d6d65daa24e8e1) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应：VPN告警蠕虫病毒是怎么回事 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485267&idx=1&sn=56e8bbcbfbbf216281eb8736597311ed](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485267&idx=1&sn=56e8bbcbfbbf216281eb8736597311ed) |
-| 2 | 银狐APT组织利用合法驱动绕过EDR与杀软，攻击Win10/11用户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=4&sn=9cf6bb08df457261e59b06daaf36b371](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651326979&idx=4&sn=9cf6bb08df457261e59b06daaf36b371) |
-| 3 | 【免费领】大厂经验成果：DDoS攻击应急响应实战指导手册 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556187&idx=2&sn=3c8008e8ee194366b133e31b1aeffe35](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556187&idx=2&sn=3c8008e8ee194366b133e31b1aeffe35) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安全运营中心陷入危机的七大根源与五步修复方案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550156&idx=1&sn=13e38d179d2164cdd146be0b1913be6c](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550156&idx=1&sn=13e38d179d2164cdd146be0b1913be6c) |
-| 2 | 手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490195&idx=1&sn=42c7606e3ac2c75dd0e849a19b96b068](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490195&idx=1&sn=42c7606e3ac2c75dd0e849a19b96b068) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 低级错误引发严重数据泄露事故，知名运营商被罚近7亿元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514930&idx=1&sn=787c8024a9f256b94b36688703610824](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514930&idx=1&sn=787c8024a9f256b94b36688703610824) |
 
 
 ## 📁 归档路径
@@ -155,8 +80,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -165,5 +90,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-01 12:39:50*
+*生成时间: 2025-09-01 16:22:38*
 *报告工具: 微信文章安全归档系统*
