@@ -1,16 +1,25 @@
-# 2025-09-01 安全威胁态势报告
+# 2025-09-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 10篇
+- **攻击技术**: 4篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,16 +68,85 @@
 
 ### Doonsec
 
-- [推荐一个渗透测试报告编写平台](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574736&idx=1&sn=dac0517dbb00d19d09eae26148eddff5) (发布日期: 2025-09-01)
-- [奇安信内部《HW之红蓝队防御体系构建笔记，真香！（附PDF免费领取）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574736&idx=2&sn=70d3cf1b3ca60a54e2f4c18c3e8eaa48) (发布日期: 2025-09-01)
+- [针对 Salesloft Drift 的供应链攻击袭击了网络安全公司 Zscaler](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796200&idx=2&sn=0e0b2dd85f2148441a3328141294b063) (发布日期: 2025-09-02)
+- [骗子利用 Meta 恶意广告，通过 Brokewell 木马攻击安卓用户](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796200&idx=3&sn=cc63f2631a8a3b43bd443c422bdd3445) (发布日期: 2025-09-02)
+- [如何自信的挖掘EDUSRC、CNVD](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491717&idx=1&sn=55fbc56e0954a1dbf6735bda1ae9b229) (发布日期: 2025-09-02)
+- [记一次项目中把验证码漏洞从低危变成严重漏洞的方式](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507197&idx=1&sn=c76ac58a20c05609ffb30d6a20b1343c) (发布日期: 2025-09-02)
+- [工具分享篇：MobSF 移动安全框架：一站式移动应用安全检测与分析平台](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484177&idx=1&sn=639e0e9e566c2445b61f77107903819e) (发布日期: 2025-09-02)
+- [银狐最新攻击样本分析与威胁情报](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493337&idx=1&sn=f99246f5a096f9cc5bb881d9e7b3f820) (发布日期: 2025-09-02)
+- [CVE Push Service | 高危漏洞实时情报自动化推送工具](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495084&idx=1&sn=b70a7677a5a4e9261f845ddcea53a261) (发布日期: 2025-09-02)
+- [漏洞扫描工具 Nessus 部署与操作指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290594&idx=1&sn=540e2204db7baafba095ffc4c9ddfc05) (发布日期: 2025-09-02)
+- [API安全学习笔记](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290594&idx=2&sn=7221a7ce576a668130b0923b518257fa) (发布日期: 2025-09-02)
+- [漏洞预警 | 天锐绿盘文档安全管理平台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729) (发布日期: 2025-09-02)
+- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009) (发布日期: 2025-09-02)
+- [工具 | YonYouNCPocTool](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=4&sn=b257fc340fbe28e13b3d81be325d1b85) (发布日期: 2025-09-02)
+- [网安巨头Zscaler确认数据泄露，未能防范Salesloft Drift供应链攻击](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513520&idx=1&sn=777129a672fe715d690413114d19bcd8) (发布日期: 2025-09-02)
+- [阅edu证书站的未授权漏洞，忆校园青春](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486254&idx=1&sn=993cd82bceba042301a009c28ca2d251) (发布日期: 2025-09-02)
+- [懒人福音：全自动部署红队、蓝队环境只需一条命令！](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485445&idx=1&sn=4dd154df3fd1a039d71c7645df7504b2) (发布日期: 2025-09-02)
+- [攻防演练 · 一起学习一起成长](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485445&idx=3&sn=eb28ab9c7d90d8a06f7dad06bea6e7a5) (发布日期: 2025-09-02)
+- [勒索软件全球扩散：云端渗透与美俄主战场浮现](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486650&idx=2&sn=d5eda31283e9329d030f462f14781fb5) (发布日期: 2025-09-02)
+- [Salesloft 遭黑客入侵，窃取了 OAuth 令牌用于 Salesforce 数据窃取攻击](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493531&idx=1&sn=ba7180833a4b7748db4c5d2f813f09b2) (发布日期: 2025-09-02)
+- [隐卫 Pro 安全扫描器：Linux系统安全检查工具](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487841&idx=1&sn=5e1dad38882a22b13092ba3fad72f096) (发布日期: 2025-09-02)
+- [php 文件上传不含一句 php 代码 RCE 最新新姿势](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523458&idx=1&sn=367e069953bfbb44ca7dc6cb63ac6c4c) (发布日期: 2025-09-02)
+- [网络安全漏洞暴露快速修复的五大措施](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118021&idx=1&sn=398e252067aa969fe970095cff404b02) (发布日期: 2025-09-02)
+- [工具推荐 | 自动化资产测绘/漏洞扫描工具](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495768&idx=1&sn=9b347efee1bcb5502f16107f296d6ae4) (发布日期: 2025-09-02)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 如何自信的挖掘EDUSRC、CNVD | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491717&idx=1&sn=55fbc56e0954a1dbf6735bda1ae9b229](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491717&idx=1&sn=55fbc56e0954a1dbf6735bda1ae9b229) |
+| 2 | 记一次项目中把验证码漏洞从低危变成严重漏洞的方式 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507197&idx=1&sn=c76ac58a20c05609ffb30d6a20b1343c](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507197&idx=1&sn=c76ac58a20c05609ffb30d6a20b1343c) |
+| 3 | CVE Push Service | 高危漏洞实时情报自动化推送工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495084&idx=1&sn=b70a7677a5a4e9261f845ddcea53a261](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495084&idx=1&sn=b70a7677a5a4e9261f845ddcea53a261) |
+| 4 | 漏洞扫描工具 Nessus 部署与操作指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290594&idx=1&sn=540e2204db7baafba095ffc4c9ddfc05](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290594&idx=1&sn=540e2204db7baafba095ffc4c9ddfc05) |
+| 5 | 漏洞预警 | 天锐绿盘文档安全管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729) |
+| 6 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009) |
+| 7 | 工具 | YonYouNCPocTool | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=4&sn=b257fc340fbe28e13b3d81be325d1b85](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=4&sn=b257fc340fbe28e13b3d81be325d1b85) |
+| 8 | 阅edu证书站的未授权漏洞，忆校园青春 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486254&idx=1&sn=993cd82bceba042301a009c28ca2d251](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486254&idx=1&sn=993cd82bceba042301a009c28ca2d251) |
+| 9 | 网络安全漏洞暴露快速修复的五大措施 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118021&idx=1&sn=398e252067aa969fe970095cff404b02](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118021&idx=1&sn=398e252067aa969fe970095cff404b02) |
+| 10 | 工具推荐 | 自动化资产测绘/漏洞扫描工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495768&idx=1&sn=9b347efee1bcb5502f16107f296d6ae4](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495768&idx=1&sn=9b347efee1bcb5502f16107f296d6ae4) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 漏洞预警 | 天锐绿盘文档安全管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=2&sn=c54abe97e3f63fd81fbd82faf5a2b729) |
+| 2 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494266&idx=3&sn=1bdf7dcc134644635041549d009f3009) |
+| 3 | Salesloft 遭黑客入侵，窃取了 OAuth 令牌用于 Salesforce 数据窃取攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493531&idx=1&sn=ba7180833a4b7748db4c5d2f813f09b2](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493531&idx=1&sn=ba7180833a4b7748db4c5d2f813f09b2) |
+| 4 | php 文件上传不含一句 php 代码 RCE 最新新姿势 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523458&idx=1&sn=367e069953bfbb44ca7dc6cb63ac6c4c](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523458&idx=1&sn=367e069953bfbb44ca7dc6cb63ac6c4c) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐最新攻击样本分析与威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493337&idx=1&sn=f99246f5a096f9cc5bb881d9e7b3f820](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493337&idx=1&sn=f99246f5a096f9cc5bb881d9e7b3f820) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 如何自信的挖掘EDUSRC、CNVD | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491717&idx=1&sn=55fbc56e0954a1dbf6735bda1ae9b229](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491717&idx=1&sn=55fbc56e0954a1dbf6735bda1ae9b229) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网安巨头Zscaler确认数据泄露，未能防范Salesloft Drift供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513520&idx=1&sn=777129a672fe715d690413114d19bcd8](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513520&idx=1&sn=777129a672fe715d690413114d19bcd8) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 针对 Salesloft Drift 的供应链攻击袭击了网络安全公司 Zscaler | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796200&idx=2&sn=0e0b2dd85f2148441a3328141294b063](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796200&idx=2&sn=0e0b2dd85f2148441a3328141294b063) |
+| 2 | 网安巨头Zscaler确认数据泄露，未能防范Salesloft Drift供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513520&idx=1&sn=777129a672fe715d690413114d19bcd8](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513520&idx=1&sn=777129a672fe715d690413114d19bcd8) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-01/`
+文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-02/`
 
 ## 🔗 数据源说明
 
@@ -79,8 +157,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +167,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-01 20:19:15*
+*生成时间: 2025-09-02 01:26:14*
 *报告工具: 微信文章安全归档系统*
