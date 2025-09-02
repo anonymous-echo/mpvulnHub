@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
-- **漏洞利用**: 2篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,37 +60,17 @@
 
 ### Doonsec
 
-- [1.定位域控的七类方法](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484387&idx=1&sn=65848c48138b03cd6c8050d87b834d96) (发布日期: 2025-09-02)
-- [【资料】联合国情报分析手册](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151864&idx=1&sn=656e2ab7d15b155116fc91407d7792d0) (发布日期: 2025-09-02)
-- [一文读懂 Zscaler 数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484385&idx=1&sn=db1beb5248bc3ddbfc7c48d8152b964c) (发布日期: 2025-09-02)
-- [ZERO-DAY预警: 自动化发现TP-Link路由器高危漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484747&idx=1&sn=f7c11dd9ce4228c3099801073347d46b) (发布日期: 2025-09-02)
-- [hackerone之旅-手到擒来的self xss危害提升](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519745&idx=1&sn=f3f50bcd37637d300c0ab001a760fb54) (发布日期: 2025-09-02)
-- [【赏金15000美元】通过监控调试模式实现 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498133&idx=1&sn=3802d190f44314ebb4a1a5b5cdbf284d) (发布日期: 2025-09-02)
-- [AI漏洞风暴：CTF中漏洞智能挖掘技术全解析](https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247491135&idx=1&sn=34b805830dfc5750d1d7b8347135dc6e) (发布日期: 2025-09-02)
+- [NIST更新数字身份指南：应对AI、深度伪造与无密码时代](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637167&idx=1&sn=8e65750d5188b0bfaa0ec0f471a3d809) (发布日期: 2025-09-02)
+- [云安全巨头发生大规模数据泄露](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637167&idx=4&sn=85915e90cbb46f6f8496f857adf4dfb5) (发布日期: 2025-09-02)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | ZERO-DAY预警: 自动化发现TP-Link路由器高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484747&idx=1&sn=f7c11dd9ce4228c3099801073347d46b](https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484747&idx=1&sn=f7c11dd9ce4228c3099801073347d46b) |
-| 2 | AI漏洞风暴：CTF中漏洞智能挖掘技术全解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247491135&idx=1&sn=34b805830dfc5750d1d7b8347135dc6e](https://mp.weixin.qq.com/s?__biz=MzU2NzIzNzU4Mg==&mid=2247491135&idx=1&sn=34b805830dfc5750d1d7b8347135dc6e) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 1.定位域控的七类方法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484387&idx=1&sn=65848c48138b03cd6c8050d87b834d96](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484387&idx=1&sn=65848c48138b03cd6c8050d87b834d96) |
-| 2 | hackerone之旅-手到擒来的self xss危害提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519745&idx=1&sn=f3f50bcd37637d300c0ab001a760fb54](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519745&idx=1&sn=f3f50bcd37637d300c0ab001a760fb54) |
-| 3 | 【赏金15000美元】通过监控调试模式实现 RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498133&idx=1&sn=3802d190f44314ebb4a1a5b5cdbf284d](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498133&idx=1&sn=3802d190f44314ebb4a1a5b5cdbf284d) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一文读懂 Zscaler 数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484385&idx=1&sn=db1beb5248bc3ddbfc7c48d8152b964c](https://mp.weixin.qq.com/s?__biz=MzkzOTQ5MzY3OQ==&mid=2247484385&idx=1&sn=db1beb5248bc3ddbfc7c48d8152b964c) |
+| 1 | 云安全巨头发生大规模数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637167&idx=4&sn=85915e90cbb46f6f8496f857adf4dfb5](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637167&idx=4&sn=85915e90cbb46f6f8496f857adf4dfb5) |
 
 
 ## 📁 归档路径
@@ -110,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-02 16:23:59*
+*生成时间: 2025-09-02 20:19:14*
 *报告工具: 微信文章安全归档系统*
