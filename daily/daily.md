@@ -2,22 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
 - **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,19 +64,15 @@
 
 ### Doonsec
 
-- [比商业软件更好用的免费安全工具](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489646&idx=1&sn=6eed749cf9370502a6195aa6f9b435de) (发布日期: 2025-09-03)
-- [荐读丨NIST敲定“轻量级加密”标准，数十亿物联网设备告别“裸奔”时代！](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247534692&idx=2&sn=82a4c0d481beef440452b3a3cb250d3b) (发布日期: 2025-09-03)
-- [Cline易受数据泄露影响及如何保护你的数据](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0) (发布日期: 2025-09-03)
-- [【已复现】用友U8Cloud存在文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18) (发布日期: 2025-09-03)
-- [Google澄清：Gmail 并未发生任何重大安全漏洞](https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d) (发布日期: 2025-09-03)
-- [第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) (发布日期: 2025-09-03)
-- [共筑智能时代可信生态！『武汉科锐』助力第九届安全开发者峰会-SDC2025](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599323&idx=1&sn=b975acdef5d373efcf0670c4cff1b660) (发布日期: 2025-09-03)
-- [关于开展「安全漏洞防治SOP征集活动」通知](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d) (发布日期: 2025-09-03)
-- [上海交通大学 | LLM-TIKG:利用大语言模型构建威胁情报知识图谱](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd) (发布日期: 2025-09-03)
-- [从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137) (发布日期: 2025-09-03)
-- [红队知识笔记知识总结（附下载链接）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574779&idx=2&sn=f3fb046598f9c9b73b9d30e360cd39e3) (发布日期: 2025-09-03)
-- [安服仔的摸鱼神器（山石防火墙一键封禁IPv1.5）](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483909&idx=1&sn=1d1d904a008d9ffd01a84b8c6e570a77) (发布日期: 2025-09-03)
-- [上海人工智能安全工作委正式成立](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534319&idx=1&sn=d41eb689d8aa1d1e5cf773225752bdc7) (发布日期: 2025-09-03)
+- [验证码防的住hacker吗？总结最全验证码漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be) (发布日期: 2025-09-03)
+- [【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) (发布日期: 2025-09-03)
+- [CVE-2021-21972 批量漏洞检测脚本poc exploit](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f) (发布日期: 2025-09-03)
+- [【情报实战】全球媒体和智库如何利用开源情报分析中国阅兵式](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151874&idx=2&sn=92a1b4580f0abac8aebe4a778eb15b61) (发布日期: 2025-09-03)
+- [星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407) (发布日期: 2025-09-03)
+- [Storm-0501黑客转向云端勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=1&sn=ba707cfac379b0378cb12a91754f6467) (发布日期: 2025-09-03)
+- [蚂蚁集团华巍：基于YASA的智能代码审计实践](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=2&sn=14ab1e484ae386248adfa02578dee57d) (发布日期: 2025-09-03)
+- [泛微云桥文件上传与JFinal Bypass](https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247511118&idx=1&sn=735862f784a6b9688172dcc5a101f1a4) (发布日期: 2025-09-03)
+- [低级错误引发严重数据泄露事故，知名运营商被罚近7亿元](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb) (发布日期: 2025-09-03)
 
 
 ## 🎯 威胁详情分析
@@ -87,34 +81,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】用友U8Cloud存在文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18) |
-| 2 | Google澄清：Gmail 并未发生任何重大安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d](https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d) |
-| 3 | 关于开展「安全漏洞防治SOP征集活动」通知 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d) |
-| 4 | 从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137) |
+| 1 | 验证码防的住hacker吗？总结最全验证码漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be) |
+| 2 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) |
+| 3 | CVE-2021-21972 批量漏洞检测脚本poc exploit | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f) |
+| 4 | 星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 上海交通大学 | LLM-TIKG:利用大语言模型构建威胁情报知识图谱 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd) |
+| 1 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Cline易受数据泄露影响及如何保护你的数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) |
+| 1 | 低级错误引发严重数据泄露事故，知名运营商被罚近7亿元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb) |
 
 
 ## 📁 归档路径
@@ -140,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-03 12:38:07*
+*生成时间: 2025-09-03 16:23:12*
 *报告工具: 微信文章安全归档系统*
