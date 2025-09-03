@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 12篇
+  - ChainReactors: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 8篇
 - **信息泄露**: 2篇
-- **安全运营**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 3篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,23 +65,30 @@
 
 ### Doonsec
 
-- [还在 Vibe coding？AI 生成代码的安全性谁来守护？腾讯悟空代码安全团队发布项目级 AI 生成代码安全性评测框架](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486670&idx=1&sn=eca31a681ea09c022d1b2161df8bbbbd) (发布日期: 2025-09-03)
-- [面向总线网络攻击的快速响应熵分析与入侵检测系统](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627099&idx=1&sn=e3bc317c5685b955f63afccf25b3477a) (发布日期: 2025-09-03)
-- [智能网联汽车车载入侵检测系统测试数据库构建方法](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627099&idx=3&sn=5d1a44ca81c49e8655fc9659e4fad03a) (发布日期: 2025-09-03)
-- [Richmail 邮件系统 openapiservice 任意文件上传](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486077&idx=1&sn=9697a822230c10eee0cfe00ff99e27cb) (发布日期: 2025-09-03)
-- [以色列驻印度大使馆相关数据泄露，一些被曝光的记录似乎与以色列情报/军事相关的参考资料（摩萨德、辛贝特、8200部队、阿曼）有关](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486499&idx=1&sn=c57300616284761e2d9d0cb32d65313a) (发布日期: 2025-09-03)
-- [警惕“定时炸弹”——0day漏洞](https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247516588&idx=2&sn=a481b01b8af03ac8a6de7125bcaacba4) (发布日期: 2025-09-03)
-- [190页 Android恶意软件检测与对抗方法](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290641&idx=1&sn=1655c2935c1603a491cd14357c6011d1) (发布日期: 2025-09-03)
-- [GM∕T 0039-2024 密码模块安全检测要求](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290641&idx=2&sn=c46b857318c933705ae10ac5c58bc7e0) (发布日期: 2025-09-03)
-- [【工具推荐】浏览器插件-检测VUE站点未授权漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488708&idx=1&sn=655279056b297b07562ff6b453fbf035) (发布日期: 2025-09-03)
-- [漏洞预警 | 明源地产ERP SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788) (发布日期: 2025-09-03)
-- [漏洞预警 | 孚盟云SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417) (发布日期: 2025-09-03)
-- [一图读懂《银行保险机构数据安全管理办法》](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491704&idx=1&sn=0bfb69c4cca64eca9c3c8528b9f93f19) (发布日期: 2025-09-03)
-- [张家界市网信办对某公司未履行数据安全保护义务作出行政处罚](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498732&idx=1&sn=22ca1fb462b2bd2ca51401f8ec78b846) (发布日期: 2025-09-03)
-- [攻防演练 · 一起学习一起成长](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485464&idx=3&sn=6ea1b51d5b2981c9b28902f0e54ea73f) (发布日期: 2025-09-03)
-- [炼石免改造数据安全入选上海网络安全产业创新大会优秀案例](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247578712&idx=1&sn=097931e4f64f6747c7592190bf5a98ff) (发布日期: 2025-09-03)
-- [逍遥子SRC渗透测试培训1118RMB 语雀持续更新](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484532&idx=2&sn=0bddde1e551698e6979e281cd77d573f) (发布日期: 2025-09-03)
-- [医疗服务集团 (HSGI)数据泄露影响624,000人](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493532&idx=1&sn=59ba02a19dba88730a530ef77209f36e) (发布日期: 2025-09-03)
+- [信安工程师学习笔记（9）防火墙技术原理](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488241&idx=1&sn=12329b92719ac46f09646e1cc5cce816) (发布日期: 2025-09-03)
+- [小众思路挖掘证书站SQL注入](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551652&idx=1&sn=9749b2ab3d5fa4d562b3a6e039eb6088) (发布日期: 2025-09-03)
+- [上海原厂编制 | 渗透测试驻场工程师](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551652&idx=2&sn=fcb74d3405ef98f1914ebd0c9067122c) (发布日期: 2025-09-03)
+- [Spring Security遇见Struts2的权限绕过](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487008&idx=1&sn=1b7540d064b6d5b61f7601dfea4bf0f3) (发布日期: 2025-09-03)
+- [【已复现】用友 U8 Cloud 文件上传绕过漏洞安全通告](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492940&idx=1&sn=1b650cecefe905020b49b313ab90c18e) (发布日期: 2025-09-03)
+- [一款专为渗透测试人员设计的 Burp Suite 插件—Rinte](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493843&idx=1&sn=e840c6b617fae72dd8ce072f2073e7bd) (发布日期: 2025-09-03)
+- [流行AI 笔记工具被控侵犯隐私，全球 2500 万用户数据安全引担忧](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252473&idx=1&sn=6afa59cee744fa68b6718be04df60ff6) (发布日期: 2025-09-03)
+- [PromptLock: 首个AI驱动勒索软件的技术深度分析](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515941&idx=1&sn=80105295e5c44438af6a96dc4936e567) (发布日期: 2025-09-03)
+- [Palo Alto Networks公司披露数据泄露事件 与Salesloft平台Drift模块安全漏洞相关](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009) (发布日期: 2025-09-03)
+- [Cloudflare成功拦截了创纪录的11.5 Tbps DDoS攻击](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=2&sn=20770362185e7a303bfc1661ca5c8e77) (发布日期: 2025-09-03)
+- [低级错误引发严重数据泄露事故，知名运营商被罚近7亿元|近2000个IP同步扫描微软RDP认证服务器 或与返校季相关](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612130&idx=2&sn=8971f5ade9a1fe42ea8172df6ea30f40) (发布日期: 2025-09-03)
+- [Fenrir 代码审计工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612130&idx=4&sn=12c5c91c8127becdce6966a46ee2169a) (发布日期: 2025-09-03)
+
+### ChainReactors
+
+- [ ] [免费赠送丨网络安全意识：防社工海报8幅](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643144&idx=2&sn=387f980839f9169e7a120e5359df9a7c) (发布日期: 2025-09-03)
+- [ ] [【已复现】用友U8Cloud 文件上传漏洞(QVD-2025-33710)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503892&idx=1&sn=b61c254b5af85945e39f574dd1afa290) (发布日期: 2025-09-03)
+- [ ] [精准网络狙击王炸入口 WhatsApp 历史重要漏洞利用梳理](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515942&idx=1&sn=b182046c3f2f875e388c089edcf66be7) (发布日期: 2025-09-03)
+- [ ] [.NET 会话安全漏洞：代码层面的审计与防御](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500466&idx=1&sn=21719375b95aa5d62e139d2fcf4464f3) (发布日期: 2025-09-03)
+- [ ] [CVSS 评分9.8！高通两严重漏洞或致设备远程被控](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599303&idx=3&sn=9a8c84b709815d0fbf64fda42f6d1680) (发布日期: 2025-09-03)
+- [ ] [【安全圈】Android 木马投递方式出现新趋势：瞄准短信窃取和间谍软件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=2&sn=abf2a3670abb1a7884c996f77d0582df) (发布日期: 2025-09-03)
+- [ ] [【安全圈】HashiCorp Vault 爆出高危漏洞：攻击者可致服务器宕机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=4&sn=237a92444d4dd66c6a163c4b26dc7d37) (发布日期: 2025-09-03)
+- [ ] [Docker Desktop严重漏洞可让攻击者劫持Windows主机](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448) (发布日期: 2025-09-03)
+- [ ] [聚焦上海！OSR 亮相中国密码学会 2025 测评会，解读大语言模型侧信道攻击新范式](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650239910&idx=1&sn=6f61d73f89614a57ba4de42582cf960d) (发布日期: 2025-09-03)
 
 
 ## 🎯 威胁详情分析
@@ -89,30 +97,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 警惕“定时炸弹”——0day漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247516588&idx=2&sn=a481b01b8af03ac8a6de7125bcaacba4](https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247516588&idx=2&sn=a481b01b8af03ac8a6de7125bcaacba4) |
-| 2 | 【工具推荐】浏览器插件-检测VUE站点未授权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488708&idx=1&sn=655279056b297b07562ff6b453fbf035](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488708&idx=1&sn=655279056b297b07562ff6b453fbf035) |
-| 3 | 漏洞预警 | 明源地产ERP SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788) |
-| 4 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417) |
+| 1 | 【已复现】用友 U8 Cloud 文件上传绕过漏洞安全通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492940&idx=1&sn=1b650cecefe905020b49b313ab90c18e](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492940&idx=1&sn=1b650cecefe905020b49b313ab90c18e) |
+| 2 | Palo Alto Networks公司披露数据泄露事件 与Salesloft平台Drift模块安全漏洞相关 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009) |
+| 3 |  ] [【已复现】用友U8Cloud 文件上传漏洞(QVD-2025-33710)安全风险通告 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503892&idx=1&sn=b61c254b5af85945e39f574dd1afa290](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503892&idx=1&sn=b61c254b5af85945e39f574dd1afa290) |
+| 4 |  ] [精准网络狙击王炸入口 WhatsApp 历史重要漏洞利用梳理 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515942&idx=1&sn=b182046c3f2f875e388c089edcf66be7](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515942&idx=1&sn=b182046c3f2f875e388c089edcf66be7) |
+| 5 |  ] [.NET 会话安全漏洞：代码层面的审计与防御 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500466&idx=1&sn=21719375b95aa5d62e139d2fcf4464f3](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500466&idx=1&sn=21719375b95aa5d62e139d2fcf4464f3) |
+| 6 |  ] [CVSS 评分9.8！高通两严重漏洞或致设备远程被控 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599303&idx=3&sn=9a8c84b709815d0fbf64fda42f6d1680](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599303&idx=3&sn=9a8c84b709815d0fbf64fda42f6d1680) |
+| 7 |  ] [【安全圈】HashiCorp Vault 爆出高危漏洞：攻击者可致服务器宕机 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=4&sn=237a92444d4dd66c6a163c4b26dc7d37](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071500&idx=4&sn=237a92444d4dd66c6a163c4b26dc7d37) |
+| 8 |  ] [Docker Desktop严重漏洞可让攻击者劫持Windows主机 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584444&idx=1&sn=58e0876e5b1ed3ea18e91922966a5448) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警 | 明源地产ERP SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=2&sn=ed719500835cbf83bb72f833c454f788) |
-| 2 | 漏洞预警 | 孚盟云SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494267&idx=3&sn=2ae0b84eee0ab8e488f8db6a6678f417) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 逍遥子SRC渗透测试培训1118RMB 语雀持续更新 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484532&idx=2&sn=0bddde1e551698e6979e281cd77d573f](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484532&idx=2&sn=0bddde1e551698e6979e281cd77d573f) |
+| 1 | 小众思路挖掘证书站SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551652&idx=1&sn=9749b2ab3d5fa4d562b3a6e039eb6088](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551652&idx=1&sn=9749b2ab3d5fa4d562b3a6e039eb6088) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 以色列驻印度大使馆相关数据泄露，一些被曝光的记录似乎与以色列情报/军事相关的参考资料（摩萨德、辛贝特、8200部队、阿曼）有关 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486499&idx=1&sn=c57300616284761e2d9d0cb32d65313a](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247486499&idx=1&sn=c57300616284761e2d9d0cb32d65313a) |
-| 2 | 医疗服务集团 (HSGI)数据泄露影响624,000人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493532&idx=1&sn=59ba02a19dba88730a530ef77209f36e](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493532&idx=1&sn=59ba02a19dba88730a530ef77209f36e) |
+| 1 | Palo Alto Networks公司披露数据泄露事件 与Salesloft平台Drift模块安全漏洞相关 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494692&idx=1&sn=c9587c2d39ad0162c2f73260971dd009) |
+| 2 | 低级错误引发严重数据泄露事故，知名运营商被罚近7亿元|近2000个IP同步扫描微软RDP认证服务器 或与返校季相关 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612130&idx=2&sn=8971f5ade9a1fe42ea8172df6ea30f40](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612130&idx=2&sn=8971f5ade9a1fe42ea8172df6ea30f40) |
 
 
 ## 📁 归档路径
@@ -128,7 +133,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
@@ -138,5 +143,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-03 01:21:08*
+*生成时间: 2025-09-03 04:22:08*
 *报告工具: 微信文章安全归档系统*
