@@ -2,22 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
-- **攻击技术**: 3篇
-- **安全运营**: 2篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
 - **信息泄露**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,23 +66,19 @@
 
 ### Doonsec
 
-- [信息安全漏洞周报（2025年第35期）](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463403&idx=1&sn=95e694662c8da1ff197a0bf9150a5383) (发布日期: 2025-09-03)
-- [flowable流程引擎JDK 8-21 全版本内存马注入](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522986&idx=1&sn=f35aae1ad6c3549d04bfcc232eb4b228) (发布日期: 2025-09-03)
-- [小众思路挖掘证书站SQL注入](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519665&idx=2&sn=52e9a3b6b7b135879006e4f55dd41924) (发布日期: 2025-09-03)
-- [网安巨头Zscaler遭数据泄露，SalesLoft Drift供应链攻击是罪魁祸首](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513627&idx=1&sn=67debcbdea5e24914ba5b2f9b602fad8) (发布日期: 2025-09-03)
-- [威胁情报体系建设与情报分析研究](https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488207&idx=1&sn=0353ce675e8652833ade15dbe53d64a2) (发布日期: 2025-09-03)
-- [CNVD漏洞周报2025年第33期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500318&idx=1&sn=e5a1aacc84b8b54725ed89e2fb3b3093) (发布日期: 2025-09-03)
-- [Web安全工程师破局计划！今晚开课](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556201&idx=1&sn=8c157131e0b712f3cb96f2c92e734a0d) (发布日期: 2025-09-03)
-- [GodRAT：一种新型远程访问木马对金融机构展开攻击](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487013&idx=1&sn=a716647b3f06c19ef856cc62fcc387ba) (发布日期: 2025-09-03)
-- [史上最大规模DDoS攻击：Cloudflare成功防御11.5Tbps流量冲击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327072&idx=3&sn=d0bca237cadf418d9764a59fc2ca7c18) (发布日期: 2025-09-03)
-- [捷豹路虎确认遭遇网络安全事件，其全球IT系统受影响](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327072&idx=4&sn=054528df81c49e5e11ea12305389fe37) (发布日期: 2025-09-03)
-- [网络安全运营运维 今天上传文件列表](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290677&idx=2&sn=8f21e9daceb63971c2f50e7ee3769244) (发布日期: 2025-09-03)
-- [严重零日漏洞：通过密码重置实现账号接管](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507500&idx=1&sn=1ea61c0257250eb03bfe764258f86c9d) (发布日期: 2025-09-03)
-- [从技术岗 “内卷” 到管理岗 “突围”：CISM 拓宽职业上升路](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524894&idx=1&sn=a7e56ba4439b3e68c375f75fc3cd4367) (发布日期: 2025-09-03)
-- [上海原厂编制 | 渗透测试驻场工程师](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247616961&idx=2&sn=6f7b6566b7ba7b82db9aab76fc2494f8) (发布日期: 2025-09-03)
-- [ruoyi-4.6.0-Thymeleaf模板注入](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488558&idx=1&sn=d59ac3000189fe4e4e05af6499bb7d0e) (发布日期: 2025-09-03)
-- [解锁 PSRC 中秋惊喜！ 礼盒福利双上线，快来领取！](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145580&idx=1&sn=3c41218936030af9a1f58562f5d0ce87) (发布日期: 2025-09-03)
-- [【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0720-0802）](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136148&idx=2&sn=8956091d18ed8d11f53af70ace48a3a2) (发布日期: 2025-09-03)
+- [比商业软件更好用的免费安全工具](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489646&idx=1&sn=6eed749cf9370502a6195aa6f9b435de) (发布日期: 2025-09-03)
+- [荐读丨NIST敲定“轻量级加密”标准，数十亿物联网设备告别“裸奔”时代！](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247534692&idx=2&sn=82a4c0d481beef440452b3a3cb250d3b) (发布日期: 2025-09-03)
+- [Cline易受数据泄露影响及如何保护你的数据](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0) (发布日期: 2025-09-03)
+- [【已复现】用友U8Cloud存在文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18) (发布日期: 2025-09-03)
+- [Google澄清：Gmail 并未发生任何重大安全漏洞](https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d) (发布日期: 2025-09-03)
+- [第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) (发布日期: 2025-09-03)
+- [共筑智能时代可信生态！『武汉科锐』助力第九届安全开发者峰会-SDC2025](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458599323&idx=1&sn=b975acdef5d373efcf0670c4cff1b660) (发布日期: 2025-09-03)
+- [关于开展「安全漏洞防治SOP征集活动」通知](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d) (发布日期: 2025-09-03)
+- [上海交通大学 | LLM-TIKG:利用大语言模型构建威胁情报知识图谱](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd) (发布日期: 2025-09-03)
+- [从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137) (发布日期: 2025-09-03)
+- [红队知识笔记知识总结（附下载链接）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574779&idx=2&sn=f3fb046598f9c9b73b9d30e360cd39e3) (发布日期: 2025-09-03)
+- [安服仔的摸鱼神器（山石防火墙一键封禁IPv1.5）](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483909&idx=1&sn=1d1d904a008d9ffd01a84b8c6e570a77) (发布日期: 2025-09-03)
+- [上海人工智能安全工作委正式成立](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247534319&idx=1&sn=d41eb689d8aa1d1e5cf773225752bdc7) (发布日期: 2025-09-03)
 
 
 ## 🎯 威胁详情分析
@@ -91,43 +87,34 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 信息安全漏洞周报（2025年第35期） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463403&idx=1&sn=95e694662c8da1ff197a0bf9150a5383](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463403&idx=1&sn=95e694662c8da1ff197a0bf9150a5383) |
-| 2 | CNVD漏洞周报2025年第33期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500318&idx=1&sn=e5a1aacc84b8b54725ed89e2fb3b3093](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500318&idx=1&sn=e5a1aacc84b8b54725ed89e2fb3b3093) |
-| 3 | 严重零日漏洞：通过密码重置实现账号接管 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507500&idx=1&sn=1ea61c0257250eb03bfe764258f86c9d](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507500&idx=1&sn=1ea61c0257250eb03bfe764258f86c9d) |
-| 4 | 【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0720-0802） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136148&idx=2&sn=8956091d18ed8d11f53af70ace48a3a2](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136148&idx=2&sn=8956091d18ed8d11f53af70ace48a3a2) |
+| 1 | 【已复现】用友U8Cloud存在文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490573&idx=1&sn=e0f7f822888234baff190859f4c82b18) |
+| 2 | Google澄清：Gmail 并未发生任何重大安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d](https://mp.weixin.qq.com/s?__biz=MzkxMjY3MTI4Mg==&mid=2247485243&idx=1&sn=917ad8f7f1894afc511ca58211bc3f3d) |
+| 3 | 关于开展「安全漏洞防治SOP征集活动」通知 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d](https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247485104&idx=1&sn=562e78ac7f876ccc13f9a9c1eec5de4d) |
+| 4 | 从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486269&idx=1&sn=f9de7f032e013dfa1576f67472077137) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | flowable流程引擎JDK 8-21 全版本内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522986&idx=1&sn=f35aae1ad6c3549d04bfcc232eb4b228](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522986&idx=1&sn=f35aae1ad6c3549d04bfcc232eb4b228) |
-| 2 | 小众思路挖掘证书站SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519665&idx=2&sn=52e9a3b6b7b135879006e4f55dd41924](https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519665&idx=2&sn=52e9a3b6b7b135879006e4f55dd41924) |
-| 3 | ruoyi-4.6.0-Thymeleaf模板注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488558&idx=1&sn=d59ac3000189fe4e4e05af6499bb7d0e](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488558&idx=1&sn=d59ac3000189fe4e4e05af6499bb7d0e) |
+| 1 | 第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报体系建设与情报分析研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488207&idx=1&sn=0353ce675e8652833ade15dbe53d64a2](https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488207&idx=1&sn=0353ce675e8652833ade15dbe53d64a2) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 网络安全运营运维 今天上传文件列表 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290677&idx=2&sn=8f21e9daceb63971c2f50e7ee3769244](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290677&idx=2&sn=8f21e9daceb63971c2f50e7ee3769244) |
-| 2 | 解锁 PSRC 中秋惊喜！ 礼盒福利双上线，快来领取！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145580&idx=1&sn=3c41218936030af9a1f58562f5d0ce87](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145580&idx=1&sn=3c41218936030af9a1f58562f5d0ce87) |
+| 1 | 上海交通大学 | LLM-TIKG:利用大语言模型构建威胁情报知识图谱 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493717&idx=1&sn=cc47024d41a9959641535ae07c0ee0fd) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 网安巨头Zscaler遭数据泄露，SalesLoft Drift供应链攻击是罪魁祸首 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513627&idx=1&sn=67debcbdea5e24914ba5b2f9b602fad8](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513627&idx=1&sn=67debcbdea5e24914ba5b2f9b602fad8) |
+| 1 | Cline易受数据泄露影响及如何保护你的数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485141&idx=1&sn=f3d09a8b200012962121e19758a852f0) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 网安巨头Zscaler遭数据泄露，SalesLoft Drift供应链攻击是罪魁祸首 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513627&idx=1&sn=67debcbdea5e24914ba5b2f9b602fad8](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513627&idx=1&sn=67debcbdea5e24914ba5b2f9b602fad8) |
+| 1 | 第三方集成应用 Drift OAuth 令牌被用于攻陷 Salesforce 实例，全球700+家企业受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523952&idx=1&sn=2bc84253019e6c2525bcf928eaed696c) |
 
 
 ## 📁 归档路径
@@ -153,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-03 08:24:21*
+*生成时间: 2025-09-03 12:38:07*
 *报告工具: 微信文章安全归档系统*
