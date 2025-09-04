@@ -2,23 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 26篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 14篇
-- **攻击技术**: 13篇
-- **威胁情报**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 5篇
+- **安全运营**: 2篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -67,32 +64,26 @@
 
 ### Doonsec
 
-- [新华财经｜绿盟科技发布人工智能安全运营新成果](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650471312&idx=2&sn=a82361ee208221e460fffa457420b399) (发布日期: 2025-09-04)
-- [为什么88%的CISO在零信任实施中“崩溃”？](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540208&idx=1&sn=d0608242e2d35b927a3ae4d7ae1bd772) (发布日期: 2025-09-04)
-- [某网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43) (发布日期: 2025-09-04)
-- [【漏洞预警】百度网盘Windows客户端存在远程命令执行漏洞风险通告](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db) (发布日期: 2025-09-04)
-- [【已复现】百度网盘Windows客户端远程命令执行漏洞(QVD-2025-34029)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad) (发布日期: 2025-09-04)
-- [任子行护航三甲医院：数据分类分级落地，筑牢医疗数据安全防线](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597311&idx=1&sn=894416364153efcf8267363f39cea44b) (发布日期: 2025-09-04)
-- [【已复现】百度网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397) (发布日期: 2025-09-04)
-- [微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf) (发布日期: 2025-09-04)
-- [2025-8月Solar应急响应公益月赛排名及官方题解](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493910&idx=5&sn=3a3abb844ae57db23bc5705f62a38d22) (发布日期: 2025-09-04)
-- [从网络安全碎片到体系：我的 CISSP 逐梦之旅与险胜实录](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524926&idx=1&sn=8568a03597f8626f8f5a7cf675083e60) (发布日期: 2025-09-04)
-- [无需域名，自建安全带伪装的VPN线路，基于 S-UI 的全流程搭建指南](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485126&idx=1&sn=ce32db33c6f9baedf13aa750fd200505) (发布日期: 2025-09-04)
-- [微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925) (发布日期: 2025-09-04)
-- [【已复现】百度网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa) (发布日期: 2025-09-04)
-- [百度网盘最新RCE漏洞，可导致电脑被控。](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597) (发布日期: 2025-09-04)
-- [【已复现】百度网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd) (发布日期: 2025-09-04)
-- [谷歌数据泄露25亿Gmail用户面临风险！ZoomEye攻击面管理平台助力收敛攻击面](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872440&idx=1&sn=df86a38e1baa0631a5d58ebba04216e3) (发布日期: 2025-09-04)
-- [微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34) (发布日期: 2025-09-04)
-- [【已复现】百度网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b) (发布日期: 2025-09-04)
-- [黄金暴涨下的网络暗战：UTG-Q-010组织供应链攻击直插香港金融心脏](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532575&idx=2&sn=6714582e992cca3631d3a272401dd3f2) (发布日期: 2025-09-04)
-- [PromptLock勒索软件利用人工智能加密和窃取数据](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584489&idx=1&sn=e705430fede3746b888d699fae5ecfb8) (发布日期: 2025-09-04)
-- [山石方案｜某运营商省分公司车辆联网平台安全防护解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661302549&idx=3&sn=65b5568b44b07f8399336beb07343de6) (发布日期: 2025-09-04)
-- [关于今日《预警：某网盘Windows客户端远程命令执行漏洞》删文说明](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361) (发布日期: 2025-09-04)
-- [分享应急响应排查——windows应急响应详细解析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496489&idx=1&sn=3262b947fe6c8e3f8ddb47d3891623d8) (发布日期: 2025-09-04)
-- [常见的 17 款红队 C2 框架](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486546&idx=1&sn=c0de43f8a6b80676dfb06247f02b7a2f) (发布日期: 2025-09-04)
-- [预警：某网盘Windows客户端远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd) (发布日期: 2025-09-04)
-- [从目录遍历到拿下shell以及云权限（证书站漏洞等级严重案例）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=1&sn=91b85b7313e677fd8f81de454ca8ac26) (发布日期: 2025-09-04)
+- [推免报名 | 欢迎报名华东师范大学密码学院！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500645&idx=1&sn=2f9e3e209b2b1d800ad2836e36f5ecc0) (发布日期: 2025-09-04)
+- [flowable流程引擎JDK 8-21 全版本内存马注入](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522996&idx=2&sn=008651508d1ca92022db04df2161eda4) (发布日期: 2025-09-04)
+- [某漏洞复现](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484054&idx=1&sn=716a3a3b5b38a2d8648bea6a640d4e3c) (发布日期: 2025-09-04)
+- [你的AI“体检”了吗？开源AI红队测试平台，一键自查三大风险](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207345&idx=1&sn=35e45484b1e9eedf9c2931a690644b97) (发布日期: 2025-09-04)
+- [【工具分享】CVE Push Service | 自动化高危漏洞情报推送](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486585&idx=1&sn=5638bc0b244deb27780b2c6bd9a1fddc) (发布日期: 2025-09-04)
+- [零基础入门SRC斩获6W赏金！新手小白如何避免\"听不懂、跟不上、挖不到\"](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=2&sn=0d9b5b7268320183923e438c2fbdb7dd) (发布日期: 2025-09-04)
+- [提示词注入攻击可使AI驱动的网络安全工具反噬自身](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=3&sn=1a2bdae52c80d54eacf77dd3ccaf4052) (发布日期: 2025-09-04)
+- [Windsurf MCP 集成安全控制将用户置于风险](https://mp.weixin.qq.com/s?__biz=MzkzODU3MzA5OQ==&mid=2247485147&idx=1&sn=a3d646d1153c858ae5d3649f8c5b8d03) (发布日期: 2025-09-04)
+- [超5万终端、业务覆盖全球，某家电巨头如何弥补终端安全管理短板？](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247628887&idx=1&sn=3f9a8ccd15b488bb160481d16b494288) (发布日期: 2025-09-04)
+- [s1ngularity追踪：Nx供应链攻击中的战术与反思](https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484864&idx=1&sn=b7e52feed5a2b6245dfb2f82e9c8bf2b) (发布日期: 2025-09-04)
+- [2025南亚东南亚数字合作大会: 360发布“网数模一体化”Agentic SOC](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581917&idx=2&sn=cf1f21f153b61e5b9f877598b63df410) (发布日期: 2025-09-04)
+- [零基础入门SRC斩获6W赏金！新手小白如何避免\"听不懂、跟不上、挖不到\"](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494474&idx=1&sn=01c84b640d6b9492e6ebd814342e778b) (发布日期: 2025-09-04)
+- [安全公司曝光微软 VS Code 市场漏洞，黑客可冒充已移除项目](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542944&idx=1&sn=d6542ae81fd4ce81a37c9b15db52711f) (发布日期: 2025-09-04)
+- [漏洞预警/通知千千万，几张图让你知道谁家更权威](https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484293&idx=1&sn=ca98698b4382e60ecca7865398c2b622) (发布日期: 2025-09-04)
+- [网络安全漏洞暴露快速修复的五大措施](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260458&idx=1&sn=9c11eb205f6c3c8a1a81842c4bde8836) (发布日期: 2025-09-04)
+- [kali Linux安全渗透教程](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574794&idx=1&sn=fc3403aa37589f76f08beac3fdc5b3e4) (发布日期: 2025-09-04)
+- [网盘Rce](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487851&idx=1&sn=4e6d7a665cddb7ef433ad07429a3daed) (发布日期: 2025-09-04)
+- [百度网盘最新RCE漏洞，可以shell你](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883) (发布日期: 2025-09-04)
+- [【漏洞通告】Geovision GV-ASWeb代码注入漏洞(CVE-2025-26264)](https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b) (发布日期: 2025-09-04)
+- [【漏洞速递】百度网盘曝高危漏洞，可远程执行命令！速更新](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485835&idx=1&sn=f9077a6192d205f07dccf362f2af22d2) (发布日期: 2025-09-04)
 
 
 ## 🎯 威胁详情分析
@@ -101,63 +92,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43) |
-| 2 | 【漏洞预警】百度网盘Windows客户端存在远程命令执行漏洞风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db) |
-| 3 | 【已复现】百度网盘Windows客户端远程命令执行漏洞(QVD-2025-34029)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad) |
-| 4 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397) |
-| 5 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf) |
-| 6 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925) |
-| 7 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa](https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa) |
-| 8 | 百度网盘最新RCE漏洞，可导致电脑被控。 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597) |
-| 9 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd) |
-| 10 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34) |
-| 11 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b](https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b) |
-| 12 | 关于今日《预警：某网盘Windows客户端远程命令执行漏洞》删文说明 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361) |
-| 13 | 预警：某网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd) |
-| 14 | 从目录遍历到拿下shell以及云权限（证书站漏洞等级严重案例） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=1&sn=91b85b7313e677fd8f81de454ca8ac26](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=1&sn=91b85b7313e677fd8f81de454ca8ac26) |
+| 1 | 某漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484054&idx=1&sn=716a3a3b5b38a2d8648bea6a640d4e3c](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484054&idx=1&sn=716a3a3b5b38a2d8648bea6a640d4e3c) |
+| 2 | 【工具分享】CVE Push Service | 自动化高危漏洞情报推送 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486585&idx=1&sn=5638bc0b244deb27780b2c6bd9a1fddc](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486585&idx=1&sn=5638bc0b244deb27780b2c6bd9a1fddc) |
+| 3 | 安全公司曝光微软 VS Code 市场漏洞，黑客可冒充已移除项目 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542944&idx=1&sn=d6542ae81fd4ce81a37c9b15db52711f](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542944&idx=1&sn=d6542ae81fd4ce81a37c9b15db52711f) |
+| 4 | 漏洞预警/通知千千万，几张图让你知道谁家更权威 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484293&idx=1&sn=ca98698b4382e60ecca7865398c2b622](https://mp.weixin.qq.com/s?__biz=Mzk0MzY3MDE5Mg==&mid=2247484293&idx=1&sn=ca98698b4382e60ecca7865398c2b622) |
+| 5 | 网络安全漏洞暴露快速修复的五大措施 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260458&idx=1&sn=9c11eb205f6c3c8a1a81842c4bde8836](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260458&idx=1&sn=9c11eb205f6c3c8a1a81842c4bde8836) |
+| 6 | 百度网盘最新RCE漏洞，可以shell你 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883) |
+| 7 | 【漏洞通告】Geovision GV-ASWeb代码注入漏洞(CVE-2025-26264) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b](https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b) |
+| 8 | 【漏洞速递】百度网盘曝高危漏洞，可远程执行命令！速更新 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485835&idx=1&sn=f9077a6192d205f07dccf362f2af22d2](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485835&idx=1&sn=f9077a6192d205f07dccf362f2af22d2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43](https://mp.weixin.qq.com/s?__biz=MzkwMzY5NTg0Mg==&mid=2247484200&idx=1&sn=7ba51b7d35a03704b255525afa012b43) |
-| 2 | 【漏洞预警】百度网盘Windows客户端存在远程命令执行漏洞风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484465&idx=1&sn=c3964e0cab22ed2720f444a7cef702db) |
-| 3 | 【已复现】百度网盘Windows客户端远程命令执行漏洞(QVD-2025-34029)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503904&idx=1&sn=d07f60e92fba5ec7cd05155aa3f993ad) |
-| 4 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=1&sn=6ff5f4edb899b22d39747485dc398397) |
-| 5 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf](https://mp.weixin.qq.com/s?__biz=Mzg3OTUxNTU2NQ==&mid=2247491398&idx=2&sn=18eee39fb62036433077e6e2af5afacf) |
-| 6 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485281&idx=1&sn=47e245870661824e99031d1e419e8925) |
-| 7 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa](https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483939&idx=1&sn=35f4fbd233f00e1ceae837f84b3b24aa) |
-| 8 | 百度网盘最新RCE漏洞，可导致电脑被控。 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523554&idx=1&sn=a733568c3de082af1209706c07ba5597) |
-| 9 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484048&idx=1&sn=4ad544a33ab965fb4c8f441183ba9ffd) |
-| 10 | 微步支持检测！百度网盘最新RCE漏洞，可导致电脑被控 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507928&idx=1&sn=b5964de1161e8b1c3c7050c274490a34) |
-| 11 | 【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b](https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247485361&idx=1&sn=9e232c7a30a5c3ee6658b9eb0eb8d78b) |
-| 12 | 关于今日《预警：某网盘Windows客户端远程命令执行漏洞》删文说明 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492707&idx=1&sn=0f8f60830786b382b51ffb4b74e15361) |
-| 13 | 预警：某网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492701&idx=1&sn=9f4ef2d4424e1abdc693138cb764bdbd) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2025-8月Solar应急响应公益月赛排名及官方题解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493910&idx=5&sn=3a3abb844ae57db23bc5705f62a38d22](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247493910&idx=5&sn=3a3abb844ae57db23bc5705f62a38d22) |
-| 2 | 分享应急响应排查——windows应急响应详细解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496489&idx=1&sn=3262b947fe6c8e3f8ddb47d3891623d8](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496489&idx=1&sn=3262b947fe6c8e3f8ddb47d3891623d8) |
+| 1 | flowable流程引擎JDK 8-21 全版本内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522996&idx=2&sn=008651508d1ca92022db04df2161eda4](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247522996&idx=2&sn=008651508d1ca92022db04df2161eda4) |
+| 2 | 提示词注入攻击可使AI驱动的网络安全工具反噬自身 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=3&sn=1a2bdae52c80d54eacf77dd3ccaf4052](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=3&sn=1a2bdae52c80d54eacf77dd3ccaf4052) |
+| 3 | 网盘Rce | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487851&idx=1&sn=4e6d7a665cddb7ef433ad07429a3daed](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487851&idx=1&sn=4e6d7a665cddb7ef433ad07429a3daed) |
+| 4 | 百度网盘最新RCE漏洞，可以shell你 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491829&idx=1&sn=e4958df7de250523596591874b83a883) |
+| 5 | 【漏洞通告】Geovision GV-ASWeb代码注入漏洞(CVE-2025-26264) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b](https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486793&idx=1&sn=d0d6cea35d04fb67ad76b48a5251e49b) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新华财经｜绿盟科技发布人工智能安全运营新成果 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650471312&idx=2&sn=a82361ee208221e460fffa457420b399](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650471312&idx=2&sn=a82361ee208221e460fffa457420b399) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 谷歌数据泄露25亿Gmail用户面临风险！ZoomEye攻击面管理平台助力收敛攻击面 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872440&idx=1&sn=df86a38e1baa0631a5d58ebba04216e3](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872440&idx=1&sn=df86a38e1baa0631a5d58ebba04216e3) |
+| 1 | 零基础入门SRC斩获6W赏金！新手小白如何避免\"听不懂、跟不上、挖不到\" | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=2&sn=0d9b5b7268320183923e438c2fbdb7dd](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327146&idx=2&sn=0d9b5b7268320183923e438c2fbdb7dd) |
+| 2 | 零基础入门SRC斩获6W赏金！新手小白如何避免\"听不懂、跟不上、挖不到\" | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494474&idx=1&sn=01c84b640d6b9492e6ebd814342e778b](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494474&idx=1&sn=01c84b640d6b9492e6ebd814342e778b) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黄金暴涨下的网络暗战：UTG-Q-010组织供应链攻击直插香港金融心脏 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532575&idx=2&sn=6714582e992cca3631d3a272401dd3f2](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532575&idx=2&sn=6714582e992cca3631d3a272401dd3f2) |
+| 1 | s1ngularity追踪：Nx供应链攻击中的战术与反思 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484864&idx=1&sn=b7e52feed5a2b6245dfb2f82e9c8bf2b](https://mp.weixin.qq.com/s?__biz=Mzk0NDcyMjU2OQ==&mid=2247484864&idx=1&sn=b7e52feed5a2b6245dfb2f82e9c8bf2b) |
 
 
 ## 📁 归档路径
@@ -173,8 +138,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -183,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-04 08:24:08*
+*生成时间: 2025-09-04 12:36:38*
 *报告工具: 微信文章安全归档系统*
