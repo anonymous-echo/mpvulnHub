@@ -2,19 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 25
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 20篇
+  - ChainReactors: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 5篇
+- **安全运营**: 3篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,22 +67,34 @@
 
 ### Doonsec
 
-- [Cloudflare 阻止破纪录的 11.5 Tbps DDoS 攻击](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487251&idx=1&sn=61d4f765b9ff569db9ed9f6f9cca510b) (发布日期: 2025-09-04)
-- [深圳医学科学院生医药数据中心、信息技术与安全中心招聘信息安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506562&idx=3&sn=c7da4c4c282c08316086c3ba85ca9dd8) (发布日期: 2025-09-04)
-- [16薪，平安科技急招安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506562&idx=4&sn=3e3c43846d310eb15b7d7bc40cb082f3) (发布日期: 2025-09-04)
-- [一个为红队演练和安全研究设计的下一代荷载加载器（Payload Loader）生成器，具有免杀能力。](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507199&idx=1&sn=78bf4c24634676605a146c009c96974a) (发布日期: 2025-09-04)
-- [数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1) (发布日期: 2025-09-04)
-- [记一次Linux 服务器入侵应急响应过程](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754) (发布日期: 2025-09-04)
-- [图解安全 | 告别“被动挨打”！网络资产主动防御，让安全漏洞无处藏身](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657) (发布日期: 2025-09-04)
-- [农夫保险遭遇网络攻击 约110万客户个人信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498743&idx=3&sn=fac1028a4bf4791fc48cef72f2bacb13) (发布日期: 2025-09-04)
-- [Fuzz的艺术，从任意用户注册到全站敏感信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486304&idx=1&sn=b87cda7ca8fed4bb945100dacdfc5761) (发布日期: 2025-09-04)
-- [web安全笔记从0到1：渗透测试基础知识](https://mp.weixin.qq.com/s?__biz=MzkzMzQwNDkzMQ==&mid=2247484376&idx=1&sn=21555e84caa7bfa85982b11ab54adb6e) (发布日期: 2025-09-04)
-- [代码审计 diff 工具推荐](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488536&idx=1&sn=7bd4a4796a6d3ddebde8cdb47087d709) (发布日期: 2025-09-04)
-- [记一次SRC高危逻辑漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) (发布日期: 2025-09-04)
-- [【渗透测试灵魂之edusrc信息收集】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54) (发布日期: 2025-09-04)
-- [覆盖YSOSerial、Hessian、Shiro、JDBC…全网最全Java Gadget生成工具|Java漏洞利用神器](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26) (发布日期: 2025-09-04)
-- [俄罗斯情报机构推出新型安卓恶意软件，可伪装成杀毒软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493535&idx=1&sn=db805794f320ceea0a1cc85a56b59f90) (发布日期: 2025-09-04)
-- [新增最新POCxa0|xa0基于fscanxa0过360核晶、火绒的xlscanxa0v1.6xa0发布！](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3) (发布日期: 2025-09-04)
+- [原厂编制 | 安全服务实习生（偏AI应用实施，AI输出审核）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551674&idx=2&sn=523804bf20656cc66c482d7a58abe16e) (发布日期: 2025-09-04)
+- [JWT 安全指南：漏洞赏金猎人的实战攻略（第二部分）](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507509&idx=1&sn=5555eb4731d074b82f2c421b838830b6) (发布日期: 2025-09-04)
+- [哎，CN的一个勒索软件的倒霉蛋!](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513565&idx=1&sn=2e598738c1bb0549cb49a8c7594f1643) (发布日期: 2025-09-04)
+- [【大赛风采】暨南大学战队：学术派的漏洞挖掘技巧](https://mp.weixin.qq.com/s?__biz=MzUzNTI2MzU0OQ==&mid=2247497652&idx=3&sn=7df8392122de49c2398e86987636dfdb) (发布日期: 2025-09-04)
+- [YARA 集成检测恶意软件（一）](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490641&idx=1&sn=592e71b78849a6c2d1792620d08f9707) (发布日期: 2025-09-04)
+- [CORS Anywhere：你部署的“便利工具”，正在成为黑客的SSRF后门](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485456&idx=1&sn=f2e4ed84b281f29cedf5fa58ffacdb7a) (发布日期: 2025-09-04)
+- [某网盘Windows客户端远程命令执行漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8) (发布日期: 2025-09-04)
+- [如何建立企业级云安全基线？](https://mp.weixin.qq.com/s?__biz=MzkyNzc0MzcwMA==&mid=2247484221&idx=1&sn=94efd91d3c7c1373611eb425a11735e5) (发布日期: 2025-09-04)
+- [微博安全&新浪安全活动即将开启｜18家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzI3MzQ0OTQ2MQ==&mid=2247485977&idx=1&sn=7cd19d887126bb3de97566b956170517) (发布日期: 2025-09-04)
+- [特别奖励揭晓｜18家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145584&idx=1&sn=9e174655c30c4c92a42f50e0ceec2297) (发布日期: 2025-09-04)
+- [BurpSuite漏洞扫描与指纹识别插件 -- RVScan2.3（9月2日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517242&idx=1&sn=4fc91ff201ce4050d5919e740f897513) (发布日期: 2025-09-04)
+- [特别奖励揭晓｜18家SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998022&idx=1&sn=0a1373dbe50709375c20d48fc4b4ee63) (发布日期: 2025-09-04)
+- [Cloudflare宣布：史上最强 DDOS 被阻断](https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486257&idx=1&sn=70703aa2f3063f2ec0fd41bc42fbdf5b) (发布日期: 2025-09-04)
+- [中孚信息受邀参加保密安全技术交流活动  为行业安全注入全新动能](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247511860&idx=1&sn=dd89057904f562b368163a168a5dd828) (发布日期: 2025-09-04)
+- [黄金暴涨下的网络暗战：UTG-Q-010组织供应链攻击直插香港金融心脏](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515949&idx=1&sn=9f574b014a89e7d4faf9d6e1990c83d3) (发布日期: 2025-09-04)
+- [网络安全安全管理四个层次](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501496&idx=1&sn=09c93903cf335fb7e0befd2741d857c2) (发布日期: 2025-09-04)
+- [攻击者利用Windows与Linux漏洞实施系统入侵的实战分析](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=3&sn=350270efd7364b8dee2f6d7e6ceb2f22) (发布日期: 2025-09-04)
+- [【高危漏洞预警】Gitblit身份认证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=4&sn=bc06c65a97bf9099fa81f4166484cdeb) (发布日期: 2025-09-04)
+- [资深安服/渗透测试报告自动生成工具](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491824&idx=1&sn=9d16e080ce1f837deca8f80478588291) (发布日期: 2025-09-04)
+- [Mystrodx：恶意后门针对 Windows、Linux](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796230&idx=3&sn=aad82efb2cd06035aaa98997c83a0ce3) (发布日期: 2025-09-04)
+
+### ChainReactors
+
+- [ ] [漏洞通告 | 微步情报局发现h2o-3存在高危漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507923&idx=1&sn=f891171bcd6f042a11b4b04ad34cf5f8) (发布日期: 2025-09-04)
+- [ ] [.NET 内网实战：通过API函数对指定进程实现隐蔽截图获取敏感信息](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500476&idx=1&sn=e0daec47febc974f86459a8ec6084d7b) (发布日期: 2025-09-04)
+- [ ] [【安全圈】Cloudflare成功拦截11.5Tbps破纪录DDoS攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=1&sn=52abf881d1bcab82996c5ed93a473e93) (发布日期: 2025-09-04)
+- [ ] [【安全圈】IIS Web Deploy 存在远程代码执行风险（CVE-2025-53772）](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e) (发布日期: 2025-09-04)
+- [ ] [【安全圈】Cloudflare 确认 Salesforce 与 Salesloft Drift 相关数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7) (发布日期: 2025-09-04)
 
 
 ## 🎯 威胁详情分析
@@ -87,24 +103,44 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1) |
-| 2 | 图解安全 | 告别“被动挨打”！网络资产主动防御，让安全漏洞无处藏身 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657) |
-| 3 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) |
-| 4 | 覆盖YSOSerial、Hessian、Shiro、JDBC…全网最全Java Gadget生成工具|Java漏洞利用神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26) |
-| 5 | 新增最新POCxa0|xa0基于fscanxa0过360核晶、火绒的xlscanxa0v1.6xa0发布！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3) |
+| 1 | JWT 安全指南：漏洞赏金猎人的实战攻略（第二部分） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507509&idx=1&sn=5555eb4731d074b82f2c421b838830b6](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507509&idx=1&sn=5555eb4731d074b82f2c421b838830b6) |
+| 2 | 【大赛风采】暨南大学战队：学术派的漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNTI2MzU0OQ==&mid=2247497652&idx=3&sn=7df8392122de49c2398e86987636dfdb](https://mp.weixin.qq.com/s?__biz=MzUzNTI2MzU0OQ==&mid=2247497652&idx=3&sn=7df8392122de49c2398e86987636dfdb) |
+| 3 | 某网盘Windows客户端远程命令执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8) |
+| 4 | BurpSuite漏洞扫描与指纹识别插件 -- RVScan2.3（9月2日更新） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517242&idx=1&sn=4fc91ff201ce4050d5919e740f897513](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517242&idx=1&sn=4fc91ff201ce4050d5919e740f897513) |
+| 5 | 攻击者利用Windows与Linux漏洞实施系统入侵的实战分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=3&sn=350270efd7364b8dee2f6d7e6ceb2f22](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=3&sn=350270efd7364b8dee2f6d7e6ceb2f22) |
+| 6 | 【高危漏洞预警】Gitblit身份认证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=4&sn=bc06c65a97bf9099fa81f4166484cdeb](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612152&idx=4&sn=bc06c65a97bf9099fa81f4166484cdeb) |
+| 7 |  ] [漏洞通告 | 微步情报局发现h2o-3存在高危漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507923&idx=1&sn=f891171bcd6f042a11b4b04ad34cf5f8](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507923&idx=1&sn=f891171bcd6f042a11b4b04ad34cf5f8) |
+| 8 |  ] [【安全圈】IIS Web Deploy 存在远程代码执行风险（CVE-2025-53772） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次Linux 服务器入侵应急响应过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754) |
+| 1 | 某网盘Windows客户端远程命令执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487804&idx=1&sn=e27fd5045504a840e174120f40bb8ba8) |
+| 2 | 中孚信息受邀参加保密安全技术交流活动  为行业安全注入全新动能 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247511860&idx=1&sn=dd89057904f562b368163a168a5dd828](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247511860&idx=1&sn=dd89057904f562b368163a168a5dd828) |
+| 3 |  ] [.NET 内网实战：通过API函数对指定进程实现隐蔽截图获取敏感信息 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500476&idx=1&sn=e0daec47febc974f86459a8ec6084d7b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500476&idx=1&sn=e0daec47febc974f86459a8ec6084d7b) |
+| 4 |  ] [【安全圈】IIS Web Deploy 存在远程代码执行风险（CVE-2025-53772） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=2&sn=1eea92c7335a3080ffc2ddc93a29e68e) |
+| 5 |  ] [【安全圈】Cloudflare 确认 Salesforce 与 Salesloft Drift 相关数据泄露事件 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) |
-| 2 | 【渗透测试灵魂之edusrc信息收集】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54) |
+| 1 | 微博安全&新浪安全活动即将开启｜18家SRC邀您加入双11安全保卫战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3MzQ0OTQ2MQ==&mid=2247485977&idx=1&sn=7cd19d887126bb3de97566b956170517](https://mp.weixin.qq.com/s?__biz=MzI3MzQ0OTQ2MQ==&mid=2247485977&idx=1&sn=7cd19d887126bb3de97566b956170517) |
+| 2 | 特别奖励揭晓｜18家SRC邀您加入双11安全保卫战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145584&idx=1&sn=9e174655c30c4c92a42f50e0ceec2297](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145584&idx=1&sn=9e174655c30c4c92a42f50e0ceec2297) |
+| 3 | 特别奖励揭晓｜18家SRC邀您加入双11安全保卫战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998022&idx=1&sn=0a1373dbe50709375c20d48fc4b4ee63](https://mp.weixin.qq.com/s?__biz=MzIxMjEwNTc4NA==&mid=2652998022&idx=1&sn=0a1373dbe50709375c20d48fc4b4ee63) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [【安全圈】Cloudflare 确认 Salesforce 与 Salesloft Drift 相关数据泄露事件 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071517&idx=3&sn=c67131ade5f5252562e8dbb2d25301f7) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 黄金暴涨下的网络暗战：UTG-Q-010组织供应链攻击直插香港金融心脏 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515949&idx=1&sn=9f574b014a89e7d4faf9d6e1990c83d3](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515949&idx=1&sn=9f574b014a89e7d4faf9d6e1990c83d3) |
 
 
 ## 📁 归档路径
@@ -120,8 +156,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +166,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-04 01:21:05*
+*生成时间: 2025-09-04 04:21:25*
 *报告工具: 微信文章安全归档系统*
