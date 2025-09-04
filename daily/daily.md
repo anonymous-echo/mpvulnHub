@@ -1,21 +1,20 @@
-# 2025-09-03 安全威胁态势报告
+# 2025-09-04 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 5篇
+- **安全运营**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,15 +63,22 @@
 
 ### Doonsec
 
-- [验证码防的住hacker吗？总结最全验证码漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be) (发布日期: 2025-09-03)
-- [【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) (发布日期: 2025-09-03)
-- [CVE-2021-21972 批量漏洞检测脚本poc exploit](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f) (发布日期: 2025-09-03)
-- [【情报实战】全球媒体和智库如何利用开源情报分析中国阅兵式](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651151874&idx=2&sn=92a1b4580f0abac8aebe4a778eb15b61) (发布日期: 2025-09-03)
-- [星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407) (发布日期: 2025-09-03)
-- [Storm-0501黑客转向云端勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=1&sn=ba707cfac379b0378cb12a91754f6467) (发布日期: 2025-09-03)
-- [蚂蚁集团华巍：基于YASA的智能代码审计实践](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584478&idx=2&sn=14ab1e484ae386248adfa02578dee57d) (发布日期: 2025-09-03)
-- [泛微云桥文件上传与JFinal Bypass](https://mp.weixin.qq.com/s?__biz=MzIyMjkzMzY4Ng==&mid=2247511118&idx=1&sn=735862f784a6b9688172dcc5a101f1a4) (发布日期: 2025-09-03)
-- [低级错误引发严重数据泄露事故，知名运营商被罚近7亿元](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb) (发布日期: 2025-09-03)
+- [Cloudflare 阻止破纪录的 11.5 Tbps DDoS 攻击](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487251&idx=1&sn=61d4f765b9ff569db9ed9f6f9cca510b) (发布日期: 2025-09-04)
+- [深圳医学科学院生医药数据中心、信息技术与安全中心招聘信息安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506562&idx=3&sn=c7da4c4c282c08316086c3ba85ca9dd8) (发布日期: 2025-09-04)
+- [16薪，平安科技急招安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506562&idx=4&sn=3e3c43846d310eb15b7d7bc40cb082f3) (发布日期: 2025-09-04)
+- [一个为红队演练和安全研究设计的下一代荷载加载器（Payload Loader）生成器，具有免杀能力。](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507199&idx=1&sn=78bf4c24634676605a146c009c96974a) (发布日期: 2025-09-04)
+- [数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1) (发布日期: 2025-09-04)
+- [记一次Linux 服务器入侵应急响应过程](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754) (发布日期: 2025-09-04)
+- [图解安全 | 告别“被动挨打”！网络资产主动防御，让安全漏洞无处藏身](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657) (发布日期: 2025-09-04)
+- [农夫保险遭遇网络攻击 约110万客户个人信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498743&idx=3&sn=fac1028a4bf4791fc48cef72f2bacb13) (发布日期: 2025-09-04)
+- [Fuzz的艺术，从任意用户注册到全站敏感信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486304&idx=1&sn=b87cda7ca8fed4bb945100dacdfc5761) (发布日期: 2025-09-04)
+- [web安全笔记从0到1：渗透测试基础知识](https://mp.weixin.qq.com/s?__biz=MzkzMzQwNDkzMQ==&mid=2247484376&idx=1&sn=21555e84caa7bfa85982b11ab54adb6e) (发布日期: 2025-09-04)
+- [代码审计 diff 工具推荐](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488536&idx=1&sn=7bd4a4796a6d3ddebde8cdb47087d709) (发布日期: 2025-09-04)
+- [记一次SRC高危逻辑漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) (发布日期: 2025-09-04)
+- [【渗透测试灵魂之edusrc信息收集】](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54) (发布日期: 2025-09-04)
+- [覆盖YSOSerial、Hessian、Shiro、JDBC…全网最全Java Gadget生成工具|Java漏洞利用神器](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26) (发布日期: 2025-09-04)
+- [俄罗斯情报机构推出新型安卓恶意软件，可伪装成杀毒软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493535&idx=1&sn=db805794f320ceea0a1cc85a56b59f90) (发布日期: 2025-09-04)
+- [新增最新POCxa0|xa0基于fscanxa0过360核晶、火绒的xlscanxa0v1.6xa0发布！](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3) (发布日期: 2025-09-04)
 
 
 ## 🎯 威胁详情分析
@@ -81,27 +87,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 验证码防的住hacker吗？总结最全验证码漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483676&idx=1&sn=191fafe4569f471049509314d3f020be) |
-| 2 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) |
-| 3 | CVE-2021-21972 批量漏洞检测脚本poc exploit | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484400&idx=1&sn=09af1f11fe1afd6d3959a6de03b2383f) |
-| 4 | 星网锐捷 DMB-BS-taskexport.jsp 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492632&idx=1&sn=599c0119126f9bd00afd3163110b5407) |
+| 1 | 数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513558&idx=2&sn=9bee480d2866e9abf018a801ffd180c1) |
+| 2 | 图解安全 | 告别“被动挨打”！网络资产主动防御，让安全漏洞无处藏身 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650203917&idx=1&sn=20cb2f9fbbbfbc8acb6e8e08d5179657) |
+| 3 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) |
+| 4 | 覆盖YSOSerial、Hessian、Shiro、JDBC…全网最全Java Gadget生成工具|Java漏洞利用神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494458&idx=1&sn=3076fefcbe5bcab4b7ebf6876792db26) |
+| 5 | 新增最新POCxa0|xa0基于fscanxa0过360核晶、火绒的xlscanxa0v1.6xa0发布！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495781&idx=1&sn=421783869c806e2348133a1dab81a5a3) |
 
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da](https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247492991&idx=1&sn=44128e199a58e5d64e71b5b1b7b2f2da) |
-
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 低级错误引发严重数据泄露事故，知名运营商被罚近7亿元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb](https://mp.weixin.qq.com/s?__biz=MzkzMjE5MTY5NQ==&mid=2247504633&idx=2&sn=ce7ebd12726449951622e6eb990f30fb) |
+| 1 | 记一次Linux 服务器入侵应急响应过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754](https://mp.weixin.qq.com/s?__biz=MzIxMTEyOTM2Ng==&mid=2247505499&idx=2&sn=4bbcc00d122726e7b06ebbdcf8441754) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523548&idx=1&sn=8d5da9992a0bed083939276df559fed3) |
+| 2 | 【渗透测试灵魂之edusrc信息收集】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484561&idx=2&sn=35f309281e86b8f9d5d8e18765d4fb54) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-03/`
+文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-04/`
 
 ## 🔗 数据源说明
 
@@ -112,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-03 16:23:12*
+*生成时间: 2025-09-04 01:21:05*
 *报告工具: 微信文章安全归档系统*
