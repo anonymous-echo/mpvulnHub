@@ -1,20 +1,24 @@
-# 2025-09-04 安全威胁态势报告
+# 2025-09-05 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **安全运营**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 5篇
+- **供应链**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **网络攻击**: 3篇
+- **系统漏洞**: 2篇
+- **应用漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +67,23 @@
 
 ### Doonsec
 
-- [MetaCRM美特crm系统download-new.jsp接口存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489044&idx=1&sn=6314169b063e10268f684c022991de6f) (发布日期: 2025-09-04)
-- [某盘rce简单点评](https://mp.weixin.qq.com/s?__biz=MzkyMDc0NDEzOA==&mid=2247483877&idx=1&sn=9fd4cbe0f29574618f7a07a46a4b9211) (发布日期: 2025-09-04)
-- [检测风险软件（Riskware）的安全价值——有效对抗混合执行体攻击（反病毒引擎篇）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212378&idx=1&sn=2b0bf111a3136492adb9a546936be3ae) (发布日期: 2025-09-04)
-- [某东SRC专项活动踩坑](https://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MDA0MA==&mid=2247484757&idx=1&sn=befcbb1180bb4998b62147bc39cab01f) (发布日期: 2025-09-04)
-- [【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6) (发布日期: 2025-09-04)
-- [【高危漏洞预警】XWiki路径遍历漏洞(CVE-2025-55747-CVE-2025-55748](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=2&sn=17d43602dfc42418fa0c5304ffc032d4) (发布日期: 2025-09-04)
-- [Zip密码破解工具 -- ZipCracker](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486901&idx=1&sn=7b022ee5fa14fc77cb981e2141273594) (发布日期: 2025-09-04)
-- [别天天想着留后门了：前员工恶意报复公司网络获刑4年](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643198&idx=1&sn=05d21a7cb9cc190d04f1ec7fa423be58) (发布日期: 2025-09-04)
-- [免费赠送丨网络安全意识：宣传讲义6篇](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643198&idx=2&sn=354289f2d1559403bbf48349546a9485) (发布日期: 2025-09-04)
-- [内网渗透全景实战！ATT&CK Lab13 重磅上线](https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523746&idx=1&sn=05546b1bc987a28fd6d84a3bc1873780) (发布日期: 2025-09-04)
-- [你的AI“体检”了吗？开源AI红队测试平台，一键自查三大风险](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649795637&idx=1&sn=5fddb7e18ac14e45ef1f2e56db38fa67) (发布日期: 2025-09-04)
+- [APT28组织新后门曝光——每周威胁情报动态第238期（08.29-09.04）](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492768&idx=1&sn=2b566a6a504f8ce1ed2e06b4492fc991) (发布日期: 2025-09-05)
+- [漏洞预警 | 百度网盘 rce](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b) (发布日期: 2025-09-05)
+- [AI模型投毒新手法：供应链攻击直指云端RCE](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f) (发布日期: 2025-09-05)
+- [红队视角下的 IIS 资产速查工具 Sharp4WebManager](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=1&sn=594f905d2114d28b82d3a8201ba6104e) (发布日期: 2025-09-05)
+- [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=2&sn=fa784d09b9bd89146a60bc348af2da1c) (发布日期: 2025-09-05)
+- [80 个反序列化漏洞全景系列 (1) | 一个大多数人都容易忽视的 Ysoserial.Net 使用误区](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=3&sn=f5797a15bf35ed200a6a5183e18172a8) (发布日期: 2025-09-05)
+- [JeecgBoot SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b) (发布日期: 2025-09-05)
+- [百度网盘远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679) (发布日期: 2025-09-05)
+- [为知笔记存在默认口令admin@wiz.cn:123456 附POC](https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484384&idx=1&sn=8973e79563a65cd0dd055ff6f815b59c) (发布日期: 2025-09-05)
+- [数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486658&idx=2&sn=b7e46fe5aca8db6ac02ad4fedb2a23e5) (发布日期: 2025-09-05)
+- [RuoYi-4.6.0：不安全的反射+反序列化漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488585&idx=1&sn=de8a35aeddab2bb440912c61804ece80) (发布日期: 2025-09-05)
+- [飞牛更新：备份加密功能](https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247494914&idx=1&sn=0e0730628a56110d32e6f3c73d151fb8) (发布日期: 2025-09-05)
+- [SDL 89/100问：如何推动业务方修复开源组件漏洞？](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1) (发布日期: 2025-09-05)
+- [攻防演练 · 一起学习一起成长](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485489&idx=3&sn=3c9dda920ed6c921538c4a9c1c3db6cc) (发布日期: 2025-09-05)
+- [美国肾透析公司 DaVita 称勒索软件团伙窃取了近 270 万人的个人健康数据](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493536&idx=1&sn=a4d0c5acaed70ad3f3ed87abc913a025) (发布日期: 2025-09-05)
+- [全方位扫描工具，具备高效的机器探活，端口探活，指纹识别，漏洞扫描等功能|MilkywayPublic0.2.0大更新](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494474&idx=1&sn=29846181cc6889bffce4eb6b5a8af48a) (发布日期: 2025-09-05)
+- [预防勒索软件5-4-3-2-1](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501499&idx=1&sn=6b363346ff2be3e75339a3956ab5c3cc) (发布日期: 2025-09-05)
 
 
 ## 🎯 威胁详情分析
@@ -82,28 +92,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | MetaCRM美特crm系统download-new.jsp接口存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489044&idx=1&sn=6314169b063e10268f684c022991de6f](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489044&idx=1&sn=6314169b063e10268f684c022991de6f) |
-| 2 | 【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6) |
-| 3 | 【高危漏洞预警】XWiki路径遍历漏洞(CVE-2025-55747-CVE-2025-55748 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=2&sn=17d43602dfc42418fa0c5304ffc032d4](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=2&sn=17d43602dfc42418fa0c5304ffc032d4) |
+| 1 | 漏洞预警 | 百度网盘 rce | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b) |
+| 2 | 80 个反序列化漏洞全景系列 (1) | 一个大多数人都容易忽视的 Ysoserial.Net 使用误区 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=3&sn=f5797a15bf35ed200a6a5183e18172a8](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=3&sn=f5797a15bf35ed200a6a5183e18172a8) |
+| 3 | JeecgBoot SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b) |
+| 4 | 百度网盘远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679) |
+| 5 | 为知笔记存在默认口令admin@wiz.cn:123456 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484384&idx=1&sn=8973e79563a65cd0dd055ff6f815b59c](https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484384&idx=1&sn=8973e79563a65cd0dd055ff6f815b59c) |
+| 6 | 数百万台冰箱、冰柜等冷藏设备或因控制器漏洞面临失控风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486658&idx=2&sn=b7e46fe5aca8db6ac02ad4fedb2a23e5](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486658&idx=2&sn=b7e46fe5aca8db6ac02ad4fedb2a23e5) |
+| 7 | RuoYi-4.6.0：不安全的反射+反序列化漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488585&idx=1&sn=de8a35aeddab2bb440912c61804ece80](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488585&idx=1&sn=de8a35aeddab2bb440912c61804ece80) |
+| 8 | SDL 89/100问：如何推动业务方修复开源组件漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1) |
+| 9 | 全方位扫描工具，具备高效的机器探活，端口探活，指纹识别，漏洞扫描等功能|MilkywayPublic0.2.0大更新 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494474&idx=1&sn=29846181cc6889bffce4eb6b5a8af48a](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247494474&idx=1&sn=29846181cc6889bffce4eb6b5a8af48a) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某盘rce简单点评 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMDc0NDEzOA==&mid=2247483877&idx=1&sn=9fd4cbe0f29574618f7a07a46a4b9211](https://mp.weixin.qq.com/s?__biz=MzkyMDc0NDEzOA==&mid=2247483877&idx=1&sn=9fd4cbe0f29574618f7a07a46a4b9211) |
-| 2 | 【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490698&idx=1&sn=1af7a1c354e94ddcfad22bea3202b7b6) |
-| 3 | 内网渗透全景实战！ATT&CK Lab13 重磅上线 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523746&idx=1&sn=05546b1bc987a28fd6d84a3bc1873780](https://mp.weixin.qq.com/s?__biz=Mzg2NDY2MTQ1OQ==&mid=2247523746&idx=1&sn=05546b1bc987a28fd6d84a3bc1873780) |
+| 1 | 漏洞预警 | 百度网盘 rce | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488309&idx=2&sn=5b138c0eaa7fe6376e3bcda17996164b) |
+| 2 | AI模型投毒新手法：供应链攻击直指云端RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f) |
+| 3 | .NET 内网攻防实战电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=2&sn=fa784d09b9bd89146a60bc348af2da1c](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500513&idx=2&sn=fa784d09b9bd89146a60bc348af2da1c) |
+| 4 | JeecgBoot SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b](https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247486085&idx=1&sn=c52948aa5a1b115794c4fd01556ac54b) |
+| 5 | 百度网盘远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501174&idx=1&sn=abefb611155f9dbd8462180a6de61679) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某东SRC专项活动踩坑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MDA0MA==&mid=2247484757&idx=1&sn=befcbb1180bb4998b62147bc39cab01f](https://mp.weixin.qq.com/s?__biz=Mzg4Nzg2MDA0MA==&mid=2247484757&idx=1&sn=befcbb1180bb4998b62147bc39cab01f) |
+| 1 | APT28组织新后门曝光——每周威胁情报动态第238期（08.29-09.04） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492768&idx=1&sn=2b566a6a504f8ce1ed2e06b4492fc991](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492768&idx=1&sn=2b566a6a504f8ce1ed2e06b4492fc991) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | AI模型投毒新手法：供应链攻击直指云端RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484366&idx=1&sn=a1783a0bf85ea545a18f7f904fcccd8f) |
+| 2 | SDL 89/100问：如何推动业务方修复开源组件漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1](https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487152&idx=1&sn=41d92752469e0ed30ae939b7c15ed6e1) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-04/`
+文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-05/`
 
 ## 🔗 数据源说明
 
@@ -114,8 +139,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +149,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-04 16:23:46*
+*生成时间: 2025-09-05 01:23:16*
 *报告工具: 微信文章安全归档系统*
