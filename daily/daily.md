@@ -2,19 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 18
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 18篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 4篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -63,24 +62,10 @@
 
 ### Doonsec
 
-- [专家观点 | 提升数字时代社会安全治理水平](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664248552&idx=3&sn=82a2a86edf1e46ea34bacd2fec72ea91) (发布日期: 2025-09-05)
-- [新态势·新实战 | CSOP2025安全运营实战大会深圳站完美收官](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184581&idx=1&sn=c984b09f75c702b1d6c1cf29a96ff55a) (发布日期: 2025-09-05)
-- [GB/T 22080-2025等同采用ISO/IEC 27001:2022,《网络安全技术 信息安全管理体系 要求》](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521458&idx=1&sn=cd499d8752411a2a27a307d1a18bdee0) (发布日期: 2025-09-05)
-- [特别活动发布！小鹏汽车SRC邀你参加双11安全保卫战！](https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484180&idx=1&sn=691836f09bbd4392745e9409fd13cd06) (发布日期: 2025-09-05)
-- [红队工具再度升级！AI 解读 JS，挖出隐藏资产](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=1&sn=16dd81b5e8962db785c0383ec8dfee64) (发布日期: 2025-09-05)
-- [模型命名空间复用漏洞可劫持谷歌微软平台AI模型](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=2&sn=1c1420a6a9139d026a692974935f0098) (发布日期: 2025-09-05)
-- [【1CPE】ISC2Webinar丨勒索软件、API 和人工智能如何重塑网络防御规则](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493117&idx=1&sn=dd852982afbcdb61f71872230fe91779) (发布日期: 2025-09-05)
-- [行业标准丨水利部发布《水利重要数据安全保护要求》等4项标准](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247534702&idx=1&sn=6a3120e94552fe604f0f51fe6b0d2939) (发布日期: 2025-09-05)
-- [快手SRC全程参与，诚邀您加入双11安全保卫战！](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247496757&idx=1&sn=90b7647ea5c3f49ac44a3a5fdbefe62c) (发布日期: 2025-09-05)
-- [Tenda AC20（≤ V16.03.08.12）路由器缓冲区溢出漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556227&idx=1&sn=1eed363f6eefee6dfe9d5070dafe4b73) (发布日期: 2025-09-05)
-- [红队工具再度升级！AI 解读 JS，挖出隐藏资产](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494525&idx=1&sn=382c7d4b9a2df1f0770d7fc9e90b2943) (发布日期: 2025-09-05)
-- [观安信息成功入选上海市通管局网络和数据安全重点支撑单位](https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247509069&idx=1&sn=0ac94e1cf01c26a8401561388a7842dc) (发布日期: 2025-09-05)
-- [案例精选 | 南京交通职业技术学院安全运营服务建设标杆](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507962&idx=1&sn=189921cdfe6267e183fafbfbc34b8e82) (发布日期: 2025-09-05)
-- [黑客技术这样学，3个月开始挖漏洞！](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485999&idx=1&sn=cebce1ddc53933c37858be26ed48ba2c) (发布日期: 2025-09-05)
-- [赶快升级！百度网盘命令漏洞的安全警示（CNVD-2025-20395）](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545547&idx=1&sn=4119da558ff69fd5b629c971330ef09b) (发布日期: 2025-09-05)
-- [TNSE 2025 | 一种面向对抗环境的基于图结构学习的加密恶意流量检测统一框架](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485243&idx=1&sn=45643be4a7d584e3b955b266506307ae) (发布日期: 2025-09-05)
-- [TNSE 2025 | 一种面向对抗环境的基于图结构学习的加密恶意流量检测统一框架](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485233&idx=1&sn=c40184444cb4edf083a767151c27b267) (发布日期: 2025-09-05)
-- [通信网络安全服务能力评定证书名单](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522592&idx=1&sn=a4adf52ef8be672e9912d3da6946d357) (发布日期: 2025-09-05)
+- [WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) (发布日期: 2025-09-05)
+- [百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) (发布日期: 2025-09-05)
+- [清华大学 | ReDAN：一种面向 NAT 网络的远程拒绝服务攻击实证研究](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493719&idx=1&sn=a0e58581a945058b38c1c1e12558e4e6) (发布日期: 2025-09-05)
+- [如何通过搜索JS文件找到存储XSS](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69) (发布日期: 2025-09-05)
 
 
 ## 🎯 威胁详情分析
@@ -89,19 +74,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 模型命名空间复用漏洞可劫持谷歌微软平台AI模型 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=2&sn=1c1420a6a9139d026a692974935f0098](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327237&idx=2&sn=1c1420a6a9139d026a692974935f0098) |
-| 2 | Tenda AC20（≤ V16.03.08.12）路由器缓冲区溢出漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556227&idx=1&sn=1eed363f6eefee6dfe9d5070dafe4b73](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556227&idx=1&sn=1eed363f6eefee6dfe9d5070dafe4b73) |
-| 3 | 黑客技术这样学，3个月开始挖漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485999&idx=1&sn=cebce1ddc53933c37858be26ed48ba2c](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247485999&idx=1&sn=cebce1ddc53933c37858be26ed48ba2c) |
-| 4 | 赶快升级！百度网盘命令漏洞的安全警示（CNVD-2025-20395） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545547&idx=1&sn=4119da558ff69fd5b629c971330ef09b](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545547&idx=1&sn=4119da558ff69fd5b629c971330ef09b) |
+| 1 | WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) |
+| 2 | 百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 新态势·新实战 | CSOP2025安全运营实战大会深圳站完美收官 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184581&idx=1&sn=c984b09f75c702b1d6c1cf29a96ff55a](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184581&idx=1&sn=c984b09f75c702b1d6c1cf29a96ff55a) |
-| 2 | 特别活动发布！小鹏汽车SRC邀你参加双11安全保卫战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484180&idx=1&sn=691836f09bbd4392745e9409fd13cd06](https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484180&idx=1&sn=691836f09bbd4392745e9409fd13cd06) |
-| 3 | 快手SRC全程参与，诚邀您加入双11安全保卫战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247496757&idx=1&sn=90b7647ea5c3f49ac44a3a5fdbefe62c](https://mp.weixin.qq.com/s?__biz=MzU5MDg0MDc2MQ==&mid=2247496757&idx=1&sn=90b7647ea5c3f49ac44a3a5fdbefe62c) |
-| 4 | 案例精选 | 南京交通职业技术学院安全运营服务建设标杆 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507962&idx=1&sn=189921cdfe6267e183fafbfbc34b8e82](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507962&idx=1&sn=189921cdfe6267e183fafbfbc34b8e82) |
+| 1 | WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) |
+| 2 | 百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) |
+| 3 | 如何通过搜索JS文件找到存储XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69) |
 
 
 ## 📁 归档路径
@@ -117,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -127,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-05 12:37:21*
+*生成时间: 2025-09-05 16:21:41*
 *报告工具: 微信文章安全归档系统*
