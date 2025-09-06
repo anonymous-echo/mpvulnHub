@@ -1,16 +1,16 @@
-# 2025-09-05 安全威胁态势报告
+# 2025-09-06 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 4篇
 - **攻击技术**: 3篇
-- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
 - **Web安全**: 2篇
@@ -62,10 +62,14 @@
 
 ### Doonsec
 
-- [WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) (发布日期: 2025-09-05)
-- [百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) (发布日期: 2025-09-05)
-- [清华大学 | ReDAN：一种面向 NAT 网络的远程拒绝服务攻击实证研究](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493719&idx=1&sn=a0e58581a945058b38c1c1e12558e4e6) (发布日期: 2025-09-05)
-- [如何通过搜索JS文件找到存储XSS](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69) (发布日期: 2025-09-05)
+- [【攻防演练-防溯源】独一无二的浏览器指纹-Adspower指纹浏览器](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496520&idx=1&sn=8cd7f68688baba0cda68832e7ea7e6c9) (发布日期: 2025-09-06)
+- [蓝队IP封禁Tools工具](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491270&idx=1&sn=e9a0ef28a4737bca523af872a189dcaa) (发布日期: 2025-09-06)
+- [漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f) (发布日期: 2025-09-06)
+- [漏洞预警 | 天锐绿盾审批系统SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4) (发布日期: 2025-09-06)
+- [漏洞预警 | 富勒仓储管理系统任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=3&sn=ebea3aac3d5ec815e0e1588a968bb9df) (发布日期: 2025-09-06)
+- [【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1) (发布日期: 2025-09-06)
+- [Windows服务器请求恶意域名应急处理案例](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484641&idx=1&sn=aba7788a43b5a8abb4d44ad8cca27da1) (发布日期: 2025-09-06)
+- [OffSec 与德勤战略合作落地亚太！实战化网络安全培训破解人才缺口与威胁困局](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524939&idx=1&sn=d957f2a49ec18c6b3068d822895f425d) (发布日期: 2025-09-06)
 
 
 ## 🎯 威胁详情分析
@@ -74,21 +78,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) |
-| 2 | 百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) |
+| 1 | 漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f) |
+| 2 | 漏洞预警 | 天锐绿盾审批系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4) |
+| 3 | 漏洞预警 | 富勒仓储管理系统任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=3&sn=ebea3aac3d5ec815e0e1588a968bb9df](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=3&sn=ebea3aac3d5ec815e0e1588a968bb9df) |
+| 4 | 【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | WordPress Relevanssi插件 Sql注入漏洞(CVE-2025-4396) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492641&idx=1&sn=4c69e53041602e7a9f9dffc45967ba70) |
-| 2 | 百度网盘客户端YunDetectService服务 OpenSafeBox 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486263&idx=1&sn=45cab229039ca98cced2d7f2b6c0bf75) |
-| 3 | 如何通过搜索JS文件找到存储XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498147&idx=1&sn=743b68911267214b1c19165158760f69) |
+| 1 | 漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=1&sn=02b1f4de6ce930ef7b509cef8401c94f) |
+| 2 | 漏洞预警 | 天锐绿盾审批系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494284&idx=2&sn=0ed8f1c893a866c932a62586ca7c50f4) |
+| 3 | 【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523590&idx=1&sn=8cda9e4c9183f0300810173aee26fbb1) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-05/`
+文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-06/`
 
 ## 🔗 数据源说明
 
@@ -99,7 +105,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -109,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-05 16:21:41*
+*生成时间: 2025-09-06 01:21:01*
 *报告工具: 微信文章安全归档系统*
