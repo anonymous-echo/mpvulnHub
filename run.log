@@ -8156,3 +8156,33 @@
 2025-09-06 04:20:51,022 - INFO - 已更新data.json，添加了 24 个URL
 2025-09-06 04:20:51,023 - INFO - 已创建每日报告: md/2025-09-06.md
 2025-09-06 04:20:51,023 - INFO - === 执行完成 ===
+2025-09-06 08:20:18,890 - INFO - === 开始执行微信文章归档工具 ===
+2025-09-06 08:20:18,891 - INFO - 数据文件: data.json
+2025-09-06 08:20:18,891 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2025-09-06 08:20:18,892 - INFO - 文档目录: doc
+2025-09-06 08:20:18,927 - INFO - 已加载 20666 条历史记录
+2025-09-06 08:20:18,927 - INFO - === 开始今日拉取 ===
+2025-09-06 08:20:18,927 - INFO - 开始获取Doonsec RSS
+2025-09-06 08:20:18,927 - INFO - 目标日期: 2025-09-06
+2025-09-06 08:25:04,787 - ERROR - Doonsec RSS解析失败: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-09-06 08:25:04,788 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2025/2025-09-06.md
+2025-09-06 08:25:04,903 - INFO - ChainReactors md文件下载状态码: 200
+2025-09-06 08:25:04,905 - INFO - ChainReactors获取到 203 个URL
+2025-09-06 08:25:04,905 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2025/2025-09-06.md
+2025-09-06 08:25:05,040 - INFO - BruceFeIix md文件下载状态码: 200
+2025-09-06 08:25:05,041 - INFO - BruceFeIix获取到 199 个URL
+2025-09-06 08:25:05,041 - INFO - === 开始处理 2025-09-06 的数据 ===
+2025-09-06 08:25:05,041 - INFO - Doonsec原始数据: 0 个
+2025-09-06 08:25:05,042 - INFO - ChainReactors原始数据: 203 个
+2025-09-06 08:25:05,042 - INFO - BruceFeIix原始数据: 199 个
+2025-09-06 08:25:05,042 - INFO - 开始处理Doonsec数据...
+2025-09-06 08:25:05,042 - INFO - 开始处理ChainReactors数据...
+2025-09-06 08:25:05,042 - INFO - 开始处理BruceFeIix数据...
+2025-09-06 08:25:05,042 - INFO - 去重后共 136 个URL待处理，跳过 266 个重复URL
+2025-09-06 08:25:05,042 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 136 个, BruceFeIix: 0 个
+2025-09-06 08:25:05,042 - INFO - === 开始关键词过滤 ===
+2025-09-06 08:25:05,047 - INFO - 关键词过滤: 匹配 0 个，跳过 136 个
+2025-09-06 08:25:05,047 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 0 个, BruceFeIix: 0 个
+2025-09-06 08:25:05,048 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2025-09-06 08:25:05,081 - INFO - 已更新data.json，添加了 0 个URL
+2025-09-06 08:25:05,081 - INFO - === 执行完成 ===
