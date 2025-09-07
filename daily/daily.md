@@ -1,4 +1,4 @@
-# 2025-09-06 安全威胁态势报告
+# 2025-09-07 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -9,9 +9,14 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,20 +65,44 @@
 
 ### Doonsec
 
-- [Java 代码审计 - 文件上传](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485539&idx=1&sn=0fdc1b4cc1c75cd9c71682dd245aee83) (发布日期: 2025-09-06)
-- [OWASP 大型语言模型（LLM）应用和通用人工智能（Gen AI）的十大风险与数据安全倡议](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290902&idx=1&sn=3cdacad3e743600cce534a5d6135efb2) (发布日期: 2025-09-06)
-- [BlockSec安全菁英计划 中山大学专场｜区块链安全行业揭秘+实习直通车+抽奖福利！](https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247489780&idx=1&sn=dc1f34038f0f85991c9805ee5a7fef03) (发布日期: 2025-09-06)
-- [超越传统：将 HexStrike 进化为下一代自动化渗透测试平台](https://mp.weixin.qq.com/s?__biz=Mzk0ODY5NjQ0OQ==&mid=2247483732&idx=1&sn=a7af3445cfe6516e426df7b93cb4f718) (发布日期: 2025-09-06)
-- [【资讯】上海市规划局印发《上海市智能网联汽车测绘地理信息安全管理导则（试行）》](https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247555587&idx=1&sn=c64eca3b21700122f219c1c34c916fec) (发布日期: 2025-09-06)
-- [学员实测！CISP-PTS 凭什么成为渗透测试进阶的权威主流认证](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518522&idx=1&sn=3037a5f990aa5f0f92a5fd995b32e90c) (发布日期: 2025-09-06)
+- [暗网对决：XSS论坛与DamageLib论坛的前世今生](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64) (发布日期: 2025-09-07)
+- [【前14篇免费】ISO/IEC 27701: 2019 标准详解与实施（93）6.9.2.1 恶意软件的控制](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247486710&idx=2&sn=359259daa131d42f6ab7510695f910ac) (发布日期: 2025-09-07)
+- [突发！TP-Link路由器曝高危漏洞，多型号受影响](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233) (发布日期: 2025-09-07)
+- [APT攻击演进新态势：从隐蔽渗透到持久化驻留的完整防御体系](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258) (发布日期: 2025-09-07)
+- [国外8个数据安全最佳实践](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501517&idx=1&sn=4c43e31003bf752f8825cbd87bcbbedc) (发布日期: 2025-09-07)
+- [法国零售商欧尚数据泄露影响数十万客户](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755) (发布日期: 2025-09-07)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 突发！TP-Link路由器曝高危漏洞，多型号受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 暗网对决：XSS论坛与DamageLib论坛的前世今生 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | APT攻击演进新态势：从隐蔽渗透到持久化驻留的完整防御体系 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 法国零售商欧尚数据泄露影响数十万客户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-06/`
+文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-07/`
 
 ## 🔗 数据源说明
 
@@ -84,7 +113,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -94,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-06 16:20:08*
+*生成时间: 2025-09-07 01:28:31*
 *报告工具: 微信文章安全归档系统*
