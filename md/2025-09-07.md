@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 8篇
+  - ChainReactors: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 6篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,12 +64,21 @@
 
 ### Doonsec
 
-- [暗网对决：XSS论坛与DamageLib论坛的前世今生](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64) (发布日期: 2025-09-07)
-- [【前14篇免费】ISO/IEC 27701: 2019 标准详解与实施（93）6.9.2.1 恶意软件的控制](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247486710&idx=2&sn=359259daa131d42f6ab7510695f910ac) (发布日期: 2025-09-07)
-- [突发！TP-Link路由器曝高危漏洞，多型号受影响](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233) (发布日期: 2025-09-07)
-- [APT攻击演进新态势：从隐蔽渗透到持久化驻留的完整防御体系](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258) (发布日期: 2025-09-07)
-- [国外8个数据安全最佳实践](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501517&idx=1&sn=4c43e31003bf752f8825cbd87bcbbedc) (发布日期: 2025-09-07)
-- [法国零售商欧尚数据泄露影响数十万客户](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755) (发布日期: 2025-09-07)
+- [NSMP SIEM SOAR SAS 傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486089&idx=1&sn=0a2aa123128d601e71976093402f8d37) (发布日期: 2025-09-07)
+- [EPP应对免杀后的CS后门](https://mp.weixin.qq.com/s?__biz=MzIzMTMxMTcxOA==&mid=2247485016&idx=1&sn=1ac8ea5cdab4c33d916f98e8a4b5818a) (发布日期: 2025-09-07)
+- [Facebook 服务器上的远程代码执行](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487101&idx=1&sn=eee3fcb277c3acf137f88490aa62bfee) (发布日期: 2025-09-07)
+- [【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1) (发布日期: 2025-09-07)
+- [.NET 内网攻防实战电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=2&sn=a2b464fd42a6d812089636eb7f91de29) (发布日期: 2025-09-07)
+- [80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=3&sn=a0a2ce8105d376db27a6dd3efd2953e9) (发布日期: 2025-09-07)
+- [【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34) (发布日期: 2025-09-07)
+- [通过分析前端js引发的SQL注入fuzz绕过代码层面和waf层面的双重防御](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496491&idx=1&sn=c20bd5f9702629102e64a8921529befc) (发布日期: 2025-09-07)
+
+### ChainReactors
+
+- [ ] [【已复现】百度网盘Windows客户端存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1) (发布日期: 2025-09-07)
+- [ ] [实战派分享｜AI安全第六期 9月11日 大模型安全治理与个人隐私保护](https://mp.weixin.qq.com/s?__biz=MzkxNjU2NjY5MQ==&mid=2247516432&idx=2&sn=41ac5b8606f08caf45a613b6701fd426) (发布日期: 2025-09-07)
+- [ ] [漏洞 | CVE-2025-8220](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349) (发布日期: 2025-09-07)
+- [ ] [【安全圈】谷歌紧急修复安卓0day漏洞！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a) (发布日期: 2025-09-07)
 
 
 ## 🎯 威胁详情分析
@@ -79,25 +87,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 突发！TP-Link路由器曝高危漏洞，多型号受影响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484864&idx=1&sn=f93f29746fdbc3b84f15845dc55a5233) |
+| 1 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1) |
+| 2 | 80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=3&sn=a0a2ce8105d376db27a6dd3efd2953e9](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=3&sn=a0a2ce8105d376db27a6dd3efd2953e9) |
+| 3 | 【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34) |
+| 4 |  ] [【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1) |
+| 5 |  ] [漏洞 | CVE-2025-8220 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500147&idx=1&sn=179c21cba0542f55f239b31611689349) |
+| 6 |  ] [【安全圈】谷歌紧急修复安卓0day漏洞！ | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071567&idx=2&sn=db336f530a7d929a9532badeac71811a) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 暗网对决：XSS论坛与DamageLib论坛的前世今生 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247513615&idx=2&sn=7956cc716b95a0444b997e803df9fa64) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | APT攻击演进新态势：从隐蔽渗透到持久化驻留的完整防御体系 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487467&idx=1&sn=c57d85cce61391caa4035c249af23258) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 法国零售商欧尚数据泄露影响数十万客户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493538&idx=1&sn=9dc5b3702ddbefda8aed84607b0c0755) |
+| 1 | Facebook 服务器上的远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487101&idx=1&sn=eee3fcb277c3acf137f88490aa62bfee](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487101&idx=1&sn=eee3fcb277c3acf137f88490aa62bfee) |
+| 2 | 【Java安全】保姆级shiro+spring环境分析并复现spring内存马注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486560&idx=1&sn=6e82030682f9901d5c4e1ba6f768d4c1) |
+| 3 | .NET 内网攻防实战电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=2&sn=a2b464fd42a6d812089636eb7f91de29](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500532&idx=2&sn=a2b464fd42a6d812089636eb7f91de29) |
+| 4 | 【高危漏洞预警】百度网盘Windows客户端远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612194&idx=4&sn=e50df095af129b8762275e0d0b95ba34) |
+| 5 | 通过分析前端js引发的SQL注入fuzz绕过代码层面和waf层面的双重防御 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496491&idx=1&sn=c20bd5f9702629102e64a8921529befc](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496491&idx=1&sn=c20bd5f9702629102e64a8921529befc) |
+| 6 |  ] [【已复现】百度网盘Windows客户端存在远程命令执行漏洞 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1](https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497403&idx=3&sn=f59c47882972ca85f7c5a284784303e1) |
 
 
 ## 📁 归档路径
@@ -113,7 +119,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -123,5 +129,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-07 01:28:31*
+*生成时间: 2025-09-07 04:21:13*
 *报告工具: 微信文章安全归档系统*
