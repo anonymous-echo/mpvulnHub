@@ -2,16 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 4篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,12 +63,36 @@
 
 ### Doonsec
 
-- [Linux 后门应急（一）-增加超级用户帐号](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484660&idx=1&sn=d437e2efa6e09e37ea14d88bc4e13e29) (发布日期: 2025-09-07)
-- [JavaSec | Java反序列化CC4链详细分析](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551727&idx=1&sn=ed09b41174e6a3fabf5892eddf8a76fd) (发布日期: 2025-09-07)
-- [原厂编制 | 安全服务实习生（偏AI应用实施，AI输出审核）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247551727&idx=2&sn=0800a8f6b1e41162f62dbd777f3987d2) (发布日期: 2025-09-07)
+- [小迪安全笔记—内网渗透-横向移动-基于口令-wmi-smb-dcom(179)](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484667&idx=1&sn=ffa623fc5dc9870c77f4d1c6ac480eab) (发布日期: 2025-09-07)
+- [android新漏洞：一行命令打开任意activity](https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484768&idx=1&sn=ac6b9e7253316481dee1e322f8e89903) (发布日期: 2025-09-07)
+- [Web3交易所安全架构设计概述](https://mp.weixin.qq.com/s?__biz=Mzk5MDgzMDExMg==&mid=2247484480&idx=1&sn=ff891a5dd2cc31309e528837aeafe0ee) (发布日期: 2025-09-07)
+- [【安全圈】14.3万恶意软件锁定Android与iOS用户](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071583&idx=3&sn=684c9c750bb46b42c60fd99774f01ba4) (发布日期: 2025-09-07)
+- [RicohWebImageMonitor 反射xss漏洞(CVE-2025-41393)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474) (发布日期: 2025-09-07)
+- [上汽集团：智能网联汽车OTA升级安全设计](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627172&idx=1&sn=5a8ab4eec56c1748e22bc1b5ec2e5ce1) (发布日期: 2025-09-07)
+- [招商局检测车辆技术研究院：智能网联汽车安全防护体系优化路径](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627172&idx=3&sn=906c856966e56d6d9eb58518045441c8) (发布日期: 2025-09-07)
+- [Tosei network_test.php 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5) (发布日期: 2025-09-07)
+- [通过分析前端js引发的SQL注入fuzz绕过代码层面和waf层面的双重防御](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491883&idx=1&sn=bd091dc88b39d423424017158b907586) (发布日期: 2025-09-07)
+- [知识星球 | 网络信息安全成熟度模型一般参考什么？勒索软件有何最新威胁态势？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643284&idx=1&sn=d593de5ad19ed37a9674d0e8661c350e) (发布日期: 2025-09-07)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | android新漏洞：一行命令打开任意activity | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484768&idx=1&sn=ac6b9e7253316481dee1e322f8e89903](https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484768&idx=1&sn=ac6b9e7253316481dee1e322f8e89903) |
+| 2 | RicohWebImageMonitor 反射xss漏洞(CVE-2025-41393) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474) |
+| 3 | Tosei network_test.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 小迪安全笔记—内网渗透-横向移动-基于口令-wmi-smb-dcom(179) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484667&idx=1&sn=ffa623fc5dc9870c77f4d1c6ac480eab](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484667&idx=1&sn=ffa623fc5dc9870c77f4d1c6ac480eab) |
+| 2 | RicohWebImageMonitor 反射xss漏洞(CVE-2025-41393) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492659&idx=1&sn=8079ff9c8f539fb82fb6f3dacf202474) |
+| 3 | Tosei network_test.php 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492650&idx=1&sn=21a0386432982d552e149918aa268bd5) |
+| 4 | 通过分析前端js引发的SQL注入fuzz绕过代码层面和waf层面的双重防御 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491883&idx=1&sn=bd091dc88b39d423424017158b907586](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247491883&idx=1&sn=bd091dc88b39d423424017158b907586) |
 
 
 ## 📁 归档路径
@@ -81,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -91,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-07 08:20:38*
+*生成时间: 2025-09-07 12:34:12*
 *报告工具: 微信文章安全归档系统*
