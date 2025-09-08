@@ -1,20 +1,23 @@
-# 2025-09-07 安全威胁态势报告
+# 2025-09-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 6篇
 - **攻击技术**: 3篇
-- **漏洞利用**: 2篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +66,23 @@
 
 ### Doonsec
 
-- [实战之常规漏洞快速挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498155&idx=1&sn=840ae3e00fe1397ef4262cb8f8cb39dd) (发布日期: 2025-09-07)
-- [AI大模型在代码审计中的应用与实践](https://mp.weixin.qq.com/s?__biz=MzkwMTE4NDM5NA==&mid=2247486802&idx=1&sn=1349f45d034ba820be46ab14f337b8b5) (发布日期: 2025-09-07)
-- [内网被打穿了，怎么办，还能怎么办，跑路呗](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519751&idx=1&sn=17811aa92138de5bac8ef7a76a7ea691) (发布日期: 2025-09-07)
-- [【多重奖励】携程SRC邀请白帽战士加入双11安全保卫战！](https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017588&idx=1&sn=6403383efc9867b6628e2a9495ef64e8) (发布日期: 2025-09-07)
-- [超越传统：多安全智能体如何重塑网络安全架构？](https://mp.weixin.qq.com/s?__biz=MjM5MDk4OTk0NA==&mid=2650126620&idx=1&sn=190cd5839237b94b9d9d67ff89d6b700) (发布日期: 2025-09-07)
-- [xmind electron rce 复现](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db) (发布日期: 2025-09-07)
-- [西部数据 chk_vv_sharename.php 远程命令执行](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492668&idx=1&sn=1d86b9052608992438874d4756d690d5) (发布日期: 2025-09-07)
+- [《潮新闻》报道｜西湖论剑@数贸会：为全球数字贸易注入安全基因](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650632504&idx=2&sn=acffd65129fc1044b5447083732b54ab) (发布日期: 2025-09-08)
+- [挑战 | 一个图片展示功能存在什么漏洞？](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500152&idx=1&sn=ae3dad1bd60056bdbac1d51b2cc43734) (发布日期: 2025-09-08)
+- [关于防范Plague后门软件的风险提示](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247548357&idx=2&sn=5a546390d5047c8ed93e1483ec226db3) (发布日期: 2025-09-08)
+- [从密钥泄露到钓鱼攻击：云邮件服务劫持剖析](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484370&idx=1&sn=65ec4e628f4be530bdf7c236953e9d70) (发布日期: 2025-09-08)
+- [.NET 会话安全漏洞：代码层面的审计与防御](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=2&sn=5834a2a5de49c475c3301b358c4671b0) (发布日期: 2025-09-08)
+- [80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=3&sn=b9f4c38ddf4a25e40c094a305368ef85) (发布日期: 2025-09-08)
+- [多重奖励｜BOSS直聘SRC邀您加入双11安全保卫战](https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486241&idx=1&sn=245c5336419e0793f37a19c8776fdd6f) (发布日期: 2025-09-08)
+- [0day | 某在线拍卖系统代码审计](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513663&idx=1&sn=14bd66f08416af3739470b182148d971) (发布日期: 2025-09-08)
+- [网络威胁分析：2025年上半年恶意软件与漏洞趋势报告](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290939&idx=1&sn=bd5f7b58cfeba401a3d6ea301a87a67e) (发布日期: 2025-09-08)
+- [CISSP学习笔记-2](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492817&idx=1&sn=e5d890118ebe7870a02458c4149ab21e) (发布日期: 2025-09-08)
+- [MYSQL 定位SQL注入在SQL语句中的位置](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488738&idx=1&sn=7ab5ea63f8fd4e54bc6dd5ab9dda177d) (发布日期: 2025-09-08)
+- [记录某系统通杀XSS漏洞，多个985大学在列](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647) (发布日期: 2025-09-08)
+- [喜报！炼石中标南方电网免改造数据加密安全防护项目](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247578727&idx=1&sn=d2489562863f3712d7530f8e86232365) (发布日期: 2025-09-08)
+- [身份管理失控：为什么80%的数据泄露都与身份认证有关？](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487484&idx=1&sn=688a414f31637968d83aff4cf2ce412f) (发布日期: 2025-09-08)
+- [Linux 后门应急（二）-SSH 软链接后门](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484684&idx=1&sn=0cc6b5b9b47eec064ec8525c1885e946) (发布日期: 2025-09-08)
+- [逍遥安全实验室(逍遥子)渗透测试培训终身制888RMB 语雀持续更新](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484684&idx=2&sn=020cda68601bdb15003f46d8afad3328) (发布日期: 2025-09-08)
+- [Brokewell Android 恶意软件通过虚假 TradingView 广告传播](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493539&idx=1&sn=396fe52a3a84400fe8822811272596c9) (发布日期: 2025-09-08)
 
 
 ## 🎯 威胁详情分析
@@ -78,27 +91,37 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 实战之常规漏洞快速挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498155&idx=1&sn=840ae3e00fe1397ef4262cb8f8cb39dd](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498155&idx=1&sn=840ae3e00fe1397ef4262cb8f8cb39dd) |
-| 2 | xmind electron rce 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db) |
+| 1 | 挑战 | 一个图片展示功能存在什么漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500152&idx=1&sn=ae3dad1bd60056bdbac1d51b2cc43734](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247500152&idx=1&sn=ae3dad1bd60056bdbac1d51b2cc43734) |
+| 2 | .NET 会话安全漏洞：代码层面的审计与防御 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=2&sn=5834a2a5de49c475c3301b358c4671b0](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=2&sn=5834a2a5de49c475c3301b358c4671b0) |
+| 3 | 80个反序列化漏洞全景合集 (3) | 介绍一个 ViewState 反序列化不常见的知识点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=3&sn=b9f4c38ddf4a25e40c094a305368ef85](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500538&idx=3&sn=b9f4c38ddf4a25e40c094a305368ef85) |
+| 4 | 0day | 某在线拍卖系统代码审计 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513663&idx=1&sn=14bd66f08416af3739470b182148d971](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513663&idx=1&sn=14bd66f08416af3739470b182148d971) |
+| 5 | 网络威胁分析：2025年上半年恶意软件与漏洞趋势报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290939&idx=1&sn=bd5f7b58cfeba401a3d6ea301a87a67e](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655290939&idx=1&sn=bd5f7b58cfeba401a3d6ea301a87a67e) |
+| 6 | 记录某系统通杀XSS漏洞，多个985大学在列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网被打穿了，怎么办，还能怎么办，跑路呗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519751&idx=1&sn=17811aa92138de5bac8ef7a76a7ea691](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519751&idx=1&sn=17811aa92138de5bac8ef7a76a7ea691) |
-| 2 | xmind electron rce 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484418&idx=1&sn=cc4c9b54043010a355272565b29a04db) |
-| 3 | 西部数据 chk_vv_sharename.php 远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492668&idx=1&sn=1d86b9052608992438874d4756d690d5](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492668&idx=1&sn=1d86b9052608992438874d4756d690d5) |
+| 1 | 《潮新闻》报道｜西湖论剑@数贸会：为全球数字贸易注入安全基因 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650632504&idx=2&sn=acffd65129fc1044b5447083732b54ab](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650632504&idx=2&sn=acffd65129fc1044b5447083732b54ab) |
+| 2 | MYSQL 定位SQL注入在SQL语句中的位置 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488738&idx=1&sn=7ab5ea63f8fd4e54bc6dd5ab9dda177d](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488738&idx=1&sn=7ab5ea63f8fd4e54bc6dd5ab9dda177d) |
+| 3 | 记录某系统通杀XSS漏洞，多个985大学在列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486319&idx=1&sn=55a1531e15066bd81cd915edc0403647) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【多重奖励】携程SRC邀请白帽战士加入双11安全保卫战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017588&idx=1&sn=6403383efc9867b6628e2a9495ef64e8](https://mp.weixin.qq.com/s?__biz=MzAwOTczODMxMw==&mid=2651017588&idx=1&sn=6403383efc9867b6628e2a9495ef64e8) |
+| 1 | 多重奖励｜BOSS直聘SRC邀您加入双11安全保卫战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486241&idx=1&sn=245c5336419e0793f37a19c8776fdd6f](https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486241&idx=1&sn=245c5336419e0793f37a19c8776fdd6f) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 身份管理失控：为什么80%的数据泄露都与身份认证有关？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487484&idx=1&sn=688a414f31637968d83aff4cf2ce412f](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487484&idx=1&sn=688a414f31637968d83aff4cf2ce412f) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W36/2025-09-07/`
+文章已归档到: `doc/2025/2025-09/2025-W37/2025-09-08/`
 
 ## 🔗 数据源说明
 
@@ -109,8 +132,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +142,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-07 16:20:03*
+*生成时间: 2025-09-08 01:27:05*
 *报告工具: 微信文章安全归档系统*
