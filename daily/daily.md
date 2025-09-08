@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +62,10 @@
 
 ### Doonsec
 
-- [记一次挖矿木马+隐藏后门应急分析](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523082&idx=1&sn=22cc228b9be1d62b6648b4008952e91f) (发布日期: 2025-09-08)
-- [【安全圈】Salesloft Drift 数据泄露追踪：源自 GitHub 入侵与 OAuth 令牌被盗](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071603&idx=3&sn=05bfd513e37a43bc2446e6ea977d27d7) (发布日期: 2025-09-08)
-- [新型APT组织\"嘈杂熊\"针对国家能源部门发起网络间谍活动](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=1&sn=659efa510a85d9c6c7ab7fb3c9c783da) (发布日期: 2025-09-08)
-- [每日5万封钓鱼邮件：亚马逊云服务漏洞助长大规模网络钓鱼活动](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=3&sn=69187752e0b7f01602e157d39a1ea6ef) (发布日期: 2025-09-08)
-- [Apache Jackrabbit最新漏洞可导致JNDI注入与远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1) (发布日期: 2025-09-08)
-- [轻松拿捏的漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498159&idx=1&sn=11e143d97d6c957f253e276a6bdd4555) (发布日期: 2025-09-08)
-- [清源SCA社区版更新（V4.2.0）｜漏洞前置感知、精准修复、合规清晰，筑牢软件供应链安全防线！](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491974&idx=1&sn=5586a5713cd49cb757e5d677825fd2f1) (发布日期: 2025-09-08)
-- [太原某公司因网络安全存漏洞被行政处罚](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493062&idx=1&sn=bbba39014b9dd77a7e688109781e3d09) (发布日期: 2025-09-08)
-- [免费赠送丨网络安全意识：宣传折页35张](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643312&idx=3&sn=2bfd1589dc349937a84c4455ff0e963a) (发布日期: 2025-09-08)
-- [【独家分析】2025年8月度网络安全漏洞分析报告](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494719&idx=1&sn=7f33e6e87496d9bb8c0da8e63cf50275) (发布日期: 2025-09-08)
-- [从一台冰箱的漏洞看工业网络安全危机：IT/OT融合下的必由之路](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507973&idx=1&sn=3cf7fbfe936493e37e75b20bc3d0ba23) (发布日期: 2025-09-08)
-- [漏洞实战案例 | FUZZ的艺术](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488313&idx=1&sn=67e8cc68e0c6371598e9aeee47c87372) (发布日期: 2025-09-08)
-- [招人 ｜ 红队免杀工程师](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247513669&idx=1&sn=1a6c40062491bea1f20e51b9af6a9f91) (发布日期: 2025-09-08)
-- [【红队思路】fodhelper 注册表UAC](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484540&idx=1&sn=37114a3f968a1cb85b3dd4118f67ef89) (发布日期: 2025-09-08)
+- [2025陇剑杯-siem题解](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484031&idx=1&sn=2fde97d760e00b3602a8d79ca509654c) (发布日期: 2025-09-08)
+- [HTML 注入的真正价值：从“小洞”到“大发现”](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492409&idx=1&sn=7f92bb3684d7917abaf80a24b03b77a9) (发布日期: 2025-09-08)
+- [1Day 复现 金和OA SQL注入漏洞 (CVE-2025-10090)](https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8) (发布日期: 2025-09-08)
+- [【知乎粉丝福利】黑客/网络安全攻防学习资料最全合集（从0到挖漏洞、打CTF、护网、就业）](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485594&idx=1&sn=e01f061388ea73543cc256691fef9c64) (发布日期: 2025-09-08)
 
 
 ## 🎯 威胁详情分析
@@ -87,38 +74,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 每日5万封钓鱼邮件：亚马逊云服务漏洞助长大规模网络钓鱼活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=3&sn=69187752e0b7f01602e157d39a1ea6ef](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=3&sn=69187752e0b7f01602e157d39a1ea6ef) |
-| 2 | Apache Jackrabbit最新漏洞可导致JNDI注入与远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1) |
-| 3 | 轻松拿捏的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498159&idx=1&sn=11e143d97d6c957f253e276a6bdd4555](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498159&idx=1&sn=11e143d97d6c957f253e276a6bdd4555) |
-| 4 | 清源SCA社区版更新（V4.2.0）｜漏洞前置感知、精准修复、合规清晰，筑牢软件供应链安全防线！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491974&idx=1&sn=5586a5713cd49cb757e5d677825fd2f1](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491974&idx=1&sn=5586a5713cd49cb757e5d677825fd2f1) |
-| 5 | 太原某公司因网络安全存漏洞被行政处罚 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493062&idx=1&sn=bbba39014b9dd77a7e688109781e3d09](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493062&idx=1&sn=bbba39014b9dd77a7e688109781e3d09) |
-| 6 | 【独家分析】2025年8月度网络安全漏洞分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494719&idx=1&sn=7f33e6e87496d9bb8c0da8e63cf50275](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494719&idx=1&sn=7f33e6e87496d9bb8c0da8e63cf50275) |
-| 7 | 从一台冰箱的漏洞看工业网络安全危机：IT/OT融合下的必由之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507973&idx=1&sn=3cf7fbfe936493e37e75b20bc3d0ba23](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247507973&idx=1&sn=3cf7fbfe936493e37e75b20bc3d0ba23) |
-| 8 | 漏洞实战案例 | FUZZ的艺术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488313&idx=1&sn=67e8cc68e0c6371598e9aeee47c87372](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488313&idx=1&sn=67e8cc68e0c6371598e9aeee47c87372) |
+| 1 | 1Day 复现 金和OA SQL注入漏洞 (CVE-2025-10090) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8](https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8) |
+| 2 | 【知乎粉丝福利】黑客/网络安全攻防学习资料最全合集（从0到挖漏洞、打CTF、护网、就业） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485594&idx=1&sn=e01f061388ea73543cc256691fef9c64](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485594&idx=1&sn=e01f061388ea73543cc256691fef9c64) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Jackrabbit最新漏洞可导致JNDI注入与远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=4&sn=99f169509efe591315edea1fb176bfb1) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 新型APT组织\"嘈杂熊\"针对国家能源部门发起网络间谍活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=1&sn=659efa510a85d9c6c7ab7fb3c9c783da](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327271&idx=1&sn=659efa510a85d9c6c7ab7fb3c9c783da) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】Salesloft Drift 数据泄露追踪：源自 GitHub 入侵与 OAuth 令牌被盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071603&idx=3&sn=05bfd513e37a43bc2446e6ea977d27d7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071603&idx=3&sn=05bfd513e37a43bc2446e6ea977d27d7) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 清源SCA社区版更新（V4.2.0）｜漏洞前置感知、精准修复、合规清晰，筑牢软件供应链安全防线！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491974&idx=1&sn=5586a5713cd49cb757e5d677825fd2f1](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491974&idx=1&sn=5586a5713cd49cb757e5d677825fd2f1) |
+| 1 | HTML 注入的真正价值：从“小洞”到“大发现” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492409&idx=1&sn=7f92bb3684d7917abaf80a24b03b77a9](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492409&idx=1&sn=7f92bb3684d7917abaf80a24b03b77a9) |
+| 2 | 1Day 复现 金和OA SQL注入漏洞 (CVE-2025-10090) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8](https://mp.weixin.qq.com/s?__biz=MzE5MTc4OTc1Ng==&mid=2247483949&idx=1&sn=62b44dc9fc59f3f7bd832dcac7faf9a8) |
 
 
 ## 📁 归档路径
@@ -134,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-08 12:40:38*
+*生成时间: 2025-09-08 16:22:09*
 *报告工具: 微信文章安全归档系统*
