@@ -2,21 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 3篇
-- **供应链**: 3篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 5篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 3篇
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,23 +65,16 @@
 
 ### Doonsec
 
-- [一键获取上万份资料和漏洞情报的资源情报网站](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259) (发布日期: 2025-09-09)
-- [npm史上最大供应链攻击：每周下载量超20亿的软件包遭大规模攻击劫持](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9) (发布日期: 2025-09-09)
-- [苹果用户速更新！macOS存严重漏洞，用户隐私数据面临泄露风险](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4) (发布日期: 2025-09-09)
-- [十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) (发布日期: 2025-09-09)
-- [GhostAction：GitHub 供应链攻击导致数千机密信息被盗](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e) (发布日期: 2025-09-09)
-- [国标GB/T 45577-2025即将正式实施！一文读懂数据安全风险评估新要求](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597318&idx=1&sn=0e2309e06f6f437af9b5a421e1585eb7) (发布日期: 2025-09-09)
-- [创纪录！最大电信运营商发生最严重数据泄露 飞天诚信：需要学习美国先进经验](https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8) (发布日期: 2025-09-09)
-- [Java FreeMarker 模板引擎注入深入分析](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d) (发布日期: 2025-09-09)
-- [【免费领】世界顶尖黑客力作：Android系统漏洞实战权威教程](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac) (发布日期: 2025-09-09)
-- [【好靶场】3 级：某SRC微信小程序购物地址的逻辑缺陷](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce) (发布日期: 2025-09-09)
-- [0054.如何使用Perplexity AI 进行漏洞赏金侦察（并充分利用它）](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527) (发布日期: 2025-09-09)
-- [Next.js 中间件中的 SSRF 漏洞CVE-2025-57822](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901) (发布日期: 2025-09-09)
-- [【漏洞通告】SQLite FTS5 整数溢出漏洞 (CVE-2025-7709)](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649) (发布日期: 2025-09-09)
-- [CVE-2025-29824 在野 0day 漏洞利用样本研究](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7) (发布日期: 2025-09-09)
-- [CISO职业生涯的十个陷阱：从技术盲点到领导失误，你中招了吗？](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260466&idx=1&sn=150c7f0f43926591b6b68c2a71dca3c6) (发布日期: 2025-09-09)
-- [Fastjson 代码执行漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) (发布日期: 2025-09-09)
-- [某开源教育平台后台权限绕过漏洞分析](https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88) (发布日期: 2025-09-09)
+- [东胜物流软件Webservice/DsWebService.asmx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b) (发布日期: 2025-09-09)
+- [从 “网红高管” 到被辞退：小米王腾泄密事件撕开科技巨头的安全漏洞u200b](https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267783&idx=1&sn=5fb14bc7f9ca79fe5965a6a81991042e) (发布日期: 2025-09-09)
+- [汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18) (发布日期: 2025-09-09)
+- [CFS三层靶机-内网渗透](https://mp.weixin.qq.com/s?__biz=MzE5ODgyNDczMQ==&mid=2247484271&idx=1&sn=1ef95e76a83ca4a029bfa693c4bb05f8) (发布日期: 2025-09-09)
+- [智邦国际ERP RecordPrint.ashx SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f) (发布日期: 2025-09-09)
+- [【会议活动】全国总工会第二届职工数字化应用技术技能大赛福建省选拔赛（数据安全管理员赛项）圆满落幕](https://mp.weixin.qq.com/s?__biz=MjM5NzYwNDU0Mg==&mid=2649254281&idx=1&sn=810b7763313ed0f56dcd7f08cfa76a71) (发布日期: 2025-09-09)
+- [【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490711&idx=1&sn=225b2f20339820e525b60f2a358418a8) (发布日期: 2025-09-09)
+- [小迪安全笔记-内网渗透-横向移动-基于口令-WinRM&WinRS-RDP-CrackMapExec(180)](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484668&idx=1&sn=b0669354256e8e0e11e758ceaf5acfb7) (发布日期: 2025-09-09)
+- [CISSP学习笔记-3](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492818&idx=1&sn=6b304a40fa2c5d162cc4e6a48641dd31) (发布日期: 2025-09-09)
+- [SRC漏洞挖掘技巧，带你零基础入门到精通赏金！](https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b) (发布日期: 2025-09-09)
 
 
 ## 🎯 威胁详情分析
@@ -90,43 +83,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一键获取上万份资料和漏洞情报的资源情报网站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259) |
-| 2 | 苹果用户速更新！macOS存严重漏洞，用户隐私数据面临泄露风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4) |
-| 3 | 【免费领】世界顶尖黑客力作：Android系统漏洞实战权威教程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac) |
-| 4 | 0054.如何使用Perplexity AI 进行漏洞赏金侦察（并充分利用它） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527) |
-| 5 | Next.js 中间件中的 SSRF 漏洞CVE-2025-57822 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901) |
-| 6 | 【漏洞通告】SQLite FTS5 整数溢出漏洞 (CVE-2025-7709) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649) |
-| 7 | CVE-2025-29824 在野 0day 漏洞利用样本研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7) |
-| 8 | Fastjson 代码执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) |
-| 9 | 某开源教育平台后台权限绕过漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88](https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88) |
+| 1 | 东胜物流软件Webservice/DsWebService.asmx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b) |
+| 2 | 从 “网红高管” 到被辞退：小米王腾泄密事件撕开科技巨头的安全漏洞u200b | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267783&idx=1&sn=5fb14bc7f9ca79fe5965a6a81991042e](https://mp.weixin.qq.com/s?__biz=MzIxNzA2NzY1Nw==&mid=2655267783&idx=1&sn=5fb14bc7f9ca79fe5965a6a81991042e) |
+| 3 | 汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18) |
+| 4 | 智邦国际ERP RecordPrint.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f) |
+| 5 | 【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490711&idx=1&sn=225b2f20339820e525b60f2a358418a8](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490711&idx=1&sn=225b2f20339820e525b60f2a358418a8) |
+| 6 | SRC漏洞挖掘技巧，带你零基础入门到精通赏金！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b](https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) |
-| 2 | Java FreeMarker 模板引擎注入深入分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d) |
-| 3 | Fastjson 代码执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) |
+| 1 | 东胜物流软件Webservice/DsWebService.asmx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489105&idx=1&sn=3d2ae0451294fc36fafb622d109a721b) |
+| 2 | 汉王e脸通综合管理平台 resourceUploadFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492707&idx=1&sn=73b4234fe8c03e482bde82141b682b18) |
+| 3 | CFS三层靶机-内网渗透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODgyNDczMQ==&mid=2247484271&idx=1&sn=1ef95e76a83ca4a029bfa693c4bb05f8](https://mp.weixin.qq.com/s?__biz=MzE5ODgyNDczMQ==&mid=2247484271&idx=1&sn=1ef95e76a83ca4a029bfa693c4bb05f8) |
+| 4 | 智邦国际ERP RecordPrint.ashx SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492697&idx=1&sn=2f566f86a64a80d480e5ac08653e7d9f) |
+| 5 | 小迪安全笔记-内网渗透-横向移动-基于口令-WinRM&WinRS-RDP-CrackMapExec(180) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484668&idx=1&sn=b0669354256e8e0e11e758ceaf5acfb7](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484668&idx=1&sn=b0669354256e8e0e11e758ceaf5acfb7) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【好靶场】3 级：某SRC微信小程序购物地址的逻辑缺陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 创纪录！最大电信运营商发生最严重数据泄露 飞天诚信：需要学习美国先进经验 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8](https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | npm史上最大供应链攻击：每周下载量超20亿的软件包遭大规模攻击劫持 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9) |
-| 2 | 十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) |
-| 3 | GhostAction：GitHub 供应链攻击导致数千机密信息被盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e) |
+| 1 | SRC漏洞挖掘技巧，带你零基础入门到精通赏金！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b](https://mp.weixin.qq.com/s?__biz=MzkxNDU0MTUyNw==&mid=2247493688&idx=1&sn=26dd3aedf647a61b1ab39a29ed62de8b) |
 
 
 ## 📁 归档路径
@@ -142,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -152,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-09 12:40:56*
+*生成时间: 2025-09-09 16:24:09*
 *报告工具: 微信文章安全归档系统*
