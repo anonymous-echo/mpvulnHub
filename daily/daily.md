@@ -9,12 +9,14 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **安全运营**: 2篇
-- **供应链**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **供应链**: 3篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,23 +65,23 @@
 
 ### Doonsec
 
-- [大数据时代数据安全治理体系建设研究](https://mp.weixin.qq.com/s?__biz=MzkxNDY4MTQwOQ==&mid=2247485038&idx=1&sn=78270e9a358864c67599cc465f83b256) (发布日期: 2025-09-09)
-- [一个通过数据包唤醒无端口的双模式后门](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493713&idx=1&sn=4fa233445254b91930c6d14d373e6f69) (发布日期: 2025-09-09)
-- [Java代码审计靶场](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486104&idx=1&sn=d97febe13ab8e88845b804aed7994cbe) (发布日期: 2025-09-09)
-- [如何有效防范网络钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484584&idx=1&sn=83919c65ccec0bdd1a7dc227608d6e77) (发布日期: 2025-09-09)
-- [CVE-2025-29824 在野 0day 漏洞利用样本研究](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516039&idx=1&sn=db4aa60e93ae2356c85059823380e88f) (发布日期: 2025-09-09)
-- [EDUSRC信息收集](https://mp.weixin.qq.com/s?__biz=MzkxMzY5NDUyMQ==&mid=2247485484&idx=1&sn=48d90b0f1d62810482d0d4927fa08985) (发布日期: 2025-09-09)
-- [2025年国家网络安全宣传周将于9月15日在昆明开幕；NVDB提示防范WinRAR路径遍历高危漏洞风险 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138628&idx=2&sn=725d67b3147bdfc29fc3317dccb6d41d) (发布日期: 2025-09-09)
-- [npm 包 color 遭恶意攻击，数千万下载量包被植入加密货币窃取代码](https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483917&idx=1&sn=aa268b60873cc999359ad9272c1a9f1d) (发布日期: 2025-09-09)
-- [自动驾驶中的 DCU、MCU、MPU、SOC 和汽车电子架构](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247559370&idx=2&sn=43b846403d65186e3bba6ab6676cf6fb) (发布日期: 2025-09-09)
-- [大型推理模型的安全性：挑战、漏洞与未来](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533378&idx=1&sn=76aacd2bdcdad04880942272cfcd1d82) (发布日期: 2025-09-09)
-- [【紧急警示】Weaxor 新变种“roxaew”借 nday 漏洞大肆攻击，多家企业中招！深度剖析与防御指南](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503349&idx=1&sn=913a54d58954d77ed131b29c37e96122) (发布日期: 2025-09-09)
-- [【安全圈】史上最大 npm 供应链攻击：周下载量超 20 亿的 18 个包被植入恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071622&idx=3&sn=fea6a87fb8e150debe4ce04fe18b2df1) (发布日期: 2025-09-09)
-- [招聘中高渗透测试若干](https://mp.weixin.qq.com/s?__biz=Mzg5NTkxNzg4MA==&mid=2247490212&idx=1&sn=07c8ce7e3dd936a203f768fc65ed100d) (发布日期: 2025-09-09)
-- [报告显示：网络安全团队面临日益严峻的攻击压力，GenAI被视为提升安全能力的关键技术](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291022&idx=1&sn=449ee36b0775a404fd6f7f704d67dbed) (发布日期: 2025-09-09)
-- [网络安全运营运维 今天上传文件列表](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291022&idx=2&sn=20021c3b0cec7e8769f513341be4fab5) (发布日期: 2025-09-09)
-- [某书发布个人信息导致全校学生信息泄露--漏洞复现](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487069&idx=1&sn=10897374dd17db7c36fe8c975d5a787d) (发布日期: 2025-09-09)
-- [信安工程师学习笔记（10）VPN技术原理](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488250&idx=1&sn=6e8058d82af61e0f5a4b430349163735) (发布日期: 2025-09-09)
+- [一键获取上万份资料和漏洞情报的资源情报网站](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259) (发布日期: 2025-09-09)
+- [npm史上最大供应链攻击：每周下载量超20亿的软件包遭大规模攻击劫持](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9) (发布日期: 2025-09-09)
+- [苹果用户速更新！macOS存严重漏洞，用户隐私数据面临泄露风险](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4) (发布日期: 2025-09-09)
+- [十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) (发布日期: 2025-09-09)
+- [GhostAction：GitHub 供应链攻击导致数千机密信息被盗](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e) (发布日期: 2025-09-09)
+- [国标GB/T 45577-2025即将正式实施！一文读懂数据安全风险评估新要求](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597318&idx=1&sn=0e2309e06f6f437af9b5a421e1585eb7) (发布日期: 2025-09-09)
+- [创纪录！最大电信运营商发生最严重数据泄露 飞天诚信：需要学习美国先进经验](https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8) (发布日期: 2025-09-09)
+- [Java FreeMarker 模板引擎注入深入分析](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d) (发布日期: 2025-09-09)
+- [【免费领】世界顶尖黑客力作：Android系统漏洞实战权威教程](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac) (发布日期: 2025-09-09)
+- [【好靶场】3 级：某SRC微信小程序购物地址的逻辑缺陷](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce) (发布日期: 2025-09-09)
+- [0054.如何使用Perplexity AI 进行漏洞赏金侦察（并充分利用它）](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527) (发布日期: 2025-09-09)
+- [Next.js 中间件中的 SSRF 漏洞CVE-2025-57822](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901) (发布日期: 2025-09-09)
+- [【漏洞通告】SQLite FTS5 整数溢出漏洞 (CVE-2025-7709)](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649) (发布日期: 2025-09-09)
+- [CVE-2025-29824 在野 0day 漏洞利用样本研究](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7) (发布日期: 2025-09-09)
+- [CISO职业生涯的十个陷阱：从技术盲点到领导失误，你中招了吗？](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260466&idx=1&sn=150c7f0f43926591b6b68c2a71dca3c6) (发布日期: 2025-09-09)
+- [Fastjson 代码执行漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) (发布日期: 2025-09-09)
+- [某开源教育平台后台权限绕过漏洞分析](https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88) (发布日期: 2025-09-09)
 
 
 ## 🎯 威胁详情分析
@@ -88,24 +90,43 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-29824 在野 0day 漏洞利用样本研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516039&idx=1&sn=db4aa60e93ae2356c85059823380e88f](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516039&idx=1&sn=db4aa60e93ae2356c85059823380e88f) |
-| 2 | 2025年国家网络安全宣传周将于9月15日在昆明开幕；NVDB提示防范WinRAR路径遍历高危漏洞风险 | 牛览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138628&idx=2&sn=725d67b3147bdfc29fc3317dccb6d41d](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138628&idx=2&sn=725d67b3147bdfc29fc3317dccb6d41d) |
-| 3 | 大型推理模型的安全性：挑战、漏洞与未来 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533378&idx=1&sn=76aacd2bdcdad04880942272cfcd1d82](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533378&idx=1&sn=76aacd2bdcdad04880942272cfcd1d82) |
-| 4 | 【紧急警示】Weaxor 新变种“roxaew”借 nday 漏洞大肆攻击，多家企业中招！深度剖析与防御指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503349&idx=1&sn=913a54d58954d77ed131b29c37e96122](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247503349&idx=1&sn=913a54d58954d77ed131b29c37e96122) |
-| 5 | 某书发布个人信息导致全校学生信息泄露--漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487069&idx=1&sn=10897374dd17db7c36fe8c975d5a787d](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487069&idx=1&sn=10897374dd17db7c36fe8c975d5a787d) |
+| 1 | 一键获取上万份资料和漏洞情报的资源情报网站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=2&sn=45507429fd2d286926855b63db1cb259) |
+| 2 | 苹果用户速更新！macOS存严重漏洞，用户隐私数据面临泄露风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=4&sn=9fcd434ceb909ba8b662990f22fffdf4) |
+| 3 | 【免费领】世界顶尖黑客力作：Android系统漏洞实战权威教程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=2&sn=0009a1eb68b7decf6757ade542fe49ac) |
+| 4 | 0054.如何使用Perplexity AI 进行漏洞赏金侦察（并充分利用它） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690959&idx=1&sn=ef0ae43c5cc845ad101cd318c7667527) |
+| 5 | Next.js 中间件中的 SSRF 漏洞CVE-2025-57822 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485460&idx=1&sn=1671467b8bdbb6041463d75165c49901) |
+| 6 | 【漏洞通告】SQLite FTS5 整数溢出漏洞 (CVE-2025-7709) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501553&idx=2&sn=709a0a5126e276097f708500df67f649) |
+| 7 | CVE-2025-29824 在野 0day 漏洞利用样本研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532670&idx=2&sn=40982884fd0e42efee9470bcdda1efb7) |
+| 8 | Fastjson 代码执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) |
+| 9 | 某开源教育平台后台权限绕过漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88](https://mp.weixin.qq.com/s?__biz=MzYyNTA2MTY3NQ==&mid=2247483745&idx=1&sn=415189a1318561a962f540885e4a2b88) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) |
+| 2 | Java FreeMarker 模板引擎注入深入分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556248&idx=1&sn=6b5640ccd9b04b9277ed44f4502b710d) |
+| 3 | Fastjson 代码执行漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490449&idx=1&sn=73d74e299340cf7320af22e6c20a0506) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | EDUSRC信息收集 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzY5NDUyMQ==&mid=2247485484&idx=1&sn=48d90b0f1d62810482d0d4927fa08985](https://mp.weixin.qq.com/s?__biz=MzkxMzY5NDUyMQ==&mid=2247485484&idx=1&sn=48d90b0f1d62810482d0d4927fa08985) |
-| 2 | 网络安全运营运维 今天上传文件列表 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291022&idx=2&sn=20021c3b0cec7e8769f513341be4fab5](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291022&idx=2&sn=20021c3b0cec7e8769f513341be4fab5) |
+| 1 | 【好靶场】3 级：某SRC微信小程序购物地址的逻辑缺陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485884&idx=1&sn=1f8fb8c6297087b4fae8cfda474c61ce) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 创纪录！最大电信运营商发生最严重数据泄露 飞天诚信：需要学习美国先进经验 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8](https://mp.weixin.qq.com/s?__biz=MjM5NDE1MjU2Mg==&mid=2649877397&idx=1&sn=78f9430b88d462344b12c10728b899c8) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】史上最大 npm 供应链攻击：周下载量超 20 亿的 18 个包被植入恶意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071622&idx=3&sn=fea6a87fb8e150debe4ce04fe18b2df1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071622&idx=3&sn=fea6a87fb8e150debe4ce04fe18b2df1) |
+| 1 | npm史上最大供应链攻击：每周下载量超20亿的软件包遭大规模攻击劫持 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327317&idx=3&sn=5a192e46279794647b93329e45caa6b9) |
+| 2 | 十几家安全大厂信息遭泄露，谁是 Salesforce-Salesloft 供应链攻击的下一个受害者？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=1&sn=7b06c31940ea7576d0236d9310886b39) |
+| 3 | GhostAction：GitHub 供应链攻击导致数千机密信息被盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523972&idx=2&sn=0387c592e9c88e34937d027ca533e63e) |
 
 
 ## 📁 归档路径
@@ -121,8 +142,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +152,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-09 08:26:31*
+*生成时间: 2025-09-09 12:40:56*
 *报告工具: 微信文章安全归档系统*
