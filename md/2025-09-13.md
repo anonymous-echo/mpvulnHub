@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 5篇
+- **安全运营**: 3篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 3篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +63,17 @@
 
 ### Doonsec
 
-- [php反序列化之字符逃逸题目](https://mp.weixin.qq.com/s?__biz=Mzg5MzUzMDQ1NA==&mid=2247484987&idx=1&sn=33f3dd316e71c3bd41280b0f6b2f727f) (发布日期: 2025-09-13)
-- [【好靶场逻辑漏洞】优惠卷只能领取一次？你OUT了](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166) (发布日期: 2025-09-13)
-- [新型 HybridPetya 勒索软件可绕过 UEFI 安全启动](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502809&idx=1&sn=6573586ff80dbbbdf85a08770286eff9) (发布日期: 2025-09-13)
-- [某 oa 1day分析](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8) (发布日期: 2025-09-13)
-- [【红队思路】COM接口processChain断链](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484561&idx=1&sn=0d08073a657c3b5811fbb86e877685a5) (发布日期: 2025-09-13)
-- [存储桶配置不当的漏洞挖掘：以某EDU证书站为例](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8) (发布日期: 2025-09-13)
+- [Microsoft Windows Defender 存在防火墙允许权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002) (发布日期: 2025-09-13)
+- [NVIDIA NVDebug工具存在漏洞，攻击者可借此实现系统权限提升](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5) (发布日期: 2025-09-13)
+- [【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！](https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff) (发布日期: 2025-09-13)
+- [互联网幽灵：Carna僵尸网络的秘密普查](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484393&idx=1&sn=1770a5ffb066a64dd91585f98b8231e8) (发布日期: 2025-09-13)
+- [SDL序列课程-第55篇-安全需求-开发接口需求-设计接口需要有身份认证，对来源授权，只允许授权的IP访问](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484900&idx=1&sn=fed7ebe37375fe11627ed88217583799) (发布日期: 2025-09-13)
+- [RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) (发布日期: 2025-09-13)
+- [新型HybridPetya恶意软件利用UEFI漏洞绕过老旧系统的安全启动机制](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12) (发布日期: 2025-09-13)
+- [网络安全运营运维 今天上传文件列表](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7) (发布日期: 2025-09-13)
+- [【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274) (发布日期: 2025-09-13)
+- [20种渗透测试最常见的攻击手法详细图解！](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486140&idx=1&sn=bfd82bc3faee53c78c4469f3c5956ceb) (发布日期: 2025-09-13)
+- [开源｜如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5) (发布日期: 2025-09-13)
 
 
 ## 🎯 威胁详情分析
@@ -76,9 +82,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【好靶场逻辑漏洞】优惠卷只能领取一次？你OUT了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166) |
-| 2 | 某 oa 1day分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8) |
-| 3 | 存储桶配置不当的漏洞挖掘：以某EDU证书站为例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8) |
+| 1 | Microsoft Windows Defender 存在防火墙允许权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002) |
+| 2 | NVIDIA NVDebug工具存在漏洞，攻击者可借此实现系统权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5) |
+| 3 | RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) |
+| 4 | 新型HybridPetya恶意软件利用UEFI漏洞绕过老旧系统的安全启动机制 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12) |
+| 5 | 开源｜如何通过AI挖掘浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff](https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff) |
+| 2 | 网络安全运营运维 今天上传文件列表 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7) |
+| 3 | 【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274) |
 
 
 ## 📁 归档路径
@@ -94,8 +116,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -104,5 +126,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-13 08:20:53*
+*生成时间: 2025-09-13 12:33:46*
 *报告工具: 微信文章安全归档系统*
