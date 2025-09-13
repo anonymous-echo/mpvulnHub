@@ -1,20 +1,22 @@
-# 2025-09-12 安全威胁态势报告
+# 2025-09-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 4篇
 - **攻击技术**: 4篇
-- **安全运营**: 2篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,15 +65,23 @@
 
 ### Doonsec
 
-- [攻击路径(4)：API安全风险导致敏感数据泄漏](https://mp.weixin.qq.com/s?__biz=MzI0NjA3Mzk2NQ==&mid=2247496268&idx=1&sn=9e4f2df172c1f4830a0b0817864c0305) (发布日期: 2025-09-12)
-- [辅助学员审计案例-php代码审计](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=1&sn=2feaf2786717c2c577fe0b5230cbc58f) (发布日期: 2025-09-12)
-- [从js逆向到sql注入waf绕过到net审计-edu证书漏洞](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18) (发布日期: 2025-09-12)
-- [空白页面引起的高危src漏洞-再次绕过](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a) (发布日期: 2025-09-12)
-- [深情版edu+src培训讲解(3000)](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=5&sn=8ce4e5a3c2dacc271588d16fc03a2cde) (发布日期: 2025-09-12)
-- [【高危漏洞预警】Zabbix代码执行漏洞（CVE-2025-27240）](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e) (发布日期: 2025-09-12)
-- [【高危AI漏洞预警】Visual Studio Code Agentic AI 命令注入漏洞 (CVE-2025-55319)](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4) (发布日期: 2025-09-12)
-- [【360漏洞云】邀您共度中秋，海量福利来袭！](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503819&idx=1&sn=0c6b04781d09473bfdc8314c6014cda9) (发布日期: 2025-09-12)
-- [从SSRF到命令执行惨案(转载)](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487159&idx=1&sn=22d3c97fed4c43c6ee06e8c4b1fb296e) (发布日期: 2025-09-12)
+- [Salesforce数据攻击潮原因曝光，西门子平台曝严重漏洞|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5) (发布日期: 2025-09-13)
+- [漏洞预警 | 快普M6 SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635) (发布日期: 2025-09-13)
+- [漏洞预警 | 西部数码NAS命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4) (发布日期: 2025-09-13)
+- [漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b) (发布日期: 2025-09-13)
+- [第三方供应链管控盲区及安全治理之道](https://mp.weixin.qq.com/s?__biz=MzkzNjkxOTEzNw==&mid=2247485149&idx=1&sn=75a77fc230eecf3109f7369d1e058b61) (发布日期: 2025-09-13)
+- [2025数据安全风险评估培训](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491781&idx=1&sn=a356e16ace6f8e1a43b8e795f17a9d98) (发布日期: 2025-09-13)
+- [【转载】共筑数据安全新篇章——2024年第一期数据安全产业赛事工作组成员单位交流会在京成功举办](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=1&sn=5823a2c7e5d423e03818bdba1d428a5f) (发布日期: 2025-09-13)
+- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业优秀案例评比赛金奖获得者-南方电网广东惠州供电局](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=2&sn=74204d45939fd5feb7827b117205aae6) (发布日期: 2025-09-13)
+- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛优胜奖获得者-安徽信息工程学院周竹阳](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=3&sn=154b38417a542e9bdb5e7ae6f7ddb4ca) (发布日期: 2025-09-13)
+- [【转载】2024数字中国创新大赛数据安全产业优秀案例评比赛金奖—基于实战驱动，向“新”而跃的数据安全人才培养探索与实践（上）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=4&sn=fdfd57020c3152eef3dc8bec6cb369c0) (发布日期: 2025-09-13)
+- [【转载】2024数字中国创新大赛数据安全产业优秀案例评比赛金奖—基于实战驱动，向“新”而跃的数据安全人才培养探索与实践（下）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=5&sn=96470ed69f10c8790c54e914953cdc41) (发布日期: 2025-09-13)
+- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛金奖获得者-肖嘉晔](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=6&sn=37b178ebe56b34c087a1323fa8c9e155) (发布日期: 2025-09-13)
+- [【转载】经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛金奖获得者-山东警察学院（皮蛋养老院队）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=7&sn=7ec115f32d8ce02787aa5c2a9dc5274b) (发布日期: 2025-09-13)
+- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛进步奖获得者-日出东方队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494072&idx=8&sn=40fdd6fe29fe4e864d13c006c79ebd0e) (发布日期: 2025-09-13)
+- [BYOD时代的双刃剑：移动安全风险管控的攻防博弈](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487505&idx=1&sn=7a8d40ae208638b2e137453f9d2969ac) (发布日期: 2025-09-13)
+- [消费者信用报告巨头  TransUnion 遭遇数据泄露，影响超过 440 万人](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493544&idx=1&sn=054db1b39430e6c1c91c549c30c694bf) (发布日期: 2025-09-13)
+- [谈谈数字经济下的数据安全问题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501612&idx=1&sn=c84cfc2e029103a09360a3b42a304aa9) (发布日期: 2025-09-13)
 
 
 ## 🎯 威胁详情分析
@@ -80,32 +90,36 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 从js逆向到sql注入waf绕过到net审计-edu证书漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18) |
-| 2 | 空白页面引起的高危src漏洞-再次绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a) |
-| 3 | 【高危漏洞预警】Zabbix代码执行漏洞（CVE-2025-27240） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e) |
-| 4 | 【高危AI漏洞预警】Visual Studio Code Agentic AI 命令注入漏洞 (CVE-2025-55319) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4) |
-| 5 | 【360漏洞云】邀您共度中秋，海量福利来袭！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503819&idx=1&sn=0c6b04781d09473bfdc8314c6014cda9](https://mp.weixin.qq.com/s?__biz=Mzg5MTc5Mzk2OA==&mid=2247503819&idx=1&sn=0c6b04781d09473bfdc8314c6014cda9) |
+| 1 | Salesforce数据攻击潮原因曝光，西门子平台曝严重漏洞|一周特辑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5) |
+| 2 | 漏洞预警 | 快普M6 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635) |
+| 3 | 漏洞预警 | 西部数码NAS命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4) |
+| 4 | 漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 从js逆向到sql注入waf绕过到net审计-edu证书漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=3&sn=fb64bc089e6564478be02ce6624fdb18) |
-| 2 | 【高危漏洞预警】Zabbix代码执行漏洞（CVE-2025-27240） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=1&sn=e99569970118236db564f31e2c43f93e) |
-| 3 | 【高危AI漏洞预警】Visual Studio Code Agentic AI 命令注入漏洞 (CVE-2025-55319) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490733&idx=2&sn=a2652b6dd020b561f212a143eaa4e0f4) |
-| 4 | 从SSRF到命令执行惨案(转载) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487159&idx=1&sn=22d3c97fed4c43c6ee06e8c4b1fb296e](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487159&idx=1&sn=22d3c97fed4c43c6ee06e8c4b1fb296e) |
+| 1 | Salesforce数据攻击潮原因曝光，西门子平台曝严重漏洞|一周特辑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651135533&idx=1&sn=917214a9f02bac857cea7c28eaf762f5) |
+| 2 | 漏洞预警 | 快普M6 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=1&sn=dcf013dfc23d9ee7be6d65fe11247635) |
+| 3 | 漏洞预警 | 西部数码NAS命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=2&sn=5ade6abb6517ccb7a86118b0d50e2de4) |
+| 4 | 漏洞预警 | 索贝融合媒体内容管理平台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494421&idx=3&sn=f23a4d24dbd49de549ed41895e515c4b) |
 
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 空白页面引起的高危src漏洞-再次绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=4&sn=51d44c217dda3d0d6d77a41c2fcd0f5a) |
-| 2 | 深情版edu+src培训讲解(3000) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=5&sn=8ce4e5a3c2dacc271588d16fc03a2cde](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494284&idx=5&sn=8ce4e5a3c2dacc271588d16fc03a2cde) |
+| 1 | 消费者信用报告巨头  TransUnion 遭遇数据泄露，影响超过 440 万人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493544&idx=1&sn=054db1b39430e6c1c91c549c30c694bf](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493544&idx=1&sn=054db1b39430e6c1c91c549c30c694bf) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 第三方供应链管控盲区及安全治理之道 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjkxOTEzNw==&mid=2247485149&idx=1&sn=75a77fc230eecf3109f7369d1e058b61](https://mp.weixin.qq.com/s?__biz=MzkzNjkxOTEzNw==&mid=2247485149&idx=1&sn=75a77fc230eecf3109f7369d1e058b61) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W37/2025-09-12/`
+文章已归档到: `doc/2025/2025-09/2025-W37/2025-09-13/`
 
 ## 🔗 数据源说明
 
@@ -116,7 +130,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -126,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-12 16:19:51*
+*生成时间: 2025-09-13 01:17:18*
 *报告工具: 微信文章安全归档系统*
