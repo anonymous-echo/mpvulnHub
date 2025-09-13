@@ -2,23 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 16篇
-  - ChainReactors: 1篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **威胁情报**: 3篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **应用漏洞**: 2篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -68,26 +62,12 @@
 
 ### Doonsec
 
-- [我是32岁网络安全工程师，劝告准备学…](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247485713&idx=1&sn=3b35416111857612f33b0cc57d94f845) (发布日期: 2025-09-13)
-- [【报告】2024年度网络安全漏洞态势威胁研究报告](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488271&idx=1&sn=8ac81a595f8ecf0e990dddfae29f6e4a) (发布日期: 2025-09-13)
-- [CVE-2025-8088 WinRAR 概念验证（PoC 漏洞利用)](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487300&idx=1&sn=92e42aed3546e9e6c8b2944f7849128e) (发布日期: 2025-09-13)
-- [安天AVL SDK反病毒引擎升级通告（20250913）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212438&idx=1&sn=c056826f7c7d3686d9e37efea652fb57) (发布日期: 2025-09-13)
-- [实战案例 | Edusrc三个985证书站漏洞案例](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61) (发布日期: 2025-09-13)
-- [上汽通用五菱：智能网联汽车CAN总线信息安全测试方法](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627338&idx=1&sn=fedf6bb82b1e566609d11e9baacb72e6) (发布日期: 2025-09-13)
-- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627338&idx=2&sn=9a90ed9db29021ab7b038eb03e615737) (发布日期: 2025-09-13)
-- [一款漏洞扫描神器OKSCAN非同凡响](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492013&idx=1&sn=e7e2062377c89453481ddfc7e52df8b7) (发布日期: 2025-09-13)
-- [2025年企业勒索病毒演练指南](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484598&idx=1&sn=77f066e8a07e88ee8b833215fd48716d) (发布日期: 2025-09-13)
-- [VigilantX：高效的被动式XSS漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484802&idx=1&sn=d2ed684002abf7b9065622ce2ca408d0) (发布日期: 2025-09-13)
-- [商用密码测评 | 网络与通信安全合规性改造与测评解析](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485317&idx=1&sn=06028fef5da05cd3dc1b30c3650c33d9) (发布日期: 2025-09-13)
-- [新型APT组织\"嘈杂熊\"针对国家能源部门发起网络间谍活动](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=2&sn=0b298353bd2fc7685d8ab7922d6d89cd) (发布日期: 2025-09-13)
-- [虚假PDF编辑器暗藏TamperedChef信息窃取恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=3&sn=a0be6bfd273ac35705df0fe87d246a83) (发布日期: 2025-09-13)
-- [【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=4&sn=103231336dac19a7505efa353be75416) (发布日期: 2025-09-13)
-- [微软又爆猛料！CVSS 10.0神级漏洞现身，你的服务器还好吗？](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901343&idx=1&sn=df38d60ecd09d972ea6e5638ca279790) (发布日期: 2025-09-13)
-- [JWT可爆破/未验证签名导致越权&加密为null导致不验证签名越权漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496607&idx=1&sn=99cf0a1fd63052d6d09c643467991821) (发布日期: 2025-09-13)
-
-### ChainReactors
-
-- [ ] [安天移动近期威胁情报盘点（8月27日-9月12日 ）](https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547386&idx=1&sn=462a44224cff95a243a7a61103224689) (发布日期: 2025-09-13)
+- [php反序列化之字符逃逸题目](https://mp.weixin.qq.com/s?__biz=Mzg5MzUzMDQ1NA==&mid=2247484987&idx=1&sn=33f3dd316e71c3bd41280b0f6b2f727f) (发布日期: 2025-09-13)
+- [【好靶场逻辑漏洞】优惠卷只能领取一次？你OUT了](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166) (发布日期: 2025-09-13)
+- [新型 HybridPetya 勒索软件可绕过 UEFI 安全启动](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502809&idx=1&sn=6573586ff80dbbbdf85a08770286eff9) (发布日期: 2025-09-13)
+- [某 oa 1day分析](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8) (发布日期: 2025-09-13)
+- [【红队思路】COM接口processChain断链](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484561&idx=1&sn=0d08073a657c3b5811fbb86e877685a5) (发布日期: 2025-09-13)
+- [存储桶配置不当的漏洞挖掘：以某EDU证书站为例](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8) (发布日期: 2025-09-13)
 
 
 ## 🎯 威胁详情分析
@@ -96,40 +76,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【报告】2024年度网络安全漏洞态势威胁研究报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488271&idx=1&sn=8ac81a595f8ecf0e990dddfae29f6e4a](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488271&idx=1&sn=8ac81a595f8ecf0e990dddfae29f6e4a) |
-| 2 | CVE-2025-8088 WinRAR 概念验证（PoC 漏洞利用) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487300&idx=1&sn=92e42aed3546e9e6c8b2944f7849128e](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487300&idx=1&sn=92e42aed3546e9e6c8b2944f7849128e) |
-| 3 | 实战案例 | Edusrc三个985证书站漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61) |
-| 4 | 一款漏洞扫描神器OKSCAN非同凡响 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492013&idx=1&sn=e7e2062377c89453481ddfc7e52df8b7](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492013&idx=1&sn=e7e2062377c89453481ddfc7e52df8b7) |
-| 5 | VigilantX：高效的被动式XSS漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484802&idx=1&sn=d2ed684002abf7b9065622ce2ca408d0](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484802&idx=1&sn=d2ed684002abf7b9065622ce2ca408d0) |
-| 6 | 【高危漏洞预警】SAP NetWeaver Java反序列化漏洞CVE-2025-42944 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=4&sn=103231336dac19a7505efa353be75416](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=4&sn=103231336dac19a7505efa353be75416) |
-| 7 | 微软又爆猛料！CVSS 10.0神级漏洞现身，你的服务器还好吗？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901343&idx=1&sn=df38d60ecd09d972ea6e5638ca279790](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901343&idx=1&sn=df38d60ecd09d972ea6e5638ca279790) |
-| 8 | JWT可爆破/未验证签名导致越权&加密为null导致不验证签名越权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496607&idx=1&sn=99cf0a1fd63052d6d09c643467991821](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496607&idx=1&sn=99cf0a1fd63052d6d09c643467991821) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | VigilantX：高效的被动式XSS漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484802&idx=1&sn=d2ed684002abf7b9065622ce2ca408d0](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247484802&idx=1&sn=d2ed684002abf7b9065622ce2ca408d0) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2025年企业勒索病毒演练指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484598&idx=1&sn=77f066e8a07e88ee8b833215fd48716d](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484598&idx=1&sn=77f066e8a07e88ee8b833215fd48716d) |
-| 2 | 新型APT组织\"嘈杂熊\"针对国家能源部门发起网络间谍活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=2&sn=0b298353bd2fc7685d8ab7922d6d89cd](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612309&idx=2&sn=0b298353bd2fc7685d8ab7922d6d89cd) |
-| 3 |  ] [安天移动近期威胁情报盘点（8月27日-9月12日 ） | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547386&idx=1&sn=462a44224cff95a243a7a61103224689](https://mp.weixin.qq.com/s?__biz=Mzk0NDM1MDkyNw==&mid=2247547386&idx=1&sn=462a44224cff95a243a7a61103224689) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 实战案例 | Edusrc三个985证书站漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488373&idx=1&sn=8ac40123ec44e9e4baf489a39a297a61) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627338&idx=2&sn=9a90ed9db29021ab7b038eb03e615737](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627338&idx=2&sn=9a90ed9db29021ab7b038eb03e615737) |
+| 1 | 【好靶场逻辑漏洞】优惠卷只能领取一次？你OUT了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486149&idx=1&sn=0b65216060cc21c4de2f7e50c4987166) |
+| 2 | 某 oa 1day分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486082&idx=1&sn=112342e8d2dc8f70634c6df7c9ea37c8) |
+| 3 | 存储桶配置不当的漏洞挖掘：以某EDU证书站为例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552019&idx=1&sn=0c36e6520861e7cc80a71fa05eb3d2d8) |
 
 
 ## 📁 归档路径
@@ -145,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -155,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-13 04:20:29*
+*生成时间: 2025-09-13 08:20:53*
 *报告工具: 微信文章安全归档系统*
