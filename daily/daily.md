@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **安全运营**: 3篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 4篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
+- **Web安全**: 2篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +65,18 @@
 
 ### Doonsec
 
-- [Microsoft Windows Defender 存在防火墙允许权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002) (发布日期: 2025-09-13)
-- [NVIDIA NVDebug工具存在漏洞，攻击者可借此实现系统权限提升](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5) (发布日期: 2025-09-13)
-- [【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！](https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff) (发布日期: 2025-09-13)
-- [互联网幽灵：Carna僵尸网络的秘密普查](https://mp.weixin.qq.com/s?__biz=MzkxMDc0NjM0Mg==&mid=2247484393&idx=1&sn=1770a5ffb066a64dd91585f98b8231e8) (发布日期: 2025-09-13)
-- [SDL序列课程-第55篇-安全需求-开发接口需求-设计接口需要有身份认证，对来源授权，只允许授权的IP访问](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484900&idx=1&sn=fed7ebe37375fe11627ed88217583799) (发布日期: 2025-09-13)
-- [RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) (发布日期: 2025-09-13)
-- [新型HybridPetya恶意软件利用UEFI漏洞绕过老旧系统的安全启动机制](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12) (发布日期: 2025-09-13)
-- [网络安全运营运维 今天上传文件列表](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7) (发布日期: 2025-09-13)
-- [【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274) (发布日期: 2025-09-13)
-- [20种渗透测试最常见的攻击手法详细图解！](https://mp.weixin.qq.com/s?__biz=MzkzODU5MTkyNQ==&mid=2247486140&idx=1&sn=bfd82bc3faee53c78c4469f3c5956ceb) (发布日期: 2025-09-13)
-- [开源｜如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5) (发布日期: 2025-09-13)
+- [【java代码审计】你来你也行](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492168&idx=1&sn=e658c423b5745863533f09944ca61b6a) (发布日期: 2025-09-13)
+- [别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)）](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) (发布日期: 2025-09-13)
+- [0057.权限提升和 CSRF 绕过允许攻击者无权限更改团队角色](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691003&idx=1&sn=02e3c64a3321a03caebb83526af1993a) (发布日期: 2025-09-13)
+- [AI红队，PaloAlto的观点和实践](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486313&idx=1&sn=6814a576d0f6cf66896982a9f6f8ce90) (发布日期: 2025-09-13)
+- [ETH Zurich 披露 VMSCAPE 漏洞：AMD 与 Intel CPU 存在虚拟化隔离缺陷](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54) (发布日期: 2025-09-13)
+- [代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) (发布日期: 2025-09-13)
+- [新型 HybridPetya 勒索软件可绕过 UEFI 安全启动](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=1&sn=c76ff821d87412ab83ae5dc1ed53e033) (发布日期: 2025-09-13)
+- [新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30) (发布日期: 2025-09-13)
+- [CVE-2025-57833｜Django SQL 注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) (发布日期: 2025-09-13)
+- [CVE-2025-53772｜Web 部署远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) (发布日期: 2025-09-13)
+- [开源｜如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619) (发布日期: 2025-09-13)
+- [平安SRC线下沙龙-9.19](https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0) (发布日期: 2025-09-13)
 
 
 ## 🎯 威胁详情分析
@@ -82,25 +85,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Microsoft Windows Defender 存在防火墙允许权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=1&sn=f994f7e1803d0b49b72c01a675517002) |
-| 2 | NVIDIA NVDebug工具存在漏洞，攻击者可借此实现系统权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096503&idx=2&sn=514494383b92b3a0edbe15d65cf90ab5) |
-| 3 | RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) |
-| 4 | 新型HybridPetya恶意软件利用UEFI漏洞绕过老旧系统的安全启动机制 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327564&idx=3&sn=fc5c50e3e2eb476c5df7d47b09176a12) |
-| 5 | 开源｜如何通过AI挖掘浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5](https://mp.weixin.qq.com/s?__biz=MzkyMzI3OTY4Mg==&mid=2247486975&idx=1&sn=7d3b665a5a449a22058dfba09ffceac5) |
+| 1 | 别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) |
+| 2 | ETH Zurich 披露 VMSCAPE 漏洞：AMD 与 Intel CPU 存在虚拟化隔离缺陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54) |
+| 3 | 代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) |
+| 4 | 新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30) |
+| 5 | CVE-2025-57833｜Django SQL 注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) |
+| 6 | CVE-2025-53772｜Web 部署远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) |
+| 7 | 开源｜如何通过AI挖掘浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498181&idx=1&sn=1f1fa5d85568bd16a7758a1802a0b003) |
+| 1 | 别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) |
+| 2 | 代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) |
+| 3 | CVE-2025-57833｜Django SQL 注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) |
+| 4 | CVE-2025-53772｜Web 部署远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff](https://mp.weixin.qq.com/s?__biz=Mzg5MjkwODc4MA==&mid=2247487241&idx=1&sn=e84d24b6746a6f72d5842dc1a34a35ff) |
-| 2 | 网络安全运营运维 今天上传文件列表 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291318&idx=2&sn=ee258a5593e5204006de9764186b54d7) |
-| 3 | 【AI 砺刃，实战攻防】平安SRC白帽子沙龙第十期，重磅来袭！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145613&idx=1&sn=8816d88e11726671e63c5ad386e23274) |
+| 1 | 平安SRC线下沙龙-9.19 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0](https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0) |
 
 
 ## 📁 归档路径
@@ -116,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -126,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-13 12:33:46*
+*生成时间: 2025-09-13 16:19:30*
 *报告工具: 微信文章安全归档系统*
