@@ -1,22 +1,19 @@
-# 2025-09-13 安全威胁态势报告
+# 2025-09-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 4篇
-- **安全运营**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 2篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,53 +62,35 @@
 
 ### Doonsec
 
-- [【java代码审计】你来你也行](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492168&idx=1&sn=e658c423b5745863533f09944ca61b6a) (发布日期: 2025-09-13)
-- [别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)）](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) (发布日期: 2025-09-13)
-- [0057.权限提升和 CSRF 绕过允许攻击者无权限更改团队角色](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691003&idx=1&sn=02e3c64a3321a03caebb83526af1993a) (发布日期: 2025-09-13)
-- [AI红队，PaloAlto的观点和实践](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486313&idx=1&sn=6814a576d0f6cf66896982a9f6f8ce90) (发布日期: 2025-09-13)
-- [ETH Zurich 披露 VMSCAPE 漏洞：AMD 与 Intel CPU 存在虚拟化隔离缺陷](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54) (发布日期: 2025-09-13)
-- [代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) (发布日期: 2025-09-13)
-- [新型 HybridPetya 勒索软件可绕过 UEFI 安全启动](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=1&sn=c76ff821d87412ab83ae5dc1ed53e033) (发布日期: 2025-09-13)
-- [新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30) (发布日期: 2025-09-13)
-- [CVE-2025-57833｜Django SQL 注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) (发布日期: 2025-09-13)
-- [CVE-2025-53772｜Web 部署远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) (发布日期: 2025-09-13)
-- [开源｜如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619) (发布日期: 2025-09-13)
-- [平安SRC线下沙龙-9.19](https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0) (发布日期: 2025-09-13)
+- [警告！这个挖矿木马正在全网扫描，你的Docker可能就是下一个“肉鸡”！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901344&idx=1&sn=82aa5f4784d64eeddd18df6bc67a9bbd) (发布日期: 2025-09-14)
+- [你的U盘可能正在自动复制间谍软件！X-Force披露最新SnakeDiskUSB蠕虫](https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89) (发布日期: 2025-09-14)
+- [【转载】关于举办第二届数据安全大赛暨首届“数信杯”数据安全大赛数据安全人才积分争夺赛半决赛的通知](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=1&sn=f8993532dbb1b9c8ca335a5e08fc266d) (发布日期: 2025-09-14)
+- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛银奖获得者-中国联通轩辕战队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=2&sn=4faf8d69ea9216dc173e27d34671fb39) (发布日期: 2025-09-14)
+- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛金奖获得者云网安全实验室战队（中国电信研究院）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=3&sn=b3d4cd065bc391155459506ba4fca9d1) (发布日期: 2025-09-14)
+- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-付芖钧（北京东方通网信科技有限公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=4&sn=0e79a3f53fb5d9b00d123e365fbf43f2) (发布日期: 2025-09-14)
+- [【转载】经验分享|“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-曹锦程（北京天融信教育科技有限公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=5&sn=33f30f52904044e4845e1a09a8bf8897) (发布日期: 2025-09-14)
+- [【转载】经验分享2024数字中国创新大赛数字安全赛道数据安全产业人才积分争夺赛银奖获得者南方电网广西电网有限责任公司数智运营中心](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=6&sn=0f759b3f26912fc89a3e7aa9f1286154) (发布日期: 2025-09-14)
+- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-马洁（中国电信股份有限公司广东分公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=7&sn=fe38c83c1fa5f3dd1a86167e6f56eb2d) (发布日期: 2025-09-14)
+- [【转载】优秀案例|2024数字中国创新大赛数据安全产业优秀案例评比赛金奖—基于“2+4”模式的数据安全人才培养体系](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=8&sn=e10d99f62dbed0ad8f7dad196a97b40c) (发布日期: 2025-09-14)
+- [AI渗透测试工具\"Villager\"整合Kali Linux工具与DeepSeek AI实现自动化攻击](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523709&idx=1&sn=f3f654be6f3da932ecc70f94754f23c5) (发布日期: 2025-09-14)
+- [国外：一周网络安全态势回顾之第116期，千起XSS攻击90万美元损失](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212) (发布日期: 2025-09-14)
+- [Neurocomputing 2025 | 深度学习与预训练技术在加密流量分类中的应用：一份全面的综述](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485372&idx=1&sn=4ce7740ba72f79addb9d91aec2a0385d) (发布日期: 2025-09-14)
+- [质疑→真香！CISP-PTE如何精准赋能国内安全职业路？](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518601&idx=1&sn=c3c5848ecaa1631b21520dfc35118d9a) (发布日期: 2025-09-14)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) |
-| 2 | ETH Zurich 披露 VMSCAPE 漏洞：AMD 与 Intel CPU 存在虚拟化隔离缺陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486703&idx=1&sn=594fa79e59dbc4e0f2cbb12270ff9b54) |
-| 3 | 代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) |
-| 4 | 新的 HTTP/2“MadeYouReset”漏洞可引发大规模 DoS 攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532718&idx=2&sn=73699dac09767c3b8b381f5b78ebbd30) |
-| 5 | CVE-2025-57833｜Django SQL 注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) |
-| 6 | CVE-2025-53772｜Web 部署远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) |
-| 7 | 开源｜如何通过AI挖掘浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494221&idx=1&sn=8d6c7ec04587ea17b056d42cd9d1d619) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 别让 JDBC 成为后门：DataEase 多处 RCE 漏洞解读与加固清单（CVE-2025-(53004-53006)） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484537&idx=1&sn=160b48e8468b839e4ad419703f5aa3e2) |
-| 2 | 代码审计-PHP专题&原生开发&SQL注入&1day分析构造&正则搜索&语句执行监控&功能定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a](https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485685&idx=1&sn=88fd95d06126e745aa0786d47e56855a) |
-| 3 | CVE-2025-57833｜Django SQL 注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=1&sn=794720918704c683160b7a21be5b7abb) |
-| 4 | CVE-2025-53772｜Web 部署远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486170&idx=2&sn=bb1988be1ba6abd51bd408ef178db488) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 平安SRC线下沙龙-9.19 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0](https://mp.weixin.qq.com/s?__biz=MzkwMDQ4MDU2MA==&mid=2247484443&idx=1&sn=4dd4144004df4f6b02a40d0a011424c0) |
+| 1 | 你的U盘可能正在自动复制间谍软件！X-Force披露最新SnakeDiskUSB蠕虫 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89](https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89) |
+| 2 | 国外：一周网络安全态势回顾之第116期，千起XSS攻击90万美元损失 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W37/2025-09-13/`
+文章已归档到: `doc/2025/2025-09/2025-W37/2025-09-14/`
 
 ## 🔗 数据源说明
 
@@ -122,8 +101,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +111,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-13 16:19:30*
+*生成时间: 2025-09-14 01:27:58*
 *报告工具: 微信文章安全归档系统*
