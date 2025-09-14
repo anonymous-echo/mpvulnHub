@@ -2,18 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 10篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 1篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,30 +67,49 @@
 
 ### Doonsec
 
-- [警告！这个挖矿木马正在全网扫描，你的Docker可能就是下一个“肉鸡”！](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901344&idx=1&sn=82aa5f4784d64eeddd18df6bc67a9bbd) (发布日期: 2025-09-14)
-- [你的U盘可能正在自动复制间谍软件！X-Force披露最新SnakeDiskUSB蠕虫](https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89) (发布日期: 2025-09-14)
-- [【转载】关于举办第二届数据安全大赛暨首届“数信杯”数据安全大赛数据安全人才积分争夺赛半决赛的通知](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=1&sn=f8993532dbb1b9c8ca335a5e08fc266d) (发布日期: 2025-09-14)
-- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛银奖获得者-中国联通轩辕战队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=2&sn=4faf8d69ea9216dc173e27d34671fb39) (发布日期: 2025-09-14)
-- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛金奖获得者云网安全实验室战队（中国电信研究院）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=3&sn=b3d4cd065bc391155459506ba4fca9d1) (发布日期: 2025-09-14)
-- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-付芖钧（北京东方通网信科技有限公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=4&sn=0e79a3f53fb5d9b00d123e365fbf43f2) (发布日期: 2025-09-14)
-- [【转载】经验分享|“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-曹锦程（北京天融信教育科技有限公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=5&sn=33f30f52904044e4845e1a09a8bf8897) (发布日期: 2025-09-14)
-- [【转载】经验分享2024数字中国创新大赛数字安全赛道数据安全产业人才积分争夺赛银奖获得者南方电网广西电网有限责任公司数智运营中心](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=6&sn=0f759b3f26912fc89a3e7aa9f1286154) (发布日期: 2025-09-14)
-- [【转载】经验分享“2024数字中国创新大赛”数字安全赛道数据安全产业讲师选拔赛银奖获得者-马洁（中国电信股份有限公司广东分公司）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=7&sn=fe38c83c1fa5f3dd1a86167e6f56eb2d) (发布日期: 2025-09-14)
-- [【转载】优秀案例|2024数字中国创新大赛数据安全产业优秀案例评比赛金奖—基于“2+4”模式的数据安全人才培养体系](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494073&idx=8&sn=e10d99f62dbed0ad8f7dad196a97b40c) (发布日期: 2025-09-14)
-- [AI渗透测试工具\"Villager\"整合Kali Linux工具与DeepSeek AI实现自动化攻击](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247523709&idx=1&sn=f3f654be6f3da932ecc70f94754f23c5) (发布日期: 2025-09-14)
-- [国外：一周网络安全态势回顾之第116期，千起XSS攻击90万美元损失](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212) (发布日期: 2025-09-14)
-- [Neurocomputing 2025 | 深度学习与预训练技术在加密流量分类中的应用：一份全面的综述](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485372&idx=1&sn=4ce7740ba72f79addb9d91aec2a0385d) (发布日期: 2025-09-14)
-- [质疑→真香！CISP-PTE如何精准赋能国内安全职业路？](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518601&idx=1&sn=c3c5848ecaa1631b21520dfc35118d9a) (发布日期: 2025-09-14)
+- [JDK高版本下的JNDI注入](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552036&idx=1&sn=46a91cc4af2f25adf221d4d2521153c1) (发布日期: 2025-09-14)
+- [恶意软件拦截率高达99.9%？实现秒级精准防护？现在就来免费体验！](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492015&idx=1&sn=b85664d89691597a113fd2f41e420e3a) (发布日期: 2025-09-14)
+- [SRC挖洞神器｜FakeCryptoJS加解密逆向分析工具，自动化获取密钥、加密方式](https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485592&idx=1&sn=b1122df923286e65010c7604e4ccdf10) (发布日期: 2025-09-14)
+- [企业如何构筑社工钓鱼攻击的\"防火墙\"](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484603&idx=1&sn=184f8157cb5a05a2447d501c47b41895) (发布日期: 2025-09-14)
+- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627355&idx=2&sn=2a8dd6bad1acb99d30fbb6043e206a16) (发布日期: 2025-09-14)
+- [C&C++代码安全再升级(用OLLVM给so加上字符串加密保护)](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247498532&idx=2&sn=15a874e4077146e580e5e454b9d2c207) (发布日期: 2025-09-14)
+- [.NET内网实战： 运行平台下 IIS 进程身份的安全剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=1&sn=57c972e53b30bd2fadedd9b198467f12) (发布日期: 2025-09-14)
+- [.NET 本地提权，通过系统进程令牌模拟实现权限提升](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=3&sn=ecc7e1335edaad28a4adcb7860f88998) (发布日期: 2025-09-14)
+- [朝鲜黑客组织扩充攻击武器库：新增Rustonotto后门及两大窃密程序](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612310&idx=1&sn=0bf5c50a44d192b074381f52f7d12997) (发布日期: 2025-09-14)
+- [这50个业务逻辑漏洞，能掌握的覆盖90日常工作！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612310&idx=3&sn=37afbc4ba45c1cac8c7068e16350e977) (发布日期: 2025-09-14)
+
+### ChainReactors
+
+- [ ] [内网穿透|无需域名的十多款内网穿透方案选择](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487865&idx=1&sn=819064b194168314d0fa3b8b0e392ce6) (发布日期: 2025-09-14)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 这50个业务逻辑漏洞，能掌握的覆盖90日常工作！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612310&idx=3&sn=37afbc4ba45c1cac8c7068e16350e977](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612310&idx=3&sn=37afbc4ba45c1cac8c7068e16350e977) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 你的U盘可能正在自动复制间谍软件！X-Force披露最新SnakeDiskUSB蠕虫 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89](https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484626&idx=1&sn=0ae42a20d536f69b7bb5aacb6c6b3c89) |
-| 2 | 国外：一周网络安全态势回顾之第116期，千起XSS攻击90万美元损失 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501621&idx=1&sn=d0a691e4739369b262cb7d850714f212) |
+| 1 | JDK高版本下的JNDI注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552036&idx=1&sn=46a91cc4af2f25adf221d4d2521153c1](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552036&idx=1&sn=46a91cc4af2f25adf221d4d2521153c1) |
+| 2 | .NET内网实战： 运行平台下 IIS 进程身份的安全剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=1&sn=57c972e53b30bd2fadedd9b198467f12](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500582&idx=1&sn=57c972e53b30bd2fadedd9b198467f12) |
+| 3 |  ] [内网穿透|无需域名的十多款内网穿透方案选择 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487865&idx=1&sn=819064b194168314d0fa3b8b0e392ce6](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487865&idx=1&sn=819064b194168314d0fa3b8b0e392ce6) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC挖洞神器｜FakeCryptoJS加解密逆向分析工具，自动化获取密钥、加密方式 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485592&idx=1&sn=b1122df923286e65010c7604e4ccdf10](https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485592&idx=1&sn=b1122df923286e65010c7604e4ccdf10) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627355&idx=2&sn=2a8dd6bad1acb99d30fbb6043e206a16](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627355&idx=2&sn=2a8dd6bad1acb99d30fbb6043e206a16) |
 
 
 ## 📁 归档路径
@@ -101,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -111,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-14 01:27:58*
+*生成时间: 2025-09-14 04:21:08*
 *报告工具: 微信文章安全归档系统*
