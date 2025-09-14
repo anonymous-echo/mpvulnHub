@@ -2,22 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 4篇
-- **信息泄露**: 3篇
-- **安全运营**: 2篇
-- **供应链**: 1篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,28 +62,9 @@
 
 ### Doonsec
 
-- [美国保险巨头Farmers Insurance 遭 Salesforce 攻击导致数据泄露，影响 110 万人](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b) (发布日期: 2025-09-14)
-- [我的2025年企业src挖洞之路分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496799&idx=1&sn=431a04a75b9fc3479bf65a8fb01e85cc) (发布日期: 2025-09-14)
-- [【免杀基础】进程创建与早鸟APC注入（实战某擎）](https://mp.weixin.qq.com/s?__biz=MjM5OTE0NjQ3OQ==&mid=2247484053&idx=1&sn=7d29f2c8970b6c4483d46c460bc8b53b) (发布日期: 2025-09-14)
-- [【安全圈】上海员工电脑被装木马，不法分子贩卖远程盗取的机密客户信息！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=1&sn=6a45c9e47f6572358123bce75322b233) (发布日期: 2025-09-14)
-- [【安全圈】Zabbix代码执行漏洞（CVE-2025-27240）](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1) (发布日期: 2025-09-14)
-- [【安全圈】流媒体服务 Plex 确认部分客户数据泄露，建议用户更换密码](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=3&sn=49705e511c26ee99677f1e95c84614b8) (发布日期: 2025-09-14)
-- [SaaS史上最严重供应链攻击：Salesloft Drift数据泄露事件深度剖析](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327582&idx=3&sn=7bdd3a93b6981b4323de7e84848e0086) (发布日期: 2025-09-14)
-- [网络安全运营运维 今天上传9份智能运维PPT](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291383&idx=2&sn=46906d4f8a5f8553a3177354def1fd45) (发布日期: 2025-09-14)
-- [内网代理转发工具盘点](https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484605&idx=1&sn=82a699c0212f21a6487f2df26b7dcd2b) (发布日期: 2025-09-14)
-- [微软已紧急修补！新型HybridPetya勒索软件可绕过UEFI安全启动机制](https://mp.weixin.qq.com/s?__biz=MzkyMjcxNzE2MQ==&mid=2247484633&idx=1&sn=5f6236a6b8d7ee6883b1da41f2ddcb95) (发布日期: 2025-09-14)
-- [UCPD.sys再调查：拆解微软是如何把后门留在中国用户的电脑里](https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490343&idx=1&sn=b05faec8a89dabf76bbf7f11772bb833) (发布日期: 2025-09-14)
-- [如何通过AI挖掘浏览器漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498185&idx=1&sn=7f4997696fa4cbce0300a9208ccbf610) (发布日期: 2025-09-14)
-- [20种渗透测试最常见的攻击手法详细图解！](https://mp.weixin.qq.com/s?__biz=MzkzMzkyNTQ0Ng==&mid=2247484719&idx=1&sn=4ff952a3296f63d1c39729c92506c05c) (发布日期: 2025-09-14)
-- [一个功能强大的BurpSuite漏洞扫描与指纹识别插件](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574929&idx=1&sn=9069c295a6bba9caf8061294d4b8d16f) (发布日期: 2025-09-14)
-- [3.5W字！Web安全基础知识点大总结！（真不错）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574929&idx=2&sn=b55f60479cfd75907180fb4f08a4960b) (发布日期: 2025-09-14)
-- [2025黑灰产-反欺诈追踪与溯源分析赛道题解](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484108&idx=1&sn=e3139a8053e7a78ba9403f08bdde1691) (发布日期: 2025-09-14)
-- [知识星球 | 数据安全方面，境内和海外有什么区别？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643527&idx=1&sn=d59800f82ffde494dcfde5368d522d46) (发布日期: 2025-09-14)
-- [预告 | 倒计时3天！2025国家网络安全宣传周·政务信息系统安全管理与实践分论坛即将举办](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996332&idx=1&sn=83bd2630ab3eeaa1e55dbf4ab034cad4) (发布日期: 2025-09-14)
-- [【火绒安全周报】工信部：更新WinRAR/TP-Link 承认零日漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=1&sn=29dcf490820d57dfbae9d461b82e3084) (发布日期: 2025-09-14)
-- [UCPD.sys再调查：拆解微软是如何把后门留在中国用户的电脑里](https://mp.weixin.qq.com/s?__biz=MzI3Njc1MjcxMg==&mid=2247496347&idx=1&sn=b99104eaafdd7f26340bb537526612d6) (发布日期: 2025-09-14)
-- [上海网络安全岗位热招｜安全咨询、渗透测试、数据安全等多方向急缺人才！](https://mp.weixin.qq.com/s?__biz=MzIyNDA2OTM2Nw==&mid=2247484955&idx=1&sn=16c6e501173d5ac276fea07af3851c3f) (发布日期: 2025-09-14)
-- [吃瓜｜国产Cobalt Strike：Cyberspike Villager,AI驱动渗透测试框架](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502832&idx=1&sn=e99d388ae964d5ce61f12bd5d71adbd3) (发布日期: 2025-09-14)
+- [JAVA-SQL注入审计-基础](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484707&idx=1&sn=0ae59338faa2918ba28b8dc32b05b0b6) (发布日期: 2025-09-14)
+- [预警：大华智能物联管理平台GetClassValue.jsp接口存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936) (发布日期: 2025-09-14)
+- [众测下的SQL注入挖掘](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484800&idx=1&sn=07fffbbdcf5677a406d151e38edbc3ce) (发布日期: 2025-09-14)
 
 
 ## 🎯 威胁详情分析
@@ -96,40 +73,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】Zabbix代码执行漏洞（CVE-2025-27240） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1) |
-| 2 | 如何通过AI挖掘浏览器漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498185&idx=1&sn=7f4997696fa4cbce0300a9208ccbf610](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498185&idx=1&sn=7f4997696fa4cbce0300a9208ccbf610) |
-| 3 | 一个功能强大的BurpSuite漏洞扫描与指纹识别插件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574929&idx=1&sn=9069c295a6bba9caf8061294d4b8d16f](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247574929&idx=1&sn=9069c295a6bba9caf8061294d4b8d16f) |
-| 4 | 【火绒安全周报】工信部：更新WinRAR/TP-Link 承认零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=1&sn=29dcf490820d57dfbae9d461b82e3084](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526437&idx=1&sn=29dcf490820d57dfbae9d461b82e3084) |
+| 1 | 预警：大华智能物联管理平台GetClassValue.jsp接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 美国保险巨头Farmers Insurance 遭 Salesforce 攻击导致数据泄露，影响 110 万人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b) |
-| 2 | 【免杀基础】进程创建与早鸟APC注入（实战某擎） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTE0NjQ3OQ==&mid=2247484053&idx=1&sn=7d29f2c8970b6c4483d46c460bc8b53b](https://mp.weixin.qq.com/s?__biz=MjM5OTE0NjQ3OQ==&mid=2247484053&idx=1&sn=7d29f2c8970b6c4483d46c460bc8b53b) |
-| 3 | 【安全圈】Zabbix代码执行漏洞（CVE-2025-27240） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=2&sn=cfafef0e8f5d3b121b52cd5b5bda2de1) |
-| 4 | 内网代理转发工具盘点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484605&idx=1&sn=82a699c0212f21a6487f2df26b7dcd2b](https://mp.weixin.qq.com/s?__biz=MzkxNTY4NTQwMg==&mid=2247484605&idx=1&sn=82a699c0212f21a6487f2df26b7dcd2b) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 我的2025年企业src挖洞之路分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496799&idx=1&sn=431a04a75b9fc3479bf65a8fb01e85cc](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496799&idx=1&sn=431a04a75b9fc3479bf65a8fb01e85cc) |
-| 2 | 网络安全运营运维 今天上传9份智能运维PPT | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291383&idx=2&sn=46906d4f8a5f8553a3177354def1fd45](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291383&idx=2&sn=46906d4f8a5f8553a3177354def1fd45) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 美国保险巨头Farmers Insurance 遭 Salesforce 攻击导致数据泄露，影响 110 万人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493545&idx=1&sn=78b737a3e3c510ad39db1a4c3e4c954b) |
-| 2 | 【安全圈】流媒体服务 Plex 确认部分客户数据泄露，建议用户更换密码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=3&sn=49705e511c26ee99677f1e95c84614b8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071707&idx=3&sn=49705e511c26ee99677f1e95c84614b8) |
-| 3 | SaaS史上最严重供应链攻击：Salesloft Drift数据泄露事件深度剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327582&idx=3&sn=7bdd3a93b6981b4323de7e84848e0086](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327582&idx=3&sn=7bdd3a93b6981b4323de7e84848e0086) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SaaS史上最严重供应链攻击：Salesloft Drift数据泄露事件深度剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327582&idx=3&sn=7bdd3a93b6981b4323de7e84848e0086](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327582&idx=3&sn=7bdd3a93b6981b4323de7e84848e0086) |
+| 1 | JAVA-SQL注入审计-基础 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484707&idx=1&sn=0ae59338faa2918ba28b8dc32b05b0b6](https://mp.weixin.qq.com/s?__biz=Mzk1NzcxMTMyOQ==&mid=2247484707&idx=1&sn=0ae59338faa2918ba28b8dc32b05b0b6) |
+| 2 | 预警：大华智能物联管理平台GetClassValue.jsp接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489152&idx=1&sn=f2d981658d887c54ed0d4326e0099936) |
+| 3 | 众测下的SQL注入挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484800&idx=1&sn=07fffbbdcf5677a406d151e38edbc3ce](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484800&idx=1&sn=07fffbbdcf5677a406d151e38edbc3ce) |
 
 
 ## 📁 归档路径
@@ -145,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -155,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-14 12:33:20*
+*生成时间: 2025-09-14 16:19:16*
 *报告工具: 微信文章安全归档系统*
