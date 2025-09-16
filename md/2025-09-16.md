@@ -2,22 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 27
+- **总文章数**: 29
 - **数据源分布**:
-  - Doonsec: 26篇
-  - ChainReactors: 1篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
+- **漏洞利用**: 5篇
+- **威胁情报**: 3篇
 - **安全运营**: 2篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
 - **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,36 +67,35 @@
 
 ### Doonsec
 
-- [【好靶场】1 级：PHP代码审计CodeBase02](https://mp.weixin.qq.com/s?__biz=MzI1NDYyNjUyMw==&mid=2247485921&idx=1&sn=435d393d768a17475a8643f08c8ce61a) (发布日期: 2025-09-16)
-- [《数据安全国家标准体系（2025版）》《个人信息保护国家标准体系（2025版）》发布](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174522&idx=1&sn=4eaedc56f65fcc81d89ab0dd7c4f1a4b) (发布日期: 2025-09-16)
-- [某CMS最新版本鉴权绕过审计（0Day）](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486819&idx=1&sn=8eaa603fd4752d03bbd3234b42943b5f) (发布日期: 2025-09-16)
-- [免费代发招聘信息第36期：上海  渗透测试&安全运营](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492712&idx=1&sn=8df25ab88f47688231905ae295c528c5) (发布日期: 2025-09-16)
-- [【已复现】Flowise 任意文件读取漏洞(QVD-2025-35890)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503941&idx=1&sn=cebdea5b5a3b9ae48caf7cbc3c905852) (发布日期: 2025-09-16)
-- [最新发布：《人工智能安全治理框架》2.0版](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533530&idx=1&sn=376ce43a28a2de443cdb1a35a7ab8e2d) (发布日期: 2025-09-16)
-- [【前14篇免费】ISO/IEC 27701: 2019 标准详解与实施（120）6.11.2.8 系统安全测试](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247486784&idx=2&sn=cb8dc8f20fcda4cabda46599cd2e1d47) (发布日期: 2025-09-16)
-- [安全开发利器：企业级本地部署 AI 代码编辑工具](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523201&idx=1&sn=905ab99980114bd1d408a3d6a5d68518) (发布日期: 2025-09-16)
-- [全民守护，筑牢网络安全“防火墙”](https://mp.weixin.qq.com/s?__biz=MzU5MTIxNzg0Ng==&mid=2247488261&idx=1&sn=94b2ee694b0e846d78bfe5eb3a4f9e28) (发布日期: 2025-09-16)
-- [国内首次AI大模型众测结果揭晓——2025年人工智能大模型产品漏洞众测结果发布](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500504&idx=1&sn=9ff3e1df60418295456db10f77439c14) (发布日期: 2025-09-16)
-- [国家网络安全宣传周｜提高网络安全意识，这组官方海报值得收藏！](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247512053&idx=1&sn=be1df05bb7a7dc6e16b6ac9b08eb4c94) (发布日期: 2025-09-16)
-- [新型勒索软件 HybridPetya：复刻 NotPetya 破坏力，新增 UEFI 深度攻击](https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247487311&idx=1&sn=dd496315326f350e069c19a8176b591a) (发布日期: 2025-09-16)
-- [TikTok数据安全危机：一场全球博弈下的隐私保卫战](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484631&idx=1&sn=43dae00ef35f8b26758ce6f7f11831df) (发布日期: 2025-09-16)
-- [隐雾SRC第八期全面升级](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498743&idx=1&sn=7ac290a5ec7d7c9b6ab01256bee48a2a) (发布日期: 2025-09-16)
-- [阻止通过漏洞驱动利用(byovd)技术致盲安全软件](https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485391&idx=1&sn=d6b003bb825f096fea77d5cabb1a10d3) (发布日期: 2025-09-16)
-- [热门AI应用开发商曝敏感数据泄露，涉用户聊天内容、身份令牌等](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252533&idx=1&sn=c46c2b9bd4565d25245614590515753d) (发布日期: 2025-09-16)
-- [非典型GeoServer漏洞利用实战](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494491&idx=1&sn=26633db4e02577f28e72f56bfa3b5515) (发布日期: 2025-09-16)
-- [Spring 框架和 Spring 安全漏洞暴露授权绕过风险（CVE-2025-41248 和 CVE-2025-41249）](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484995&idx=1&sn=fba92955780414c080c938edc0e05ac6) (发布日期: 2025-09-16)
-- [【高级威胁追踪(APT)】深入分析“伪猎者”组织Github仓库加密载荷](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524703&idx=1&sn=ae3b7b320a640060a76f1163fbae7af1) (发布日期: 2025-09-16)
-- [《人工智能安全治理框架》2.0版正式发布](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524703&idx=2&sn=6fbf0b7c01223811f3c0d5ec86c3ec47) (发布日期: 2025-09-16)
-- [泽鹿安全荣获“安全之星——杰出汽车安全测试工具供应商”称号](https://mp.weixin.qq.com/s?__biz=Mzg5MjE1NzgzMw==&mid=2247490414&idx=1&sn=0109ca6a22debfdce5289fbc532b307c) (发布日期: 2025-09-16)
-- [特别关注 | 《国家网络安全事件报告管理办法》正式发布，迟报、漏报、瞒报安全事件将被重罚](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=1&sn=6bb17cfa8fa4aeafbc97fc6518fc3518) (发布日期: 2025-09-16)
-- [ChatGPT新增MCP工具支持存在安全隐患，攻击者可窃取邮件隐私数据|Google Drive漏洞可致云端文件遭全盘访问](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=2&sn=6b36f372d36293d4c58d6cf166b266e5) (发布日期: 2025-09-16)
-- [0day | 某在线拍卖系统代码审计](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=3&sn=ef2121390b5d29a757a94d5f7749fab3) (发布日期: 2025-09-16)
-- [【高危AI漏洞预警】Claude Code代理编程工具远程代码执行漏洞CVE-2025-59041](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48) (发布日期: 2025-09-16)
-- [国家网络安全事件报告管理办法发布与解读](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521498&idx=1&sn=25557996d6285aa336de16310a6d73dc) (发布日期: 2025-09-16)
-
-### ChainReactors
-
-- [ ] [招聘 - Shopee 深圳 - 基础安全专家](https://mp.weixin.qq.com/s?__biz=MzI5Nzc0OTkxOQ==&mid=2247483922&idx=1&sn=9cb6ee14b739eaeb40f1d310690e243f) (发布日期: 2025-09-16)
+- [【漏洞通告】DataEase Redshift JDBC RCE (CVE-2025-58748)](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2) (发布日期: 2025-09-16)
+- [9月15日，国家互联网信息办公室发布《国家网络安全事件报告管理办法》，附全文和报告平台小程序链接](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064349&idx=1&sn=a24fef79e86bf83d22115c253da8d8f3) (发布日期: 2025-09-16)
+- [相比征求意见稿，《国家网络安全事件报告管理办法》哪变了？](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184663&idx=1&sn=9b12877a23df938b2b97cbc8087c4a19) (发布日期: 2025-09-16)
+- [12387网络安全事件报告平台已经开通](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500516&idx=1&sn=a5e7c47f7559944813520f560bbde5e6) (发布日期: 2025-09-16)
+- [最新Android 病毒：不仅传播木马，还传播短信窃取器与间谍软件](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540289&idx=1&sn=892fdf8073415cfc0da502da79b20042) (发布日期: 2025-09-16)
+- [国家网信办发布近期网络安全、数据安全、个人信息保护相关执法典型案例](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501670&idx=1&sn=42eaf9a97b7cae83c322337c1edfd316) (发布日期: 2025-09-16)
+- [【原创情报】Flowise 未授权任意文件读写漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494761&idx=1&sn=467dd5e63150b1aedbcf6610c60d9af9) (发布日期: 2025-09-16)
+- [SRC挖洞神器｜FakeCryptoJS加解密逆向分析工具，自动化获取密钥、加密方式](https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247489056&idx=1&sn=15de339019f1f1e2fb198af4f89c61c4) (发布日期: 2025-09-16)
+- [实战案例 | 绕过审核登录后台&账号权限提升](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488413&idx=1&sn=bdb28a7c6e5e1eaa11955a98488f9e87) (发布日期: 2025-09-16)
+- [【业界动态】2025国家网络安全宣传周上正式发布《人工智能安全治理框架》2.0、《政务大模型应用安全规范》等成果](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996368&idx=1&sn=1ffa580b38f95109b4222a3dc9302570) (发布日期: 2025-09-16)
+- [预告 | 倒计时1天！2025国家网络安全宣传周·政务信息系统安全管理与实践分论坛，就在明天~~](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664996368&idx=3&sn=f2ca6ca6a5381ff258eb4f71476f15d2) (发布日期: 2025-09-16)
+- [再获认可 | 众智维科技入选南京市网络和数据安全应急技术支撑单位（服务资源池单位）](https://mp.weixin.qq.com/s?__biz=MzU5Mjg0NzA5Mw==&mid=2247494596&idx=1&sn=4c3eb11d0e906b5c874a698ec18213c4) (发布日期: 2025-09-16)
+- [聚焦网数智技术前沿 共筑新形态安全防护——媒体集中报道2025第四届北外滩网络安全论坛](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249394&idx=1&sn=9043065dfa80c5b196114cc9370716be) (发布日期: 2025-09-16)
+- [通知 | 网安标委发布《数据安全国家标准体系（2025版）》《个人信息保护国家标准体系（2025版）》（附下载）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664249394&idx=4&sn=62830979d86236c7a6ac263f80049461) (发布日期: 2025-09-16)
+- [《登入框》有哪些漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492268&idx=1&sn=b546defef7d4f38b70bafbbd22012803) (发布日期: 2025-09-16)
+- [《数据安全国家标准体系（2025版）》、《个人信息保护国家标准体系（2025版）》发布；国内首次AI大模型漏洞众测结果发布|牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138722&idx=2&sn=3bc91cd9a30362ccfbd472c112123577) (发布日期: 2025-09-16)
+- [山石网科中标｜四川省教育考试院系统数据中心安全防护项目](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661302821&idx=1&sn=a47a425042df6fc3cb67d01e026db83d) (发布日期: 2025-09-16)
+- [国家工业信息安全发展研究中心：我国智能网联汽车网络和数据安全态势分析与行业实践](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=1&sn=250fb94f74a1df6790d16e0a21d02978) (发布日期: 2025-09-16)
+- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=2&sn=ed84ce7af1964948023096035cb6b005) (发布日期: 2025-09-16)
+- [探索智能网联汽车网络和数据安全新范式](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=3&sn=43b57dc7ddc54d1f53957bb5622ceb2e) (发布日期: 2025-09-16)
+- [《人工智能安全治理框架》2.0--附下载](https://mp.weixin.qq.com/s?__biz=MzIyNDcwODgwMA==&mid=2247485339&idx=1&sn=12de4d43ca9b0a121db4924003ee3702) (发布日期: 2025-09-16)
+- [法国奢侈品巨头开云集团数据泄露事件争议：数据安全危机中的两难选择与应急响应](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486676&idx=1&sn=92881b55f8d06ada88ce44805b597b7d) (发布日期: 2025-09-16)
+- [银狐利用 SEO 投毒中文关键词](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=1&sn=19eeab3b694a5fd259dc81b0fcd29515) (发布日期: 2025-09-16)
+- [篇 57：近期暗网 0day、访问权限售卖一览](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=2&sn=e955d01315276859817599bb706ffc73) (发布日期: 2025-09-16)
+- [信息安全工程师考试大纲2025版（软考中级）](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521093&idx=1&sn=1c46c1a4d08093f2f883b38069424da3) (发布日期: 2025-09-16)
+- [EDR后门检测原理分析与免杀技术研究](https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488240&idx=1&sn=e0ed0d805f8bef2958464a56e5d9e2a8) (发布日期: 2025-09-16)
+- [网络安全运营运维 今天上传文件列表](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291593&idx=2&sn=5be47e28985ec23bf1a4a9b6a78085b5) (发布日期: 2025-09-16)
+- [9月15日，国家互联网信息办公室发布《国家网络安全事件报告管理办法》，附全文和报告平台小程序链接](https://mp.weixin.qq.com/s?__biz=MzIwNDYzNTYxNQ==&mid=2247503940&idx=1&sn=d9d9b76152ab74fbda37a494647cb80a) (发布日期: 2025-09-16)
+- [紧急！朝鲜APT组织Lazarus 盯上加密圈，假招聘、伪面试藏杀机，钱包可能被清空！](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486754&idx=1&sn=97c730c2dbcdaf70a897417695b9baf8) (发布日期: 2025-09-16)
 
 
 ## 🎯 威胁详情分析
@@ -104,40 +104,44 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某CMS最新版本鉴权绕过审计（0Day） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486819&idx=1&sn=8eaa603fd4752d03bbd3234b42943b5f](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486819&idx=1&sn=8eaa603fd4752d03bbd3234b42943b5f) |
-| 2 | 【已复现】Flowise 任意文件读取漏洞(QVD-2025-35890)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503941&idx=1&sn=cebdea5b5a3b9ae48caf7cbc3c905852](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503941&idx=1&sn=cebdea5b5a3b9ae48caf7cbc3c905852) |
-| 3 | 国内首次AI大模型众测结果揭晓——2025年人工智能大模型产品漏洞众测结果发布 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500504&idx=1&sn=9ff3e1df60418295456db10f77439c14](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500504&idx=1&sn=9ff3e1df60418295456db10f77439c14) |
-| 4 | 阻止通过漏洞驱动利用(byovd)技术致盲安全软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485391&idx=1&sn=d6b003bb825f096fea77d5cabb1a10d3](https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485391&idx=1&sn=d6b003bb825f096fea77d5cabb1a10d3) |
-| 5 | 非典型GeoServer漏洞利用实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494491&idx=1&sn=26633db4e02577f28e72f56bfa3b5515](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494491&idx=1&sn=26633db4e02577f28e72f56bfa3b5515) |
-| 6 | Spring 框架和 Spring 安全漏洞暴露授权绕过风险（CVE-2025-41248 和 CVE-2025-41249） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484995&idx=1&sn=fba92955780414c080c938edc0e05ac6](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247484995&idx=1&sn=fba92955780414c080c938edc0e05ac6) |
-| 7 | ChatGPT新增MCP工具支持存在安全隐患，攻击者可窃取邮件隐私数据|Google Drive漏洞可致云端文件遭全盘访问 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=2&sn=6b36f372d36293d4c58d6cf166b266e5](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=2&sn=6b36f372d36293d4c58d6cf166b266e5) |
-| 8 | 0day | 某在线拍卖系统代码审计 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=3&sn=ef2121390b5d29a757a94d5f7749fab3](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=3&sn=ef2121390b5d29a757a94d5f7749fab3) |
-| 9 | 【高危AI漏洞预警】Claude Code代理编程工具远程代码执行漏洞CVE-2025-59041 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48) |
+| 1 | 【漏洞通告】DataEase Redshift JDBC RCE (CVE-2025-58748) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2) |
+| 2 | 【原创情报】Flowise 未授权任意文件读写漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494761&idx=1&sn=467dd5e63150b1aedbcf6610c60d9af9](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494761&idx=1&sn=467dd5e63150b1aedbcf6610c60d9af9) |
+| 3 | 《登入框》有哪些漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492268&idx=1&sn=b546defef7d4f38b70bafbbd22012803](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492268&idx=1&sn=b546defef7d4f38b70bafbbd22012803) |
+| 4 | 《数据安全国家标准体系（2025版）》、《个人信息保护国家标准体系（2025版）》发布；国内首次AI大模型漏洞众测结果发布|牛览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138722&idx=2&sn=3bc91cd9a30362ccfbd472c112123577](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651138722&idx=2&sn=3bc91cd9a30362ccfbd472c112123577) |
+| 5 | 篇 57：近期暗网 0day、访问权限售卖一览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=2&sn=e955d01315276859817599bb706ffc73](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=2&sn=e955d01315276859817599bb706ffc73) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危AI漏洞预警】Claude Code代理编程工具远程代码执行漏洞CVE-2025-59041 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612336&idx=4&sn=5d3fab940d4f9467be28bdf81d3c4c48) |
+| 1 | 【漏洞通告】DataEase Redshift JDBC RCE (CVE-2025-58748) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501579&idx=2&sn=aee95ada4647324ab7e2d0638c0478a2) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高级威胁追踪(APT)】深入分析“伪猎者”组织Github仓库加密载荷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524703&idx=1&sn=ae3b7b320a640060a76f1163fbae7af1](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524703&idx=1&sn=ae3b7b320a640060a76f1163fbae7af1) |
+| 1 | 法国奢侈品巨头开云集团数据泄露事件争议：数据安全危机中的两难选择与应急响应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486676&idx=1&sn=92881b55f8d06ada88ce44805b597b7d](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486676&idx=1&sn=92881b55f8d06ada88ce44805b597b7d) |
+| 2 | 银狐利用 SEO 投毒中文关键词 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=1&sn=19eeab3b694a5fd259dc81b0fcd29515](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247502864&idx=1&sn=19eeab3b694a5fd259dc81b0fcd29515) |
+| 3 | 紧急！朝鲜APT组织Lazarus 盯上加密圈，假招聘、伪面试藏杀机，钱包可能被清空！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486754&idx=1&sn=97c730c2dbcdaf70a897417695b9baf8](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486754&idx=1&sn=97c730c2dbcdaf70a897417695b9baf8) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 免费代发招聘信息第36期：上海  渗透测试&安全运营 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492712&idx=1&sn=8df25ab88f47688231905ae295c528c5](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492712&idx=1&sn=8df25ab88f47688231905ae295c528c5) |
-| 2 | 隐雾SRC第八期全面升级 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498743&idx=1&sn=7ac290a5ec7d7c9b6ab01256bee48a2a](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498743&idx=1&sn=7ac290a5ec7d7c9b6ab01256bee48a2a) |
+| 1 | SRC挖洞神器｜FakeCryptoJS加解密逆向分析工具，自动化获取密钥、加密方式 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247489056&idx=1&sn=15de339019f1f1e2fb198af4f89c61c4](https://mp.weixin.qq.com/s?__biz=Mzg4MDkyMTE4OQ==&mid=2247489056&idx=1&sn=15de339019f1f1e2fb198af4f89c61c4) |
+| 2 | 网络安全运营运维 今天上传文件列表 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291593&idx=2&sn=5be47e28985ec23bf1a4a9b6a78085b5](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655291593&idx=2&sn=5be47e28985ec23bf1a4a9b6a78085b5) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 热门AI应用开发商曝敏感数据泄露，涉用户聊天内容、身份令牌等 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252533&idx=1&sn=c46c2b9bd4565d25245614590515753d](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252533&idx=1&sn=c46c2b9bd4565d25245614590515753d) |
+| 1 | 法国奢侈品巨头开云集团数据泄露事件争议：数据安全危机中的两难选择与应急响应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486676&idx=1&sn=92881b55f8d06ada88ce44805b597b7d](https://mp.weixin.qq.com/s?__biz=MzU3MDM2NzkwNg==&mid=2247486676&idx=1&sn=92881b55f8d06ada88ce44805b597b7d) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=2&sn=ed84ce7af1964948023096035cb6b005](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627397&idx=2&sn=ed84ce7af1964948023096035cb6b005) |
 
 
 ## 📁 归档路径
@@ -153,8 +157,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -163,5 +167,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-16 04:21:42*
+*生成时间: 2025-09-16 08:25:54*
 *报告工具: 微信文章安全归档系统*
