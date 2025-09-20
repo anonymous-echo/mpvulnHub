@@ -10934,3 +10934,35 @@
 2025-09-20 01:35:59,729 - INFO - === 跳过二进制文件处理，只更新data.json ===
 2025-09-20 01:35:59,764 - INFO - 已更新data.json，添加了 0 个URL
 2025-09-20 01:35:59,765 - INFO - === 执行完成 ===
+2025-09-20 04:21:54,072 - INFO - === 开始执行微信文章归档工具 ===
+2025-09-20 04:21:54,073 - INFO - 数据文件: data.json
+2025-09-20 04:21:54,073 - INFO - 可执行文件: ./bin/wechatmp2markdown-v1.1.11_linux_amd64
+2025-09-20 04:21:54,073 - INFO - 文档目录: doc
+2025-09-20 04:21:54,111 - INFO - 已加载 22155 条历史记录
+2025-09-20 04:21:54,111 - INFO - === 开始今日拉取 ===
+2025-09-20 04:21:54,111 - INFO - 开始获取Doonsec RSS
+2025-09-20 04:21:54,111 - INFO - 目标日期: 2025-09-20
+2025-09-20 04:26:37,897 - ERROR - Doonsec RSS解析失败: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-09-20 04:26:37,897 - INFO - ChainReactors md文件URL: https://raw.githubusercontent.com/chainreactors/picker/refs/heads/master/archive/daily/2025/2025-09-20.md
+2025-09-20 04:26:38,056 - INFO - ChainReactors md文件下载状态码: 200
+2025-09-20 04:26:38,058 - INFO - ChainReactors获取到 243 个URL
+2025-09-20 04:26:38,059 - INFO - BruceFeIix md文件URL: https://raw.githubusercontent.com/BruceFeIix/picker/refs/heads/master/archive/daily/2025/2025-09-20.md
+2025-09-20 04:26:38,191 - INFO - BruceFeIix md文件下载状态码: 200
+2025-09-20 04:26:38,192 - INFO - BruceFeIix获取到 240 个URL
+2025-09-20 04:26:38,192 - INFO - === 开始处理 2025-09-20 的数据 ===
+2025-09-20 04:26:38,192 - INFO - Doonsec原始数据: 0 个
+2025-09-20 04:26:38,192 - INFO - ChainReactors原始数据: 243 个
+2025-09-20 04:26:38,192 - INFO - BruceFeIix原始数据: 240 个
+2025-09-20 04:26:38,192 - INFO - 开始处理Doonsec数据...
+2025-09-20 04:26:38,192 - INFO - 开始处理ChainReactors数据...
+2025-09-20 04:26:38,193 - INFO - 开始处理BruceFeIix数据...
+2025-09-20 04:26:38,193 - INFO - 去重后共 158 个URL待处理，跳过 325 个重复URL
+2025-09-20 04:26:38,193 - INFO - 去重后统计 - Doonsec: 0 个, ChainReactors: 158 个, BruceFeIix: 0 个
+2025-09-20 04:26:38,193 - INFO - === 开始关键词过滤 ===
+2025-09-20 04:26:38,199 - INFO - 关键词过滤: 匹配 1 个，跳过 157 个
+2025-09-20 04:26:38,199 - INFO - 关键词过滤后统计 - Doonsec: 0 个, ChainReactors: 1 个, BruceFeIix: 0 个
+2025-09-20 04:26:38,225 - INFO - 已创建每日报告: md/2025-09-20.md
+2025-09-20 04:26:38,225 - INFO - === 跳过二进制文件处理，只更新data.json ===
+2025-09-20 04:26:38,262 - INFO - 已更新data.json，添加了 1 个URL
+2025-09-20 04:26:38,262 - INFO - 已创建每日报告: md/2025-09-20.md
+2025-09-20 04:26:38,262 - INFO - === 执行完成 ===
