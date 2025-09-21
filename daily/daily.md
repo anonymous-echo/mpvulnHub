@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 26
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 26篇
+  - Doonsec: 4篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 4篇
-- **漏洞利用**: 3篇
+- **漏洞利用**: 2篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,32 +63,14 @@
 
 ### Doonsec
 
-- [当病毒学会了调用GPT-4，黑客的攻击方式有多离谱？你的AI安全防线可能不堪一击！](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485078&idx=1&sn=9ddc10df95aba1b002adb2b02ec2f52e) (发布日期: 2025-09-21)
-- [比传统攻击更阴险！发生在云端的“隐形窃取”，你的防火墙在它面前就是个摆设。](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901384&idx=1&sn=806c1e1bdd47992d50fe62b2ca9d053a) (发布日期: 2025-09-21)
-- [【高危漏洞预警】Gotac Statistical Database System身份认证绕过漏洞CVE-2025-10452](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612401&idx=4&sn=fb053ee49c758b3d73c0041ed667615a) (发布日期: 2025-09-21)
-- [浅谈SRC漏洞挖掘中容易出洞的几种姿势](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496866&idx=1&sn=7e264d1dab049fb1e373562432452353) (发布日期: 2025-09-21)
-- [30分钟搞定正向代理！Neo-reGeorg+Proxifier从原理到内网访问落地](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515411&idx=1&sn=66ecee3fdf21efd5c5e9d3d63afa77f1) (发布日期: 2025-09-21)
-- [中孚荣膺CNNVD“2025年度基础软硬件漏洞报送优秀企业”，以技术实力护航网络安全生态](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247512172&idx=1&sn=486c4484dcace4f3f0e1ed895ccd4bf2) (发布日期: 2025-09-21)
-- [记一次红队内网渗透全流程](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486154&idx=2&sn=26fd98b9fe90ee800b50c0a6e2a50203) (发布日期: 2025-09-21)
-- [我看《国家网络安全事件报告管理办法》](https://mp.weixin.qq.com/s?__biz=MzI2MzM0NjcxNw==&mid=2247485667&idx=1&sn=fb25ec2ebdf4843b74d8475630a6a8eb) (发布日期: 2025-09-21)
-- [【转载】2024数字中国创新大赛数字安全赛道数据安全产业赛圆满落幕](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=1&sn=7cb8a37fecc2f63cc4a7f0400b6a1891) (发布日期: 2025-09-21)
-- [【转载】晋级决赛附加赛理论赛名单公布|2024数字中国创新大赛数字安全赛道数据安全产业人才积分争夺赛晋级决赛附加赛理论赛名单](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=2&sn=6de1d97fa9e4e9874461937813249beb) (发布日期: 2025-09-21)
-- [【转载】人才积分争夺赛晋级决赛名单公布|2024数字中国创新大赛数字安全赛道数据安全产业人才积分争夺赛晋级决赛名单](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=3&sn=ee2d1c114a54b066043b352625fcb934) (发布日期: 2025-09-21)
-- [【转载】2024西湖论剑·数字安全大会第七届数据安全创新实践案例发布会成功举办](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=4&sn=998e2417173221f9ea75a5b708028f84) (发布日期: 2025-09-21)
-- [【转载】2024数字中国创新大赛数字安全赛道数据安全产业人才积分争夺赛比赛手册](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=5&sn=83be911a6c3e21c273afc0642a0565d4) (发布日期: 2025-09-21)
-- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛金奖获得者-中国移动磐石队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=6&sn=2d04cfbe01eb7601c3c439102e930f44) (发布日期: 2025-09-21)
-- [【转载经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛进步奖获得者-iCloudshield战队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=7&sn=c5a36d44e9f2dec07b56e4ad9fa09a25) (发布日期: 2025-09-21)
-- [【转载】比赛经验分享| “2024数字中国创新大赛”数字安全赛道数据安全产业人才积分争夺赛进步奖获得者-湖北移动太极队](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494212&idx=8&sn=4b8b1b717f55a22057abde05944ef8d7) (发布日期: 2025-09-21)
-- [注入frida-gadget绕过Frida检测](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488825&idx=1&sn=5f915ed79a40d97745660f0e05e56b6c) (发布日期: 2025-09-21)
-- [VSR白送的的SSL VPN功能，你要不要？u200b](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861656&idx=1&sn=511ead9acb13a12bd8ba38be068fc41d) (发布日期: 2025-09-21)
-- [2025.10截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247495015&idx=1&sn=2198f526dd8e8a60a959de4415e25b2f) (发布日期: 2025-09-21)
-- [韩国电信运营商KT服务器遭入侵 大量用户个人信息泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498981&idx=2&sn=ef17e73de05ed560ff8c7b90c4f4455e) (发布日期: 2025-09-21)
-- [华夏ERP-v2.3代码审计合集](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488744&idx=1&sn=69125a03726cfe1b5b210765a9aaed08) (发布日期: 2025-09-21)
-- [java 代码审计 -  目录穿越（遍历）](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485574&idx=1&sn=e31cab6ad4fe0bf27594465a7fbfe717) (发布日期: 2025-09-21)
-- [[学习log] OT/ICS工业控制系统渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwODY2MzMyMA==&mid=2247484688&idx=1&sn=b9a0876af4b4e49e10c2ee7bb5c36a7b) (发布日期: 2025-09-21)
-- [又一奢侈品珠宝商数据泄露影响数千名客户](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118474&idx=2&sn=d93f981e48db0ec65f633756270d1833) (发布日期: 2025-09-21)
-- [EVPN网络技术原理及使用场景介绍](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516414&idx=1&sn=f6802ca0ce7cee2678c080d5ef2cc335) (发布日期: 2025-09-21)
-- [ShinyHunters 声称 Drift 黑客窃取了 15 亿条 Salesforce 记录](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501754&idx=2&sn=a9cc7e89e60e30953d2ec6dda53c785b) (发布日期: 2025-09-21)
+- [edusrc某学院某系统漏洞通过常规测试手段拿下9rank](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) (发布日期: 2025-09-21)
+- [以CPS为核心的船舶信息感知与安全防护](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=1&sn=e0b1cbbc9d94721d8c0ef357bf2dd91c) (发布日期: 2025-09-21)
+- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b) (发布日期: 2025-09-21)
+- [渗透测试报告生成工具](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492716&idx=1&sn=bbc7365b105152914c4cf437cac568da) (发布日期: 2025-09-21)
+
+### ChainReactors
+
+- [ ] [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28) (发布日期: 2025-09-21)
 
 
 ## 🎯 威胁详情分析
@@ -98,30 +79,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Gotac Statistical Database System身份认证绕过漏洞CVE-2025-10452 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612401&idx=4&sn=fb053ee49c758b3d73c0041ed667615a](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612401&idx=4&sn=fb053ee49c758b3d73c0041ed667615a) |
-| 2 | 浅谈SRC漏洞挖掘中容易出洞的几种姿势 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496866&idx=1&sn=7e264d1dab049fb1e373562432452353](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496866&idx=1&sn=7e264d1dab049fb1e373562432452353) |
-| 3 | 中孚荣膺CNNVD“2025年度基础软硬件漏洞报送优秀企业”，以技术实力护航网络安全生态 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247512172&idx=1&sn=486c4484dcace4f3f0e1ed895ccd4bf2](https://mp.weixin.qq.com/s?__biz=MzAxMjE1MDY0NA==&mid=2247512172&idx=1&sn=486c4484dcace4f3f0e1ed895ccd4bf2) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 30分钟搞定正向代理！Neo-reGeorg+Proxifier从原理到内网访问落地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515411&idx=1&sn=66ecee3fdf21efd5c5e9d3d63afa77f1](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515411&idx=1&sn=66ecee3fdf21efd5c5e9d3d63afa77f1) |
-| 2 | 记一次红队内网渗透全流程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486154&idx=2&sn=26fd98b9fe90ee800b50c0a6e2a50203](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486154&idx=2&sn=26fd98b9fe90ee800b50c0a6e2a50203) |
-| 3 | 注入frida-gadget绕过Frida检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488825&idx=1&sn=5f915ed79a40d97745660f0e05e56b6c](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488825&idx=1&sn=5f915ed79a40d97745660f0e05e56b6c) |
-| 4 | ShinyHunters 声称 Drift 黑客窃取了 15 亿条 Salesforce 记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501754&idx=2&sn=a9cc7e89e60e30953d2ec6dda53c785b](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501754&idx=2&sn=a9cc7e89e60e30953d2ec6dda53c785b) |
+| 1 | edusrc某学院某系统漏洞通过常规测试手段拿下9rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) |
+| 2 |  ] [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 浅谈SRC漏洞挖掘中容易出洞的几种姿势 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496866&idx=1&sn=7e264d1dab049fb1e373562432452353](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247496866&idx=1&sn=7e264d1dab049fb1e373562432452353) |
+| 1 | edusrc某学院某系统漏洞通过常规测试手段拿下9rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 又一奢侈品珠宝商数据泄露影响数千名客户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118474&idx=2&sn=d93f981e48db0ec65f633756270d1833](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118474&idx=2&sn=d93f981e48db0ec65f633756270d1833) |
+| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b) |
 
 
 ## 📁 归档路径
@@ -137,8 +108,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -147,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-21 01:37:36*
+*生成时间: 2025-09-21 04:21:28*
 *报告工具: 微信文章安全归档系统*
