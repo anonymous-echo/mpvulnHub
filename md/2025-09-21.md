@@ -2,17 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 4篇
-  - ChainReactors: 1篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -63,14 +60,8 @@
 
 ### Doonsec
 
-- [edusrc某学院某系统漏洞通过常规测试手段拿下9rank](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) (发布日期: 2025-09-21)
-- [以CPS为核心的船舶信息感知与安全防护](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=1&sn=e0b1cbbc9d94721d8c0ef357bf2dd91c) (发布日期: 2025-09-21)
-- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b) (发布日期: 2025-09-21)
-- [渗透测试报告生成工具](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492716&idx=1&sn=bbc7365b105152914c4cf437cac568da) (发布日期: 2025-09-21)
-
-### ChainReactors
-
-- [ ] [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28) (发布日期: 2025-09-21)
+- [【资料】乌克兰的数字战争方式：志愿者、应用程序和情报共享平台](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152135&idx=2&sn=92fb5f864d852aa24542afca78070537) (发布日期: 2025-09-21)
+- [中资网安获CNVD “最具价值漏洞奖”](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553258&idx=1&sn=470efc33e0c59831e7d15d30cf6ff92a) (发布日期: 2025-09-21)
 
 
 ## 🎯 威胁详情分析
@@ -79,20 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | edusrc某学院某系统漏洞通过常规测试手段拿下9rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) |
-| 2 |  ] [山石网科荣获国家信息安全漏洞库CNNVD多项荣誉 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28](https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512732&idx=1&sn=fd414bbf394b51f4141e4313ba18fb28) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | edusrc某学院某系统漏洞通过常规测试手段拿下9rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552262&idx=1&sn=15a710d8934551c842300adf5e04d946) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627514&idx=3&sn=906fb7c8745c09aa4e6b8e2296784f6b) |
+| 1 | 中资网安获CNVD “最具价值漏洞奖” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553258&idx=1&sn=470efc33e0c59831e7d15d30cf6ff92a](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553258&idx=1&sn=470efc33e0c59831e7d15d30cf6ff92a) |
 
 
 ## 📁 归档路径
@@ -108,7 +86,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -118,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-21 04:21:28*
+*生成时间: 2025-09-21 08:20:56*
 *报告工具: 微信文章安全归档系统*
