@@ -2,21 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 6篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 3篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,60 +59,12 @@
 
 ### Doonsec
 
-- [蚂蚁消金CIO刘义：以AI对抗AI，守护金融安全](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932701&idx=1&sn=a054f1748079b0277722d9ff4b9318c8) (发布日期: 2025-09-21)
-- [CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac) (发布日期: 2025-09-21)
-- [CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef) (发布日期: 2025-09-21)
-- [银狐黑产反虚拟机高级样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493426&idx=1&sn=10729aa2bedfb37fb0bb0112cfa0d83b) (发布日期: 2025-09-21)
-- [新的 EDR-Freeze 工具，可使 EDR 和防病毒软件进入昏迷状态](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484611&idx=1&sn=c83492376c12b1b766fbc95f9183f3d7) (发布日期: 2025-09-21)
-- [[CVE-2025-41243] Spring Cloud Gateway：复杂化评估上下文带来的安全风险](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491947&idx=1&sn=b2b81e5c17857cd1ebb08cb7bb78d8c9) (发布日期: 2025-09-21)
-- [首款集成GPT-4的恶意软件MalTerminal，可动态生成勒索软件与反向Shell](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=1&sn=93f5b6d82e14c13db808591798634083) (发布日期: 2025-09-21)
-- [TP-Link路由器零日漏洞遭利用，攻击者成功绕过ASLR防护机制](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=3&sn=683ee038f20b6cfed2d55487241b3d6e) (发布日期: 2025-09-21)
-- [互联网跨境企业应用安全架构指南（2）](https://mp.weixin.qq.com/s?__biz=Mzk5MDgzMDExMg==&mid=2247484502&idx=1&sn=1827b8378740c83b4bc924fcc86fb1e5) (发布日期: 2025-09-21)
-- [细说 .NET 内网8个阶段实战攻防电子报刊](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b) (发布日期: 2025-09-21)
-- [.NET内网实战： 通过LNK 文件实现目标权限持久化](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593) (发布日期: 2025-09-21)
-- [互联网跨境企业应用安全架构指南（1）](https://mp.weixin.qq.com/s?__biz=Mzk5MDgzMDExMg==&mid=2247484498&idx=1&sn=8a26b54000c7ca5726e6ced768dfff8f) (发布日期: 2025-09-21)
-- [红队渗透测试攻防学习工具分析研究资料汇总](https://mp.weixin.qq.com/s?__biz=Mzg3MDcxNTkyMA==&mid=2247484609&idx=1&sn=0d864447fb5d974d010123a0a69b362a) (发布日期: 2025-09-21)
-- [多家科技公司数据泄露被查处](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898240&idx=1&sn=4d3f329915a64b734ae89bb68c133415) (发布日期: 2025-09-21)
-- [某系统RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2) (发布日期: 2025-09-21)
-- [CVE-2024-12798 logback RCE 漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af) (发布日期: 2025-09-21)
-- [一文读懂密钥的分层管理机制：根密钥、密钥加密密钥、工作密钥](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487501&idx=1&sn=0a03f46639e2a0e3824309b165ea03f7) (发布日期: 2025-09-21)
+- [用于有效载荷加密、混淆和转换为字节数组（支持 14 种输出格式）](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487920&idx=1&sn=2a4be86c7d41f27da885b3f721a9a42f) (发布日期: 2025-09-21)
+- [GUI自动化渗透测试报告生成工具，用于快速生成专业的渗透测试报告。](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495254&idx=1&sn=5b88b096d4cc407039cbc068b0a1ba3a) (发布日期: 2025-09-21)
+- [关于应用安全评估的知识](https://mp.weixin.qq.com/s?__biz=MzA5NDg2NTg4MA==&mid=2651586690&idx=1&sn=2a56d02c00f4326e207c871d78716d18) (发布日期: 2025-09-21)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac) |
-| 2 | CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef) |
-| 3 | [CVE-2025-41243] Spring Cloud Gateway：复杂化评估上下文带来的安全风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491947&idx=1&sn=b2b81e5c17857cd1ebb08cb7bb78d8c9](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491947&idx=1&sn=b2b81e5c17857cd1ebb08cb7bb78d8c9) |
-| 4 | TP-Link路由器零日漏洞遭利用，攻击者成功绕过ASLR防护机制 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=3&sn=683ee038f20b6cfed2d55487241b3d6e](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651327944&idx=3&sn=683ee038f20b6cfed2d55487241b3d6e) |
-| 5 | 某系统RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2) |
-| 6 | CVE-2024-12798 logback RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CVE-2025-54236｜Adobe Commerce存在安全绕过漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=1&sn=818c46395bce6642d2abdff6bd2c71ac) |
-| 2 | CVE-2023-24205｜Clash for Windows远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486184&idx=2&sn=7fda1f7d0eaf073014bd1b814048caef) |
-| 3 | 细说 .NET 内网8个阶段实战攻防电子报刊 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=1&sn=249dd6ea5a714eeb6904271aa204e21b) |
-| 4 | .NET内网实战： 通过LNK 文件实现目标权限持久化 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500646&idx=3&sn=fded949cc9b0f696ca9ea5957b6bc593) |
-| 5 | 某系统RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498218&idx=1&sn=77b833f75365452424ef9f2b8b5a95a2) |
-| 6 | CVE-2024-12798 logback RCE 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af](https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247488775&idx=1&sn=143a7aeb6fa46a94db33b82fa7e615af) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 银狐黑产反虚拟机高级样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493426&idx=1&sn=10729aa2bedfb37fb0bb0112cfa0d83b](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493426&idx=1&sn=10729aa2bedfb37fb0bb0112cfa0d83b) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 多家科技公司数据泄露被查处 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898240&idx=1&sn=4d3f329915a64b734ae89bb68c133415](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898240&idx=1&sn=4d3f329915a64b734ae89bb68c133415) |
 
 
 ## 📁 归档路径
@@ -134,8 +80,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +90,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-21 12:34:41*
+*生成时间: 2025-09-21 16:20:09*
 *报告工具: 微信文章安全归档系统*
