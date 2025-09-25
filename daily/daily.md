@@ -2,20 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,38 +59,10 @@
 
 ### Doonsec
 
-- [产业报告 | 《人工智能安全治理框架》2.0 版（直接下载）](https://mp.weixin.qq.com/s?__biz=MzU3NDY0NDAxMw==&mid=2247484847&idx=1&sn=f4d128b9effb210796abf7c223d872d9) (发布日期: 2025-09-25)
-- [【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) (发布日期: 2025-09-25)
-- [预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) (发布日期: 2025-09-25)
-- [Linux安全防护实战指南：从rootkit检测到系统加固](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492489&idx=1&sn=96c3d4d79e4a1b2e76556e268f3da3ff) (发布日期: 2025-09-25)
-- [宏景EHR HrChangeInfoService sql注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) (发布日期: 2025-09-25)
-- [四川一科技公司因数据泄露被顶格罚款30万元](https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7) (发布日期: 2025-09-25)
-- [[网络威胁分析]伪装成性犯罪者通知的 Kimsuky 袭击](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484627&idx=1&sn=1b4905fac78b933bf59e21adfef2edca) (发布日期: 2025-09-25)
+- [这个国庆放大“价”，CISP-PTE安排上](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518722&idx=1&sn=71d6fdfe163ab5a9d2588f511fcfb39a) (发布日期: 2025-09-25)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) |
-| 2 | 预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) |
-| 3 | 宏景EHR HrChangeInfoService sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) |
-| 2 | 预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) |
-| 3 | 宏景EHR HrChangeInfoService sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 四川一科技公司因数据泄露被顶格罚款30万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7](https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7) |
 
 
 ## 📁 归档路径
@@ -111,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-25 16:23:30*
+*生成时间: 2025-09-25 20:20:53*
 *报告工具: 微信文章安全归档系统*
