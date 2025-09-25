@@ -2,24 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 48
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 48篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **攻击技术**: 8篇
-- **信息泄露**: 2篇
-- **供应链**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 3篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 5篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,54 +64,13 @@
 
 ### Doonsec
 
-- [heapdump深度利用之信息泄露篇](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494501&idx=1&sn=d17ea4328fcc8375ca4acc7f7878c026) (发布日期: 2025-09-25)
-- [怎么让挖的XSS更值钱？](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494710&idx=1&sn=b225017755c827da1c0b0d0ab58e21e3) (发布日期: 2025-09-25)
-- [神州希望圆满完成海口市开源水务有限公司实战攻防演练安全服务](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726115&idx=1&sn=7b2364f63d69c4896a656025e16d4936) (发布日期: 2025-09-25)
-- [京东全球科技探索者大会直击：JoySafety 开源，揭秘 AI 时代安全防护新逻辑](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850036&idx=1&sn=53dbe3619ec3524fa91ea021f231d4e4) (发布日期: 2025-09-25)
-- [四川一科技公司因数据泄露被顶格罚款30万元](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898258&idx=1&sn=72e0093a764fb5d5862d30f6a9d10efa) (发布日期: 2025-09-25)
-- [网络安全成熟度：CISO 议程的必备内容](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898258&idx=2&sn=598a08b2d6a17946964bda122a175fca) (发布日期: 2025-09-25)
-- [【安全圈】海康威视摄像机漏洞遭利用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=1&sn=a3b2f5e5428e3d6a16cebdd4ad3598f8) (发布日期: 2025-09-25)
-- [【安全圈】思科警告SNMP漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=2&sn=406dfc031f40e7f6101451d618408e04) (发布日期: 2025-09-25)
-- [【安全圈】PyPI警惕新钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=4&sn=d0a177441743199c265edc7d70792d6a) (发布日期: 2025-09-25)
-- [AI安全丨人工智能安全治理框架2.0版（附下载）](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247534922&idx=2&sn=2e8770ce10818f912137a9be36d4359e) (发布日期: 2025-09-25)
-- [大模型时代的数据安全治理研究](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174672&idx=1&sn=33eb545a596388d44312654a7eebccf7) (发布日期: 2025-09-25)
-- [思科修复影响路由器和交换机的 0day 漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=1&sn=31248d9d535baaa71b2ec67ceef617e8) (发布日期: 2025-09-25)
-- [GitHub 加固安全机制，防御 NPM 供应链攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=2&sn=0cef1b2f720c9ddb9bc1842f18251ddc) (发布日期: 2025-09-25)
-- [怎么让挖的XSS更值钱？](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=1&sn=af58e10deff417d80995f8024789d09a) (发布日期: 2025-09-25)
-- [万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789) (发布日期: 2025-09-25)
-- [Linux内核ksmbd漏洞允许远程攻击者执行任意代码（CVE-2025-38561）](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=4&sn=f2d6d7ed942eff17ecea1648313f0e7f) (发布日期: 2025-09-25)
-- [【已复现】用友U8 Cloud存在命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef) (发布日期: 2025-09-25)
-- [《国家网络安全事件报告管理办法》出台，涉及关基须1小时内报告](https://mp.weixin.qq.com/s?__biz=MzU0NDk0NTAwMw==&mid=2247629188&idx=3&sn=40744a63997ca9ed52c99e11ce8f2c8b) (发布日期: 2025-09-25)
-- [智驭未来，云护平安｜第40次全国计算机安全学术交流会·人工智能与云安全分论坛顺利召开](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650473167&idx=2&sn=357b70485b6db265fdc9cfcd4533118c) (发布日期: 2025-09-25)
-- [阿里云欧阳欣 ：AI Agent时代下，云安全的双轮驱动战略](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247643954&idx=1&sn=9ab7f6cc1468fbf61c476a6690405b48) (发布日期: 2025-09-25)
-- [盘点2025年十大MCP漏洞：风险、案例与检测](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207420&idx=1&sn=1812b287bd51b42977e82a64ea681377) (发布日期: 2025-09-25)
-- [内推 | 深圳绿盟驻场渗透测试岗火热招聘中](https://mp.weixin.qq.com/s?__biz=MzA4NzUwMzc3NQ==&mid=2247497727&idx=1&sn=d61b4b1d69979b19131dd5017dc5a801) (发布日期: 2025-09-25)
-- [关于对《电力行业外部攻击面安全运营管理指南》团体标准（征求意见稿）征求意见的函](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522718&idx=1&sn=00c66aaf937bbc4522edd7eb3e17932f) (发布日期: 2025-09-25)
-- [开班计划 10月网络安全培训](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522718&idx=2&sn=c94785da8152b5fa20d7b831076deecd) (发布日期: 2025-09-25)
-- [CVE-2025-41243 使用 Spring Cloud Gateway Server WebFlux 修改 SpEL 属性](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532870&idx=1&sn=1fecf3d64fc3748f280eb55fac0df795) (发布日期: 2025-09-25)
-- [新型 LNK 恶意软件利用 Windows LOLBins 逃避检测](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532870&idx=2&sn=dd060a11abc9079d41ca69ab7ec5bdd2) (发布日期: 2025-09-25)
-- [第六届国际反病毒大会在津召开，梆梆安全参编《移动互联网应用安全统计分析报告（2025）》正式发布](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136251&idx=1&sn=6faf900197f045bba488323f3fa58535) (发布日期: 2025-09-25)
-- [【论文速读】|融合大语言模型用于代码漏洞检测：一项实证评估](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497055&idx=1&sn=5b903e2ec895393f8a2d98e3f63cfd0e) (发布日期: 2025-09-25)
-- [【免费领】国内第一部XSS跨站脚本攻击技术大全](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556426&idx=2&sn=ba3dde1c361aa9f4d8fafeb5dae02052) (发布日期: 2025-09-25)
-- [第三届网络空间安全（天津）论坛 | 启明星辰周涛：AI时代的数据安全新范式](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651734423&idx=1&sn=c2ed9f4b70558881fcf80cf6752d15f7) (发布日期: 2025-09-25)
-- [国家能源局就《能源行业数据安全管理办法（试行）（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247601592&idx=2&sn=32109af915dfab9c2dcf3bdd76525588) (发布日期: 2025-09-25)
-- [《能源行业数据安全管理办法（试行）（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521595&idx=2&sn=86182c0569f74b94aeef8e087fea7779) (发布日期: 2025-09-25)
-- [漏洞挖掘-逻辑漏洞挖掘中的一些新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498276&idx=1&sn=0d835ab22d43a106e18e61e17599c391) (发布日期: 2025-09-25)
-- [招商局检测车辆技术研究院：智能网联汽车安全防护体系优化路径](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627576&idx=2&sn=084b4a17be4f52b980ccf5441b7b6932) (发布日期: 2025-09-25)
-- [车联网供应链安全与合规培训课程 2025](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627576&idx=3&sn=18742d148255c0de12146c1a52885233) (发布日期: 2025-09-25)
-- [【漏洞通告】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8) (发布日期: 2025-09-25)
-- [四叶草安全助力青海 “三新” 大讲堂！共探网络安全漏洞无效化技术新未来](https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553143&idx=1&sn=bd935309d07e29cfff906bb0d9681526) (发布日期: 2025-09-25)
-- [红队视角：内网是如何被一步步打穿的？福利又来了~](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490232&idx=1&sn=2575a8c2e99041092042a3e8c7ba929b) (发布日期: 2025-09-25)
-- [最简单的手工sql注入案例](https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485439&idx=1&sn=2dcf1721578cb828b46277fab1dabed3) (发布日期: 2025-09-25)
-- [通知 | 国家能源局就《能源行业数据安全管理办法（试行）（征求意见稿）》公开征求意见（附全文）](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247488688&idx=1&sn=432e52de855915cb90c0358cdd231565) (发布日期: 2025-09-25)
-- [数据安全进校园：聚铭网络为江苏二师师生送上“防护必修课”](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508089&idx=1&sn=90f58651f278410f511d3ee0c9479871) (发布日期: 2025-09-25)
-- [常用的XSS漏洞防御手段](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201) (发布日期: 2025-09-25)
-- [应急响应详解，非常详细！（附PDF）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=2&sn=f4189f7cf64e7a170ced22cf09874c49) (发布日期: 2025-09-25)
-- [公安部公布6起不履行网络安全、数据安全、个人信息保护义务的行政执法典型案例](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533818&idx=2&sn=ecbff866ca59db3b9c15aa14cde094f3) (发布日期: 2025-09-25)
-- [《国家网络安全事件报告管理办法》解读](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485875&idx=1&sn=63e88713e9d3d945c25641784608ea8c) (发布日期: 2025-09-25)
-- [CISO应向供应商提出的五个关键问题](https://mp.weixin.qq.com/s?__biz=MzA3NTIyNzgwNA==&mid=2650260485&idx=1&sn=e4fdadf3b6b5a58c6039305b8df9ec37) (发布日期: 2025-09-25)
-- [直播预告｜倒计时1天！TC260-004大模型应用安全新规落地指南，一次看懂全攻略](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872505&idx=1&sn=6514405379118a09892df9bcb896e76d) (发布日期: 2025-09-25)
-- [权威认可！爱加密入选中国信通院“铸基计划”多项认证](https://mp.weixin.qq.com/s?__biz=MjM5NzU4NjkyMw==&mid=2650748931&idx=1&sn=1070503a5683afd36880a835f2b6b9f8) (发布日期: 2025-09-25)
+- [产业报告 | 《人工智能安全治理框架》2.0 版（直接下载）](https://mp.weixin.qq.com/s?__biz=MzU3NDY0NDAxMw==&mid=2247484847&idx=1&sn=f4d128b9effb210796abf7c223d872d9) (发布日期: 2025-09-25)
+- [【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) (发布日期: 2025-09-25)
+- [预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) (发布日期: 2025-09-25)
+- [Linux安全防护实战指南：从rootkit检测到系统加固](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492489&idx=1&sn=96c3d4d79e4a1b2e76556e268f3da3ff) (发布日期: 2025-09-25)
+- [宏景EHR HrChangeInfoService sql注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) (发布日期: 2025-09-25)
+- [四川一科技公司因数据泄露被顶格罚款30万元](https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7) (发布日期: 2025-09-25)
+- [[网络威胁分析]伪装成性犯罪者通知的 Kimsuky 袭击](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484627&idx=1&sn=1b4905fac78b933bf59e21adfef2edca) (发布日期: 2025-09-25)
 
 
 ## 🎯 威胁详情分析
@@ -124,58 +79,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】海康威视摄像机漏洞遭利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=1&sn=a3b2f5e5428e3d6a16cebdd4ad3598f8](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=1&sn=a3b2f5e5428e3d6a16cebdd4ad3598f8) |
-| 2 | 【安全圈】思科警告SNMP漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=2&sn=406dfc031f40e7f6101451d618408e04](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071881&idx=2&sn=406dfc031f40e7f6101451d618408e04) |
-| 3 | 思科修复影响路由器和交换机的 0day 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=1&sn=31248d9d535baaa71b2ec67ceef617e8](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=1&sn=31248d9d535baaa71b2ec67ceef617e8) |
-| 4 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789) |
-| 5 | Linux内核ksmbd漏洞允许远程攻击者执行任意代码（CVE-2025-38561） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=4&sn=f2d6d7ed942eff17ecea1648313f0e7f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=4&sn=f2d6d7ed942eff17ecea1648313f0e7f) |
-| 6 | 【已复现】用友U8 Cloud存在命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef) |
-| 7 | 盘点2025年十大MCP漏洞：风险、案例与检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207420&idx=1&sn=1812b287bd51b42977e82a64ea681377](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207420&idx=1&sn=1812b287bd51b42977e82a64ea681377) |
-| 8 | CVE-2025-41243 使用 Spring Cloud Gateway Server WebFlux 修改 SpEL 属性 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532870&idx=1&sn=1fecf3d64fc3748f280eb55fac0df795](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532870&idx=1&sn=1fecf3d64fc3748f280eb55fac0df795) |
-| 9 | 【论文速读】|融合大语言模型用于代码漏洞检测：一项实证评估 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497055&idx=1&sn=5b903e2ec895393f8a2d98e3f63cfd0e](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497055&idx=1&sn=5b903e2ec895393f8a2d98e3f63cfd0e) |
-| 10 | 漏洞挖掘-逻辑漏洞挖掘中的一些新思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498276&idx=1&sn=0d835ab22d43a106e18e61e17599c391](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498276&idx=1&sn=0d835ab22d43a106e18e61e17599c391) |
-| 11 | 【漏洞通告】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8) |
-| 12 | 四叶草安全助力青海 “三新” 大讲堂！共探网络安全漏洞无效化技术新未来 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553143&idx=1&sn=bd935309d07e29cfff906bb0d9681526](https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553143&idx=1&sn=bd935309d07e29cfff906bb0d9681526) |
-| 13 | 常用的XSS漏洞防御手段 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201) |
+| 1 | 【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) |
+| 2 | 预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) |
+| 3 | 宏景EHR HrChangeInfoService sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 怎么让挖的XSS更值钱？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494710&idx=1&sn=b225017755c827da1c0b0d0ab58e21e3](https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247494710&idx=1&sn=b225017755c827da1c0b0d0ab58e21e3) |
-| 2 | 怎么让挖的XSS更值钱？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=1&sn=af58e10deff417d80995f8024789d09a](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=1&sn=af58e10deff417d80995f8024789d09a) |
-| 3 | 【已复现】用友U8 Cloud存在命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490598&idx=1&sn=f999314215c54184c5da41c66b4e32ef) |
-| 4 | 【免费领】国内第一部XSS跨站脚本攻击技术大全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556426&idx=2&sn=ba3dde1c361aa9f4d8fafeb5dae02052](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556426&idx=2&sn=ba3dde1c361aa9f4d8fafeb5dae02052) |
-| 5 | 【漏洞通告】Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524715&idx=1&sn=229aecfeb03f2d001ffd4b477e4ad3f8) |
-| 6 | 红队视角：内网是如何被一步步打穿的？福利又来了~ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490232&idx=1&sn=2575a8c2e99041092042a3e8c7ba929b](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490232&idx=1&sn=2575a8c2e99041092042a3e8c7ba929b) |
-| 7 | 最简单的手工sql注入案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485439&idx=1&sn=2dcf1721578cb828b46277fab1dabed3](https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485439&idx=1&sn=2dcf1721578cb828b46277fab1dabed3) |
-| 8 | 常用的XSS漏洞防御手段 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=1&sn=55a90164152bec6e74dbb1dfe787b201) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 应急响应详解，非常详细！（附PDF） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=2&sn=f4189f7cf64e7a170ced22cf09874c49](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575110&idx=2&sn=f4189f7cf64e7a170ced22cf09874c49) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 关于对《电力行业外部攻击面安全运营管理指南》团体标准（征求意见稿）征求意见的函 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522718&idx=1&sn=00c66aaf937bbc4522edd7eb3e17932f](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522718&idx=1&sn=00c66aaf937bbc4522edd7eb3e17932f) |
+| 1 | 【高危漏洞预警】用友U8Cloud NCCloudGatewayServlet命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490791&idx=1&sn=ad5cc1117e6d1c8501e0e171e332db07) |
+| 2 | 预警：华天软件Inforcenter PLM uploadFileTolls接口存在任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489260&idx=1&sn=d4a65bf39b22a0cfd961069bc51b1095) |
+| 3 | 宏景EHR HrChangeInfoService sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492855&idx=1&sn=953266622cb2a4b84518d255659637c3) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 四川一科技公司因数据泄露被顶格罚款30万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898258&idx=1&sn=72e0093a764fb5d5862d30f6a9d10efa](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898258&idx=1&sn=72e0093a764fb5d5862d30f6a9d10efa) |
-| 2 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328093&idx=2&sn=387e72240731ad1bbd54064a760fd789) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | GitHub 加固安全机制，防御 NPM 供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=2&sn=0cef1b2f720c9ddb9bc1842f18251ddc](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524071&idx=2&sn=0cef1b2f720c9ddb9bc1842f18251ddc) |
-| 2 | 车联网供应链安全与合规培训课程 2025 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627576&idx=3&sn=18742d148255c0de12146c1a52885233](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627576&idx=3&sn=18742d148255c0de12146c1a52885233) |
+| 1 | 四川一科技公司因数据泄露被顶格罚款30万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7](https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498389&idx=1&sn=678a369abd6bfdb525183e7ec28890a7) |
 
 
 ## 📁 归档路径
@@ -191,8 +111,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -201,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-25 12:39:49*
+*生成时间: 2025-09-25 16:23:30*
 *报告工具: 微信文章安全归档系统*
