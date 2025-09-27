@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,21 +61,9 @@
 
 ### Doonsec
 
-- [国庆节前某红队钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493470&idx=1&sn=e365ca53959f5fdf0008337b74789c3b) (发布日期: 2025-09-27)
-- [恶意软件运营商与秘密的朝鲜 IT 人员合作攻击企业组织](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484640&idx=1&sn=1ea9cddfe390864cf89fa119d3c8e9e4) (发布日期: 2025-09-27)
-- [用友NC changeEvent sql注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352) (发布日期: 2025-09-27)
-- [【安全圈】XCSSET 新变种：专攻苹果 Mac 开发者，窃取加密货币钱包！](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=1&sn=d353548f324e5cf7a32afe5fc67542eb) (发布日期: 2025-09-27)
-- [【安全圈】曝一加氧 OS 12 - 15 系统存严重漏洞，10 月中旬修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=2&sn=86d304cc99574054f117c3198c848b5d) (发布日期: 2025-09-27)
-- [【安全圈】22 岁主谋落网！00 后黑客组建的 DDoS 僵尸网络帝国 RapperBot 被彻底取缔](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=3&sn=d4225f84fddd6c697df15393310f4425) (发布日期: 2025-09-27)
-- [FreeBuf周报 | Chrome高危类型混淆0-Day漏洞技术分析；微软以AI成功对抗AI](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328200&idx=2&sn=9f395331a3fca6bdf373613d0779225b) (发布日期: 2025-09-27)
-- [绕过WAF：追踪源站IP与SQL注入的艺术](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498320&idx=1&sn=aaac6c6ee63bcbdb412334398f8ded90) (发布日期: 2025-09-27)
-- [应对量子计算威胁！格尔软件官网已启用抗量子密码技术](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601199&idx=2&sn=383d55bcfee2d7c96d71a1811163fbca) (发布日期: 2025-09-27)
-- [网络安全自动驾驶离不开SOAR](https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486143&idx=1&sn=2952d7f6755c484af1c0d9e4978dcb5c) (发布日期: 2025-09-27)
-- [Nacos 漏洞利用总结](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712513&idx=1&sn=d92d0b9660b58fc1e2cf2b56effe31af) (发布日期: 2025-09-27)
-- [DDoS攻击防御：构建多层次防护体系的实战指南](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487596&idx=1&sn=12e672de57e1ac389b844879ef63441f) (发布日期: 2025-09-27)
-- [2025年全新网络安全大师班培训（Web安全、攻防渗透、代码审计、云安全等）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575139&idx=2&sn=4e76a99d2580d59b106f04c86ba2dda9) (发布日期: 2025-09-27)
-- [若依（RuoYi）系统常见漏洞整理](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712488&idx=1&sn=d66f414b83f976592ff46caa38e24b0c) (发布日期: 2025-09-27)
-- [prompt注入攻击](https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484183&idx=1&sn=8c49d9fbf2eaab628f2b3f19d33c046c) (发布日期: 2025-09-27)
+- [解读 | 从某电子商务公司旅客购票信息泄露案看企业网络和数据安全保护义务](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637458&idx=2&sn=bc23037d0231e23683d80ac74adb7b6d) (发布日期: 2025-09-27)
+- [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609) (发布日期: 2025-09-27)
+- [用友U8cloud-NCCloudGatewayServlet 反射漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a) (发布日期: 2025-09-27)
 
 
 ## 🎯 威胁详情分析
@@ -86,19 +72,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友NC changeEvent sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352) |
-| 2 | 【安全圈】曝一加氧 OS 12 - 15 系统存严重漏洞，10 月中旬修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=2&sn=86d304cc99574054f117c3198c848b5d](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071914&idx=2&sn=86d304cc99574054f117c3198c848b5d) |
-| 3 | FreeBuf周报 | Chrome高危类型混淆0-Day漏洞技术分析；微软以AI成功对抗AI | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328200&idx=2&sn=9f395331a3fca6bdf373613d0779225b](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328200&idx=2&sn=9f395331a3fca6bdf373613d0779225b) |
-| 4 | Nacos 漏洞利用总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712513&idx=1&sn=d92d0b9660b58fc1e2cf2b56effe31af](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712513&idx=1&sn=d92d0b9660b58fc1e2cf2b56effe31af) |
-| 5 | 若依（RuoYi）系统常见漏洞整理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712488&idx=1&sn=d66f414b83f976592ff46caa38e24b0c](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712488&idx=1&sn=d66f414b83f976592ff46caa38e24b0c) |
+| 1 | 用友U8cloud-NCCloudGatewayServlet 反射漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友NC changeEvent sql注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492874&idx=1&sn=09837b8a01d357546c39558ccccf7352) |
-| 2 | 绕过WAF：追踪源站IP与SQL注入的艺术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498320&idx=1&sn=aaac6c6ee63bcbdb412334398f8ded90](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498320&idx=1&sn=aaac6c6ee63bcbdb412334398f8ded90) |
-| 3 | prompt注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484183&idx=1&sn=8c49d9fbf2eaab628f2b3f19d33c046c](https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484183&idx=1&sn=8c49d9fbf2eaab628f2b3f19d33c046c) |
+| 1 | java 代码审计 - SpEL 表达式注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609) |
 
 
 ## 📁 归档路径
@@ -114,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-27 12:34:21*
+*生成时间: 2025-09-27 16:20:33*
 *报告工具: 微信文章安全归档系统*
