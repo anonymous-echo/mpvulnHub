@@ -2,17 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 1篇
-- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +61,7 @@
 
 ### Doonsec
 
-- [解读 | 从某电子商务公司旅客购票信息泄露案看企业网络和数据安全保护义务](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637458&idx=2&sn=bc23037d0231e23683d80ac74adb7b6d) (发布日期: 2025-09-27)
-- [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609) (发布日期: 2025-09-27)
-- [用友U8cloud-NCCloudGatewayServlet 反射漏洞分析](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a) (发布日期: 2025-09-27)
+- [用友U8 Cloud NCCloudGatewayServlet接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca) (发布日期: 2025-09-27)
 
 
 ## 🎯 威胁详情分析
@@ -72,13 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友U8cloud-NCCloudGatewayServlet 反射漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485521&idx=1&sn=5bd12e2ee5a025e14e00b0013bf7363a) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | java 代码审计 - SpEL 表达式注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485633&idx=1&sn=8a17503ee380163fdf321dd75f8fc609) |
+| 1 | 用友U8 Cloud NCCloudGatewayServlet接口存在任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489286&idx=1&sn=810c0818ea26eb356c0f6e1730378cca) |
 
 
 ## 📁 归档路径
@@ -95,7 +87,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -104,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-27 16:20:33*
+*生成时间: 2025-09-27 20:18:32*
 *报告工具: 微信文章安全归档系统*
