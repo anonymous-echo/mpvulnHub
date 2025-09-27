@@ -2,23 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 14篇
-  - ChainReactors: 2篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **威胁情报**: 2篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 3篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,25 +61,10 @@
 
 ### Doonsec
 
-- [XSS实战案例+HTML XSS利用技巧](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483917&idx=1&sn=dda855852f998df391c414845af7bfef) (发布日期: 2025-09-27)
-- [惊！AI被APT组织反向利用，验证码竟成钓鱼“帮凶”](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486834&idx=1&sn=d1e039441c8ee09a89ee620be8c4c861) (发布日期: 2025-09-27)
-- [安天AVL SDK反病毒引擎升级通告（20250927）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212568&idx=1&sn=f62b32d62e2eb5948f42d5fd2cba1f9a) (发布日期: 2025-09-27)
-- [【一周安全资讯0927】中央网信办部署开展“清朗·整治恶意挑动负面情绪问题”专项行动；22.2Tbps DDoS攻击刷新世界纪录](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508098&idx=1&sn=7bb2c3c33f95ee59d61ffc2116e5d7bc) (发布日期: 2025-09-27)
-- [一个自我成长的AI勒索病毒](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489745&idx=1&sn=d68e9849d497bad70fd1f7748886eadc) (发布日期: 2025-09-27)
-- [2025年第二季度漏洞与利用情况](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487038&idx=1&sn=43ac1dae1a7fe771f1f1ddc9a29ce294) (发布日期: 2025-09-27)
-- [记一期教育众测88w敏感信息泄露](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492876&idx=1&sn=2b0eb7801d4b9262e501fe267ee2d758) (发布日期: 2025-09-27)
-- [dddd自改护网和SRC双用版](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247484942&idx=1&sn=312009db05ed3b414f0655607d46a96f) (发布日期: 2025-09-27)
-- [小灯进阶课程：代码审计进阶实战化专项课](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486835&idx=1&sn=e730328ddee474d26e5eb33011ccca5b) (发布日期: 2025-09-27)
-- [事关金融安全：七国集团网络专家组发布AI与网络安全声明](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247520231&idx=1&sn=e52f35020db4ae8b64c37f379600ea73) (发布日期: 2025-09-27)
-- [沃尔沃集团员工数据遭勒索软件攻击窃取](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501830&idx=1&sn=e0b1c18bb02be10bc645cca2ecc25d32) (发布日期: 2025-09-27)
-- [网安巨头CrowdStrike：AI不会取代安全分析师，原因如下](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612483&idx=1&sn=0e0b1f6a65f3abc2eace564390643856) (发布日期: 2025-09-27)
-- [数据库成为突破口：勒索软件攻击暴露的Oracle服务器](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612483&idx=2&sn=b9a756f1f139992871f935fbf82c81d1) (发布日期: 2025-09-27)
-- [实战必备！30 个任意文件下载漏洞挖掘技巧！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612483&idx=4&sn=13bf224d4aaeedd2407fc5d89c281495) (发布日期: 2025-09-27)
-
-### ChainReactors
-
-- [ ] [NPM供应链攻击“Shai-Hulud”持续发酵：187款NPM包遭攻陷 含自传播恶意载荷](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584747&idx=1&sn=08d7d48ba9f44226ba8dc4a66532e17e) (发布日期: 2025-09-27)
-- [ ] [最新DDoS攻击创纪录：峰值达22.2 Tbps、106亿PPS](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584747&idx=2&sn=d9f364b5e50395a02737d94d65b9c40f) (发布日期: 2025-09-27)
+- [Windows和Linux在CVE-2024-38816下的路径解析差异分析](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485596&idx=1&sn=9c462ab7c43f2545092094aa283bb186) (发布日期: 2025-09-27)
+- [西宁某关键业务信息系统遭攻击！26台服务器感染勒索病毒](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493138&idx=1&sn=56dfc21eac99c89774c659cf6b979f6b) (发布日期: 2025-09-27)
+- [高级渗透测试工程师（招聘）](https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486256&idx=1&sn=8de596a48bcd23a14b4a1a4519a96792) (发布日期: 2025-09-27)
+- [小灯进阶课程：代码审计进阶实战化专项课](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490307&idx=1&sn=4a7d0b81c715b4e100477cf1785e4653) (发布日期: 2025-09-27)
 
 
 ## 🎯 威胁详情分析
@@ -94,33 +73,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2025年第二季度漏洞与利用情况 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487038&idx=1&sn=43ac1dae1a7fe771f1f1ddc9a29ce294](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487038&idx=1&sn=43ac1dae1a7fe771f1f1ddc9a29ce294) |
-| 2 | 实战必备！30 个任意文件下载漏洞挖掘技巧！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612483&idx=4&sn=13bf224d4aaeedd2407fc5d89c281495](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612483&idx=4&sn=13bf224d4aaeedd2407fc5d89c281495) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | XSS实战案例+HTML XSS利用技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483917&idx=1&sn=dda855852f998df391c414845af7bfef](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483917&idx=1&sn=dda855852f998df391c414845af7bfef) |
+| 1 | Windows和Linux在CVE-2024-38816下的路径解析差异分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485596&idx=1&sn=9c462ab7c43f2545092094aa283bb186](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247485596&idx=1&sn=9c462ab7c43f2545092094aa283bb186) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 惊！AI被APT组织反向利用，验证码竟成钓鱼“帮凶” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486834&idx=1&sn=d1e039441c8ee09a89ee620be8c4c861](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486834&idx=1&sn=d1e039441c8ee09a89ee620be8c4c861) |
-| 2 | 一个自我成长的AI勒索病毒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489745&idx=1&sn=d68e9849d497bad70fd1f7748886eadc](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489745&idx=1&sn=d68e9849d497bad70fd1f7748886eadc) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | dddd自改护网和SRC双用版 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247484942&idx=1&sn=312009db05ed3b414f0655607d46a96f](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247484942&idx=1&sn=312009db05ed3b414f0655607d46a96f) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [NPM供应链攻击“Shai-Hulud”持续发酵：187款NPM包遭攻陷 含自传播恶意载荷 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584747&idx=1&sn=08d7d48ba9f44226ba8dc4a66532e17e](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584747&idx=1&sn=08d7d48ba9f44226ba8dc4a66532e17e) |
+| 1 | 西宁某关键业务信息系统遭攻击！26台服务器感染勒索病毒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493138&idx=1&sn=56dfc21eac99c89774c659cf6b979f6b](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493138&idx=1&sn=56dfc21eac99c89774c659cf6b979f6b) |
 
 
 ## 📁 归档路径
@@ -136,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-27 04:21:44*
+*生成时间: 2025-09-27 08:21:33*
 *报告工具: 微信文章安全归档系统*
