@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 23篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 3篇
-- **威胁情报**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 3篇
-- **网络攻击**: 2篇
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,29 +64,20 @@
 
 ### Doonsec
 
-- [CNCERT应急响应分论坛在昆明召开](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500674&idx=1&sn=b5a5ac8fca0fa3f0e59aee3abab89905) (发布日期: 2025-09-28)
-- [惊！英国、美国联手出击，打击 “Scattered Spider” APT组织](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486835&idx=1&sn=2221ef8eed52032f274868612a3e3ced) (发布日期: 2025-09-28)
-- [如何搭建实施“攻击面”安全管理体系](https://mp.weixin.qq.com/s?__biz=MzkzNjkxOTEzNw==&mid=2247485209&idx=1&sn=dd7ac1c436c18077dfe19eb38b6f66dd) (发布日期: 2025-09-28)
-- [CISO调查：AI时代网络安全六大关键趋势](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504173&idx=1&sn=b87a4754b13d2d11110745e73a27b07f) (发布日期: 2025-09-28)
-- [用友U8C IPFxxFileService,IFileTrans文件上传](https://mp.weixin.qq.com/s?__biz=MzU5MjIzMDMzNg==&mid=2247484382&idx=1&sn=fd3ce02c7e3159a546aacfbed1842543) (发布日期: 2025-09-28)
-- [顺利通过CISSP考试](https://mp.weixin.qq.com/s?__biz=MzE5ODQ4Nzg0Mg==&mid=2247483994&idx=1&sn=66875569ead546aa4ac4023d879ab067) (发布日期: 2025-09-28)
-- [任意文件读取/删除漏洞](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524061&idx=1&sn=559a18fe4b84c4980cf2aca716a77fae) (发布日期: 2025-09-28)
-- [用友U8cloud-NCCloudGatewayServlet接口存在任意文件上传+命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e) (发布日期: 2025-09-28)
-- [综合性网络安全检测和运维工具 -- TscanPlus(9月24日更新)](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517370&idx=1&sn=f67e3c2f7dee3f5f703c134ceca69c84) (发布日期: 2025-09-28)
-- [新增48家商用密码检测机构（商用密码应用安全性评估业务）资质申请通过技术评审的机构名单公示](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247521630&idx=1&sn=5ec31ceb62b96c614d99b4d1ed1a7c41) (发布日期: 2025-09-28)
-- [2025年全省网络和数据安全职业技能大赛在合肥盛大启幕](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494358&idx=4&sn=a3df71721ce76809f7d52ba5d29a0a59) (发布日期: 2025-09-28)
-- [链接一批优质应用安全岗位及人才｜9月28日更新](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237799&idx=1&sn=14faed728621fb25a067df88ce16fdbc) (发布日期: 2025-09-28)
-- [实力认证！迪普科技再获“年度协同软硬件优秀漏洞管理企业”](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650383485&idx=1&sn=90280dfc03f9b0a2004f9ab7d664ad81) (发布日期: 2025-09-28)
-- [网安巨头CrowdStrike：AI不会取代安全分析师，原因如下](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248472&idx=1&sn=1841d3bb810ede928bfca9683ac5975b) (发布日期: 2025-09-28)
-- [收集一些安全工具的开源项目](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491658&idx=1&sn=372ddc75fa36075d6c1e1c3d5e715a8c) (发布日期: 2025-09-28)
-- [深度解析：APP渗透的核心漏洞与攻防技巧](https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485445&idx=1&sn=1d2b13ff1ce8f1056e5af411e025d837) (发布日期: 2025-09-28)
-- [我如何通过命令注入接管雅虎收购的生产服务器](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492882&idx=1&sn=fdbb21c64ea2cd8f18bd9493f1c5ab41) (发布日期: 2025-09-28)
-- [程序员故意留下漏洞，这犯法吗？](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247499746&idx=1&sn=9b6da6aec4ec8c320d9f01bc9e485cfc) (发布日期: 2025-09-28)
-- [微软在定向攻击中发现新变种XCSSET macOS恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=1&sn=5a46a8a753ca1145c8ec42a7caae3188) (发布日期: 2025-09-28)
-- [黑客在公开预警前利用Fortra GoAnywhere漏洞发动攻击](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=2&sn=0f60514d784c8045b9bdecab5b8faece) (发布日期: 2025-09-28)
-- [Salesforce Agentforce平台存在ForcedLeak安全漏洞 可通过提示注入攻击暴露CRM数据](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927) (发布日期: 2025-09-28)
-- [英国国家网络安全中心发布警告称，攻击者利用思科防火墙零日漏洞部署RayInitiator和LINE VIPER恶意软件。](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=4&sn=4003e986cdc0cf7e9cec938ecf4a4eea) (发布日期: 2025-09-28)
-- [俄亥俄州联合县遭勒索软件攻击 影响4.5万人](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=5&sn=4597828bb8cd6c8e711b43e7bd1e4f47) (发布日期: 2025-09-28)
+- [喜报！任子行子公司亚鸿世纪入选数据安全产品优秀应用案例](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597519&idx=1&sn=ab74a2f60b4241c498c0cdd56c74c182) (发布日期: 2025-09-28)
+- [供应链安全警钟再鸣！欧洲多地机场遭网络攻击，数百航班延误取消](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533848&idx=2&sn=be44675f769ac980a8dfadb9d7f117e6) (发布日期: 2025-09-28)
+- [服务端请求伪造：Apache Druid 管理代理的那道“后门”（CVE‑2025‑27888）](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484610&idx=1&sn=21a8257ee32e3fab385f2060b2a4428c) (发布日期: 2025-09-28)
+- [宝马遭遇数据泄漏，勒索软件来了，您的企业准备好了吗？](https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247506835&idx=1&sn=28a7f5ee7fb3e7f13ade0db75c2107ca) (发布日期: 2025-09-28)
+- [语雀信息泄露的蝴蝶效应：一场波及多系统的安全渗透案例](https://mp.weixin.qq.com/s?__biz=MzkyNzg4NTU0NQ==&mid=2247485966&idx=1&sn=618107cbf8bb2ba71d32962bd6710aa0) (发布日期: 2025-09-28)
+- [【好靶场】命令执行靶场 第一弹](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486350&idx=1&sn=9245e2d705b98291e9d128bbcd27d7d3) (发布日期: 2025-09-28)
+- [新型NPM包利用QR码获取Cookie的恶意软件](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584761&idx=1&sn=46965f25e6cf361b5e7ccdb6fe058343) (发布日期: 2025-09-28)
+- [用友U8 Cloud NCCloudGatewayServlet 命令执行漏洞(QVD-2025-37484)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4) (发布日期: 2025-09-28)
+- [【web安全】基于Neo-reGeorg的正向隧道搭建](https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485926&idx=1&sn=701bd2c31b06fdf29319902531e0fad9) (发布日期: 2025-09-28)
+- [《国家网络安全事件报告管理办法》要点与建议](https://mp.weixin.qq.com/s?__biz=MzA4MTM0NTcxMg==&mid=2247484821&idx=1&sn=49ee60a5fff48641ea9b46793a7eca92) (发布日期: 2025-09-28)
+- [【首发复现】用友 U8 Cloud FileManageServlet 反序列化漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494860&idx=1&sn=4c014a61bd99cefbf38b8663335e6718) (发布日期: 2025-09-28)
+- [商用密码检测机构（商用密码应用安全性评估业务）资质申请通过技术评审的机构名单公示](https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487155&idx=1&sn=5f72caf2cfdfd34c6645a91ba80a61ff) (发布日期: 2025-09-28)
+- [数据安全防护技术详解](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247484862&idx=1&sn=a5c379604f9694e62146625014a14edc) (发布日期: 2025-09-28)
+- [将 HTML 注入升级为“一键账号接管”](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507734&idx=1&sn=05e35553611b811701fd7a315ab62858) (发布日期: 2025-09-28)
 
 
 ## 🎯 威胁详情分析
@@ -96,29 +86,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 任意文件读取/删除漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524061&idx=1&sn=559a18fe4b84c4980cf2aca716a77fae](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524061&idx=1&sn=559a18fe4b84c4980cf2aca716a77fae) |
-| 2 | 用友U8cloud-NCCloudGatewayServlet接口存在任意文件上传+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e) |
-| 3 | 实力认证！迪普科技再获“年度协同软硬件优秀漏洞管理企业” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650383485&idx=1&sn=90280dfc03f9b0a2004f9ab7d664ad81](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650383485&idx=1&sn=90280dfc03f9b0a2004f9ab7d664ad81) |
-| 4 | 深度解析：APP渗透的核心漏洞与攻防技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485445&idx=1&sn=1d2b13ff1ce8f1056e5af411e025d837](https://mp.weixin.qq.com/s?__biz=MzkzODUzMjA1MQ==&mid=2247485445&idx=1&sn=1d2b13ff1ce8f1056e5af411e025d837) |
-| 5 | 程序员故意留下漏洞，这犯法吗？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247499746&idx=1&sn=9b6da6aec4ec8c320d9f01bc9e485cfc](https://mp.weixin.qq.com/s?__biz=MzU3MjczNzA1Ng==&mid=2247499746&idx=1&sn=9b6da6aec4ec8c320d9f01bc9e485cfc) |
-| 6 | 黑客在公开预警前利用Fortra GoAnywhere漏洞发动攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=2&sn=0f60514d784c8045b9bdecab5b8faece](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=2&sn=0f60514d784c8045b9bdecab5b8faece) |
-| 7 | Salesforce Agentforce平台存在ForcedLeak安全漏洞 可通过提示注入攻击暴露CRM数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927) |
-| 8 | 英国国家网络安全中心发布警告称，攻击者利用思科防火墙零日漏洞部署RayInitiator和LINE VIPER恶意软件。 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=4&sn=4003e986cdc0cf7e9cec938ecf4a4eea](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=4&sn=4003e986cdc0cf7e9cec938ecf4a4eea) |
+| 1 | 服务端请求伪造：Apache Druid 管理代理的那道“后门”（CVE‑2025‑27888） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484610&idx=1&sn=21a8257ee32e3fab385f2060b2a4428c](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484610&idx=1&sn=21a8257ee32e3fab385f2060b2a4428c) |
+| 2 | 用友U8 Cloud NCCloudGatewayServlet 命令执行漏洞(QVD-2025-37484) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4) |
+| 3 | 【首发复现】用友 U8 Cloud FileManageServlet 反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494860&idx=1&sn=4c014a61bd99cefbf38b8663335e6718](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494860&idx=1&sn=4c014a61bd99cefbf38b8663335e6718) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友U8cloud-NCCloudGatewayServlet接口存在任意文件上传+命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e](https://mp.weixin.qq.com/s?__biz=Mzk1Nzg3ODkyNg==&mid=2247484146&idx=1&sn=2c12340e99e08de2f4d3d7cc4d9d4a2e) |
-| 2 | 我如何通过命令注入接管雅虎收购的生产服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492882&idx=1&sn=fdbb21c64ea2cd8f18bd9493f1c5ab41](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492882&idx=1&sn=fdbb21c64ea2cd8f18bd9493f1c5ab41) |
-| 3 | Salesforce Agentforce平台存在ForcedLeak安全漏洞 可通过提示注入攻击暴露CRM数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494910&idx=3&sn=7598cccae6c8beecf11006a208da2927) |
+| 1 | 【好靶场】命令执行靶场 第一弹 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486350&idx=1&sn=9245e2d705b98291e9d128bbcd27d7d3](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486350&idx=1&sn=9245e2d705b98291e9d128bbcd27d7d3) |
+| 2 | 用友U8 Cloud NCCloudGatewayServlet 命令执行漏洞(QVD-2025-37484) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492893&idx=1&sn=afd6db2803f1696826a253888fbcd8e4) |
+| 3 | 将 HTML 注入升级为“一键账号接管” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507734&idx=1&sn=05e35553611b811701fd7a315ab62858](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507734&idx=1&sn=05e35553611b811701fd7a315ab62858) |
 
-### 威胁情报
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CNCERT应急响应分论坛在昆明召开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500674&idx=1&sn=b5a5ac8fca0fa3f0e59aee3abab89905](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500674&idx=1&sn=b5a5ac8fca0fa3f0e59aee3abab89905) |
-| 2 | 惊！英国、美国联手出击，打击 “Scattered Spider” APT组织 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486835&idx=1&sn=2221ef8eed52032f274868612a3e3ced](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486835&idx=1&sn=2221ef8eed52032f274868612a3e3ced) |
+| 1 | 供应链安全警钟再鸣！欧洲多地机场遭网络攻击，数百航班延误取消 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533848&idx=2&sn=be44675f769ac980a8dfadb9d7f117e6](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533848&idx=2&sn=be44675f769ac980a8dfadb9d7f117e6) |
 
 
 ## 📁 归档路径
@@ -134,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -144,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-28 04:21:43*
+*生成时间: 2025-09-28 08:21:32*
 *报告工具: 微信文章安全归档系统*
