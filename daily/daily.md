@@ -1,21 +1,18 @@
-# 2025-09-28 安全威胁态势报告
+# 2025-09-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **攻击技术**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,17 +61,10 @@
 
 ### Doonsec
 
-- [内网渗透(一)：基础知识](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487785&idx=1&sn=9f311d0b79b11c42edf17569f7a964b2) (发布日期: 2025-09-28)
-- [高级渗透测试工程师 技能树](https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247484029&idx=1&sn=15bdedcd7725c7ed10d45ef01f43b24c) (发布日期: 2025-09-28)
-- [【高危漏洞预警】PHPGurukul Small CRM信息泄露漏洞CVE-2025-11053](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490802&idx=1&sn=00575a4d7b745e06fa25758e69407bb7) (发布日期: 2025-09-28)
-- [EasyTools渗透测试工具箱v1.8.9版本更新（心心念念的免杀模块又回来啦）](https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484569&idx=1&sn=738b64433bbf80a94766833060845e13) (发布日期: 2025-09-28)
-- [红队攻防：从0到1搭建高隐蔽性C2基础设施](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247523271&idx=1&sn=21f0f6baaf83a9cc1f2e67da50d485e6) (发布日期: 2025-09-28)
-- [记一次不需要抓包的实战逻辑漏洞](https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483727&idx=1&sn=33402a3835da888bfd4521d93a4c2578) (发布日期: 2025-09-28)
-- [深情版公开课之如何快速挖掘低微漏洞](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494406&idx=1&sn=0ac56c8f16e11a6f1b6e3b0f38286334) (发布日期: 2025-09-28)
-- [MiniWaf使用说明-搓了一个小防火墙](https://mp.weixin.qq.com/s?__biz=MzkzODc1MTU4Mg==&mid=2247484397&idx=1&sn=cc2e1e755c290bce391bafcd94cae225) (发布日期: 2025-09-28)
-- [准备了一个多月，过了CISSP，给大家分享下经验](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519829&idx=1&sn=32d2edfe4eb9e3e5a2776d694d27b2e7) (发布日期: 2025-09-28)
-- [HTB 第九赛季Imagery靶机：XSS+LFI+RCE三洞结合getshell](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485876&idx=1&sn=20b1575d424c67a3f172b3608b6e403e) (发布日期: 2025-09-28)
-- [免费赠送 | 2025国家网络安全宣传周 · 企业员工安全意识资料合集](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247644038&idx=2&sn=e121d5908e475c477ab2704639fa8cc8) (发布日期: 2025-09-28)
+- [工具推荐 | 适用于以APP病毒分析、APP漏洞挖掘、红队渗透测试的移动端辅助分析工具](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495955&idx=1&sn=484dd3168fab8c4dbb19cf3bd602bf4a) (发布日期: 2025-09-29)
+- [2025年野外利用的顶级零日漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118639&idx=2&sn=aaff3a81842b60dd7cc757dfc6dd17fa) (发布日期: 2025-09-29)
+- [Libraesva ESG 发布紧急修复程序，修复已被黑客利用的漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493624&idx=1&sn=26ca6b0cc8815f0847b1d97c3512b551) (发布日期: 2025-09-29)
+- [记一次postgres注入绕过waf](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524073&idx=1&sn=27f3efd7d72fa0f1b44348ba5a59393d) (发布日期: 2025-09-29)
 
 
 ## 🎯 威胁详情分析
@@ -83,21 +73,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】PHPGurukul Small CRM信息泄露漏洞CVE-2025-11053 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490802&idx=1&sn=00575a4d7b745e06fa25758e69407bb7](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490802&idx=1&sn=00575a4d7b745e06fa25758e69407bb7) |
-| 2 | 记一次不需要抓包的实战逻辑漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483727&idx=1&sn=33402a3835da888bfd4521d93a4c2578](https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483727&idx=1&sn=33402a3835da888bfd4521d93a4c2578) |
-| 3 | 深情版公开课之如何快速挖掘低微漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494406&idx=1&sn=0ac56c8f16e11a6f1b6e3b0f38286334](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494406&idx=1&sn=0ac56c8f16e11a6f1b6e3b0f38286334) |
+| 1 | 工具推荐 | 适用于以APP病毒分析、APP漏洞挖掘、红队渗透测试的移动端辅助分析工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495955&idx=1&sn=484dd3168fab8c4dbb19cf3bd602bf4a](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495955&idx=1&sn=484dd3168fab8c4dbb19cf3bd602bf4a) |
+| 2 | 2025年野外利用的顶级零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118639&idx=2&sn=aaff3a81842b60dd7cc757dfc6dd17fa](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118639&idx=2&sn=aaff3a81842b60dd7cc757dfc6dd17fa) |
+| 3 | Libraesva ESG 发布紧急修复程序，修复已被黑客利用的漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493624&idx=1&sn=26ca6b0cc8815f0847b1d97c3512b551](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493624&idx=1&sn=26ca6b0cc8815f0847b1d97c3512b551) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透(一)：基础知识 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487785&idx=1&sn=9f311d0b79b11c42edf17569f7a964b2](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487785&idx=1&sn=9f311d0b79b11c42edf17569f7a964b2) |
-| 2 | HTB 第九赛季Imagery靶机：XSS+LFI+RCE三洞结合getshell | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485876&idx=1&sn=20b1575d424c67a3f172b3608b6e403e](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485876&idx=1&sn=20b1575d424c67a3f172b3608b6e403e) |
+| 1 | 记一次postgres注入绕过waf | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524073&idx=1&sn=27f3efd7d72fa0f1b44348ba5a59393d](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524073&idx=1&sn=27f3efd7d72fa0f1b44348ba5a59393d) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-09/2025-W39/2025-09-28/`
+文章已归档到: `doc/2025/2025-09/2025-W40/2025-09-29/`
 
 ## 🔗 数据源说明
 
@@ -109,7 +98,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-09-28 16:19:44*
+*生成时间: 2025-09-29 01:25:13*
 *报告工具: 微信文章安全归档系统*
