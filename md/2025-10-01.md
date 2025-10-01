@@ -2,20 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,32 +61,41 @@
 
 ### Doonsec
 
-- [论坛资讯 | 张谧教授在外滩大会以“大模型安全治理-JADE助力负责任AI”为题展开分享](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496049&idx=1&sn=07f7bcc328237f81a929b02ac79941b1) (发布日期: 2025-10-01)
-- [CycloneDX：全栈软件供应链安全标准与优势分析](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3) (发布日期: 2025-10-01)
-- [团队官网迎来XSS靶场、小游戏更新，内部知识圈国庆假期优惠](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87) (发布日期: 2025-10-01)
-- [白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) (发布日期: 2025-10-01)
+- [CVE-2025-41243｜Spring Cloud Gateway SpEL表达式注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b) (发布日期: 2025-10-01)
+- [CVE-2025-56383｜Notepad++ DLL劫持漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=2&sn=4866cfe9c76924093aabeaac24a93cd3) (发布日期: 2025-10-01)
+- [反向代理是什么？ZeroNews 如何帮你实现安全内网穿透](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515434&idx=1&sn=453d23a255ee52fa84125faf248e5002) (发布日期: 2025-10-01)
+- [【安全圈】新型 Android 银行木马 \"Klopatra\" 利用隐藏的 VNC 控制感染的智能手机](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652071990&idx=3&sn=d6e91ead209debcf30202f32087ecb77) (发布日期: 2025-10-01)
+- [内网安全漏洞有多可怕？一人失误，全公司沦陷](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35) (发布日期: 2025-10-01)
+- [特斯拉车载通信单元漏洞使攻击者可获取Root权限](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=1&sn=690643e23ada06629662057fec498777) (发布日期: 2025-10-01)
+- [Linux内核6.17正式发布，修复高危UAF漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=3&sn=e83dc08ed6f79d4042f634d8d1041c12) (发布日期: 2025-10-01)
+- [今日政务数据安全处理要求国标实施](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501885&idx=1&sn=66d7bb5071908b61e2883983efcf05e7) (发布日期: 2025-10-01)
+- [任意文件读取&下载漏洞的全面解析及利用](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485370&idx=1&sn=a703e4d803fa36d58fb22449009117da) (发布日期: 2025-10-01)
+- [渗透测试之靶场pikachu安装](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=1&sn=7137d1108c3e95da0ec5e7cb1b0650a0) (发布日期: 2025-10-01)
+- [盘点Web常见漏洞，覆盖80%的渗透场景！（附PDF）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=2&sn=13003c5c8186ed6e3eb9affc8301b266) (发布日期: 2025-10-01)
+- [基于网络信任实现车联网OTA升级的安全合规策略](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627677&idx=1&sn=1adfcd3f585273ff7d959505d3ec5598) (发布日期: 2025-10-01)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2025-41243｜Spring Cloud Gateway SpEL表达式注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b) |
+| 2 | CVE-2025-56383｜Notepad++ DLL劫持漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=2&sn=4866cfe9c76924093aabeaac24a93cd3](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=2&sn=4866cfe9c76924093aabeaac24a93cd3) |
+| 3 | 内网安全漏洞有多可怕？一人失误，全公司沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35) |
+| 4 | 特斯拉车载通信单元漏洞使攻击者可获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=1&sn=690643e23ada06629662057fec498777](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=1&sn=690643e23ada06629662057fec498777) |
+| 5 | Linux内核6.17正式发布，修复高危UAF漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=3&sn=e83dc08ed6f79d4042f634d8d1041c12](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328330&idx=3&sn=e83dc08ed6f79d4042f634d8d1041c12) |
+| 6 | 任意文件读取&下载漏洞的全面解析及利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485370&idx=1&sn=a703e4d803fa36d58fb22449009117da](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485370&idx=1&sn=a703e4d803fa36d58fb22449009117da) |
+| 7 | 盘点Web常见漏洞，覆盖80%的渗透场景！（附PDF） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=2&sn=13003c5c8186ed6e3eb9affc8301b266](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575111&idx=2&sn=13003c5c8186ed6e3eb9affc8301b266) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 团队官网迎来XSS靶场、小游戏更新，内部知识圈国庆假期优惠 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87) |
-| 2 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CycloneDX：全栈软件供应链安全标准与优势分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3) |
+| 1 | CVE-2025-41243｜Spring Cloud Gateway SpEL表达式注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486199&idx=1&sn=e6c0fe2687ace7c1360dc26da090a58b) |
+| 2 | 反向代理是什么？ZeroNews 如何帮你实现安全内网穿透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515434&idx=1&sn=453d23a255ee52fa84125faf248e5002](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515434&idx=1&sn=453d23a255ee52fa84125faf248e5002) |
+| 3 | 内网安全漏洞有多可怕？一人失误，全公司沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487600&idx=1&sn=a8a1deae35d37912fdedaba588ed1d35) |
 
 
 ## 📁 归档路径
@@ -105,8 +111,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-01 08:26:00*
+*生成时间: 2025-10-01 12:40:57*
 *报告工具: 微信文章安全归档系统*
