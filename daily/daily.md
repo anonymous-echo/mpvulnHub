@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,21 +62,15 @@
 
 ### Doonsec
 
-- [智能安全推理引擎实测：SQL注入识别准确率突破90.3%！](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514961&idx=1&sn=1f46f659ed53f28f73f598ec5db982d6) (发布日期: 2025-10-01)
-- [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058) (发布日期: 2025-10-01)
-- [USRC祝各位中秋国庆双节快乐！](https://mp.weixin.qq.com/s?__biz=MzI4Njc3NjczNg==&mid=2247486306&idx=1&sn=d179578fd2484bcd2284f18cb73fb996) (发布日期: 2025-10-01)
-- [Google Gemini现漏洞“三重奏”：AI秒变攻击工具](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514193&idx=2&sn=06555206b12cc1373bd17720e08e6aca) (发布日期: 2025-10-01)
-- [2025最新！Linux常用10种提权方法复现，w字解析](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505719&idx=1&sn=25a0fec48b9011f2d7253c1eba84a739) (发布日期: 2025-10-01)
-- [渗透测试 | 登录模块测试【详细版】](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488882&idx=1&sn=e0b89c78f548772cf2f7ec23f7f36feb) (发布日期: 2025-10-01)
-- [某医药管理系统代码审计之水平越权](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488890&idx=1&sn=8291812a7a249c0519ca290a23d3dcd8) (发布日期: 2025-10-01)
-- [2025.11截稿的密码学与信息安全会议](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247495058&idx=1&sn=02219174274fc621d339676cf6e705ac) (发布日期: 2025-10-01)
-- [【S&P 2026】Nov 13@San Francisco, USA](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247495058&idx=2&sn=85c1467cbea97a65079ed27b01245c7e) (发布日期: 2025-10-01)
-- [【ACISP 2026】Nov 27@Perth, Australia](https://mp.weixin.qq.com/s?__biz=MzI2NTUyODMwNA==&mid=2247495058&idx=4&sn=e465286e24a50aa27247b878ee3c87f8) (发布日期: 2025-10-01)
-- [漏洞情报 | 0 Day 科汛新职教网校系统 SaveRoomGroupList 存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc) (发布日期: 2025-10-01)
-- [SSRF漏洞常见功能点总结](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486515&idx=1&sn=d8ba7a406e4b9a7606fa70c48bb3993f) (发布日期: 2025-10-01)
-- [BitLocker-微软全盘加密](https://mp.weixin.qq.com/s?__biz=MzI2NDI0MjA1MQ==&mid=2247484980&idx=1&sn=06ad99c860a08f1702bd22325342f13e) (发布日期: 2025-10-01)
-- [红队演习](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247518755&idx=1&sn=13d144b98ba1c7462cfa63ed37241ed1) (发布日期: 2025-10-01)
-- [Cloudflare 抗住了创纪录的 22.2 Tbps DDoS 攻击](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493626&idx=1&sn=33897db0705d91d50f91b172f62e1956) (发布日期: 2025-10-01)
+- [警惕！朝鲜黑客Lazarus用Git漏洞布下“面试陷阱”，克隆代码就中招，加密圈已成重灾区](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89) (发布日期: 2025-10-01)
+- [第十八届中国密码学会年会论文、报告征集通知](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505977&idx=2&sn=d84dfd5f2c06ab04f8615794359f3a5a) (发布日期: 2025-10-01)
+- [360SRC祝白帽师傅们中秋节&国庆节双节快乐](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893) (发布日期: 2025-10-01)
+- [【安全月报】| 9 月加密货币安全事件造成 1.16 亿美元损失](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489905&idx=1&sn=88b3f47d2580c358868b6ba65f9557da) (发布日期: 2025-10-01)
+- [思科爆出致命零日漏洞！超200万设备面临远程代码执行风险](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) (发布日期: 2025-10-01)
+- [干货分享 | 记一次挖矿木马+隐藏后门应急分析（建议收藏）](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=3&sn=5bd054ccf081aab108e026e6632e7a8f) (发布日期: 2025-10-01)
+- [记一次小程序从越权到任意用户登录漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710) (发布日期: 2025-10-01)
+- [美国NSA 上报两个VMware NSX 高危漏洞](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de) (发布日期: 2025-10-01)
+- [神州希望协助海口市市场监督管理局开展网络安全意识培训](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726128&idx=1&sn=8afd1adb487d00f90c965327eab8fdb8) (发布日期: 2025-10-01)
 
 
 ## 🎯 威胁详情分析
@@ -87,25 +79,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058) |
-| 2 | Google Gemini现漏洞“三重奏”：AI秒变攻击工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514193&idx=2&sn=06555206b12cc1373bd17720e08e6aca](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514193&idx=2&sn=06555206b12cc1373bd17720e08e6aca) |
-| 3 | 2025最新！Linux常用10种提权方法复现，w字解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505719&idx=1&sn=25a0fec48b9011f2d7253c1eba84a739](https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247505719&idx=1&sn=25a0fec48b9011f2d7253c1eba84a739) |
-| 4 | 漏洞情报 | 0 Day 科汛新职教网校系统 SaveRoomGroupList 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc) |
-| 5 | SSRF漏洞常见功能点总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486515&idx=1&sn=d8ba7a406e4b9a7606fa70c48bb3993f](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247486515&idx=1&sn=d8ba7a406e4b9a7606fa70c48bb3993f) |
+| 1 | 警惕！朝鲜黑客Lazarus用Git漏洞布下“面试陷阱”，克隆代码就中招，加密圈已成重灾区 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89) |
+| 2 | 思科爆出致命零日漏洞！超200万设备面临远程代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) |
+| 3 | 记一次小程序从越权到任意用户登录漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710) |
+| 4 | 美国NSA 上报两个VMware NSX 高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 智能安全推理引擎实测：SQL注入识别准确率突破90.3%！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514961&idx=1&sn=1f46f659ed53f28f73f598ec5db982d6](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514961&idx=1&sn=1f46f659ed53f28f73f598ec5db982d6) |
-| 2 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497393&idx=1&sn=fbb6d09a3d08478441e237a99df97058) |
-| 3 | 漏洞情报 | 0 Day 科汛新职教网校系统 SaveRoomGroupList 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483948&idx=1&sn=06d11d4faaa79a8a12762909242e1fbc) |
+| 1 | 思科爆出致命零日漏洞！超200万设备面临远程代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | USRC祝各位中秋国庆双节快乐！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4Njc3NjczNg==&mid=2247486306&idx=1&sn=d179578fd2484bcd2284f18cb73fb996](https://mp.weixin.qq.com/s?__biz=MzI4Njc3NjczNg==&mid=2247486306&idx=1&sn=d179578fd2484bcd2284f18cb73fb996) |
+| 1 | 360SRC祝白帽师傅们中秋节&国庆节双节快乐 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893) |
 
 
 ## 📁 归档路径
@@ -121,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-01 01:40:13*
+*生成时间: 2025-10-01 04:21:51*
 *报告工具: 微信文章安全归档系统*
