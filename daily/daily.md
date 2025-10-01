@@ -2,18 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,39 +64,32 @@
 
 ### Doonsec
 
-- [警惕！朝鲜黑客Lazarus用Git漏洞布下“面试陷阱”，克隆代码就中招，加密圈已成重灾区](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89) (发布日期: 2025-10-01)
-- [第十八届中国密码学会年会论文、报告征集通知](https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505977&idx=2&sn=d84dfd5f2c06ab04f8615794359f3a5a) (发布日期: 2025-10-01)
-- [360SRC祝白帽师傅们中秋节&国庆节双节快乐](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893) (发布日期: 2025-10-01)
-- [【安全月报】| 9 月加密货币安全事件造成 1.16 亿美元损失](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247489905&idx=1&sn=88b3f47d2580c358868b6ba65f9557da) (发布日期: 2025-10-01)
-- [思科爆出致命零日漏洞！超200万设备面临远程代码执行风险](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) (发布日期: 2025-10-01)
-- [干货分享 | 记一次挖矿木马+隐藏后门应急分析（建议收藏）](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=3&sn=5bd054ccf081aab108e026e6632e7a8f) (发布日期: 2025-10-01)
-- [记一次小程序从越权到任意用户登录漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710) (发布日期: 2025-10-01)
-- [美国NSA 上报两个VMware NSX 高危漏洞](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de) (发布日期: 2025-10-01)
-- [神州希望协助海口市市场监督管理局开展网络安全意识培训](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726128&idx=1&sn=8afd1adb487d00f90c965327eab8fdb8) (发布日期: 2025-10-01)
+- [论坛资讯 | 张谧教授在外滩大会以“大模型安全治理-JADE助力负责任AI”为题展开分享](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496049&idx=1&sn=07f7bcc328237f81a929b02ac79941b1) (发布日期: 2025-10-01)
+- [CycloneDX：全栈软件供应链安全标准与优势分析](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3) (发布日期: 2025-10-01)
+- [团队官网迎来XSS靶场、小游戏更新，内部知识圈国庆假期优惠](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87) (发布日期: 2025-10-01)
+- [白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) (发布日期: 2025-10-01)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 警惕！朝鲜黑客Lazarus用Git漏洞布下“面试陷阱”，克隆代码就中招，加密圈已成重灾区 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486850&idx=1&sn=1b98e8d4d52f02666ca9fcc3634e3a89) |
-| 2 | 思科爆出致命零日漏洞！超200万设备面临远程代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) |
-| 3 | 记一次小程序从越权到任意用户登录漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492893&idx=1&sn=e2894e5e7cd5bf7ede2521908beff710) |
-| 4 | 美国NSA 上报两个VMware NSX 高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182861&idx=1&sn=84cc86a44ee610080fb7bc7811cbb0de) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 思科爆出致命零日漏洞！超200万设备面临远程代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612569&idx=2&sn=77b66cac8f7929d316f5e457b3fbb349) |
+| 1 | 团队官网迎来XSS靶场、小游戏更新，内部知识圈国庆假期优惠 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247488931&idx=1&sn=c65ddc55f9a065726657b7a020164f87) |
+| 2 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) |
 
-### 安全运营
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 360SRC祝白帽师傅们中秋节&国庆节双节快乐 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893](https://mp.weixin.qq.com/s?__biz=MzkzOTIyMzYyMg==&mid=2247495562&idx=1&sn=0cbe6b36ff555061b2828e5b10416893) |
+| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492746&idx=1&sn=5299f5f51fdcac40b1b4392bf65ef8fb) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CycloneDX：全栈软件供应链安全标准与优势分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487512&idx=1&sn=3ab4a889b0642bfceca4e553e81a31c3) |
 
 
 ## 📁 归档路径
@@ -110,8 +105,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-01 04:21:51*
+*生成时间: 2025-10-01 08:26:00*
 *报告工具: 微信文章安全归档系统*
