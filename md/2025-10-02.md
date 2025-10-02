@@ -9,9 +9,14 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,12 +65,12 @@
 
 ### Doonsec
 
-- [【漏洞速递】CVE-2025-32463 Linux 高危提权漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63) (发布日期: 2025-10-02)
-- [IOT系列—DIR-823X路由漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc) (发布日期: 2025-10-02)
-- [IOT系列—DIR-823X路由漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75) (发布日期: 2025-10-02)
-- [使用这个工具的人现在是内核级别的作弊开发人员、逆向工程师和恶意软件开发人员](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491991&idx=1&sn=fb560eaff34f6e08387f8eb63221a58e) (发布日期: 2025-10-02)
-- [小灯进阶课程：代码审计进阶实战化专项课](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488635&idx=1&sn=b1a9ed4b21e3cf0e235ac5c3216b0039) (发布日期: 2025-10-02)
-- [从风险清单到治理体系：人工智能安全治理框架的演进逻辑分析](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247507780&idx=1&sn=193ebb778af7d29cf042bd34c79eb8ed) (发布日期: 2025-10-02)
+- [利用Telegram等安装程序传播银狐最新攻击样本](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493516&idx=1&sn=71e74fa2475a90a2436277224b81679e) (发布日期: 2025-10-02)
+- [【安全圈】Red Hat 疑遭重大数据泄露：黑客声称窃取 28,000 私有仓库](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=2&sn=ea171ac0706e3472fa75ae5d91e2d2eb) (发布日期: 2025-10-02)
+- [记一次edusrc超级简单的rce挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c) (发布日期: 2025-10-02)
+- [SOC走向AI自动化面临的关键挑战与解决方案](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328350&idx=1&sn=39fbb85a92739c0ed3a8f72e8fb66b81) (发布日期: 2025-10-02)
+- [思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328350&idx=2&sn=22d42b4d56669eb3ac3ee3eb2dbad4d5) (发布日期: 2025-10-02)
+- [从 低危 到 RCE](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518) (发布日期: 2025-10-02)
 
 
 ## 🎯 威胁详情分析
@@ -74,9 +79,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞速递】CVE-2025-32463 Linux 高危提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63) |
-| 2 | IOT系列—DIR-823X路由漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc) |
-| 3 | IOT系列—DIR-823X路由漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75) |
+| 1 | 思科防火墙曝重大0Day漏洞（CVE-2025-20333），48800余个设备可能遭攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328350&idx=2&sn=22d42b4d56669eb3ac3ee3eb2dbad4d5](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328350&idx=2&sn=22d42b4d56669eb3ac3ee3eb2dbad4d5) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次edusrc超级简单的rce挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c) |
+| 2 | 从 低危 到 RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498345&idx=1&sn=7b1cbb0cf5a53b15026fa7cef9af0518) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 利用Telegram等安装程序传播银狐最新攻击样本 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493516&idx=1&sn=71e74fa2475a90a2436277224b81679e](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493516&idx=1&sn=71e74fa2475a90a2436277224b81679e) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次edusrc超级简单的rce挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485384&idx=1&sn=5d2080e06cf48fd830f9571de952270c) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】Red Hat 疑遭重大数据泄露：黑客声称窃取 28,000 私有仓库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=2&sn=ea171ac0706e3472fa75ae5d91e2d2eb](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072005&idx=2&sn=ea171ac0706e3472fa75ae5d91e2d2eb) |
 
 
 ## 📁 归档路径
@@ -92,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -102,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-02 08:24:07*
+*生成时间: 2025-10-02 12:37:25*
 *报告工具: 微信文章安全归档系统*
