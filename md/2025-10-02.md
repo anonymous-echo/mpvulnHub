@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +60,12 @@
 
 ### Doonsec
 
-- [AI编程新漏洞？一个.cursor文件夹正把你的API密钥泄露给黑客！](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132) (发布日期: 2025-10-02)
-- [复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) (发布日期: 2025-10-02)
-- [【渗透测试技巧1】 海康、蓝凌、金蝶、WebLogic 等系统核心配置文件速查手册](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492897&idx=1&sn=665450f4dd3b93eb34990c7fa17418fd) (发布日期: 2025-10-02)
-- [【附靶场地址】提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648) (发布日期: 2025-10-02)
-- [黑客攻陷美国政府的数百台思科防火墙|Medusa勒索软件团伙声称攻击Comcast，索要120万美元赎金](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=1&sn=90fae1aa341c2004f9054cbc904feffb) (发布日期: 2025-10-02)
-- [Top 25 MCP 漏洞揭示： AI 代理可被利用的方式](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368) (发布日期: 2025-10-02)
-- [记一次Android 恶意软件逆向及Frida动态分析](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=4&sn=d8f87a84da65259330275123a2cb3b64) (发布日期: 2025-10-02)
-- [国庆快乐！[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45) (发布日期: 2025-10-02)
+- [【漏洞速递】CVE-2025-32463 Linux 高危提权漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63) (发布日期: 2025-10-02)
+- [IOT系列—DIR-823X路由漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc) (发布日期: 2025-10-02)
+- [IOT系列—DIR-823X路由漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75) (发布日期: 2025-10-02)
+- [使用这个工具的人现在是内核级别的作弊开发人员、逆向工程师和恶意软件开发人员](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491991&idx=1&sn=fb560eaff34f6e08387f8eb63221a58e) (发布日期: 2025-10-02)
+- [小灯进阶课程：代码审计进阶实战化专项课](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488635&idx=1&sn=b1a9ed4b21e3cf0e235ac5c3216b0039) (发布日期: 2025-10-02)
+- [从风险清单到治理体系：人工智能安全治理框架的演进逻辑分析](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247507780&idx=1&sn=193ebb778af7d29cf042bd34c79eb8ed) (发布日期: 2025-10-02)
 
 
 ## 🎯 威胁详情分析
@@ -80,27 +74,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI编程新漏洞？一个.cursor文件夹正把你的API密钥泄露给黑客！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132) |
-| 2 | Top 25 MCP 漏洞揭示： AI 代理可被利用的方式 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368) |
-| 3 | 国庆快乐！[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【附靶场地址】提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) |
+| 1 | 【漏洞速递】CVE-2025-32463 Linux 高危提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485883&idx=1&sn=9e798b642bbe9bd9c4d217da38d87c63) |
+| 2 | IOT系列—DIR-823X路由漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483748&idx=1&sn=d37a69d23c7c553c02bd8eb6fd9dffdc) |
+| 3 | IOT系列—DIR-823X路由漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75](https://mp.weixin.qq.com/s?__biz=MzU2OTcwMjMwOQ==&mid=2247483746&idx=1&sn=0e7b07ff75b7193bd7d72a0f2a4c6a75) |
 
 
 ## 📁 归档路径
@@ -117,7 +93,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -126,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-02 04:21:12*
+*生成时间: 2025-10-02 08:24:07*
 *报告工具: 微信文章安全归档系统*
