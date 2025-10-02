@@ -2,9 +2,9 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
@@ -12,6 +12,7 @@
 - **漏洞利用**: 3篇
 - **攻击技术**: 1篇
 - **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **网络攻击**: 1篇
@@ -63,17 +64,14 @@
 
 ### Doonsec
 
-- [【密码学】基于计算困难性的密码学](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492753&idx=1&sn=8bc8b6453ca3b016a7ba8d793c73cb5f) (发布日期: 2025-10-02)
-- [宇树机器人被曝可感染蠕虫漏洞，机器人之间可相互感染，官方做出回应](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898268&idx=1&sn=69d8c60d59dded1a7c11cfd13ce96bd5) (发布日期: 2025-10-02)
-- [精彩案例｜情报分析如何做到从已知发现未知](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247494927&idx=1&sn=3f4dc6a70ae8e7e5726fa1c9d1a93044) (发布日期: 2025-10-02)
-- [美国空军确认发生关键个人PII数据泄露](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514207&idx=1&sn=7cda3a421fde3a458afd0cd1b85c574b) (发布日期: 2025-10-02)
-- [美国政府关门：情报共享与网络防御怎么办？](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514207&idx=2&sn=48db1a7108598965fa7489024d3ea50d) (发布日期: 2025-10-02)
-- [个人信息跨境安全管理迎来国家标准](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491925&idx=1&sn=9e470e3b8202375bb2b3dd02d0e04bba) (发布日期: 2025-10-02)
-- [记一次简单的Jboss内网渗透](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487987&idx=1&sn=9e368603c0ecc793f8d12a0aa3db71e0) (发布日期: 2025-10-02)
-- [Linux Kernel 6.17发布，修复 UAF 漏洞](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=1&sn=51b8c7ed1d7ffcecc62b6daf7fd44e49) (发布日期: 2025-10-02)
-- [CISA警告Linux Sudo漏洞可能被利用进行攻击](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=2&sn=b68b0ccbbe5d58f2622843719c0f7396) (发布日期: 2025-10-02)
-- [勒索软件攻击导致欧洲机场运营中断](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493627&idx=1&sn=3dfb5c23e6a32fa4684926d60b1ce4ba) (发布日期: 2025-10-02)
-- [渗透测试靶场资源集合](https://mp.weixin.qq.com/s?__biz=MzU5ODMzMzc5MQ==&mid=2247486667&idx=1&sn=9c85e780878924c8e114c90c5bc97e28) (发布日期: 2025-10-02)
+- [AI编程新漏洞？一个.cursor文件夹正把你的API密钥泄露给黑客！](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132) (发布日期: 2025-10-02)
+- [复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) (发布日期: 2025-10-02)
+- [【渗透测试技巧1】 海康、蓝凌、金蝶、WebLogic 等系统核心配置文件速查手册](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492897&idx=1&sn=665450f4dd3b93eb34990c7fa17418fd) (发布日期: 2025-10-02)
+- [【附靶场地址】提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648) (发布日期: 2025-10-02)
+- [黑客攻陷美国政府的数百台思科防火墙|Medusa勒索软件团伙声称攻击Comcast，索要120万美元赎金](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=1&sn=90fae1aa341c2004f9054cbc904feffb) (发布日期: 2025-10-02)
+- [Top 25 MCP 漏洞揭示： AI 代理可被利用的方式](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368) (发布日期: 2025-10-02)
+- [记一次Android 恶意软件逆向及Frida动态分析](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=4&sn=d8f87a84da65259330275123a2cb3b64) (发布日期: 2025-10-02)
+- [国庆快乐！[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45) (发布日期: 2025-10-02)
 
 
 ## 🎯 威胁详情分析
@@ -82,21 +80,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 宇树机器人被曝可感染蠕虫漏洞，机器人之间可相互感染，官方做出回应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898268&idx=1&sn=69d8c60d59dded1a7c11cfd13ce96bd5](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898268&idx=1&sn=69d8c60d59dded1a7c11cfd13ce96bd5) |
-| 2 | Linux Kernel 6.17发布，修复 UAF 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=1&sn=51b8c7ed1d7ffcecc62b6daf7fd44e49](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=1&sn=51b8c7ed1d7ffcecc62b6daf7fd44e49) |
-| 3 | CISA警告Linux Sudo漏洞可能被利用进行攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=2&sn=b68b0ccbbe5d58f2622843719c0f7396](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118735&idx=2&sn=b68b0ccbbe5d58f2622843719c0f7396) |
+| 1 | AI编程新漏洞？一个.cursor文件夹正把你的API密钥泄露给黑客！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485483&idx=1&sn=9fbf76d83bdb1692ba51b28a886bf132) |
+| 2 | Top 25 MCP 漏洞揭示： AI 代理可被利用的方式 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612570&idx=3&sn=e7287d9474ba30e0c16f5c2e46f34368) |
+| 3 | 国庆快乐！[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500730&idx=1&sn=9359046f3a5c09e927a5de9e11ffbb45) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次简单的Jboss内网渗透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487987&idx=1&sn=9e368603c0ecc793f8d12a0aa3db71e0](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487987&idx=1&sn=9e368603c0ecc793f8d12a0aa3db71e0) |
+| 1 | 【附靶场地址】提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497482&idx=1&sn=33df41ddff6416879eaa798b982d7648) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 美国空军确认发生关键个人PII数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514207&idx=1&sn=7cda3a421fde3a458afd0cd1b85c574b](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514207&idx=1&sn=7cda3a421fde3a458afd0cd1b85c574b) |
+| 1 | 复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 复盘沃尔沃员工数据泄露：一次由人力资源软件供应商引爆的供应链安全危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504082&idx=1&sn=322876d18904f1c10e945662323d8584) |
 
 
 ## 📁 归档路径
@@ -122,5 +126,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-02 01:21:41*
+*生成时间: 2025-10-02 04:21:12*
 *报告工具: 微信文章安全归档系统*
