@@ -2,14 +2,13 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
 - **威胁情报**: 1篇
 
@@ -63,34 +62,22 @@
 
 ### Doonsec
 
-- [尼泊尔抗议背后藏“数字陷阱”！南亚地区APT组织响尾蛇(Sidewinder)借动荡散布恶意软件，手机点一下就中招](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486853&idx=1&sn=399e9369836d1623aa27f849e16b0d3f) (发布日期: 2025-10-03)
-- [深入解读｜《人工智能安全治理框架》2.0](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247533937&idx=1&sn=8cb222a97910c86e76665c366126f4b2) (发布日期: 2025-10-03)
-- [挖洞神兵利器：用这些插件武装你的浏览器&burpsuite，高效精准打击漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483681&idx=1&sn=309930f4cd17044b450322d35740d442) (发布日期: 2025-10-03)
-- [SOC走向AI自动化面临的关键挑战与解决方案](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524094&idx=1&sn=07241ba81200ddacecc78b99c3c6e82b) (发布日期: 2025-10-03)
-- [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500734&idx=1&sn=ea802123ae2af52469d8bceba7099077) (发布日期: 2025-10-03)
-- [iOS 0Day漏洞（CVE-2025-24085）相关PoC利用细节已公开](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612574&idx=1&sn=e5e7550cd045ead884ecba638984278d) (发布日期: 2025-10-03)
+- [白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) (发布日期: 2025-10-03)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 挖洞神兵利器：用这些插件武装你的浏览器&burpsuite，高效精准打击漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483681&idx=1&sn=309930f4cd17044b450322d35740d442](https://mp.weixin.qq.com/s?__biz=Mzk5MDg2NTQyOA==&mid=2247483681&idx=1&sn=309930f4cd17044b450322d35740d442) |
-| 2 | iOS 0Day漏洞（CVE-2025-24085）相关PoC利用细节已公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612574&idx=1&sn=e5e7550cd045ead884ecba638984278d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612574&idx=1&sn=e5e7550cd045ead884ecba638984278d) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | .NET 实战攻防电子报刊，从内网基础到高阶实战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500734&idx=1&sn=ea802123ae2af52469d8bceba7099077](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500734&idx=1&sn=ea802123ae2af52469d8bceba7099077) |
+| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 尼泊尔抗议背后藏“数字陷阱”！南亚地区APT组织响尾蛇(Sidewinder)借动荡散布恶意软件，手机点一下就中招 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486853&idx=1&sn=399e9369836d1623aa27f849e16b0d3f](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486853&idx=1&sn=399e9369836d1623aa27f849e16b0d3f) |
+| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) |
 
 
 ## 📁 归档路径
@@ -106,7 +93,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
 - **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -116,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-03 04:21:53*
+*生成时间: 2025-10-03 08:23:41*
 *报告工具: 微信文章安全归档系统*
