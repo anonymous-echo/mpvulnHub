@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 1篇
+- **漏洞利用**: 5篇
+- **安全运营**: 2篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,22 +62,43 @@
 
 ### Doonsec
 
-- [白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) (发布日期: 2025-10-03)
+- [edusrc某学校百万信息泄露](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484155&idx=1&sn=8428ceeca93d865b10176d0b55982272) (发布日期: 2025-10-03)
+- [【安全圈】宇树机器人被曝漏洞，机器人之间可相互感染，官方火速回应](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=1&sn=903a5c3350515549335d8905e6666e91) (发布日期: 2025-10-03)
+- [【安全圈】恶意软件 LockBit “升级”至 5.0 版本，同时针对多种系统环境](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=3&sn=1b40dd1283b8123c44a2bd61f1e7fb28) (发布日期: 2025-10-03)
+- [记一次PHP代码审计](https://mp.weixin.qq.com/s?__biz=MzkyOTkwODU5Mw==&mid=2247483916&idx=1&sn=3f63d9e6baaaf3700782aa0d0d6b062e) (发布日期: 2025-10-03)
+- [VMware Workstation虚拟机逃逸漏洞PoC利用代码公开](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=2&sn=e1b9d2e7a57675d9534901953c705b0e) (发布日期: 2025-10-03)
+- [Linux/Android内核零日漏洞深度分析（CVE-2025-38352）](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=3&sn=38d9251ddbbb9a8f4b282c5f0ba4142b) (发布日期: 2025-10-03)
+- [系统安全架构之车辆网络安全架构](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560474&idx=1&sn=d21f83d4cbbcd2fe51475a4a07723f30) (发布日期: 2025-10-03)
+- [漏洞挖掘|从edusrc转战到企业src的漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24) (发布日期: 2025-10-03)
+- [如何利用 AI 快速发现漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3) (发布日期: 2025-10-03)
+- [码住！一次把CISP认证说清楚](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575140&idx=1&sn=c5ba1709b370a6f47047f611e64f17e9) (发布日期: 2025-10-03)
+- [安全威胁情报周报（2025/09/27-2025/10/03）](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492745&idx=1&sn=430a96db785ad1cc8beed7ebf1fc4f83) (发布日期: 2025-10-03)
 
 
 ## 🎯 威胁详情分析
 
-### 攻击技术
+### 漏洞利用
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) |
+| 1 | 【安全圈】宇树机器人被曝漏洞，机器人之间可相互感染，官方火速回应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=1&sn=903a5c3350515549335d8905e6666e91](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072021&idx=1&sn=903a5c3350515549335d8905e6666e91) |
+| 2 | VMware Workstation虚拟机逃逸漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=2&sn=e1b9d2e7a57675d9534901953c705b0e](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=2&sn=e1b9d2e7a57675d9534901953c705b0e) |
+| 3 | Linux/Android内核零日漏洞深度分析（CVE-2025-38352） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=3&sn=38d9251ddbbb9a8f4b282c5f0ba4142b](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328364&idx=3&sn=38d9251ddbbb9a8f4b282c5f0ba4142b) |
+| 4 | 漏洞挖掘|从edusrc转战到企业src的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24) |
+| 5 | 如何利用 AI 快速发现漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498349&idx=1&sn=46aba306ad4aa0addb841235161980e3) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 白象APT现形记：伪装成简历的“核按钮”一旦点开，内网瞬间被踩穿！三步溯源，看幕后巨象如何轰然倒地 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485414&idx=1&sn=6314b6b60f6420e5facd7ea6cff9a1db) |
+| 1 | 安全威胁情报周报（2025/09/27-2025/10/03） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492745&idx=1&sn=430a96db785ad1cc8beed7ebf1fc4f83](https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492745&idx=1&sn=430a96db785ad1cc8beed7ebf1fc4f83) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | edusrc某学校百万信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484155&idx=1&sn=8428ceeca93d865b10176d0b55982272](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484155&idx=1&sn=8428ceeca93d865b10176d0b55982272) |
+| 2 | 漏洞挖掘|从edusrc转战到企业src的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485386&idx=1&sn=4969e40c7b0ce05c73f6448b7031de24) |
 
 
 ## 📁 归档路径
@@ -93,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-03 08:23:41*
+*生成时间: 2025-10-03 12:37:40*
 *报告工具: 微信文章安全归档系统*
