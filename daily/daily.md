@@ -2,21 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,17 +60,10 @@
 
 ### Doonsec
 
-- [WebSocket Turbo Intruder 挖掘 WebSocket 金矿](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490727&idx=1&sn=b8c90ef5b807ebcbadf41907d23fd339) (发布日期: 2025-10-04)
-- [智能网联汽车数据安全合规体系的建立及应用研究](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627737&idx=1&sn=6b941dbb7f00f56222cd51eaf2574a64) (发布日期: 2025-10-04)
-- [这款漏洞赏金神器，让你躺着薅羊毛](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498355&idx=1&sn=57662942c382a1b0672c88f789e13ade) (发布日期: 2025-10-04)
-- [从蛛丝马迹到战略决策：情报分析的三大经典案例](https://mp.weixin.qq.com/s?__biz=MzkxMDIwMTMxMw==&mid=2247494935&idx=1&sn=46bf776b99a076b908c6462bfb7d847c) (发布日期: 2025-10-04)
-- [【安全圈】因第三方客服遭遇网络攻击，社交平台 Discord 出现用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9) (发布日期: 2025-10-04)
-- [【安全圈】曝 Unity 引擎存重大漏洞，可致安卓用户面临钱财损失与资料被盗](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=2&sn=8499cf69c1ca4d2a60475ee399d14502) (发布日期: 2025-10-04)
-- [10亿用户记录疑遭泄露！攻击者组织入侵Salesforce并将公开数据](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=1&sn=e59339c0a6e3d2662425b2622b1e946f) (发布日期: 2025-10-04)
-- [红帽OpenShift AI高危漏洞可能导致混合云基础设施被完全接管](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=2&sn=880bd50dbdc4abd4408c11e08d2c5c39) (发布日期: 2025-10-04)
-- [苹果紧急推送更新修复字体解析漏洞（CVE-2025-43400）](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=3&sn=86936155aa69d8d89ea89bd57810abe7) (发布日期: 2025-10-04)
-- [网络安全必备：内网渗透与提权命令总结](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486417&idx=1&sn=0d5892fc9f9b94321c19e6b356b743b7) (发布日期: 2025-10-04)
-- [弱口令纵深防御：从“被动堵漏”到“主动闭环”的安全升级](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485420&idx=1&sn=b6f43f4d0c5b45fb2cda069cb54a7f01) (发布日期: 2025-10-04)
+- [当万物互联变成“万物可攻”：物联网安全真相](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492088&idx=1&sn=5da802de764f6563580f15ed44b5b10e) (发布日期: 2025-10-04)
+- [SentinelOne AI SIEM：EDR在SIEM中的优势以及迈向AI驱动的SOC之路](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484999&idx=1&sn=b06a2981ebd83377fd60fb3cef8aa970) (发布日期: 2025-10-04)
+- [被积极利用：严重漏洞 CVE-2025-6388（CVSS 9.8）允许绕过 WordPress 插件中的身份验证](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974) (发布日期: 2025-10-04)
+- [TRUfusion Enterprise未授权访问漏洞复现（CVE-2025-27225）](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689) (发布日期: 2025-10-04)
 
 
 ## 🎯 威胁详情分析
@@ -84,29 +72,8 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 这款漏洞赏金神器，让你躺着薅羊毛 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498355&idx=1&sn=57662942c382a1b0672c88f789e13ade](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498355&idx=1&sn=57662942c382a1b0672c88f789e13ade) |
-| 2 | 【安全圈】曝 Unity 引擎存重大漏洞，可致安卓用户面临钱财损失与资料被盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=2&sn=8499cf69c1ca4d2a60475ee399d14502](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=2&sn=8499cf69c1ca4d2a60475ee399d14502) |
-| 3 | 红帽OpenShift AI高危漏洞可能导致混合云基础设施被完全接管 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=2&sn=880bd50dbdc4abd4408c11e08d2c5c39](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=2&sn=880bd50dbdc4abd4408c11e08d2c5c39) |
-| 4 | 苹果紧急推送更新修复字体解析漏洞（CVE-2025-43400） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=3&sn=86936155aa69d8d89ea89bd57810abe7](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=3&sn=86936155aa69d8d89ea89bd57810abe7) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 10亿用户记录疑遭泄露！攻击者组织入侵Salesforce并将公开数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=1&sn=e59339c0a6e3d2662425b2622b1e946f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328381&idx=1&sn=e59339c0a6e3d2662425b2622b1e946f) |
-| 2 | 网络安全必备：内网渗透与提权命令总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486417&idx=1&sn=0d5892fc9f9b94321c19e6b356b743b7](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486417&idx=1&sn=0d5892fc9f9b94321c19e6b356b743b7) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】因第三方客服遭遇网络攻击，社交平台 Discord 出现用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】因第三方客服遭遇网络攻击，社交平台 Discord 出现用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072034&idx=1&sn=52bef7481097d8f737e3c8133f3cd3f9) |
+| 1 | 被积极利用：严重漏洞 CVE-2025-6388（CVSS 9.8）允许绕过 WordPress 插件中的身份验证 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485189&idx=1&sn=fbf84bbbfedd58a91ead26d89930b974) |
+| 2 | TRUfusion Enterprise未授权访问漏洞复现（CVE-2025-27225） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484024&idx=1&sn=afbd62c6667b01586ec0c72bdfbcd689) |
 
 
 ## 📁 归档路径
@@ -122,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-04 12:34:12*
+*生成时间: 2025-10-04 16:20:03*
 *报告工具: 微信文章安全归档系统*
