@@ -2,18 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 - **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +65,15 @@
 
 ### Doonsec
 
-- [告别手工！ShiroEXP 全自动漏洞利用链，5 分钟从扫描到 Getshell，红队效率翻 10 倍！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492836&idx=1&sn=099f6d12d799ff3f657d238ca1bb79fa) (发布日期: 2025-10-04)
-- [国庆网安 | 筑牢工业互联网安全防护屏障，驱动新型工业化发展](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507208&idx=1&sn=c94e92691e017d0da16a127f47a02065) (发布日期: 2025-10-04)
-- [某IT头部大厂疑再遭用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514240&idx=1&sn=5bbe9a65e8a45af0452e5a4ea7e6fa15) (发布日期: 2025-10-04)
-- [2025年最危险的10种数字身份攻击向量：CISO必须关注的新兴威胁](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487758&idx=1&sn=4045b9bc2a2160b5f9ee52babc6ae301) (发布日期: 2025-10-04)
-- [专家解读 | 从某电子商务公司旅客购票信息泄露案看企业网络和数据安全保护义务](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118758&idx=1&sn=e08f08c694f476391de43830aa34e2d2) (发布日期: 2025-10-04)
-- [Supermicro BMC 的两个新漏洞可使恶意固件逃避信任根安全](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493629&idx=1&sn=1ac73e49f24fd9ec783cdd40dff604c6) (发布日期: 2025-10-04)
-- [edusrc某学校信息泄露](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484159&idx=1&sn=86fa9477e9420005c2ebb2c73be4aebb) (发布日期: 2025-10-04)
+- [朝鲜APT组织：靠键盘“创收”的神秘军团，真能撑起国家经济？](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5) (发布日期: 2025-10-04)
+- [专家解读｜张凌寒：深化认知拓展维度 人工智能安全治理中国方案再升级](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250321&idx=2&sn=5507b5cad1fe16f38a598c9135a778de) (发布日期: 2025-10-04)
+- [安天AVL SDK反病毒引擎升级通告（20251004）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212611&idx=1&sn=082f3458e4cdfde992de6f62fe68bde9) (发布日期: 2025-10-04)
+- [国外dailydarkweb站揭露huawei信息泄露？](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247492017&idx=1&sn=8dcee8858dc9239457532d733372895d) (发布日期: 2025-10-04)
+- [【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) (发布日期: 2025-10-04)
+- [PeStudio：恶意软件静态分析全面指南](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485053&idx=1&sn=fce9a736e589e788811876104ca5aa15) (发布日期: 2025-10-04)
+- [CISO指南：如何监控暗网？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=1&sn=207b1f38cf6d2d002e24533442fdc121) (发布日期: 2025-10-04)
+- [万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) (发布日期: 2025-10-04)
+- [[ .NET 代码审计 ] 从入门到精通，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b) (发布日期: 2025-10-04)
 
 
 ## 🎯 威胁详情分析
@@ -77,20 +82,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 告别手工！ShiroEXP 全自动漏洞利用链，5 分钟从扫描到 Getshell，红队效率翻 10 倍！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492836&idx=1&sn=099f6d12d799ff3f657d238ca1bb79fa](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492836&idx=1&sn=099f6d12d799ff3f657d238ca1bb79fa) |
-| 2 | Supermicro BMC 的两个新漏洞可使恶意固件逃避信任根安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493629&idx=1&sn=1ac73e49f24fd9ec783cdd40dff604c6](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493629&idx=1&sn=1ac73e49f24fd9ec783cdd40dff604c6) |
+| 1 | 【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) |
+| 2 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) |
+| 3 | [ .NET 代码审计 ] 从入门到精通，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | edusrc某学校信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484159&idx=1&sn=86fa9477e9420005c2ebb2c73be4aebb](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484159&idx=1&sn=86fa9477e9420005c2ebb2c73be4aebb) |
+| 1 | 【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 朝鲜APT组织：靠键盘“创收”的神秘军团，真能撑起国家经济？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某IT头部大厂疑再遭用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514240&idx=1&sn=5bbe9a65e8a45af0452e5a4ea7e6fa15](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514240&idx=1&sn=5bbe9a65e8a45af0452e5a4ea7e6fa15) |
+| 1 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) |
 
 
 ## 📁 归档路径
@@ -106,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-04 01:19:11*
+*生成时间: 2025-10-04 04:21:06*
 *报告工具: 微信文章安全归档系统*
