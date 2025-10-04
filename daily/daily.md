@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,15 +62,10 @@
 
 ### Doonsec
 
-- [朝鲜APT组织：靠键盘“创收”的神秘军团，真能撑起国家经济？](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5) (发布日期: 2025-10-04)
-- [专家解读｜张凌寒：深化认知拓展维度 人工智能安全治理中国方案再升级](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250321&idx=2&sn=5507b5cad1fe16f38a598c9135a778de) (发布日期: 2025-10-04)
-- [安天AVL SDK反病毒引擎升级通告（20251004）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212611&idx=1&sn=082f3458e4cdfde992de6f62fe68bde9) (发布日期: 2025-10-04)
-- [国外dailydarkweb站揭露huawei信息泄露？](https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247492017&idx=1&sn=8dcee8858dc9239457532d733372895d) (发布日期: 2025-10-04)
-- [【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) (发布日期: 2025-10-04)
-- [PeStudio：恶意软件静态分析全面指南](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485053&idx=1&sn=fce9a736e589e788811876104ca5aa15) (发布日期: 2025-10-04)
-- [CISO指南：如何监控暗网？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=1&sn=207b1f38cf6d2d002e24533442fdc121) (发布日期: 2025-10-04)
-- [万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) (发布日期: 2025-10-04)
-- [[ .NET 代码审计 ] 从入门到精通，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b) (发布日期: 2025-10-04)
+- [Dell UnityVSA 未授权命令注入漏洞 CVE-2025-36604 漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e) (发布日期: 2025-10-04)
+- [团队会议  |  凌日网络与信息安全团队开学第一次会议](https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484603&idx=1&sn=49f5e528946dd05284fc95d6d883db2d) (发布日期: 2025-10-04)
+- [某网游后端读写漏洞访问权疑被兜售，开价1200美元](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514246&idx=1&sn=da9ba15e53db9eb58406534054a01207) (发布日期: 2025-10-04)
+- [公众号渗透测试信息收集渠道大全](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484879&idx=1&sn=bc57df9c5950ed995ecff3cdf2657fdf) (发布日期: 2025-10-04)
 
 
 ## 🎯 威胁详情分析
@@ -82,27 +74,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) |
-| 2 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) |
-| 3 | [ .NET 代码审计 ] 从入门到精通，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500742&idx=1&sn=9160b043f753646a48d7385865d60a4b) |
+| 1 | Dell UnityVSA 未授权命令注入漏洞 CVE-2025-36604 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e) |
+| 2 | 某网游后端读写漏洞访问权疑被兜售，开价1200美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514246&idx=1&sn=da9ba15e53db9eb58406534054a01207](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514246&idx=1&sn=da9ba15e53db9eb58406534054a01207) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【原创】0DAY：对易通CMS的XSS防御进行绕过【附带POC脚本】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d](https://mp.weixin.qq.com/s?__biz=MzAwMjc0NTEzMw==&mid=2653589126&idx=1&sn=a51edd056cc268869c592bf3dabc7b3d) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 朝鲜APT组织：靠键盘“创收”的神秘军团，真能撑起国家经济？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486854&idx=1&sn=2e080139ef41ca5449637909eee0fab5) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 万兴易修曝出两大高危漏洞，可导致数据泄露以及AI模型被修改 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612581&idx=3&sn=dbcbfe7101f1f4716ae3c09a1b88a88c) |
+| 1 | Dell UnityVSA 未授权命令注入漏洞 CVE-2025-36604 漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485699&idx=1&sn=51acfa8387fd9bd50450a789db85282e) |
 
 
 ## 📁 归档路径
@@ -118,7 +97,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -128,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-04 04:21:06*
+*生成时间: 2025-10-04 08:21:34*
 *报告工具: 微信文章安全归档系统*
