@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 3篇
-- **威胁情报**: 1篇
+- **安全运营**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **系统漏洞**: 3篇
+- **Web安全**: 1篇
 - **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -64,12 +66,19 @@
 
 ### Doonsec
 
-- [CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) (发布日期: 2025-10-05)
-- [某新版AI客服系统前台反序列化RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) (发布日期: 2025-10-05)
-- [一个抗提示词注入的RAG增强聊天机器人设计与实践](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7) (发布日期: 2025-10-05)
-- [智能网联汽车OTA升级安全设计](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627755&idx=3&sn=0fc5b7afc5507aebe0936ea169c55294) (发布日期: 2025-10-05)
-- [节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd) (发布日期: 2025-10-05)
-- [Linux应急响应：Rootkit“偷天换日”大法](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08) (发布日期: 2025-10-05)
+- [2025年第二季度漏洞与利用情况](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01) (发布日期: 2025-10-05)
+- [文件上传新思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498359&idx=1&sn=f0ef18f549fc52d25deee679637f4dfd) (发布日期: 2025-10-05)
+- [某新版AI客服系统前台反序列化RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56) (发布日期: 2025-10-05)
+- [Unity 实时开发平台存在执行任意代码漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=1&sn=186b784cc0a1d8bd15d776d40e7727bf) (发布日期: 2025-10-05)
+- [Chrome 安全更新修补了允许攻击者执行任意代码的 21 个漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=2&sn=ad25e25332d5535165113eb3c660f23c) (发布日期: 2025-10-05)
+- [【安全圈】云技术巨头 Salesforce 10亿用户记录疑遭泄露！攻击者组织入侵并将公开数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c) (发布日期: 2025-10-05)
+- [EDUSRC部分证书实物展示](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484395&idx=1&sn=764f33315c60389bd70bcb796db04bad) (发布日期: 2025-10-05)
+- [Discord数据泄露事件：用户个人信息及证件扫描件遭泄露](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=1&sn=74d6150ee0ebfda25fc51789e82e8ab7) (发布日期: 2025-10-05)
+- [XWorm V6.0重现江湖：模块化远控木马携勒索插件与高级规避技术卷土重来](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=3&sn=e11e53b1b0549329a7e7c8a5174c683f) (发布日期: 2025-10-05)
+- [罚款！湖南某医院未履行保护义务，致医疗信息泄露](https://mp.weixin.qq.com/s?__biz=MzA4NDA3ODc3OQ==&mid=3045898279&idx=1&sn=92e82b56e4b5965986708b92c45e670b) (发布日期: 2025-10-05)
+- [朝鲜IT工作者：朝鲜加密洗钱网络内部](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532960&idx=1&sn=109b63ed57ccbd6749799074e7b87e23) (发布日期: 2025-10-05)
+- [edusrc证书站,30分钟四张证,顶着waf RCE](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf) (发布日期: 2025-10-05)
+- [Nessus、AWVS、Appscan、OWASP漏洞扫描工具的区别（介绍、测试对象对比、优劣对比）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996) (发布日期: 2025-10-05)
 
 
 ## 🎯 威胁详情分析
@@ -78,23 +87,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) |
-| 2 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) |
-| 3 | 节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd) |
+| 1 | 2025年第二季度漏洞与利用情况 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292620&idx=1&sn=2f608590f8ad087a050c4d0de1dfdb01) |
+| 2 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56) |
+| 3 | Unity 实时开发平台存在执行任意代码漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=1&sn=186b784cc0a1d8bd15d776d40e7727bf](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=1&sn=186b784cc0a1d8bd15d776d40e7727bf) |
+| 4 | Chrome 安全更新修补了允许攻击者执行任意代码的 21 个漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=2&sn=ad25e25332d5535165113eb3c660f23c](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096536&idx=2&sn=ad25e25332d5535165113eb3c660f23c) |
+| 5 | Nessus、AWVS、Appscan、OWASP漏洞扫描工具的区别（介绍、测试对象对比、优劣对比） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575161&idx=1&sn=b2c8966f4b88eed5bf6bee94a4929996) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) |
-| 2 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) |
-| 3 | 一个抗提示词注入的RAG增强聊天机器人设计与实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7) |
+| 1 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486839&idx=1&sn=b605289a9d5517f86417c8a8493cef56) |
+| 2 | 【安全圈】云技术巨头 Salesforce 10亿用户记录疑遭泄露！攻击者组织入侵并将公开数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072057&idx=3&sn=101da8e4a10ab68d47430cd912c7331c) |
+| 3 | edusrc证书站,30分钟四张证,顶着waf RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux应急响应：Rootkit“偷天换日”大法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08) |
+| 1 | EDUSRC部分证书实物展示 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484395&idx=1&sn=764f33315c60389bd70bcb796db04bad](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484395&idx=1&sn=764f33315c60389bd70bcb796db04bad) |
+| 2 | edusrc证书站,30分钟四张证,顶着waf RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485406&idx=1&sn=2cfb00c0097020d3123da0b4bb4739bf) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Discord数据泄露事件：用户个人信息及证件扫描件遭泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=1&sn=74d6150ee0ebfda25fc51789e82e8ab7](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328402&idx=1&sn=74d6150ee0ebfda25fc51789e82e8ab7) |
 
 
 ## 📁 归档路径
@@ -110,8 +128,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-05 08:21:01*
+*生成时间: 2025-10-05 12:34:27*
 *报告工具: 微信文章安全归档系统*
