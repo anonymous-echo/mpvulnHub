@@ -9,11 +9,13 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,12 +64,12 @@
 
 ### Doonsec
 
-- [[AI安全论文] (42)ASC25 基于大语言模型的未知Web攻击威胁检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502064&idx=1&sn=3b6b9fc4d1f4b39c0af2c2a940e5f5b0) (发布日期: 2025-10-05)
-- [飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776)](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8) (发布日期: 2025-10-05)
-- [专家解读｜从风险清单到治理体系：人工智能安全治理框架的演进逻辑分析](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250327&idx=2&sn=88ee15e5be533b3cade5f6327074d287) (发布日期: 2025-10-05)
-- [第134篇：揭秘美国NSA数字网络情报分析体系的关键组件Pinwale](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487746&idx=1&sn=ecd036725f633358ed3e4039247c48ed) (发布日期: 2025-10-05)
-- [外媒曝宇树机器人BLE高危漏洞，是首个机器人蠕虫还是炒作？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612593&idx=1&sn=55f6d9d8482af87a15347a3398db715e) (发布日期: 2025-10-05)
-- [新型NPM包利用QR码获取Cookie的恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612593&idx=2&sn=e8e686bcb98d46d3e158e3a6994c086d) (发布日期: 2025-10-05)
+- [CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) (发布日期: 2025-10-05)
+- [某新版AI客服系统前台反序列化RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) (发布日期: 2025-10-05)
+- [一个抗提示词注入的RAG增强聊天机器人设计与实践](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7) (发布日期: 2025-10-05)
+- [智能网联汽车OTA升级安全设计](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247627755&idx=3&sn=0fc5b7afc5507aebe0936ea169c55294) (发布日期: 2025-10-05)
+- [节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd) (发布日期: 2025-10-05)
+- [Linux应急响应：Rootkit“偷天换日”大法](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08) (发布日期: 2025-10-05)
 
 
 ## 🎯 威胁详情分析
@@ -76,20 +78,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8) |
-| 2 | 外媒曝宇树机器人BLE高危漏洞，是首个机器人蠕虫还是炒作？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612593&idx=1&sn=55f6d9d8482af87a15347a3398db715e](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612593&idx=1&sn=55f6d9d8482af87a15347a3398db715e) |
+| 1 | CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) |
+| 2 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) |
+| 3 | 节中预警：无需升级即可防护，360终端安全智能体率先实现抵御Unity高危漏洞威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd](https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582334&idx=1&sn=efcbc8d507892b0169ff27914f77bffd) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 飞企互联OAxa0FEwork ChangeBGServlet命令执行漏洞(QVD-2025-25776) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484032&idx=1&sn=93deb0774046d4e28de6b47ea0aeb3a8) |
+| 1 | CVE-2025-59489:Unity 运行时任意代码执行漏洞深度解析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485707&idx=1&sn=5a8648d8c287d40227ce2c31843701ca) |
+| 2 | 某新版AI客服系统前台反序列化RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd](https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490323&idx=1&sn=7e14ca0c4de7e0823ccc98b2f08730cd) |
+| 3 | 一个抗提示词注入的RAG增强聊天机器人设计与实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486476&idx=1&sn=234ea219bc5a434f42d41d3121ba11e7) |
 
-### 供应链
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第134篇：揭秘美国NSA数字网络情报分析体系的关键组件Pinwale | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487746&idx=1&sn=ecd036725f633358ed3e4039247c48ed](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487746&idx=1&sn=ecd036725f633358ed3e4039247c48ed) |
+| 1 | Linux应急响应：Rootkit“偷天换日”大法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485471&idx=1&sn=ef90751842a04a761d37158bb15d6f08) |
 
 
 ## 📁 归档路径
@@ -105,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-05 04:20:39*
+*生成时间: 2025-10-05 08:21:01*
 *报告工具: 微信文章安全归档系统*
