@@ -1,10 +1,10 @@
-# 2025-10-05 安全威胁态势报告
+# 2025-10-06 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
@@ -60,8 +60,9 @@
 
 ### Doonsec
 
-- [Microsoft Entra ID 漏洞可劫持任何公司的租户](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302) (发布日期: 2025-10-05)
-- [Apple 又中刀：DNG 图像处理越界写入漏洞（CVE-2025-43300）全揭秘](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca) (发布日期: 2025-10-05)
+- [Unity实时开发平台漏洞可导致攻击者执行任意代码](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a) (发布日期: 2025-10-06)
+- [NPM 包被发现使用二维码获取窃取 cookie 的恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493631&idx=1&sn=3bb7427d2f6d1a172482aabfb5111396) (发布日期: 2025-10-06)
+- [特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37) (发布日期: 2025-10-06)
 
 
 ## 🎯 威胁详情分析
@@ -70,13 +71,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Microsoft Entra ID 漏洞可劫持任何公司的租户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493630&idx=1&sn=3ae7689ff218a61f8eef24988edec302) |
-| 2 | Apple 又中刀：DNG 图像处理越界写入漏洞（CVE-2025-43300）全揭秘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484618&idx=1&sn=e265df69b00f3bcf1d578ca221410eca) |
+| 1 | Unity实时开发平台漏洞可导致攻击者执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a) |
+| 2 | 特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W40/2025-10-05/`
+文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-06/`
 
 ## 🔗 数据源说明
 
@@ -97,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-05 16:20:05*
+*生成时间: 2025-10-06 01:23:58*
 *报告工具: 微信文章安全归档系统*
