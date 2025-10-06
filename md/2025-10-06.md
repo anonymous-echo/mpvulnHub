@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,42 +60,17 @@
 
 ### Doonsec
 
-- [捆绑LetsVPN安装程序银狐最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493591&idx=1&sn=187d9350ac428bd6bcc66a2b8f92b155) (发布日期: 2025-10-06)
-- [拆解高通自动驾驶域控制器](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560477&idx=2&sn=b5e114cc5b8fd888fd1f1819fac8b420) (发布日期: 2025-10-06)
-- [Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6) (发布日期: 2025-10-06)
-- [Unity引擎漏洞可导致数百万游戏面临本地代码执行风险](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba) (发布日期: 2025-10-06)
-- [SDL序列课程-第58篇-安全需求-文件上传需求-上传文件类型限制](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484903&idx=1&sn=1a84b5227d11f9671720871884f3b835) (发布日期: 2025-10-06)
-- [Gemini CLI 到您的 Kali Linux 终端以自动执行渗透测试任务](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484651&idx=1&sn=17f3dfee8b68489940570c32d538f6b7) (发布日期: 2025-10-06)
-- [雅虎商业平台密码重置漏洞分析与利用](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487226&idx=1&sn=c23aeefbdbbbad583c10ceb7814af719) (发布日期: 2025-10-06)
-- [记某众测任意用户密码重置漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b) (发布日期: 2025-10-06)
-- [CVE-2025-20362 和 CVE-2025-20333  思科 0day漏洞分析](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532972&idx=1&sn=9f82a679db67ff1b554ff196ec247023) (发布日期: 2025-10-06)
+- [设备在内网，如何从公网访问它？内网穿透真的很香！](https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2) (发布日期: 2025-10-06)
+- [AI与黑客的终极对决：速看HexStrike AI如何重塑渗透测试？](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487553&idx=1&sn=49ac93e35b3c95a3a270aaf0547c3d4d) (发布日期: 2025-10-06)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6) |
-| 2 | Unity引擎漏洞可导致数百万游戏面临本地代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba) |
-| 3 | 雅虎商业平台密码重置漏洞分析与利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487226&idx=1&sn=c23aeefbdbbbad583c10ceb7814af719](https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487226&idx=1&sn=c23aeefbdbbbad583c10ceb7814af719) |
-| 4 | 记某众测任意用户密码重置漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498363&idx=1&sn=8cc94bffd169214ad2bab275c2506a6b) |
-| 5 | CVE-2025-20362 和 CVE-2025-20333  思科 0day漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532972&idx=1&sn=9f82a679db67ff1b554ff196ec247023](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247532972&idx=1&sn=9f82a679db67ff1b554ff196ec247023) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 拆解高通自动驾驶域控制器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560477&idx=2&sn=b5e114cc5b8fd888fd1f1819fac8b420](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560477&idx=2&sn=b5e114cc5b8fd888fd1f1819fac8b420) |
-| 2 | Redis曝高危漏洞（CVE-2025-49844，CVSS 10.0）可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=1&sn=e706caef26a8a6b587b711f368f8f2d6) |
-| 3 | Unity引擎漏洞可导致数百万游戏面临本地代码执行风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328427&idx=2&sn=20ec85c35193e4a42470ed65afa128ba) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 捆绑LetsVPN安装程序银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493591&idx=1&sn=187d9350ac428bd6bcc66a2b8f92b155](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493591&idx=1&sn=187d9350ac428bd6bcc66a2b8f92b155) |
+| 1 | 设备在内网，如何从公网访问它？内网穿透真的很香！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2](https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2) |
 
 
 ## 📁 归档路径
@@ -114,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-06 12:40:05*
+*生成时间: 2025-10-06 16:23:49*
 *报告工具: 微信文章安全归档系统*
