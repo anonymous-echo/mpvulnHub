@@ -2,16 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **攻击技术**: 3篇
 - **漏洞利用**: 2篇
+- **威胁情报**: 2篇
+- **安全运营**: 2篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,9 +64,21 @@
 
 ### Doonsec
 
-- [Unity实时开发平台漏洞可导致攻击者执行任意代码](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a) (发布日期: 2025-10-06)
-- [NPM 包被发现使用二维码获取窃取 cookie 的恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493631&idx=1&sn=3bb7427d2f6d1a172482aabfb5111396) (发布日期: 2025-10-06)
-- [特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37) (发布日期: 2025-10-06)
+- [全球活跃的APT战争升级：AI钓鱼、内核后门、云间谍，12大组织的致命新玩法](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486856&idx=1&sn=cb711f59d85cc18d91c025b5932a583b) (发布日期: 2025-10-06)
+- [DXMSRC|明月照山河，白帽守星河](https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493068&idx=1&sn=a8db483515acd15c09c46e95640d209a) (发布日期: 2025-10-06)
+- [别再靠人肉运维了！这份2025年SOC报告揭示：AI如何让你的团队战斗力翻倍](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485107&idx=1&sn=7ccdbc8054fbd2575ae40ec947983a91) (发布日期: 2025-10-06)
+- [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=1&sn=0e6903ff69f0e0370b0c28df1369681a) (发布日期: 2025-10-06)
+- [.NET内网实战：.NET 通过APC注入绕过终端安全防护](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=2&sn=bc3f1c3930a87dd21e7e32cdb94e0fba) (发布日期: 2025-10-06)
+- [.NET内网实战：.NET 红队通过 SharpZipLib 批量压缩打包文件](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=3&sn=a25ac436682ab22db9e5bc5a6795d9a8) (发布日期: 2025-10-06)
+- [技术深扒：黑客如何利用NeutralinoJS和Unicode障眼法，打造“合法”木马？](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901421&idx=1&sn=ab7a9ebe21673ff77dc06d0010356e96) (发布日期: 2025-10-06)
+- [CISO为何成了美国最不受欢迎的高管职位？](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612578&idx=2&sn=635d908d60f9fa38a94d3cb622c64232) (发布日期: 2025-10-06)
+- [新型FileFix社工攻击诱导用户安装StealC信息窃取恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612578&idx=3&sn=d394376e07a6ba56eb1daa7b7837437a) (发布日期: 2025-10-06)
+- [【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497673&idx=1&sn=c7239ae86170e19a08bdb41175266a47) (发布日期: 2025-10-06)
+- [一款完全开源的漏洞挖掘神器 - LoveJS](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507507&idx=1&sn=9bc55c5d1b0476ceb62a9f474b2bd308) (发布日期: 2025-10-06)
+- [史上最狂APT扫描器！3分钟扒光国家级攻击队底裤，连CIA后门都藏不住！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492927&idx=1&sn=44a26fbb33a65b76e4bfa7ad1571c7cc) (发布日期: 2025-10-06)
+- [当渗透测试遇到WordPress](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488914&idx=1&sn=e30262ea1151fce1a7dbfa4bd1f1ffcf) (发布日期: 2025-10-06)
+- [DevSecOps实战：安全团队如何破解\"三国杀\"困局，实现高效协作](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487760&idx=1&sn=eaaa5ba850da4fafb7c652b5671980b5) (发布日期: 2025-10-06)
+- [中秋｜守数据安全，护万家团圆](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247579734&idx=1&sn=c2ba73074441163865549cbf852df35e) (发布日期: 2025-10-06)
 
 
 ## 🎯 威胁详情分析
@@ -71,8 +87,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Unity实时开发平台漏洞可导致攻击者执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524114&idx=1&sn=7021c4323c6c497dde107dc37fa4aa6a) |
-| 2 | 特斯拉远程信息处理控制单元漏洞可以root身份执行代码攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501916&idx=1&sn=5f38ea24992f5d9e432cfb46847d7a37) |
+| 1 | 【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497673&idx=1&sn=c7239ae86170e19a08bdb41175266a47](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497673&idx=1&sn=c7239ae86170e19a08bdb41175266a47) |
+| 2 | 一款完全开源的漏洞挖掘神器 - LoveJS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507507&idx=1&sn=9bc55c5d1b0476ceb62a9f474b2bd308](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507507&idx=1&sn=9bc55c5d1b0476ceb62a9f474b2bd308) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | .NET 实战攻防电子报刊，从内网基础到高阶实战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=1&sn=0e6903ff69f0e0370b0c28df1369681a](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=1&sn=0e6903ff69f0e0370b0c28df1369681a) |
+| 2 | .NET内网实战：.NET 通过APC注入绕过终端安全防护 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=2&sn=bc3f1c3930a87dd21e7e32cdb94e0fba](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=2&sn=bc3f1c3930a87dd21e7e32cdb94e0fba) |
+| 3 | .NET内网实战：.NET 红队通过 SharpZipLib 批量压缩打包文件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=3&sn=a25ac436682ab22db9e5bc5a6795d9a8](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500748&idx=3&sn=a25ac436682ab22db9e5bc5a6795d9a8) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球活跃的APT战争升级：AI钓鱼、内核后门、云间谍，12大组织的致命新玩法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486856&idx=1&sn=cb711f59d85cc18d91c025b5932a583b](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486856&idx=1&sn=cb711f59d85cc18d91c025b5932a583b) |
+| 2 | 史上最狂APT扫描器！3分钟扒光国家级攻击队底裤，连CIA后门都藏不住！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492927&idx=1&sn=44a26fbb33a65b76e4bfa7ad1571c7cc](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492927&idx=1&sn=44a26fbb33a65b76e4bfa7ad1571c7cc) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | DXMSRC|明月照山河，白帽守星河 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493068&idx=1&sn=a8db483515acd15c09c46e95640d209a](https://mp.weixin.qq.com/s?__biz=Mzg2MjIzODI3Mw==&mid=2247493068&idx=1&sn=a8db483515acd15c09c46e95640d209a) |
+| 2 | 【证书挖掘】手把手EDUSRC、CNVD挖洞技巧分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497673&idx=1&sn=c7239ae86170e19a08bdb41175266a47](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497673&idx=1&sn=c7239ae86170e19a08bdb41175266a47) |
 
 
 ## 📁 归档路径
@@ -88,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -98,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-06 01:23:58*
+*生成时间: 2025-10-06 04:22:04*
 *报告工具: 微信文章安全归档系统*
