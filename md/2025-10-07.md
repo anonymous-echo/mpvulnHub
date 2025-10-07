@@ -2,15 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 4篇
 
 ### 漏洞类型分析
 
@@ -61,14 +60,12 @@
 
 ### Doonsec
 
-- [国庆网安 | 筑牢物联网安全防线，赋能万物互联](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507216&idx=1&sn=979b8291c73dfeab4cc9c0d071bca7fa) (发布日期: 2025-10-07)
-- [ProcDOT：恶意软件分析的可视化利器](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485096&idx=1&sn=7dda3fbcd00b3886d64b31536ed95246) (发布日期: 2025-10-07)
-- [从“捡子弹”到“轰内网”，这些GitHub神器让我连夜提桶跑路！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499) (发布日期: 2025-10-07)
-- [【密码学】伪随机生成函数](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492853&idx=1&sn=47292c8d96756bf7b25b1e4936195541) (发布日期: 2025-10-07)
-- [Oracle零日漏洞引发全球安全危机：Clop勒索团伙掀起数据窃取狂潮](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9) (发布日期: 2025-10-07)
-- [私有云安全资源池技术与应用研究（2025版）](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491959&idx=1&sn=8755183465e248db55f7afca89d097c8) (发布日期: 2025-10-07)
-- [守正出奇：蓝队视角下的0day漏洞发现之道](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2) (发布日期: 2025-10-07)
-- [LastPass：假密码管理器利用恶意软件感染 Mac 用户](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493632&idx=1&sn=04c5a7574d0e768a00521a625ddfea62) (发布日期: 2025-10-07)
+- [JS扫描与漏洞挖掘利器推荐—Rotor Goddess](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a) (发布日期: 2025-10-07)
+- [Web 漏洞挖掘：从原理到实战全拆解 + 新手入门福利包](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e) (发布日期: 2025-10-07)
+- [玄域靶场-整数溢出导致的支付漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8) (发布日期: 2025-10-07)
+- [工程化实战思维在红队技战术中的应用-预览版](https://mp.weixin.qq.com/s?__biz=MzUzNzAzNzUzMA==&mid=2247484217&idx=1&sn=7f6f7b666ed211db63549f48e0f5474c) (发布日期: 2025-10-07)
+- [红队视角下的 IIS 资产速查工具 Sharp4WebManager v2.0 增强版](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500763&idx=2&sn=2c006d6a3b15444419073d9e86b6161e) (发布日期: 2025-10-07)
+- [黑客伪装成 Google 招聘人员窃取 Gmail 登录信息|CISA警告：Linux/Unix系统关键 Sudo 漏洞已被利用](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc) (发布日期: 2025-10-07)
 
 
 ## 🎯 威胁详情分析
@@ -77,14 +74,10 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle零日漏洞引发全球安全危机：Clop勒索团伙掀起数据窃取狂潮 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9) |
-| 2 | 守正出奇：蓝队视角下的0day漏洞发现之道 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 从“捡子弹”到“轰内网”，这些GitHub神器让我连夜提桶跑路！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499) |
+| 1 | JS扫描与漏洞挖掘利器推荐—Rotor Goddess | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a) |
+| 2 | Web 漏洞挖掘：从原理到实战全拆解 + 新手入门福利包 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e) |
+| 3 | 玄域靶场-整数溢出导致的支付漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8) |
+| 4 | 黑客伪装成 Google 招聘人员窃取 Gmail 登录信息|CISA警告：Linux/Unix系统关键 Sudo 漏洞已被利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc) |
 
 
 ## 📁 归档路径
@@ -100,7 +93,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -110,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-07 01:22:35*
+*生成时间: 2025-10-07 04:22:41*
 *报告工具: 微信文章安全归档系统*
