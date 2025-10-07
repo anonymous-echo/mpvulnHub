@@ -9,7 +9,7 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 3篇
 
 ### 漏洞类型分析
 
@@ -60,12 +60,12 @@
 
 ### Doonsec
 
-- [JS扫描与漏洞挖掘利器推荐—Rotor Goddess](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a) (发布日期: 2025-10-07)
-- [Web 漏洞挖掘：从原理到实战全拆解 + 新手入门福利包](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e) (发布日期: 2025-10-07)
-- [玄域靶场-整数溢出导致的支付漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8) (发布日期: 2025-10-07)
-- [工程化实战思维在红队技战术中的应用-预览版](https://mp.weixin.qq.com/s?__biz=MzUzNzAzNzUzMA==&mid=2247484217&idx=1&sn=7f6f7b666ed211db63549f48e0f5474c) (发布日期: 2025-10-07)
-- [红队视角下的 IIS 资产速查工具 Sharp4WebManager v2.0 增强版](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500763&idx=2&sn=2c006d6a3b15444419073d9e86b6161e) (发布日期: 2025-10-07)
-- [黑客伪装成 Google 招聘人员窃取 Gmail 登录信息|CISA警告：Linux/Unix系统关键 Sudo 漏洞已被利用](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc) (发布日期: 2025-10-07)
+- [使用vmware在个人电脑上安装LearnCTF免费开源靶场（CTF平台/CTF靶场/CTF入门/网络安全/渗透测试）](https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483712&idx=1&sn=66e14ce7944e07b406b406a1393a9330) (发布日期: 2025-10-07)
+- [TIFS 2025 | 一种基于集群和堆叠式CTGAN的自适应网络入侵检测系统](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485751&idx=1&sn=35a83175126c8b6f04a25a961f925932) (发布日期: 2025-10-07)
+- [聊聊SOC多源日志接入与统一管理](https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486157&idx=1&sn=3b9e27aab3f65274848d8541e9614b60) (发布日期: 2025-10-07)
+- [阅读与复现-域内手法5-PTH-域渗透攻防指南](https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9) (发布日期: 2025-10-07)
+- [【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c) (发布日期: 2025-10-07)
+- [TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223）](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f) (发布日期: 2025-10-07)
 
 
 ## 🎯 威胁详情分析
@@ -74,10 +74,9 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | JS扫描与漏洞挖掘利器推荐—Rotor Goddess | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247507508&idx=1&sn=e2b883f9df0cf03fe85301f7e7398d1a) |
-| 2 | Web 漏洞挖掘：从原理到实战全拆解 + 新手入门福利包 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486049&idx=1&sn=861477a2e60c870844b6cf5373c4354e) |
-| 3 | 玄域靶场-整数溢出导致的支付漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483941&idx=1&sn=6984a90bb9a6269da3d15fbe04c7d1a8) |
-| 4 | 黑客伪装成 Google 招聘人员窃取 Gmail 登录信息|CISA警告：Linux/Unix系统关键 Sudo 漏洞已被利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612604&idx=1&sn=de707e1b54186bf84695944eb5275bfc) |
+| 1 | 阅读与复现-域内手法5-PTH-域渗透攻防指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9](https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9) |
+| 2 | 【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c) |
+| 3 | TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f) |
 
 
 ## 📁 归档路径
@@ -93,7 +92,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -103,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-07 04:22:41*
+*生成时间: 2025-10-07 08:25:39*
 *报告工具: 微信文章安全归档系统*
