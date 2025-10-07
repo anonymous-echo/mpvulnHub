@@ -2,16 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 3篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,12 +65,22 @@
 
 ### Doonsec
 
-- [使用vmware在个人电脑上安装LearnCTF免费开源靶场（CTF平台/CTF靶场/CTF入门/网络安全/渗透测试）](https://mp.weixin.qq.com/s?__biz=MzYyMjc1NTIwOQ==&mid=2247483712&idx=1&sn=66e14ce7944e07b406b406a1393a9330) (发布日期: 2025-10-07)
-- [TIFS 2025 | 一种基于集群和堆叠式CTGAN的自适应网络入侵检测系统](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485751&idx=1&sn=35a83175126c8b6f04a25a961f925932) (发布日期: 2025-10-07)
-- [聊聊SOC多源日志接入与统一管理](https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486157&idx=1&sn=3b9e27aab3f65274848d8541e9614b60) (发布日期: 2025-10-07)
-- [阅读与复现-域内手法5-PTH-域渗透攻防指南](https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9) (发布日期: 2025-10-07)
-- [【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c) (发布日期: 2025-10-07)
-- [TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223）](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f) (发布日期: 2025-10-07)
+- [智能体的安全威胁、漏洞与潜在影响分析](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292626&idx=2&sn=8078fa799c4c4f167dcb577536b746a5) (发布日期: 2025-10-07)
+- [伪装成简历某红队窃密样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493605&idx=1&sn=9a57375cda43f202346dbf5c39e705ad) (发布日期: 2025-10-07)
+- [13 年前的 Redis RCE 严重漏洞让攻击者获得对主机系统的完全访问权限](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388) (发布日期: 2025-10-07)
+- [近一周涉我威胁情报一览](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487044&idx=1&sn=84479e587d7bce9b60078af1510edc03) (发布日期: 2025-10-07)
+- [Redis 服务器存在允许远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd) (发布日期: 2025-10-07)
+- [QNAP NetBak Replicator 存在允许恶意代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf) (发布日期: 2025-10-07)
+- [网络安全行业，为什么安全运维类人才很难找工作了](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494187&idx=4&sn=3e48f42dee5fced8a8e8c7f369e7ada3) (发布日期: 2025-10-07)
+- [深度剖析：黑客如何将DNS TXT记录，打造成一个“恶意软件投递工厂”？](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485119&idx=1&sn=6ea7f8bf9238dc4a39f1f824fbad9ad5) (发布日期: 2025-10-07)
+- [分享一些以前挖掘的src案列](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485444&idx=1&sn=654181ef75c762693e3823a7349cbb7c) (发布日期: 2025-10-07)
+- [将Gemini CLI集成到Kali Linux终端实现渗透测试任务自动化](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=1&sn=1a05937ecbcbc26366a76948538abb81) (发布日期: 2025-10-07)
+- [可获取Root权限的Sudo漏洞PoC利用代码已公开](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=3&sn=0328117b75806f3d9aadd7f29f91dc45) (发布日期: 2025-10-07)
+- [Windows内核CVE-2019-1215分析与复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7) (发布日期: 2025-10-07)
+- [25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期）](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f) (发布日期: 2025-10-07)
+- [一次简单的五千赏金漏洞挖掘记录](https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487289&idx=1&sn=779d6d9a7beb15097450b07e3d15f377) (发布日期: 2025-10-07)
+- [高危漏洞预警: Oracle E-Business套件已发现在野利用](https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8) (发布日期: 2025-10-07)
+- [【安全圈】全球数据泄露态势月度报告](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=2&sn=324b2de1f3fdfb6630ceca4f2aa2a4e3) (发布日期: 2025-10-07)
 
 
 ## 🎯 威胁详情分析
@@ -74,9 +89,41 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 阅读与复现-域内手法5-PTH-域渗透攻防指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9](https://mp.weixin.qq.com/s?__biz=MzkzNDM5NTMzOQ==&mid=2247486882&idx=1&sn=125dee116d2dff630bce521074078df9) |
-| 2 | 【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c](https://mp.weixin.qq.com/s?__biz=MzkxMDU5MzY0NQ==&mid=2247485547&idx=1&sn=6d7e8ab730c0922dc703c24097e5c93c) |
-| 3 | TRUfusion Enterprise身份验证绕过漏洞复现（CVE-2025-27223） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484046&idx=1&sn=06137b7510798bb028d02add68bd364f) |
+| 1 | 智能体的安全威胁、漏洞与潜在影响分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292626&idx=2&sn=8078fa799c4c4f167dcb577536b746a5](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655292626&idx=2&sn=8078fa799c4c4f167dcb577536b746a5) |
+| 2 | 13 年前的 Redis RCE 严重漏洞让攻击者获得对主机系统的完全访问权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388) |
+| 3 | Redis 服务器存在允许远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd) |
+| 4 | QNAP NetBak Replicator 存在允许恶意代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf) |
+| 5 | 可获取Root权限的Sudo漏洞PoC利用代码已公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=3&sn=0328117b75806f3d9aadd7f29f91dc45](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328445&idx=3&sn=0328117b75806f3d9aadd7f29f91dc45) |
+| 6 | Windows内核CVE-2019-1215分析与复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=1&sn=96fbadea99bbb779069babdb769a5de7) |
+| 7 | 25秋季班招生！节后直播：系统0day安全-IOT设备漏洞挖掘（第6期） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601626&idx=2&sn=b5e72cea3d9dd48d7e47eaacc15f057f) |
+| 8 | 一次简单的五千赏金漏洞挖掘记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487289&idx=1&sn=779d6d9a7beb15097450b07e3d15f377](https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487289&idx=1&sn=779d6d9a7beb15097450b07e3d15f377) |
+| 9 | 高危漏洞预警: Oracle E-Business套件已发现在野利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8](https://mp.weixin.qq.com/s?__biz=MzkzMDQwOTg3OQ==&mid=2247484753&idx=1&sn=69c1a630a790146c3c0ab634d71b90e8) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 13 年前的 Redis RCE 严重漏洞让攻击者获得对主机系统的完全访问权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388](https://mp.weixin.qq.com/s?__biz=MzI2MDg3MTM3Nw==&mid=2247484658&idx=1&sn=e8e266971934b8cfdc2dd2b16b02f388) |
+| 2 | Redis 服务器存在允许远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=1&sn=b578ea801236c9155f2314ee209ac1cd) |
+| 3 | QNAP NetBak Replicator 存在允许恶意代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096544&idx=2&sn=c5790deb777bab4c3a9a3ffbbd9baccf) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 近一周涉我威胁情报一览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487044&idx=1&sn=84479e587d7bce9b60078af1510edc03](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487044&idx=1&sn=84479e587d7bce9b60078af1510edc03) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 分享一些以前挖掘的src案列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485444&idx=1&sn=654181ef75c762693e3823a7349cbb7c](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485444&idx=1&sn=654181ef75c762693e3823a7349cbb7c) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】全球数据泄露态势月度报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=2&sn=324b2de1f3fdfb6630ceca4f2aa2a4e3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072104&idx=2&sn=324b2de1f3fdfb6630ceca4f2aa2a4e3) |
 
 
 ## 📁 归档路径
@@ -92,8 +139,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -102,5 +149,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-07 08:25:39*
+*生成时间: 2025-10-07 12:39:55*
 *报告工具: 微信文章安全归档系统*
