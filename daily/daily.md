@@ -1,14 +1,15 @@
-# 2025-10-06 安全威胁态势报告
+# 2025-10-07 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
@@ -60,22 +61,35 @@
 
 ### Doonsec
 
-- [设备在内网，如何从公网访问它？内网穿透真的很香！](https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2) (发布日期: 2025-10-06)
-- [AI与黑客的终极对决：速看HexStrike AI如何重塑渗透测试？](https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487553&idx=1&sn=49ac93e35b3c95a3a270aaf0547c3d4d) (发布日期: 2025-10-06)
+- [国庆网安 | 筑牢物联网安全防线，赋能万物互联](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507216&idx=1&sn=979b8291c73dfeab4cc9c0d071bca7fa) (发布日期: 2025-10-07)
+- [ProcDOT：恶意软件分析的可视化利器](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485096&idx=1&sn=7dda3fbcd00b3886d64b31536ed95246) (发布日期: 2025-10-07)
+- [从“捡子弹”到“轰内网”，这些GitHub神器让我连夜提桶跑路！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499) (发布日期: 2025-10-07)
+- [【密码学】伪随机生成函数](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492853&idx=1&sn=47292c8d96756bf7b25b1e4936195541) (发布日期: 2025-10-07)
+- [Oracle零日漏洞引发全球安全危机：Clop勒索团伙掀起数据窃取狂潮](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9) (发布日期: 2025-10-07)
+- [私有云安全资源池技术与应用研究（2025版）](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491959&idx=1&sn=8755183465e248db55f7afca89d097c8) (发布日期: 2025-10-07)
+- [守正出奇：蓝队视角下的0day漏洞发现之道](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2) (发布日期: 2025-10-07)
+- [LastPass：假密码管理器利用恶意软件感染 Mac 用户](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493632&idx=1&sn=04c5a7574d0e768a00521a625ddfea62) (发布日期: 2025-10-07)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Oracle零日漏洞引发全球安全危机：Clop勒索团伙掀起数据窃取狂潮 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514291&idx=1&sn=fc37fdc44a6cd4021c8e788cbcc5ffb9) |
+| 2 | 守正出奇：蓝队视角下的0day漏洞发现之道 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485481&idx=1&sn=41a68e761aba94781a45a34700feeff2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 设备在内网，如何从公网访问它？内网穿透真的很香！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2](https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649471038&idx=1&sn=25fcca6b57e1772689e128a48887b2f2) |
+| 1 | 从“捡子弹”到“轰内网”，这些GitHub神器让我连夜提桶跑路！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247492928&idx=1&sn=4d58c5a71177f70959d9f07392865499) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-06/`
+文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-07/`
 
 ## 🔗 数据源说明
 
@@ -86,7 +100,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -96,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-06 16:23:49*
+*生成时间: 2025-10-07 01:22:35*
 *报告工具: 微信文章安全归档系统*
