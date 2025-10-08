@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,17 +62,14 @@
 
 ### Doonsec
 
-- [红队安全研究 | SQL Server 加密绕过](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617243&idx=1&sn=e50f7c4a260c5e5109bae49d26c09772) (发布日期: 2025-10-08)
-- [兼具本地式与分布式优势、针对大类通用型Web漏洞、插件外部动态化导入的轻量级主被动扫描器](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495375&idx=1&sn=7610fa83354733dc3b9dd1e441c3f1a1) (发布日期: 2025-10-08)
-- [俄乌网络战升级！俄两大APT组织(Gamaredon 和 Turla)罕见联手，专盯乌克兰国防要害](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486858&idx=1&sn=1fd3b7c9231fd4becbd72a87d8a27585) (发布日期: 2025-10-08)
-- [聊聊成为CISO的五个关键能力](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237814&idx=1&sn=edd91d1cca99f3d24885225485084bd5) (发布日期: 2025-10-08)
-- [【安全圈】朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072117&idx=2&sn=90c00fce463ae0f41623aa384d158f65) (发布日期: 2025-10-08)
-- [Oracle E-Business Suite 预认证 RCE 链漏洞（CVE-2025-61882）](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e) (发布日期: 2025-10-08)
-- [[工具分享]RTSP未授权漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484052&idx=1&sn=0b777b6f8fdb1990a6cf88fb629751e9) (发布日期: 2025-10-08)
-- [若依(RuoYi)框架漏洞战争手册](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091) (发布日期: 2025-10-08)
-- [由点到面-从事件型漏洞到通用型漏洞的发掘](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497782&idx=1&sn=f35163b9e19e294536b84f59d438bd7a) (发布日期: 2025-10-08)
-- [拒绝服务（DoS）攻防](https://mp.weixin.qq.com/s?__biz=MzAwNTUzNjE3OQ==&mid=2649560029&idx=1&sn=2bdabe00529c8c95911fb4ab21c2a7e2) (发布日期: 2025-10-08)
-- [Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882)](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5) (发布日期: 2025-10-08)
+- [歇斯底里Hy2防墙一键脚本，nginx伪装、加密混淆、BBR加速一键部署](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485335&idx=1&sn=d30c23d7bca7fd87041f341ca9855ef2) (发布日期: 2025-10-08)
+- [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb) (发布日期: 2025-10-08)
+- [CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b) (发布日期: 2025-10-08)
+- [渗透测试入门指南：为什么OSCP是小白必考黄金认证？](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485444&idx=1&sn=c2e8d06f399555581db009aa52f812ec) (发布日期: 2025-10-08)
+- [Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) (发布日期: 2025-10-08)
+- [最后1天|国庆V24-26小迪安全培训](https://mp.weixin.qq.com/s?__biz=MzA5MzQ3MDE1NQ==&mid=2653940672&idx=1&sn=0ae0711c1b658a897b4fa6e5f95f35bc) (发布日期: 2025-10-08)
+- [特斯拉车载通信单元漏洞使攻击者可获取Root权限](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c) (发布日期: 2025-10-08)
+- [朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元|勒索攻击致啤酒巨头瘫痪！黑客组织\"麒麟\"公开叫嚣](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=2&sn=252308252bf60fc614be7e2a6472a77e) (发布日期: 2025-10-08)
 
 
 ## 🎯 威胁详情分析
@@ -83,25 +78,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 兼具本地式与分布式优势、针对大类通用型Web漏洞、插件外部动态化导入的轻量级主被动扫描器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495375&idx=1&sn=7610fa83354733dc3b9dd1e441c3f1a1](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495375&idx=1&sn=7610fa83354733dc3b9dd1e441c3f1a1) |
-| 2 | Oracle E-Business Suite 预认证 RCE 链漏洞（CVE-2025-61882） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e) |
-| 3 | [工具分享]RTSP未授权漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484052&idx=1&sn=0b777b6f8fdb1990a6cf88fb629751e9](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484052&idx=1&sn=0b777b6f8fdb1990a6cf88fb629751e9) |
-| 4 | 若依(RuoYi)框架漏洞战争手册 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492981&idx=1&sn=516d21aae6125aba7eed2e7e47eff091) |
-| 5 | 由点到面-从事件型漏洞到通用型漏洞的发掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497782&idx=1&sn=f35163b9e19e294536b84f59d438bd7a](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497782&idx=1&sn=f35163b9e19e294536b84f59d438bd7a) |
-| 6 | Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5) |
+| 1 | [ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb) |
+| 2 | CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b) |
+| 3 | Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) |
+| 4 | 特斯拉车载通信单元漏洞使攻击者可获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle E-Business Suite 预认证 RCE 链漏洞（CVE-2025-61882） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485470&idx=1&sn=d067f296fa2efb20a4e7b94853cb564e) |
-| 2 | Oracle E-Business Suite 未授权 RCE 漏洞链分析(CVE-2025-61882) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485723&idx=1&sn=07801a9f3d2be96df77109228256d3d5) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 俄乌网络战升级！俄两大APT组织(Gamaredon 和 Turla)罕见联手，专盯乌克兰国防要害 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486858&idx=1&sn=1fd3b7c9231fd4becbd72a87d8a27585](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486858&idx=1&sn=1fd3b7c9231fd4becbd72a87d8a27585) |
+| 1 | Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) |
 
 
 ## 📁 归档路径
@@ -117,8 +103,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -127,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-08 04:21:54*
+*生成时间: 2025-10-08 08:26:10*
 *报告工具: 微信文章安全归档系统*
