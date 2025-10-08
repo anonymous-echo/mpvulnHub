@@ -1,18 +1,20 @@
-# 2025-10-07 安全威胁态势报告
+# 2025-10-08 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,9 +63,20 @@
 
 ### Doonsec
 
-- [Redis高危漏洞来袭：6万台服务器或已暴露！](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492098&idx=1&sn=122c792e2c90ea26b72099382a9aa8a4) (发布日期: 2025-10-07)
-- [实战 | 记一次X站逻辑漏洞到到管理员后台](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498367&idx=1&sn=35f5eba00e0a1853982587a491b4b981) (发布日期: 2025-10-07)
-- [开源安全管理平台wazuh-阻止恶意IP访问](https://mp.weixin.qq.com/s?__biz=MjM5NDMwMjEwMg==&mid=2451852302&idx=1&sn=c1b6d358c4844edfc43b710bb8070d1a) (发布日期: 2025-10-07)
+- [GoAnywhere零日漏洞已遭大肆利用并部署Medusa勒索软件](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514312&idx=1&sn=3ba955e5a40c3c6d8cee3ed20e9380c0) (发布日期: 2025-10-08)
+- [恶意软件分析工具大全：从静态分析到AI驱动检测](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=1&sn=ddb456e4145beeda46dc04c9857ceac7) (发布日期: 2025-10-08)
+- [DITRP INDIA网站SQL注入漏洞分析](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=2&sn=50f2308e1be6454c5fe4c916fe1486a5) (发布日期: 2025-10-08)
+- [你的设备，可能正因一个GET请求被远程控制！CISA最新“在野”漏洞警报分析](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485120&idx=1&sn=bacfc089f518df8c321159470c72cacd) (发布日期: 2025-10-08)
+- [上个月Cisco，这个月Palo Alto？同样的攻击前兆，历史会重演吗？](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901440&idx=1&sn=5ca80b4608db9295c921e5bd1d27e96b) (发布日期: 2025-10-08)
+- [攻防演练实战中30个IP溯源反制技战法！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527413&idx=1&sn=8bc135f58bb17e35135be6a9257e79f8) (发布日期: 2025-10-08)
+- [Phpstudy2016的php插件后门漏洞](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483709&idx=1&sn=cf428e0d04639fd194754c38ee3ad8de) (发布日期: 2025-10-08)
+- [初创公司安全防护指南：用20%的成本实现80%的安全效果](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247487762&idx=1&sn=6219ac45645f53b47d749fa8681af7a6) (发布日期: 2025-10-08)
+- [WinRAR之CVE-2025-6218漏洞复现与分析](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485522&idx=1&sn=e8a90539a969bb34bad67f3124562a96) (发布日期: 2025-10-08)
+- [从“诸侯割据”到“中央集权”：构建集中统一的分支机构安全管理体系](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485516&idx=1&sn=9966ddd3ff7d91c1c0ecd124e356b2d5) (发布日期: 2025-10-08)
+- [2025年网络安全意识月：需要了解的10件事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247501930&idx=1&sn=2c26ff2778b8912ab8dff86ec32bdf0e) (发布日期: 2025-10-08)
+- [SillyTavern 存在高危漏洞（CVE-2025-59159，CVSS 9.7），可导致本地 AI 实例遭远程完全控制](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524146&idx=1&sn=66cadb75c8abec0dab8420bb573906d6) (发布日期: 2025-10-08)
+- [网络安全意识月的5个基本网络安全提示](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118782&idx=2&sn=4cb10f0592864946cdca034b700f34bd) (发布日期: 2025-10-08)
+- [SolarWinds 发布针对严重远程代码执行漏洞 CVE-2025-26399 的修补程序](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81) (发布日期: 2025-10-08)
 
 
 ## 🎯 威胁详情分析
@@ -72,13 +85,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Redis高危漏洞来袭：6万台服务器或已暴露！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492098&idx=1&sn=122c792e2c90ea26b72099382a9aa8a4](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492098&idx=1&sn=122c792e2c90ea26b72099382a9aa8a4) |
-| 2 | 实战 | 记一次X站逻辑漏洞到到管理员后台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498367&idx=1&sn=35f5eba00e0a1853982587a491b4b981](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498367&idx=1&sn=35f5eba00e0a1853982587a491b4b981) |
+| 1 | GoAnywhere零日漏洞已遭大肆利用并部署Medusa勒索软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514312&idx=1&sn=3ba955e5a40c3c6d8cee3ed20e9380c0](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514312&idx=1&sn=3ba955e5a40c3c6d8cee3ed20e9380c0) |
+| 2 | DITRP INDIA网站SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=2&sn=50f2308e1be6454c5fe4c916fe1486a5](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=2&sn=50f2308e1be6454c5fe4c916fe1486a5) |
+| 3 | 你的设备，可能正因一个GET请求被远程控制！CISA最新“在野”漏洞警报分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485120&idx=1&sn=bacfc089f518df8c321159470c72cacd](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485120&idx=1&sn=bacfc089f518df8c321159470c72cacd) |
+| 4 | Phpstudy2016的php插件后门漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483709&idx=1&sn=cf428e0d04639fd194754c38ee3ad8de](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247483709&idx=1&sn=cf428e0d04639fd194754c38ee3ad8de) |
+| 5 | WinRAR之CVE-2025-6218漏洞复现与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485522&idx=1&sn=e8a90539a969bb34bad67f3124562a96](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485522&idx=1&sn=e8a90539a969bb34bad67f3124562a96) |
+| 6 | SillyTavern 存在高危漏洞（CVE-2025-59159，CVSS 9.7），可导致本地 AI 实例遭远程完全控制 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524146&idx=1&sn=66cadb75c8abec0dab8420bb573906d6](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524146&idx=1&sn=66cadb75c8abec0dab8420bb573906d6) |
+| 7 | SolarWinds 发布针对严重远程代码执行漏洞 CVE-2025-26399 的修补程序 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | DITRP INDIA网站SQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=2&sn=50f2308e1be6454c5fe4c916fe1486a5](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485110&idx=2&sn=50f2308e1be6454c5fe4c916fe1486a5) |
+| 2 | SolarWinds 发布针对严重远程代码执行漏洞 CVE-2025-26399 的修补程序 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493633&idx=1&sn=b15bb03d1eca9386cfc5a338492d8e81) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-07/`
+文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-08/`
 
 ## 🔗 数据源说明
 
@@ -89,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-07 16:23:45*
+*生成时间: 2025-10-08 01:22:42*
 *报告工具: 微信文章安全归档系统*
