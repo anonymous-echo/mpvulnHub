@@ -2,18 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
-- **攻击技术**: 1篇
+- **攻击技术**: 2篇
+- **信息泄露**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
 - **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,14 +65,17 @@
 
 ### Doonsec
 
-- [歇斯底里Hy2防墙一键脚本，nginx伪装、加密混淆、BBR加速一键部署](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485335&idx=1&sn=d30c23d7bca7fd87041f341ca9855ef2) (发布日期: 2025-10-08)
-- [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb) (发布日期: 2025-10-08)
-- [CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b) (发布日期: 2025-10-08)
-- [渗透测试入门指南：为什么OSCP是小白必考黄金认证？](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485444&idx=1&sn=c2e8d06f399555581db009aa52f812ec) (发布日期: 2025-10-08)
-- [Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) (发布日期: 2025-10-08)
-- [最后1天|国庆V24-26小迪安全培训](https://mp.weixin.qq.com/s?__biz=MzA5MzQ3MDE1NQ==&mid=2653940672&idx=1&sn=0ae0711c1b658a897b4fa6e5f95f35bc) (发布日期: 2025-10-08)
-- [特斯拉车载通信单元漏洞使攻击者可获取Root权限](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c) (发布日期: 2025-10-08)
-- [朝鲜黑客疯狂盗窃加密货币：专盯富豪钱包，涉案金额超140亿元|勒索攻击致啤酒巨头瘫痪！黑客组织\"麒麟\"公开叫嚣](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=2&sn=252308252bf60fc614be7e2a6472a77e) (发布日期: 2025-10-08)
+- [OpenSSH 通过 ProxyCommand 执行远程代码漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0) (发布日期: 2025-10-08)
+- [黑客通过注入恶意 PHP 代码来利用 WordPress 网站](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=2&sn=1ff541256031768dd897ec0f9113e626) (发布日期: 2025-10-08)
+- [CVE-2025-49844 (RediShell) POC概念验证脚本](https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f) (发布日期: 2025-10-08)
+- [漏洞预警 | “RediShell” Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c) (发布日期: 2025-10-08)
+- [Anthropic推出AI安全工具Petri：通过自主Agent研究大模型行为](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=1&sn=80fcf97c75584ae92b81bb14916aeb59) (发布日期: 2025-10-08)
+- [Nagios严重漏洞CVE-2025-44823致管理员API密钥明文泄露，PoC已公开](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=2&sn=ec86e41561a74c3e9a70168add72e18f) (发布日期: 2025-10-08)
+- [全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=3&sn=5b44a3ffebace72725a0f0b80c411b1e) (发布日期: 2025-10-08)
+- [新型Yurei勒索软件现世：基于Go语言的高级反取证技术实现不可逆双重勒索](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=4&sn=d920ba9bfac75a4594a47eff48f227b5) (发布日期: 2025-10-08)
+- [2025金秋政策解码：企业网络安全合规的三重防线](https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486245&idx=1&sn=199e6be71bc9d6698575bdcdfc698bcb) (发布日期: 2025-10-08)
+- [汽车软件开发的质量和安全管理流程](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560479&idx=2&sn=0ce813499afbe8a1862ae19427109aba) (发布日期: 2025-10-08)
+- [常见各组件以及系统默认弱口令](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686) (发布日期: 2025-10-08)
 
 
 ## 🎯 威胁详情分析
@@ -78,16 +84,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | [ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=1&sn=cfc9ca108eb34fd28bb64d7e0484c9cb) |
-| 2 | CVE-2025-53772 IIS Web Deploy 系统反序列化漏洞深度剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500765&idx=2&sn=f3fa9ab207841cf85dc525fc2703204b) |
-| 3 | Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) |
-| 4 | 特斯拉车载通信单元漏洞使攻击者可获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612609&idx=1&sn=17ee03909406535ad7fb7447a4773d0c) |
+| 1 | OpenSSH 通过 ProxyCommand 执行远程代码漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=1&sn=26fe50eb5b42dd9cc91fe4030d74f4d0) |
+| 2 | CVE-2025-49844 (RediShell) POC概念验证脚本 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f](https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484328&idx=1&sn=b0ae411a4b013ba395f11a717e34448f) |
+| 3 | 漏洞预警 | “RediShell” Redis Lua脚本远程代码执行漏洞(CVE-2025-49844) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c) |
+| 4 | Nagios严重漏洞CVE-2025-44823致管理员API密钥明文泄露，PoC已公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=2&sn=ec86e41561a74c3e9a70168add72e18f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=2&sn=ec86e41561a74c3e9a70168add72e18f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Redis Lua脚本远程代码执行漏洞(CVE-2025-49844)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503974&idx=1&sn=81542dd0847c9c10168672a7e898cf0f) |
+| 1 | 黑客通过注入恶意 PHP 代码来利用 WordPress 网站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=2&sn=1ff541256031768dd897ec0f9113e626](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096552&idx=2&sn=1ff541256031768dd897ec0f9113e626) |
+| 2 | 漏洞预警 | “RediShell” Redis Lua脚本远程代码执行漏洞(CVE-2025-49844) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484614&idx=1&sn=5694fbde8642d1af0b59c8d42c04a38c) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=3&sn=5b44a3ffebace72725a0f0b80c411b1e](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328480&idx=3&sn=5b44a3ffebace72725a0f0b80c411b1e) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 常见各组件以及系统默认弱口令 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498371&idx=1&sn=88579785fbd61a0b516231fee58a0686) |
 
 
 ## 📁 归档路径
@@ -113,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-08 08:26:10*
+*生成时间: 2025-10-08 12:40:14*
 *报告工具: 微信文章安全归档系统*
