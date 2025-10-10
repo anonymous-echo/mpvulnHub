@@ -2,25 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 30
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 30篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 10篇
-- **漏洞利用**: 9篇
+- **漏洞利用**: 8篇
+- **攻击技术**: 6篇
 - **信息泄露**: 2篇
-- **威胁情报**: 1篇
 - **安全运营**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 4篇
-- **网络攻击**: 4篇
-- **Web安全**: 2篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 3篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -69,36 +66,23 @@
 
 ### Doonsec
 
-- [OSCP渗透实战（第三期）：Windows权限提升与内网渗透终极指南](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485481&idx=1&sn=a2573a504632e924aa75ec40ca315b98) (发布日期: 2025-10-10)
-- [每周高级威胁情报解读(2025.09.26~10.09)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516252&idx=1&sn=51b593b738d783d8be5d07886f82ca3e) (发布日期: 2025-10-10)
-- [【百炼靶机】Vulnhub实战：Venom靶机信息搜集、漏洞利用与提权指南](https://mp.weixin.qq.com/s?__biz=Mzk0MjY4ODk3Mw==&mid=2247484060&idx=1&sn=c7c2e018cac28496ddd238cd21e79350) (发布日期: 2025-10-10)
-- [前沿 | 能源行业软件供应链安全管理体系构建与实践](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250555&idx=3&sn=557de8a9594f23bdadcd8b875a7b7f19) (发布日期: 2025-10-10)
-- [内网渗透命令大全！看这篇就够了！·](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486579&idx=1&sn=756e1e79b6ede5a60eb8a1c8296e46e5) (发布日期: 2025-10-10)
-- [用友U8 Cloud fwd XSS漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f) (发布日期: 2025-10-10)
-- [战火重燃！第二届腾讯云安全RASP挑战赛邀您来战！](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496838&idx=1&sn=429bb435c844e141c26594f4337b4d7b) (发布日期: 2025-10-10)
-- [文件上传漏洞全攻略：攻防与绕过实战](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247486246&idx=1&sn=785ee22ba83bc7d21c95ed2480eb89aa) (发布日期: 2025-10-10)
-- [命令执行(rce)靶场【文末附在线练习地址】](https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491455&idx=1&sn=35aef509fce15921d32ba6b80329ba13) (发布日期: 2025-10-10)
-- [实战中Java反序列化漏洞黑盒挖掘思路](https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504859&idx=1&sn=3884ef6991aab4c7b58b2cfae87e3810) (发布日期: 2025-10-10)
-- [麒麟(Qilin)勒索软件攻陷日本朝日集团，数万份内部文件与员工护照遭泄露](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247504382&idx=1&sn=d1850a956c4dcba3a0646f4e6d9ab0cc) (发布日期: 2025-10-10)
-- [漏洞预警 DrayTek Vigor 路由器 mainfunction.cgi 命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1) (发布日期: 2025-10-10)
-- [漏洞预警 |流行工具Figma MCP曝RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444) (发布日期: 2025-10-10)
-- [多家银行因数据安全问题被罚！](https://mp.weixin.qq.com/s?__biz=MzU1ODM1Njc1Ng==&mid=2247498405&idx=1&sn=64b72af5bbd3d5aba0d208f154b933a9) (发布日期: 2025-10-10)
-- [“数据无影 取证有痕” | 第二届“数证杯”电子数据取证分析大赛启动报名](https://mp.weixin.qq.com/s?__biz=MzkzNTQzNTQzMQ==&mid=2247485805&idx=1&sn=f59129fb41c4302593d6aa053f6e2802) (发布日期: 2025-10-10)
-- [【招聘】：船舶网络安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506773&idx=4&sn=59e1bc12817cf06401c03a11a9726430) (发布日期: 2025-10-10)
-- [CNVD漏洞周报2025年第37期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500697&idx=1&sn=defaee8aab5981e55847e68d3947ef28) (发布日期: 2025-10-10)
-- [谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248488&idx=1&sn=54fb913925a804873c40068efe946ca8) (发布日期: 2025-10-10)
-- [日本最大啤酒商遭勒索软件攻击：朝日工厂瘫痪暴露网络安全短板](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252623&idx=1&sn=de3cc4ddc59bc9945f1092a0d68091ac) (发布日期: 2025-10-10)
-- [黑客滥用CSS属性实施\"隐藏文本盐化攻击\"注入恶意代码](https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886235&idx=1&sn=3129664abad0b494e58eefb58cc154c4) (发布日期: 2025-10-10)
-- [网络安全行业，聊一聊国内网络安全行业的这三十年发展的历程](https://mp.weixin.qq.com/s?__biz=MzAwMzg5MjAwOQ==&mid=2247485826&idx=1&sn=8c47037e76a3f407f06faed6cdec2a52) (发布日期: 2025-10-10)
-- [全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087080&idx=1&sn=94b0c0d9c5f5d1d0cda36a33fa237b04) (发布日期: 2025-10-10)
-- [网络流量监控与威胁检测工具 -- FastMonitor（10月10日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517409&idx=1&sn=0a222d7ed34ed25b4ec56bda1e402a0c) (发布日期: 2025-10-10)
-- [日本朝日啤酒遭Qilin勒索软件组织攻击，导致其停产](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490101&idx=1&sn=a8b4c3076913aa81d9d0e1a2d2f338a0) (发布日期: 2025-10-10)
-- [ACL配置不当导致域控沦陷](https://mp.weixin.qq.com/s?__biz=MzU1NTU5NzA0Mw==&mid=2247483868&idx=1&sn=f654ad1686bc7df6cf037c000eb62014) (发布日期: 2025-10-10)
-- [云安全漏洞-企业SRC预签名漏洞实战-(抽奖星球)](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7) (发布日期: 2025-10-10)
-- [好消息，明天你的渗透测试工具箱将永久改变](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452514991&idx=1&sn=aadc0bc24de81955cf946cb1dc6805cb) (发布日期: 2025-10-10)
-- [全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=1&sn=ad05fc8863af3b24917fd4975a0ee1c4) (发布日期: 2025-10-10)
-- [一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=4&sn=e5b4c8eba73df96eea39631c2985acf8) (发布日期: 2025-10-10)
-- [攻防演练 | HW实战中钓鱼全流程梳理](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497809&idx=1&sn=0d7f388a487cf0bc916a9dea9f885154) (发布日期: 2025-10-10)
+- [【火绒安全周报】因网络攻击致朝日啤酒供应告急/Discord 用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526927&idx=1&sn=b8e55423d4a127054c8bdab6da0f0338) (发布日期: 2025-10-10)
+- [能信安：漏洞通告](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491318&idx=1&sn=b654335bbfb269e767429a3b9c89e6de) (发布日期: 2025-10-10)
+- [10月开课！CCRC-DSA数据安全评估师认证火热招生](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525268&idx=2&sn=5154954265da3715d65d38a0242c93da) (发布日期: 2025-10-10)
+- [QNAP QTS 与 Photo Station 6.0.3 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788) (发布日期: 2025-10-10)
+- [【已复现】Linux Kernel TLS 子系统越界访问漏洞(CVE-2025-39946)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=1&sn=2d825f2627cf7c1caae7d2ecfcfddd73) (发布日期: 2025-10-10)
+- [【已复现】Framelink Figma MCP Server 远程代码执行漏洞(CVE-2025-53967)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2) (发布日期: 2025-10-10)
+- [攻防演练中红队钓鱼攻击思路与技术案例研究](https://mp.weixin.qq.com/s?__biz=Mzk1Nzk5NDE4OA==&mid=2247483757&idx=1&sn=8a21961ca9baebf1cbbaeac4d452809f) (发布日期: 2025-10-10)
+- [【CVE-2025-49844】Redis远程代码执行漏洞 (含POC)](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f) (发布日期: 2025-10-10)
+- [安全运营知识](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485895&idx=1&sn=512022bd7490a12d41270d63cbab7e48) (发布日期: 2025-10-10)
+- [基于 ExtJS 框架下 的XSS 漏洞分析挖掘](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e) (发布日期: 2025-10-10)
+- [攻防演练中红队钓鱼攻击思路与技术案例研究](https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488268&idx=1&sn=88ff7b29bc02a8917c0e5c1535d8ba3b) (发布日期: 2025-10-10)
+- [Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df) (发布日期: 2025-10-10)
+- [山石安服｜智能网联汽车V2X安全测试服务方案](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303249&idx=1&sn=ad53766fd94998d95dce22765e6a93a2) (发布日期: 2025-10-10)
+- [IT、安全团队总扯皮？用SBOM管技术债，打破部门墙，存量资产风险降一半！](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492069&idx=1&sn=77494de37789988559ba778cf26ceaa4) (发布日期: 2025-10-10)
+- [【红队思路】红队场景下lnk钓鱼绕过Web 标记 (MoTW)](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484655&idx=1&sn=7d20503246d5da3d2811897a1aaa5063) (发布日期: 2025-10-10)
+- [企业数据安全的黑洞：AI聊天工具](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504204&idx=1&sn=df8d433af7d3024bf41ef0f17368b321) (发布日期: 2025-10-10)
+- [Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533) (发布日期: 2025-10-10)
 
 
 ## 🎯 威胁详情分析
@@ -107,55 +91,38 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【百炼靶机】Vulnhub实战：Venom靶机信息搜集、漏洞利用与提权指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjY4ODk3Mw==&mid=2247484060&idx=1&sn=c7c2e018cac28496ddd238cd21e79350](https://mp.weixin.qq.com/s?__biz=Mzk0MjY4ODk3Mw==&mid=2247484060&idx=1&sn=c7c2e018cac28496ddd238cd21e79350) |
-| 2 | 用友U8 Cloud fwd XSS漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f) |
-| 3 | 文件上传漏洞全攻略：攻防与绕过实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247486246&idx=1&sn=785ee22ba83bc7d21c95ed2480eb89aa](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwMzE3NA==&mid=2247486246&idx=1&sn=785ee22ba83bc7d21c95ed2480eb89aa) |
-| 4 | 实战中Java反序列化漏洞黑盒挖掘思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504859&idx=1&sn=3884ef6991aab4c7b58b2cfae87e3810](https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504859&idx=1&sn=3884ef6991aab4c7b58b2cfae87e3810) |
-| 5 | 漏洞预警 DrayTek Vigor 路由器 mainfunction.cgi 命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1) |
-| 6 | 漏洞预警 |流行工具Figma MCP曝RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444) |
-| 7 | CNVD漏洞周报2025年第37期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500697&idx=1&sn=defaee8aab5981e55847e68d3947ef28](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500697&idx=1&sn=defaee8aab5981e55847e68d3947ef28) |
-| 8 | 谷歌推出AI Agent CodeMender：自动重写漏洞代码提升软件安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248488&idx=1&sn=54fb913925a804873c40068efe946ca8](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248488&idx=1&sn=54fb913925a804873c40068efe946ca8) |
-| 9 | 云安全漏洞-企业SRC预签名漏洞实战-(抽奖星球) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7) |
+| 1 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491318&idx=1&sn=b654335bbfb269e767429a3b9c89e6de](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491318&idx=1&sn=b654335bbfb269e767429a3b9c89e6de) |
+| 2 | QNAP QTS 与 Photo Station 6.0.3 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788) |
+| 3 | 【已复现】Linux Kernel TLS 子系统越界访问漏洞(CVE-2025-39946) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=1&sn=2d825f2627cf7c1caae7d2ecfcfddd73](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=1&sn=2d825f2627cf7c1caae7d2ecfcfddd73) |
+| 4 | 【已复现】Framelink Figma MCP Server 远程代码执行漏洞(CVE-2025-53967) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2) |
+| 5 | 【CVE-2025-49844】Redis远程代码执行漏洞 (含POC) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f) |
+| 6 | 基于 ExtJS 框架下 的XSS 漏洞分析挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e) |
+| 7 | Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df) |
+| 8 | Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | OSCP渗透实战（第三期）：Windows权限提升与内网渗透终极指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485481&idx=1&sn=a2573a504632e924aa75ec40ca315b98](https://mp.weixin.qq.com/s?__biz=Mzk1NzI5MTc0Nw==&mid=2247485481&idx=1&sn=a2573a504632e924aa75ec40ca315b98) |
-| 2 | 内网渗透命令大全！看这篇就够了！· | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486579&idx=1&sn=756e1e79b6ede5a60eb8a1c8296e46e5](https://mp.weixin.qq.com/s?__biz=Mzk0MzcyNjMyNg==&mid=2247486579&idx=1&sn=756e1e79b6ede5a60eb8a1c8296e46e5) |
-| 3 | 用友U8 Cloud fwd XSS漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484065&idx=1&sn=0a856da6090a57bf3c67d0580963d60f) |
-| 4 | 命令执行(rce)靶场【文末附在线练习地址】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491455&idx=1&sn=35aef509fce15921d32ba6b80329ba13](https://mp.weixin.qq.com/s?__biz=Mzg5NDU3NDA3OQ==&mid=2247491455&idx=1&sn=35aef509fce15921d32ba6b80329ba13) |
-| 5 | 漏洞预警 DrayTek Vigor 路由器 mainfunction.cgi 命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492348&idx=1&sn=800e213d003a797017239477f6fab0d1) |
-| 6 | 漏洞预警 |流行工具Figma MCP曝RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489245&idx=1&sn=26559f8b6888cb846be6d764cad8f444) |
-| 7 | 黑客滥用CSS属性实施\"隐藏文本盐化攻击\"注入恶意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886235&idx=1&sn=3129664abad0b494e58eefb58cc154c4](https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886235&idx=1&sn=3129664abad0b494e58eefb58cc154c4) |
-| 8 | 网络安全行业，聊一聊国内网络安全行业的这三十年发展的历程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMzg5MjAwOQ==&mid=2247485826&idx=1&sn=8c47037e76a3f407f06faed6cdec2a52](https://mp.weixin.qq.com/s?__biz=MzAwMzg5MjAwOQ==&mid=2247485826&idx=1&sn=8c47037e76a3f407f06faed6cdec2a52) |
-| 9 | ACL配置不当导致域控沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1NTU5NzA0Mw==&mid=2247483868&idx=1&sn=f654ad1686bc7df6cf037c000eb62014](https://mp.weixin.qq.com/s?__biz=MzU1NTU5NzA0Mw==&mid=2247483868&idx=1&sn=f654ad1686bc7df6cf037c000eb62014) |
-| 10 | 一个RCE命令执行靶场，包含基础命令、shell 特性、常见姿势、常见waf绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=4&sn=e5b4c8eba73df96eea39631c2985acf8](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=4&sn=e5b4c8eba73df96eea39631c2985acf8) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 每周高级威胁情报解读(2025.09.26~10.09) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516252&idx=1&sn=51b593b738d783d8be5d07886f82ca3e](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516252&idx=1&sn=51b593b738d783d8be5d07886f82ca3e) |
+| 1 | QNAP QTS 与 Photo Station 6.0.3 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712549&idx=1&sn=fe5f31fffe0db23964980955b71c5788) |
+| 2 | 【已复现】Framelink Figma MCP Server 远程代码执行漏洞(CVE-2025-53967) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494895&idx=2&sn=8940ff93573fc86f53ba6a3d28efd6b2) |
+| 3 | 【CVE-2025-49844】Redis远程代码执行漏洞 (含POC) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501427&idx=1&sn=9101b71e135200f4328d9a43dbd5df7f) |
+| 4 | 基于 ExtJS 框架下 的XSS 漏洞分析挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e](https://mp.weixin.qq.com/s?__biz=Mzg4ODg4NDA2Mw==&mid=2247483944&idx=1&sn=927b9bcfa8182fc2362f1fad8902521e) |
+| 5 | Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df) |
+| 6 | Spring Cloud Gateway SpEL表达式注入漏洞(CVE-2025-41243) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492922&idx=1&sn=585c7129cc0396fb05b86021016a2533) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 云安全漏洞-企业SRC预签名漏洞实战-(抽奖星球) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488962&idx=1&sn=029b98e28833060927b4fc41c3fc0ed7) |
+| 1 | 安全运营知识 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485895&idx=1&sn=512022bd7490a12d41270d63cbab7e48](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247485895&idx=1&sn=512022bd7490a12d41270d63cbab7e48) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087080&idx=1&sn=94b0c0d9c5f5d1d0cda36a33fa237b04](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087080&idx=1&sn=94b0c0d9c5f5d1d0cda36a33fa237b04) |
-| 2 | 全球39家巨头遭黑客勒索，思科、谷歌及航空公司面临数据泄露危机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=1&sn=ad05fc8863af3b24917fd4975a0ee1c4](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612655&idx=1&sn=ad05fc8863af3b24917fd4975a0ee1c4) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 前沿 | 能源行业软件供应链安全管理体系构建与实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250555&idx=3&sn=557de8a9594f23bdadcd8b875a7b7f19](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664250555&idx=3&sn=557de8a9594f23bdadcd8b875a7b7f19) |
+| 1 | 【火绒安全周报】因网络攻击致朝日啤酒供应告急/Discord 用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526927&idx=1&sn=b8e55423d4a127054c8bdab6da0f0338](https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247526927&idx=1&sn=b8e55423d4a127054c8bdab6da0f0338) |
+| 2 | Trinity of Chaos黑客团伙利用Salesforce漏洞攻击39家企业 暗网上线数据泄露站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247584830&idx=1&sn=a5e0fdf3c48cb82be56cef1cd198d5df) |
 
 
 ## 📁 归档路径
@@ -171,8 +138,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 10 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -181,5 +148,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-10 04:22:28*
+*生成时间: 2025-10-10 08:25:25*
 *报告工具: 微信文章安全归档系统*
