@@ -1,19 +1,17 @@
-# 2025-10-10 安全威胁态势报告
+# 2025-10-11 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -62,39 +60,23 @@
 
 ### Doonsec
 
-- [RediShell漏洞检查软件（v2.0）](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486286&idx=1&sn=156c4ab48f9d3c4572ff8ea832071171) (发布日期: 2025-10-10)
-- [Oracle E-Business Suite 零日漏洞遭广泛勒索活动利用](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=1&sn=503b9d6a19714dc4da938c0db3732488) (发布日期: 2025-10-10)
-- [7-Zip 漏洞可导致攻击者远程执行任意代码](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=2&sn=65c4d0fe91c7ab688a3313e45e3baeec) (发布日期: 2025-10-10)
-- [TP-Link 路由器漏洞 CVE-2023-28760 允许通过 LAN 进行 Root RCE，PoC 可用](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c) (发布日期: 2025-10-10)
-- [0066.$$$$ 赏金事件：8 万多用户数据因注册漏洞泄露](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691095&idx=1&sn=924ffaabd3d2cf58d91b1a0a243e9189) (发布日期: 2025-10-10)
-- [一次从受限路径遍历到 RCE 的旅程，获得 40,000 美元赏金！](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490808&idx=1&sn=26e6e123b176ac307a996e56fa0d7412) (发布日期: 2025-10-10)
-- [高级进程注入之利用线程名和APC](https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483965&idx=1&sn=5384555896c099e8d4ea980303036019) (发布日期: 2025-10-10)
+- [应急响应：记一次远控木马查杀实战与溯源分析](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485571&idx=1&sn=f699f1336e5fbf4f969909d11052be4e) (发布日期: 2025-10-11)
+- [罚款！湖南某医院未履行保护义务，致医疗信息泄露](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118826&idx=2&sn=7b77c2299634109ff9ca5578b038e92a) (发布日期: 2025-10-11)
+- [数据安全风险评估培训杂谈](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502078&idx=1&sn=c8ff1cb33e5fb5a3aefcf54a9e2a1ea9) (发布日期: 2025-10-11)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | RediShell漏洞检查软件（v2.0） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486286&idx=1&sn=156c4ab48f9d3c4572ff8ea832071171](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486286&idx=1&sn=156c4ab48f9d3c4572ff8ea832071171) |
-| 2 | Oracle E-Business Suite 零日漏洞遭广泛勒索活动利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=1&sn=503b9d6a19714dc4da938c0db3732488](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=1&sn=503b9d6a19714dc4da938c0db3732488) |
-| 3 | 7-Zip 漏洞可导致攻击者远程执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=2&sn=65c4d0fe91c7ab688a3313e45e3baeec](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=2&sn=65c4d0fe91c7ab688a3313e45e3baeec) |
-| 4 | TP-Link 路由器漏洞 CVE-2023-28760 允许通过 LAN 进行 Root RCE，PoC 可用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c) |
-| 5 | 0066.$$$$ 赏金事件：8 万多用户数据因注册漏洞泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691095&idx=1&sn=924ffaabd3d2cf58d91b1a0a243e9189](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691095&idx=1&sn=924ffaabd3d2cf58d91b1a0a243e9189) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | TP-Link 路由器漏洞 CVE-2023-28760 允许通过 LAN 进行 Root RCE，PoC 可用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533015&idx=3&sn=242d7c458e64d86430351c1522447d5c) |
-| 2 | 一次从受限路径遍历到 RCE 的旅程，获得 40,000 美元赏金！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490808&idx=1&sn=26e6e123b176ac307a996e56fa0d7412](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490808&idx=1&sn=26e6e123b176ac307a996e56fa0d7412) |
-| 3 | 高级进程注入之利用线程名和APC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483965&idx=1&sn=5384555896c099e8d4ea980303036019](https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483965&idx=1&sn=5384555896c099e8d4ea980303036019) |
+| 1 | 应急响应：记一次远控木马查杀实战与溯源分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485571&idx=1&sn=f699f1336e5fbf4f969909d11052be4e](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485571&idx=1&sn=f699f1336e5fbf4f969909d11052be4e) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-10/`
+文章已归档到: `doc/2025/2025-10/2025-W41/2025-10-11/`
 
 ## 🔗 数据源说明
 
@@ -105,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-10 16:23:37*
+*生成时间: 2025-10-11 01:20:27*
 *报告工具: 微信文章安全归档系统*
