@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,16 +63,13 @@
 
 ### Doonsec
 
-- [渗透测试之从绕过密码强制修改到超管](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e) (发布日期: 2025-10-12)
-- [彩虹易支付存在前台SQL注入漏洞【0.5day】](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) (发布日期: 2025-10-12)
-- [事关金融安全：七国集团网络专家组发布AI与网络安全声明](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534065&idx=1&sn=de2f6046108727aad23a3a1d7c178519) (发布日期: 2025-10-12)
-- [干货 | HOST碰撞漏洞挖掘技巧](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41) (发布日期: 2025-10-12)
-- [Progress Telerik UI for ASP.NET AJAX不安全反射漏洞CVE-2025-3600(长达14年)](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc) (发布日期: 2025-10-12)
-- [恩施金盾保安集团招网络安全运营岗！薪资面谈 + 项目提成，五险 + 双休，需 CAD / 网络基础](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397) (发布日期: 2025-10-12)
-- [巴基斯坦战略SWOT情报分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562353&idx=1&sn=4501ad7d219583f1c8ee54ac1947727f) (发布日期: 2025-10-12)
-- [GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877) (发布日期: 2025-10-12)
-- [VMware Workstation虚拟机逃逸漏洞PoC利用代码公开](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce) (发布日期: 2025-10-12)
-- [软件供应链企业为什么必须买5台Web应用防火墙](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa) (发布日期: 2025-10-12)
+- [80 个反序列化漏洞全景系列 (6) | 深入剖析特定代码场景下触发漏洞的可能性](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500796&idx=1&sn=2237b751bf571f57c7188dccd6bf5625) (发布日期: 2025-10-12)
+- [内网渗透(三)：域靶场搭建](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487840&idx=1&sn=8cbacd29d3452184446d8dfd513c0bca) (发布日期: 2025-10-12)
+- [用友U8 Cloud 全版本远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd) (发布日期: 2025-10-12)
+- [篇 71：澳大利亚国防部容器平台项目敏感信息泄露风险分析](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=1&sn=fb723ac254226e2b2fa038018c8982f8) (发布日期: 2025-10-12)
+- [篇 72：Miljödata AB 数据泄露事件详细分析](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=2&sn=2b5f24e936c8c8e8079a7ced2093d0b0) (发布日期: 2025-10-12)
+- [代码审计初学者入门与心得](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489010&idx=1&sn=ea4307a2aa1b8fe57146f68a2764c074) (发布日期: 2025-10-12)
+- [【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机](https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736) (发布日期: 2025-10-12)
 
 
 ## 🎯 威胁详情分析
@@ -82,29 +78,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 彩虹易支付存在前台SQL注入漏洞【0.5day】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) |
-| 2 | 干货 | HOST碰撞漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41) |
-| 3 | Progress Telerik UI for ASP.NET AJAX不安全反射漏洞CVE-2025-3600(长达14年) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc) |
-| 4 | GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877) |
-| 5 | VMware Workstation虚拟机逃逸漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce) |
+| 1 | 80 个反序列化漏洞全景系列 (6) | 深入剖析特定代码场景下触发漏洞的可能性 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500796&idx=1&sn=2237b751bf571f57c7188dccd6bf5625](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500796&idx=1&sn=2237b751bf571f57c7188dccd6bf5625) |
+| 2 | 用友U8 Cloud 全版本远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd) |
+| 3 | 【工具】当代码审计工具遇上MCP，小白也能成为漏洞收割机 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736](https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247485361&idx=1&sn=41e52a1b81fbf2e9504e968d1b091736) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 彩虹易支付存在前台SQL注入漏洞【0.5day】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) |
+| 1 | 内网渗透(三)：域靶场搭建 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487840&idx=1&sn=8cbacd29d3452184446d8dfd513c0bca](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487840&idx=1&sn=8cbacd29d3452184446d8dfd513c0bca) |
+| 2 | 用友U8 Cloud 全版本远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd](https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501440&idx=1&sn=f6d30c0812e09da66d9e0d925e4289dd) |
 
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 恩施金盾保安集团招网络安全运营岗！薪资面谈 + 项目提成，五险 + 双休，需 CAD / 网络基础 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397) |
-
-### 供应链
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 软件供应链企业为什么必须买5台Web应用防火墙 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa) |
+| 1 | 篇 72：Miljödata AB 数据泄露事件详细分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=2&sn=2b5f24e936c8c8e8079a7ced2093d0b0](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503317&idx=2&sn=2b5f24e936c8c8e8079a7ced2093d0b0) |
 
 
 ## 📁 归档路径
@@ -120,8 +109,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-12 04:21:14*
+*生成时间: 2025-10-12 08:21:51*
 *报告工具: 微信文章安全归档系统*
