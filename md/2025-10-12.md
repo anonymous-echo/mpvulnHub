@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **安全运营**: 1篇
 - **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,17 +64,16 @@
 
 ### Doonsec
 
-- [紧急预警！这个潜伏13年的Redis漏洞，能让黑客远程接管你的服务器！](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485147&idx=1&sn=f1121e2e5b4d06a2692e8965a45ec539) (发布日期: 2025-10-12)
-- [提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524265&idx=1&sn=6dcd82aa1350163d514e9ad9603e4541) (发布日期: 2025-10-12)
-- [Slack【安全服务集成化工具】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491496&idx=1&sn=75af335c2312a0bbcd6066877419639f) (发布日期: 2025-10-12)
-- [筑牢商业机密“防火墙”：企业如何严防第三方合作商泄密？](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462007&idx=1&sn=a6d37f0257d583d87479c8d54288b185) (发布日期: 2025-10-12)
-- [零信任架构下的动态访问控制：构建自适应安全边界的核心策略](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488014&idx=1&sn=e0c7985760a8eb2e51475822b95a475d) (发布日期: 2025-10-12)
-- [全自动渗透工具5.0上线，AI将取代渗透测试工程师](https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486502&idx=1&sn=3705da61d9b84267f14bb5869b52d2e6) (发布日期: 2025-10-12)
-- [13 年前的 Redis 漏洞曝光：CVSS 10.0 漏洞可让攻击者远程运行代码](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493781&idx=1&sn=64139e5c4e44293469e5f8f53a6afcbd) (发布日期: 2025-10-12)
-- [Java Chains：一站式 Java Payload生成与漏洞利用探索平台](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484079&idx=1&sn=fc1b57077777f6c5a78ed697cddea162) (发布日期: 2025-10-12)
-- [威胁情报共享：深度解码某恶意IP的攻击Payload](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485587&idx=1&sn=a902368bc4342aaef708963c47a29445) (发布日期: 2025-10-12)
-- [芯片后门警报响起，数字时代的安全堡垒如何筑起？](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516509&idx=1&sn=208f38ca1ef32b48c3e8a21e2566ab6b) (发布日期: 2025-10-12)
-- [安天AVL SDK反病毒引擎升级通告（20251011）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212705&idx=1&sn=210dceac2e3004d7e8e81bc12c78bdab) (发布日期: 2025-10-12)
+- [渗透测试之从绕过密码强制修改到超管](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552724&idx=1&sn=988e9b1ec95ff6137d227cb9a81dea7e) (发布日期: 2025-10-12)
+- [彩虹易支付存在前台SQL注入漏洞【0.5day】](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) (发布日期: 2025-10-12)
+- [事关金融安全：七国集团网络专家组发布AI与网络安全声明](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534065&idx=1&sn=de2f6046108727aad23a3a1d7c178519) (发布日期: 2025-10-12)
+- [干货 | HOST碰撞漏洞挖掘技巧](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41) (发布日期: 2025-10-12)
+- [Progress Telerik UI for ASP.NET AJAX不安全反射漏洞CVE-2025-3600(长达14年)](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc) (发布日期: 2025-10-12)
+- [恩施金盾保安集团招网络安全运营岗！薪资面谈 + 项目提成，五险 + 双休，需 CAD / 网络基础](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397) (发布日期: 2025-10-12)
+- [巴基斯坦战略SWOT情报分析](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562353&idx=1&sn=4501ad7d219583f1c8ee54ac1947727f) (发布日期: 2025-10-12)
+- [GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877) (发布日期: 2025-10-12)
+- [VMware Workstation虚拟机逃逸漏洞PoC利用代码公开](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce) (发布日期: 2025-10-12)
+- [软件供应链企业为什么必须买5台Web应用防火墙](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa) (发布日期: 2025-10-12)
 
 
 ## 🎯 威胁详情分析
@@ -82,27 +82,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急预警！这个潜伏13年的Redis漏洞，能让黑客远程接管你的服务器！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485147&idx=1&sn=f1121e2e5b4d06a2692e8965a45ec539](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485147&idx=1&sn=f1121e2e5b4d06a2692e8965a45ec539) |
-| 2 | 13 年前的 Redis 漏洞曝光：CVSS 10.0 漏洞可让攻击者远程运行代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493781&idx=1&sn=64139e5c4e44293469e5f8f53a6afcbd](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493781&idx=1&sn=64139e5c4e44293469e5f8f53a6afcbd) |
-| 3 | Java Chains：一站式 Java Payload生成与漏洞利用探索平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484079&idx=1&sn=fc1b57077777f6c5a78ed697cddea162](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484079&idx=1&sn=fc1b57077777f6c5a78ed697cddea162) |
+| 1 | 彩虹易支付存在前台SQL注入漏洞【0.5day】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) |
+| 2 | 干货 | HOST碰撞漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247519763&idx=1&sn=1db415c1b82ac77c3a31b91ee24aeb41) |
+| 3 | Progress Telerik UI for ASP.NET AJAX不安全反射漏洞CVE-2025-3600(长达14年) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485783&idx=1&sn=75aa7515ac9e76b7655e760520b0cbcc) |
+| 4 | GitHub AI助手漏洞：隐藏提示与图片代理致私有代码泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=1&sn=f27df497d26ef7061e9880f490126877) |
+| 5 | VMware Workstation虚拟机逃逸漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612707&idx=2&sn=18dee8bee8979b94af62d94abc0f44ce) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524265&idx=1&sn=6dcd82aa1350163d514e9ad9603e4541](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524265&idx=1&sn=6dcd82aa1350163d514e9ad9603e4541) |
+| 1 | 彩虹易支付存在前台SQL注入漏洞【0.5day】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247486841&idx=1&sn=626d3eaca21def1edbf70a0f411a865b) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报共享：深度解码某恶意IP的攻击Payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485587&idx=1&sn=a902368bc4342aaef708963c47a29445](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485587&idx=1&sn=a902368bc4342aaef708963c47a29445) |
+| 1 | 恩施金盾保安集团招网络安全运营岗！薪资面谈 + 项目提成，五险 + 双休，需 CAD / 网络基础 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247506815&idx=1&sn=092da161cbed5c1b78752ef2279d3397) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 筑牢商业机密“防火墙”：企业如何严防第三方合作商泄密？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462007&idx=1&sn=a6d37f0257d583d87479c8d54288b185](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462007&idx=1&sn=a6d37f0257d583d87479c8d54288b185) |
+| 1 | 软件供应链企业为什么必须买5台Web应用防火墙 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa) |
 
 
 ## 📁 归档路径
@@ -118,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -128,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-12 01:27:06*
+*生成时间: 2025-10-12 04:21:14*
 *报告工具: 微信文章安全归档系统*
