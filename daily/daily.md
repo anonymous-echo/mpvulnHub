@@ -2,22 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 3篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,19 +60,8 @@
 
 ### Doonsec
 
-- [JoplinServer 权限提升漏洞(CVE-2025-27134)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e) (发布日期: 2025-10-12)
-- [当隧道工具变成攻击武器：GSocket 滥用对企业安全的深层冲击](https://mp.weixin.qq.com/s?__biz=MzkzMzMyOTc5OQ==&mid=2247484488&idx=1&sn=779af2a3a768e44e4bb09d2c3fc94e66) (发布日期: 2025-10-12)
-- [src漏洞挖掘 XSS&CSRF组合拳](https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9) (发布日期: 2025-10-12)
-- [日志安全分析系统 - Security_Analysis_Engine](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486577&idx=1&sn=49accfe66f32b2e67857907fb238fd30) (发布日期: 2025-10-12)
-- [实战记录-API泄漏+cookie篡改进后台+信息泄露和垂直越权](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247488995&idx=1&sn=67c92254c0f335c8a1ae246f6a64e876) (发布日期: 2025-10-12)
-- [伪装成银狐专杀工具攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493688&idx=1&sn=ca0cbb71a05cc7b61fa71d8e1f78490a) (发布日期: 2025-10-12)
-- [CTF Web专项：SQL注入从原理到Flag提取全流程指南](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486123&idx=1&sn=d777c239098ebcb241fa5067631d582d) (发布日期: 2025-10-12)
-- [DOM XSS：绕过服务器端 Cookie 覆盖、Chrome innerHTML 漏洞和 JSON 注入](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9) (发布日期: 2025-10-12)
-- [2026年AI驱动的SOC技术栈：顶级平台的核心差异](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328636&idx=1&sn=a400a4abcba223174bce79c4dc920281) (发布日期: 2025-10-12)
-- [利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328636&idx=2&sn=33423f636dc69a812c5ea8ce46880fb6) (发布日期: 2025-10-12)
-- [Cookie越权不会只改id和jwt吧(老edu系统新鲜0day挖掘过程)](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955) (发布日期: 2025-10-12)
-- [IPsec VPN 渗透测试完全指南](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492564&idx=1&sn=21131198dcdbee217d66916fc94aeaaa) (发布日期: 2025-10-12)
-- [开源安全管理平台wazuh-与网络入侵检测系统集成增强威胁检测能力](https://mp.weixin.qq.com/s?__biz=MjM5NDMwMjEwMg==&mid=2451852368&idx=1&sn=e59a548982b5eafecc446a46b8612e48) (发布日期: 2025-10-12)
+- [微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881) (发布日期: 2025-10-12)
+- [高德地图api key泄露安全漏洞处置措施](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc) (发布日期: 2025-10-12)
 
 
 ## 🎯 威胁详情分析
@@ -87,30 +70,8 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | JoplinServer 权限提升漏洞(CVE-2025-27134) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e) |
-| 2 | src漏洞挖掘 XSS&CSRF组合拳 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9](https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9) |
-| 3 | DOM XSS：绕过服务器端 Cookie 覆盖、Chrome innerHTML 漏洞和 JSON 注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9) |
-| 4 | Cookie越权不会只改id和jwt吧(老edu系统新鲜0day挖掘过程) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485529&idx=1&sn=ce0d54360ca61ee53bccdc3f93308955) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | src漏洞挖掘 XSS&CSRF组合拳 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9](https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9) |
-| 2 | CTF Web专项：SQL注入从原理到Flag提取全流程指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486123&idx=1&sn=d777c239098ebcb241fa5067631d582d](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486123&idx=1&sn=d777c239098ebcb241fa5067631d582d) |
-| 3 | DOM XSS：绕过服务器端 Cookie 覆盖、Chrome innerHTML 漏洞和 JSON 注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533058&idx=2&sn=5836dd1779d6af2ebc239d49fa0436a9) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 伪装成银狐专杀工具攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493688&idx=1&sn=ca0cbb71a05cc7b61fa71d8e1f78490a](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493688&idx=1&sn=ca0cbb71a05cc7b61fa71d8e1f78490a) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | src漏洞挖掘 XSS&CSRF组合拳 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9](https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9) |
+| 1 | 微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881) |
+| 2 | 高德地图api key泄露安全漏洞处置措施 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc](https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc) |
 
 
 ## 📁 归档路径
@@ -126,8 +87,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +97,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-12 12:35:01*
+*生成时间: 2025-10-12 16:20:20*
 *报告工具: 微信文章安全归档系统*
