@@ -1,19 +1,19 @@
-# 2025-10-13 安全威胁态势报告
+# 2025-10-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +62,12 @@
 
 ### Doonsec
 
-- [Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74) (发布日期: 2025-10-13)
-- [安天参译《情报驱动应急响应（第二版）》出版](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212719&idx=1&sn=42e82793d08351cade31124b88c415c0) (发布日期: 2025-10-13)
-- [论文研读与思考｜GTAE IDS：一种基于图 Transformer 的自编码器框架，用于实时网络入侵检测](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247484571&idx=1&sn=656893fafaa455cb6e6a319176fd3129) (发布日期: 2025-10-13)
-- [一次不寻常的邮箱轰炸漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520154&idx=1&sn=ef7bb30e2825ba91a8736506bfda0ec6) (发布日期: 2025-10-13)
-- [【高危漏洞预警】Oracle E-Business Suite 访问控制不当可导致信息泄露 (CVE-2025-61884)](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=1&sn=b002276f0a9f2802d614136c5b4e17a2) (发布日期: 2025-10-13)
-- [【高危漏洞预警】Happy DOM代码注入漏洞 (CVE-2025-61927)](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c) (发布日期: 2025-10-13)
-- [高级进程注入之利用线程名和APC（下）](https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483975&idx=1&sn=a19bb0c00c531953236cbe552fa883f9) (发布日期: 2025-10-13)
+- [NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf) (发布日期: 2025-10-14)
+- [隐形漏洞：未授权访问的发现与治理](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485615&idx=1&sn=fd115c5af0da6819f81ba4e57b9f066b) (发布日期: 2025-10-14)
+- [收藏级干货！lmxcms1.4 nday漏洞全收录，一篇搞定！](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492901&idx=1&sn=1bbbc1ac7fc08a48c806d435366f8f60) (发布日期: 2025-10-14)
+- [ThinkPHP 漏洞扫描工具 -- ThinkPHPKiller（10月10日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517447&idx=1&sn=687e4d1b3ddad9035493e3a1057f1a7d) (发布日期: 2025-10-14)
+- [最新Nessus2025.10.13版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495179&idx=1&sn=dc5b692d24feaf7918c2226eb255c37c) (发布日期: 2025-10-14)
+- [Figma MCP 存在严重漏洞，可导致黑客远程执行代码 - 需立即修复](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493788&idx=1&sn=7c8d8a63502937436c501dd030b60ac2) (发布日期: 2025-10-14)
 
 
 ## 🎯 威胁详情分析
@@ -77,29 +76,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74) |
-| 2 | 一次不寻常的邮箱轰炸漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520154&idx=1&sn=ef7bb30e2825ba91a8736506bfda0ec6](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520154&idx=1&sn=ef7bb30e2825ba91a8736506bfda0ec6) |
-| 3 | 【高危漏洞预警】Oracle E-Business Suite 访问控制不当可导致信息泄露 (CVE-2025-61884) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=1&sn=b002276f0a9f2802d614136c5b4e17a2](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=1&sn=b002276f0a9f2802d614136c5b4e17a2) |
-| 4 | 【高危漏洞预警】Happy DOM代码注入漏洞 (CVE-2025-61927) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c) |
+| 1 | NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf) |
+| 2 | 隐形漏洞：未授权访问的发现与治理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485615&idx=1&sn=fd115c5af0da6819f81ba4e57b9f066b](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485615&idx=1&sn=fd115c5af0da6819f81ba4e57b9f066b) |
+| 3 | 收藏级干货！lmxcms1.4 nday漏洞全收录，一篇搞定！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492901&idx=1&sn=1bbbc1ac7fc08a48c806d435366f8f60](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492901&idx=1&sn=1bbbc1ac7fc08a48c806d435366f8f60) |
+| 4 | ThinkPHP 漏洞扫描工具 -- ThinkPHPKiller（10月10日更新） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517447&idx=1&sn=687e4d1b3ddad9035493e3a1057f1a7d](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517447&idx=1&sn=687e4d1b3ddad9035493e3a1057f1a7d) |
+| 5 | 最新Nessus2025.10.13版本主机漏洞扫描/探测工具Windows/Linux下载 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495179&idx=1&sn=dc5b692d24feaf7918c2226eb255c37c](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495179&idx=1&sn=dc5b692d24feaf7918c2226eb255c37c) |
+| 6 | Figma MCP 存在严重漏洞，可导致黑客远程执行代码 - 需立即修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493788&idx=1&sn=7c8d8a63502937436c501dd030b60ac2](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493788&idx=1&sn=7c8d8a63502937436c501dd030b60ac2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle E-Business Suite存在远程代码执行漏洞(CVE-2025-61882)附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489323&idx=1&sn=d3dafeedd32f8678cc699e6142858b74) |
-| 2 | 【高危漏洞预警】Happy DOM代码注入漏洞 (CVE-2025-61927) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490846&idx=2&sn=ec4d29756b6866bb8cf30636bf8f721c) |
-| 3 | 高级进程注入之利用线程名和APC（下） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483975&idx=1&sn=a19bb0c00c531953236cbe552fa883f9](https://mp.weixin.qq.com/s?__biz=MzkyODUzMjEzOA==&mid=2247483975&idx=1&sn=a19bb0c00c531953236cbe552fa883f9) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 安天参译《情报驱动应急响应（第二版）》出版 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212719&idx=1&sn=42e82793d08351cade31124b88c415c0](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212719&idx=1&sn=42e82793d08351cade31124b88c415c0) |
+| 1 | NVIDIA GPU驱动修复多个高危漏洞，存在远程代码执行和权限提升风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524302&idx=1&sn=704309e5ce85d68069d3d124ca0f9baf) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-13/`
+文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-14/`
 
 ## 🔗 数据源说明
 
@@ -110,8 +103,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-13 16:24:34*
+*生成时间: 2025-10-14 01:23:38*
 *报告工具: 微信文章安全归档系统*
