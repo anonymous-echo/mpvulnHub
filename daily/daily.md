@@ -2,21 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 15
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 15篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
+- **漏洞利用**: 3篇
 - **攻击技术**: 3篇
-- **供应链**: 3篇
 - **威胁情报**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,28 +63,21 @@
 
 ### Doonsec
 
-- [Oracle E-Business Suite RCE 漏洞将敏感数据暴露给黑客，无需身份验证](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28) (发布日期: 2025-10-14)
-- [黑客利用 Microsoft Edge Internet Explorer 模式访问用户的设备](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=2&sn=13013fc3172fb89593ae3448d8976fb0) (发布日期: 2025-10-14)
-- [重构威胁分析流程：基于Golang与DeepSeek的自研AI智能体实践](https://mp.weixin.qq.com/s?__biz=Mzg5MzMyNDAzNg==&mid=2247483986&idx=1&sn=c39ad60cca926941a16ade9a3aab081b) (发布日期: 2025-10-14)
-- [【安全圈】Gcore成功防御6Tbps超大规模DDoS攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=1&sn=291b236fef0955c4f149e4c3b6479be7) (发布日期: 2025-10-14)
-- [【安全圈】微软加强 Edge 浏览器 IE 模式安全，防止零日漏洞被滥用](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=2&sn=e7a794345d050c9883b48c25239d09f4) (发布日期: 2025-10-14)
-- [【安全圈】npm、PyPI、RubyGems 爆出新型供应链攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=4&sn=5bbe033454cf09e1d7ff2798b1eeccd7) (发布日期: 2025-10-14)
-- [【已复现】用友U8 Cloud存在远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d) (发布日期: 2025-10-14)
-- [OpenAI安全护栏破绽百出，简单提示注入即可绕过](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=1&sn=33062e6f74193fb45931ed0000ff2daf) (发布日期: 2025-10-14)
-- [AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=3&sn=cef6d2e68c8b9dda3bb0e925eee5d2c4) (发布日期: 2025-10-14)
-- [重庆大学 | MDADroid：一种通过构建功能-API映射的新型恶意软件检测方法](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493958&idx=1&sn=1401c0597f3c6c0bcfae5bd663c7e3e7) (发布日期: 2025-10-14)
-- [生成式人工智能的数据安全风险及回应型治理策略](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174777&idx=1&sn=f6accee9b61d0be1e1cd0c0548650650) (发布日期: 2025-10-14)
-- [SDC2025 精彩议题预告 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601957&idx=1&sn=710a5278ab680a3f8bcbbebd8ced9927) (发布日期: 2025-10-14)
-- [Oracle 紧急修复 E-Business Suite 中的新 0day](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=1&sn=c2eb0803c0ca4694950604fde5b7811c) (发布日期: 2025-10-14)
-- [微软 Edge 浏览器的 IE 模式被用于 0day 攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=2&sn=c73e1971f3cd10cc4d2672211cd10b9a) (发布日期: 2025-10-14)
-- [AI如何成为顶尖安全专家？](https://mp.weixin.qq.com/s?__biz=MzAwNDE4Mzc1NA==&mid=2650850773&idx=1&sn=ef1acad2d46a24dd6f5ca2096ca78925) (发布日期: 2025-10-14)
-- [CEO主导威胁情报库建设 实现从被动防御到主动风险管理转型](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550916&idx=1&sn=cb9bf124550b8ff002d320237db37a76) (发布日期: 2025-10-14)
-- [提升漏洞挖掘效率：AI在小程序安全中的实战应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODkyNjU4NQ==&mid=2247484014&idx=1&sn=32ebef6c5ad8066118054add9fcca97f) (发布日期: 2025-10-14)
-- [MSRPC渗透测试指南：Windows网络服务的隐秘通道](https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492610&idx=1&sn=1bbea39ff65de6d74996c249fab0a155) (发布日期: 2025-10-14)
-- [提升漏洞挖掘效率：AI在小程序安全中的实战应用](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487077&idx=1&sn=9adc7a4be4b7635f11145dd8271a8042) (发布日期: 2025-10-14)
-- [WordPress主题和插件中的漏洞：如何保护你的网站](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487039&idx=1&sn=60d03d15e4e16efeed69bcf1dbc6281a) (发布日期: 2025-10-14)
-- [越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515079&idx=1&sn=2eac0ae1c04a1a489e6884166ce176e3) (发布日期: 2025-10-14)
-- [GB/Tu202f22239‑2019《网络安全等级保护基本要求》中第二、三、四级要求项对比（安全管理中心）](https://mp.weixin.qq.com/s?__biz=MzA3NDMyNDM0NQ==&mid=2247485188&idx=1&sn=13430e34c7290f7c61fa1c0f526a4a10) (发布日期: 2025-10-14)
+- [成为一名合格的CISO，需要具备哪些知识与能力？](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492121&idx=1&sn=0bf0261f3aa5f1522b1f86c00901a8ef) (发布日期: 2025-10-14)
+- [普华科技-PowerPMS File.ashx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098) (发布日期: 2025-10-14)
+- [下一代威胁情报平台「\"Nextrap\"」](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483955&idx=1&sn=d24d24b59b7201229d17aea018fccd09) (发布日期: 2025-10-14)
+- [如何快速挖掘低微漏洞-项目挖掘总结版](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494500&idx=1&sn=2da7aa0d40075b462eb27695f2da9e83) (发布日期: 2025-10-14)
+- [【高危漏洞预警】用友U8Cloud pubsmsservlet远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2) (发布日期: 2025-10-14)
+- [零日攻击后微软限制 Edge 中的 IE 模式访问](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533076&idx=2&sn=f76cce0617b65c17ae2be4c8029992f4) (发布日期: 2025-10-14)
+- [战火重燃！第二届腾讯云安全RASP挑战赛邀您来战！](https://mp.weixin.qq.com/s?__biz=Mzg5OTE4NTczMQ==&mid=2247528135&idx=2&sn=615abb331b67e005e4c33dc12bc211e7) (发布日期: 2025-10-14)
+- [工具推荐：向杀毒软件注入恶意代码](https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488645&idx=1&sn=11da73fb4a29f3f7d78709482ecdcaa4) (发布日期: 2025-10-14)
+- [【招聘信息】安全服务工程师（驻场）](https://mp.weixin.qq.com/s?__biz=MzkwMDU5NTE0OQ==&mid=2247488693&idx=1&sn=b98b1b561a278737d638fd6f1b317bdf) (发布日期: 2025-10-14)
+- [估值缩水超300亿，应用安全独角兽Snyk的IPO可能破灭u200b](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485081&idx=1&sn=df2f0d8acaad4eac74c7cd29c5275948) (发布日期: 2025-10-14)
+- [CTF-威胁检测与网络流量分析](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486178&idx=2&sn=1b28736037ec30c138e3d0709c921ff6) (发布日期: 2025-10-14)
+- [一次很大众的渗透测试过程](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMzk2NQ==&mid=2247486178&idx=3&sn=7b45cc418fa716944bf985f398e47cf7) (发布日期: 2025-10-14)
+- [【论文速读】|AutoPentester：基于LLM智能体的自动化渗透测试框架](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497113&idx=1&sn=1ca20d083c62cbb86246f853745967ec) (发布日期: 2025-10-14)
+- [免费赠送 | 2025国家网络安全宣传周 · 政务机关安全意识资料合集](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247644306&idx=3&sn=5981e1c1cc166146c433fbaeba8a83ee) (发布日期: 2025-10-14)
+- [记一次某CMS最最最详细的代码审计](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490673&idx=1&sn=c2774a35eebdc05f5ac76e33ce25d21a) (发布日期: 2025-10-14)
 
 
 ## 🎯 威胁详情分析
@@ -95,44 +86,23 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle E-Business Suite RCE 漏洞将敏感数据暴露给黑客，无需身份验证 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28) |
-| 2 | 黑客利用 Microsoft Edge Internet Explorer 模式访问用户的设备 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=2&sn=13013fc3172fb89593ae3448d8976fb0](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=2&sn=13013fc3172fb89593ae3448d8976fb0) |
-| 3 | 【安全圈】微软加强 Edge 浏览器 IE 模式安全，防止零日漏洞被滥用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=2&sn=e7a794345d050c9883b48c25239d09f4](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=2&sn=e7a794345d050c9883b48c25239d09f4) |
-| 4 | 【已复现】用友U8 Cloud存在远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d) |
-| 5 | AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=3&sn=cef6d2e68c8b9dda3bb0e925eee5d2c4](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=3&sn=cef6d2e68c8b9dda3bb0e925eee5d2c4) |
-| 6 | Oracle 紧急修复 E-Business Suite 中的新 0day | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=1&sn=c2eb0803c0ca4694950604fde5b7811c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=1&sn=c2eb0803c0ca4694950604fde5b7811c) |
-| 7 | 微软 Edge 浏览器的 IE 模式被用于 0day 攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=2&sn=c73e1971f3cd10cc4d2672211cd10b9a](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524175&idx=2&sn=c73e1971f3cd10cc4d2672211cd10b9a) |
-| 8 | 提升漏洞挖掘效率：AI在小程序安全中的实战应用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODkyNjU4NQ==&mid=2247484014&idx=1&sn=32ebef6c5ad8066118054add9fcca97f](https://mp.weixin.qq.com/s?__biz=Mzg2ODkyNjU4NQ==&mid=2247484014&idx=1&sn=32ebef6c5ad8066118054add9fcca97f) |
-| 9 | 提升漏洞挖掘效率：AI在小程序安全中的实战应用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487077&idx=1&sn=9adc7a4be4b7635f11145dd8271a8042](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487077&idx=1&sn=9adc7a4be4b7635f11145dd8271a8042) |
-| 10 | WordPress主题和插件中的漏洞：如何保护你的网站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487039&idx=1&sn=60d03d15e4e16efeed69bcf1dbc6281a](https://mp.weixin.qq.com/s?__biz=MzAxNjg3MjczOA==&mid=2247487039&idx=1&sn=60d03d15e4e16efeed69bcf1dbc6281a) |
+| 1 | 普华科技-PowerPMS File.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098) |
+| 2 | 如何快速挖掘低微漏洞-项目挖掘总结版 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494500&idx=1&sn=2da7aa0d40075b462eb27695f2da9e83](https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247494500&idx=1&sn=2da7aa0d40075b462eb27695f2da9e83) |
+| 3 | 【高危漏洞预警】用友U8Cloud pubsmsservlet远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Oracle E-Business Suite RCE 漏洞将敏感数据暴露给黑客，无需身份验证 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096569&idx=1&sn=535160e4b6f8b5e7d1d4c41338e7fb28) |
-| 2 | 【已复现】用友U8 Cloud存在远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490604&idx=1&sn=047564815f61553688e31305b9e5789d) |
-| 3 | OpenAI安全护栏破绽百出，简单提示注入即可绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=1&sn=33062e6f74193fb45931ed0000ff2daf](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328717&idx=1&sn=33062e6f74193fb45931ed0000ff2daf) |
+| 1 | 普华科技-PowerPMS File.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489335&idx=1&sn=58a0f3a1e7452202827c2138bd5d2098) |
+| 2 | 【高危漏洞预警】用友U8Cloud pubsmsservlet远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490851&idx=1&sn=ea8d0e7cf87c12577f522e83a3bea1b2) |
+| 3 | 工具推荐：向杀毒软件注入恶意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488645&idx=1&sn=11da73fb4a29f3f7d78709482ecdcaa4](https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488645&idx=1&sn=11da73fb4a29f3f7d78709482ecdcaa4) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CEO主导威胁情报库建设 实现从被动防御到主动风险管理转型 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550916&idx=1&sn=cb9bf124550b8ff002d320237db37a76](https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247550916&idx=1&sn=cb9bf124550b8ff002d320237db37a76) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515079&idx=1&sn=2eac0ae1c04a1a489e6884166ce176e3](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515079&idx=1&sn=2eac0ae1c04a1a489e6884166ce176e3) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】npm、PyPI、RubyGems 爆出新型供应链攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=4&sn=5bbe033454cf09e1d7ff2798b1eeccd7](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072213&idx=4&sn=5bbe033454cf09e1d7ff2798b1eeccd7) |
-| 2 | SDC2025 精彩议题预告 | 大模型供应链安全的熵增效应：风险挖掘与熵减策略 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601957&idx=1&sn=710a5278ab680a3f8bcbbebd8ced9927](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458601957&idx=1&sn=710a5278ab680a3f8bcbbebd8ced9927) |
-| 3 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515079&idx=1&sn=2eac0ae1c04a1a489e6884166ce176e3](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515079&idx=1&sn=2eac0ae1c04a1a489e6884166ce176e3) |
+| 1 | 下一代威胁情报平台「\"Nextrap\"」 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483955&idx=1&sn=d24d24b59b7201229d17aea018fccd09](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483955&idx=1&sn=d24d24b59b7201229d17aea018fccd09) |
 
 
 ## 📁 归档路径
@@ -148,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -158,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-14 12:41:47*
+*生成时间: 2025-10-14 16:24:27*
 *报告工具: 微信文章安全归档系统*
