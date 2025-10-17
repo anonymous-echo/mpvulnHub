@@ -1,21 +1,24 @@
-# 2025-10-16 安全威胁态势报告
+# 2025-10-17 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 27
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 27篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 13篇
 - **攻击技术**: 1篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **系统漏洞**: 1篇
 - **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,12 +67,33 @@
 
 ### Doonsec
 
-- [黑客利用区块链构建恶意软件的C2基础设施](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183033&idx=1&sn=e755ff7f0d0000c0be16865da0d77fe3) (发布日期: 2025-10-16)
-- [渗透案例：SNMP配置错误导致容器逃逸与利用openssl的SUID实现权限提升](https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485579&idx=1&sn=d9c89979e23c5ae619f16fbe8427206d) (发布日期: 2025-10-16)
-- [Traccar存在任意文件读取漏洞CVE-2025-61666 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489359&idx=1&sn=acecd87b31f740f12e7d0c8f0fab2dc9) (发布日期: 2025-10-16)
-- [【高危漏洞预警】7-Zip远程代码执行漏洞CVE-2025-11001&CVE-2025-11002](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece) (发布日期: 2025-10-16)
-- [新南威尔士大学 | 物联网网络中可解释的深度学习入侵检测框架](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493999&idx=1&sn=f148be6f01854bb0da894f85898294c3) (发布日期: 2025-10-16)
-- [src专项挖掘知识库](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520286&idx=2&sn=c5d205be9e08f609b9756477258783a1) (发布日期: 2025-10-16)
+- [赛事招标丨2025年中国电信甘肃公司第五届网络和数据安全技能竞赛暨工业互联网安全大赛服务项目](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494646&idx=1&sn=754f20b9e7cc02fc42581a5390d55279) (发布日期: 2025-10-17)
+- [神州希望荣获2025年海南省数据安全管理员赛项金牌与优秀组织奖](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494646&idx=4&sn=0d29d6dfe677e395c64dea1e7cf77757) (发布日期: 2025-10-17)
+- [2025年甘肃省“大模型应用开发”和“数据安全管理员”省级一类决赛成功举办](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247494646&idx=5&sn=51f580198c5688db3af2b0d40179971f) (发布日期: 2025-10-17)
+- [CISA警告：最高严重程度的Adobe AEM Forms 漏洞（CVE-2025-54253）遭利用](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796595&idx=1&sn=8dff0fd7c7252aef0affc91d999b247f) (发布日期: 2025-10-17)
+- [EDUSRC挖洞神器一键自动化提取敏感信息](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497999&idx=1&sn=3c06964fd0de048d44cba9a88687cf5d) (发布日期: 2025-10-17)
+- [中亚地区新兴APT组织Silent Lynx的攻击活动分析——每周威胁情报动态第242期（10.10-10.16）](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492803&idx=1&sn=51a43ea8ff912ebd23475eb17af47f8c) (发布日期: 2025-10-17)
+- [思科修复桌面电话和 IP 电话中高危 DoS 漏洞 CVE-2025-20350](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485446&idx=1&sn=eb899e34b6a72a8dcd19be0d2d7fdb06) (发布日期: 2025-10-17)
+- [Windows远程访问连接管理器0Day【漏洞】披露，已确认用于攻击](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549034&idx=2&sn=41a4a0ed55ff06c10a062508b86a5c17) (发布日期: 2025-10-17)
+- [渗透测试之从绕过密码强制修改到超管](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484727&idx=1&sn=58bc1cc94ec9f92bbf8266bbc3243e39) (发布日期: 2025-10-17)
+- [记一次Android 恶意软件逆向及Frida动态分析](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520176&idx=1&sn=cd1baf42620353d428f0adcd00158e91) (发布日期: 2025-10-17)
+- [【密码学】消息认证码(MAC)](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247492901&idx=1&sn=731bbc07fad01b0761e244681f57efc4) (发布日期: 2025-10-17)
+- [大厂也中招？起底朝鲜黑客组织的“病毒式面试”攻击，如何利用 npm 投毒](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901486&idx=1&sn=7ae09b36134f50836cdfa25e83cf12a5) (发布日期: 2025-10-17)
+- [FastMonitor - 网络流量监控与威胁检测工具](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495439&idx=1&sn=e073c166421871fdee7b79a5bf4c3349) (发布日期: 2025-10-17)
+- [九思OA漏洞集合检测工具](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514191&idx=1&sn=794638d66219da6a0576ea96fce51a36) (发布日期: 2025-10-17)
+- [美国军事数据泄露](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487134&idx=1&sn=ac439c36034e0cc1302c62db054c97a1) (发布日期: 2025-10-17)
+- [案例征集 中小企业上云安全典型案例征集活动开启！](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247507910&idx=1&sn=8b1b25fe5c8c37863468637e1bc4dc9a) (发布日期: 2025-10-17)
+- [漏洞预警 | Microsoft Exchange Server权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=1&sn=f60a1294c62519b36332d893015cf790) (发布日期: 2025-10-17)
+- [漏洞预警 | 用友U8Cloud命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8) (发布日期: 2025-10-17)
+- [漏洞预警 | 金和OA XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=3&sn=a7e3b5d210b11971edc5a03e766ec901) (发布日期: 2025-10-17)
+- [漏洞环境 | prompting](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=4&sn=0552e8c72bedbebd288b8cfdfce9b8a6) (发布日期: 2025-10-17)
+- [0证书、0警告、0成本！红队最新Vue杀手插件，攻防演练首日就拿Shell](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493129&idx=1&sn=2f9c9b22e24089c382d06e4137b3a599) (发布日期: 2025-10-17)
+- [思科交换机曝“零迪斯科”攻击，SNMP漏洞沦为黑客持久化后门](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514676&idx=2&sn=53401d0aa2b11ad7b4c144a07c984528) (发布日期: 2025-10-17)
+- [JSSS-Find V6.5：接口太多测不完？AI帮你判断高危漏洞](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524350&idx=1&sn=205f07c6b9964b6c81a648f2b882fe2c) (发布日期: 2025-10-17)
+- [AI原生漏洞修复系统登场：AISLE重新定义网络防御速度](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492133&idx=1&sn=e6a5ed562864161e7ace241540068440) (发布日期: 2025-10-17)
+- [Java反序列化漏洞黑盒挖掘思路-下篇](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484731&idx=1&sn=f327ce0bd3a440682c2f190cac96b32e) (发布日期: 2025-10-17)
+- [工具推荐 | Swagger API漏洞自动化填充参数利用工具](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496045&idx=1&sn=a8d82501807bf5fdf0327befa9ad2e3f) (发布日期: 2025-10-17)
+- [一款专为信息泄露搜集的自动化信息搜集与分析工具|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495255&idx=1&sn=91a9738d6446d5556785f3827ad60a56) (发布日期: 2025-10-17)
 
 
 ## 🎯 威胁详情分析
@@ -78,25 +102,48 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Traccar存在任意文件读取漏洞CVE-2025-61666 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489359&idx=1&sn=acecd87b31f740f12e7d0c8f0fab2dc9](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489359&idx=1&sn=acecd87b31f740f12e7d0c8f0fab2dc9) |
-| 2 | 【高危漏洞预警】7-Zip远程代码执行漏洞CVE-2025-11001&CVE-2025-11002 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece) |
+| 1 | CISA警告：最高严重程度的Adobe AEM Forms 漏洞（CVE-2025-54253）遭利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796595&idx=1&sn=8dff0fd7c7252aef0affc91d999b247f](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796595&idx=1&sn=8dff0fd7c7252aef0affc91d999b247f) |
+| 2 | 思科修复桌面电话和 IP 电话中高危 DoS 漏洞 CVE-2025-20350 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485446&idx=1&sn=eb899e34b6a72a8dcd19be0d2d7fdb06](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485446&idx=1&sn=eb899e34b6a72a8dcd19be0d2d7fdb06) |
+| 3 | Windows远程访问连接管理器0Day【漏洞】披露，已确认用于攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549034&idx=2&sn=41a4a0ed55ff06c10a062508b86a5c17](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549034&idx=2&sn=41a4a0ed55ff06c10a062508b86a5c17) |
+| 4 | 九思OA漏洞集合检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514191&idx=1&sn=794638d66219da6a0576ea96fce51a36](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514191&idx=1&sn=794638d66219da6a0576ea96fce51a36) |
+| 5 | 漏洞预警 | Microsoft Exchange Server权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=1&sn=f60a1294c62519b36332d893015cf790](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=1&sn=f60a1294c62519b36332d893015cf790) |
+| 6 | 漏洞预警 | 用友U8Cloud命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8) |
+| 7 | 漏洞预警 | 金和OA XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=3&sn=a7e3b5d210b11971edc5a03e766ec901](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=3&sn=a7e3b5d210b11971edc5a03e766ec901) |
+| 8 | 漏洞环境 | prompting | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=4&sn=0552e8c72bedbebd288b8cfdfce9b8a6](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=4&sn=0552e8c72bedbebd288b8cfdfce9b8a6) |
+| 9 | 思科交换机曝“零迪斯科”攻击，SNMP漏洞沦为黑客持久化后门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514676&idx=2&sn=53401d0aa2b11ad7b4c144a07c984528](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514676&idx=2&sn=53401d0aa2b11ad7b4c144a07c984528) |
+| 10 | JSSS-Find V6.5：接口太多测不完？AI帮你判断高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524350&idx=1&sn=205f07c6b9964b6c81a648f2b882fe2c](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524350&idx=1&sn=205f07c6b9964b6c81a648f2b882fe2c) |
+| 11 | AI原生漏洞修复系统登场：AISLE重新定义网络防御速度 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492133&idx=1&sn=e6a5ed562864161e7ace241540068440](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492133&idx=1&sn=e6a5ed562864161e7ace241540068440) |
+| 12 | Java反序列化漏洞黑盒挖掘思路-下篇 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484731&idx=1&sn=f327ce0bd3a440682c2f190cac96b32e](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484731&idx=1&sn=f327ce0bd3a440682c2f190cac96b32e) |
+| 13 | 工具推荐 | Swagger API漏洞自动化填充参数利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496045&idx=1&sn=a8d82501807bf5fdf0327befa9ad2e3f](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496045&idx=1&sn=a8d82501807bf5fdf0327befa9ad2e3f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】7-Zip远程代码执行漏洞CVE-2025-11001&CVE-2025-11002 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490866&idx=1&sn=615fc0987fa94dadbb44df19b6148ece) |
+| 1 | 漏洞预警 | 用友U8Cloud命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494703&idx=2&sn=dd4cbdef655c028162f2bc1afb2cbfd8) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 中亚地区新兴APT组织Silent Lynx的攻击活动分析——每周威胁情报动态第242期（10.10-10.16） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492803&idx=1&sn=51a43ea8ff912ebd23475eb17af47f8c](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492803&idx=1&sn=51a43ea8ff912ebd23475eb17af47f8c) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | src专项挖掘知识库 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520286&idx=2&sn=c5d205be9e08f609b9756477258783a1](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520286&idx=2&sn=c5d205be9e08f609b9756477258783a1) |
+| 1 | EDUSRC挖洞神器一键自动化提取敏感信息 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497999&idx=1&sn=3c06964fd0de048d44cba9a88687cf5d](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247497999&idx=1&sn=3c06964fd0de048d44cba9a88687cf5d) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 美国军事数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487134&idx=1&sn=ac439c36034e0cc1302c62db054c97a1](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487134&idx=1&sn=ac439c36034e0cc1302c62db054c97a1) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-16/`
+文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-17/`
 
 ## 🔗 数据源说明
 
@@ -107,7 +154,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
 - **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -117,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-16 16:25:12*
+*生成时间: 2025-10-17 01:24:48*
 *报告工具: 微信文章安全归档系统*
