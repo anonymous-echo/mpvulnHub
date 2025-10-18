@@ -2,21 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 11篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 4篇
-- **信息泄露**: 3篇
+- **漏洞利用**: 3篇
+- **威胁情报**: 3篇
+- **信息泄露**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **Web安全**: 1篇
-- **应用漏洞**: 1篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +65,21 @@
 
 ### Doonsec
 
-- [Rce-labs通关记录（上）](https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3) (发布日期: 2025-10-18)
-- [漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) (发布日期: 2025-10-18)
-- [漏洞预警 | 用友NC XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384) (发布日期: 2025-10-18)
-- [漏洞预警 | 普华PowerPMS信息泄漏漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) (发布日期: 2025-10-18)
-- [工具 | rce-labs](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5) (发布日期: 2025-10-18)
-- [指纹+PoC双杀！查守卫observer_ward热更新军火库，0day发布5分钟进靶标10万站点一夜扫光](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28) (发布日期: 2025-10-18)
-- [国家能源局印发《关于加强用户侧涉网安全管理的通知》](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499233&idx=4&sn=4f81eb45c416b63de0d0738fd202bd0c) (发布日期: 2025-10-18)
-- [国家能源局关于加强用户侧涉网安全管理的通知](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492035&idx=1&sn=fc032fe327b68bfe2641a212ab6f06ab) (发布日期: 2025-10-18)
-- [[炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) (发布日期: 2025-10-18)
-- [TCP连接老断？三招锁定真凶：是应用Bug、防火墙还是旁路阻断？](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516538&idx=1&sn=0fadb2217dc797e573938664419e3e57) (发布日期: 2025-10-18)
-- [被黑客攻击、数据泄露？这堂安全课，帮你把风险挡在门外](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159) (发布日期: 2025-10-18)
-- [苹果把最高漏洞奖金提高到 200 万美元，发现超高危漏洞最高可拿 500 万美元](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8) (发布日期: 2025-10-18)
-- [Java反序列化漏洞黑盒挖掘思路-下篇](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8) (发布日期: 2025-10-18)
-- [美国电子巨头 Avnet 确认数据泄露，被盗数据无法读取](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4) (发布日期: 2025-10-18)
+- [全球CFO遭遇伊朗APT攻击：MuddyWater用“招聘陷阱”开启隐秘渗透](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515) (发布日期: 2025-10-18)
+- [【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038) (发布日期: 2025-10-18)
+- [从必应搜索到勒索软件：Bumblebee 和 AdaptixC2 植入 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57) (发布日期: 2025-10-18)
+- [CTF PWN 专项：从漏洞识别到 Shell 获取的入门实战指南](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042) (发布日期: 2025-10-18)
+- [安天AVL SDK反病毒引擎升级通告（20251018）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212810&idx=1&sn=be416b0c12100d88ad3a3eb039a18c50) (发布日期: 2025-10-18)
+- [攻防演练实战中30个IP溯源反制技战法！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484729&idx=1&sn=238acdb30b6c36f58f89c1c836afeef9) (发布日期: 2025-10-18)
+- [AI-SOC平台构建：算法技术应用与实施路径](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483942&idx=1&sn=f3f3b3808c16906396d3256c9f291a3c) (发布日期: 2025-10-18)
+- [2025年京津冀大学生信息安全网络攻防大赛决赛应急响应-writeup](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace) (发布日期: 2025-10-18)
+- [电信服务商TravelWifi涉美军方人员数据泄露事件分析及影响评估](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8) (发布日期: 2025-10-18)
+- [越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) (发布日期: 2025-10-18)
+- [AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03) (发布日期: 2025-10-18)
+
+### ChainReactors
+
+- [ ] [企业安全做不好的最关键原因在这](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237949&idx=1&sn=d0d5c11a2aa7c117e7cbf845b5b0585f) (发布日期: 2025-10-18)
 
 
 ## 🎯 威胁详情分析
@@ -87,30 +88,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) |
-| 2 | 漏洞预警 | 用友NC XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384) |
-| 3 | 漏洞预警 | 普华PowerPMS信息泄漏漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) |
-| 4 | 指纹+PoC双杀！查守卫observer_ward热更新军火库，0day发布5分钟进靶标10万站点一夜扫光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28) |
-| 5 | [炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) |
-| 6 | 苹果把最高漏洞奖金提高到 200 万美元，发现超高危漏洞最高可拿 500 万美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8) |
-| 7 | Java反序列化漏洞黑盒挖掘思路-下篇 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8) |
+| 1 | 【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038) |
+| 2 | CTF PWN 专项：从漏洞识别到 Shell 获取的入门实战指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042) |
+| 3 | AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03) |
 
-### 攻击技术
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Rce-labs通关记录（上） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3](https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3) |
-| 2 | 漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) |
-| 3 | 工具 | rce-labs | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5) |
-| 4 | [炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) |
+| 1 | 全球CFO遭遇伊朗APT攻击：MuddyWater用“招聘陷阱”开启隐秘渗透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515) |
+| 2 | 从必应搜索到勒索软件：Bumblebee 和 AdaptixC2 植入 Akira | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57) |
+| 3 | 2025年京津冀大学生信息安全网络攻防大赛决赛应急响应-writeup | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞预警 | 普华PowerPMS信息泄漏漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) |
-| 2 | 被黑客攻击、数据泄露？这堂安全课，帮你把风险挡在门外 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159) |
-| 3 | 美国电子巨头 Avnet 确认数据泄露，被盗数据无法读取 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4) |
+| 1 | 电信服务商TravelWifi涉美军方人员数据泄露事件分析及影响评估 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8) |
+| 2 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) |
 
 
 ## 📁 归档路径
@@ -126,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-18 01:20:54*
+*生成时间: 2025-10-18 04:21:27*
 *报告工具: 微信文章安全归档系统*
