@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 11篇
-  - ChainReactors: 1篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **威胁情报**: 3篇
 - **信息泄露**: 2篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,21 +61,15 @@
 
 ### Doonsec
 
-- [全球CFO遭遇伊朗APT攻击：MuddyWater用“招聘陷阱”开启隐秘渗透](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515) (发布日期: 2025-10-18)
-- [【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038) (发布日期: 2025-10-18)
-- [从必应搜索到勒索软件：Bumblebee 和 AdaptixC2 植入 Akira](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57) (发布日期: 2025-10-18)
-- [CTF PWN 专项：从漏洞识别到 Shell 获取的入门实战指南](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042) (发布日期: 2025-10-18)
-- [安天AVL SDK反病毒引擎升级通告（20251018）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212810&idx=1&sn=be416b0c12100d88ad3a3eb039a18c50) (发布日期: 2025-10-18)
-- [攻防演练实战中30个IP溯源反制技战法！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484729&idx=1&sn=238acdb30b6c36f58f89c1c836afeef9) (发布日期: 2025-10-18)
-- [AI-SOC平台构建：算法技术应用与实施路径](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483942&idx=1&sn=f3f3b3808c16906396d3256c9f291a3c) (发布日期: 2025-10-18)
-- [2025年京津冀大学生信息安全网络攻防大赛决赛应急响应-writeup](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace) (发布日期: 2025-10-18)
-- [电信服务商TravelWifi涉美军方人员数据泄露事件分析及影响评估](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8) (发布日期: 2025-10-18)
-- [越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) (发布日期: 2025-10-18)
-- [AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03) (发布日期: 2025-10-18)
-
-### ChainReactors
-
-- [ ] [企业安全做不好的最关键原因在这](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650237949&idx=1&sn=d0d5c11a2aa7c117e7cbf845b5b0585f) (发布日期: 2025-10-18)
+- [湖南某旅游公司违反《数据安全法》被罚款15万元](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492139&idx=1&sn=8c546df53fb55e6cac3508046d48b3a4) (发布日期: 2025-10-18)
+- [国外：一周网络安全态势回顾之第121期，P2P借贷数据泄露影响 1760万个账户](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502154&idx=1&sn=839f9d5d04031e1edd0ef23143961b5f) (发布日期: 2025-10-18)
+- [在看 | 周报：厦门警方悬赏通缉18名台湾军方违法骨干；湖南一文旅公司因未履行数据安全保护义务被罚15万元](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247644584&idx=1&sn=1bcfa7977947a8ff9b974ddff4acc52a) (发布日期: 2025-10-18)
+- [F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃！](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493169&idx=1&sn=3be546072b3b09faf2e9c207e90d86a2) (发布日期: 2025-10-18)
+- [7-Zip 符号链接漏洞深度剖析：三重绕过链导致的路径遍历 (CVE-2025-11001)](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490908&idx=1&sn=dcb87b3274ad490b8dbe1f9db195426e) (发布日期: 2025-10-18)
+- [篇 76：数字时代下政府数据泄露如何重塑地缘政治格局](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503615&idx=2&sn=37264fa72b528d7c8a9e9786e36d9452) (发布日期: 2025-10-18)
+- [四川省网信行业技能竞赛“网络与信息安全管理员”赛项线上初赛圆满举行](https://mp.weixin.qq.com/s?__biz=MzA3Nzk3NTA4Nw==&mid=2247517932&idx=1&sn=7f4e7de8b9a6279961ceba39041568a2) (发布日期: 2025-10-18)
+- [Oracle 零日漏洞 CVE-2025-61882 POC](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247501230&idx=1&sn=3d231f3c196a02c600fc6a08aad8424c) (发布日期: 2025-10-18)
+- [【网络技术】第十期：抵御毁灭性DDoS攻击实战指南](https://mp.weixin.qq.com/s?__biz=MzU4NjY3OTAzMg==&mid=2247516853&idx=2&sn=8a5ccc9788709a4f6598f050632f7008) (发布日期: 2025-10-18)
 
 
 ## 🎯 威胁详情分析
@@ -88,30 +78,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484388&idx=1&sn=c963717477b61ad0eafeea8cafcc7038) |
-| 2 | CTF PWN 专项：从漏洞识别到 Shell 获取的入门实战指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486182&idx=1&sn=3d9dd7b5ce0c41eb6c6d02a078ed0042) |
-| 3 | AMD安全加密虚拟化技术严重漏洞，致加密虚拟机可被完全攻破 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=3&sn=c456c7c241084dcc8bfc8a5d98a28a03) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 全球CFO遭遇伊朗APT攻击：MuddyWater用“招聘陷阱”开启隐秘渗透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247486930&idx=1&sn=f5c9b32c45cd86a7ea3be0a60682b515) |
-| 2 | 从必应搜索到勒索软件：Bumblebee 和 AdaptixC2 植入 Akira | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489473&idx=1&sn=ec8eb0aec4e26a4c5fc38941a971ac57) |
-| 3 | 2025年京津冀大学生信息安全网络攻防大赛决赛应急响应-writeup | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492930&idx=1&sn=9bcdb199d054032f0e3e6162ff7b6ace) |
+| 1 | F5确认遭遇国家级黑客入侵，源代码与漏洞数据遭窃！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493169&idx=1&sn=3be546072b3b09faf2e9c207e90d86a2](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493169&idx=1&sn=3be546072b3b09faf2e9c207e90d86a2) |
+| 2 | 7-Zip 符号链接漏洞深度剖析：三重绕过链导致的路径遍历 (CVE-2025-11001) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490908&idx=1&sn=dcb87b3274ad490b8dbe1f9db195426e](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490908&idx=1&sn=dcb87b3274ad490b8dbe1f9db195426e) |
+| 3 | Oracle 零日漏洞 CVE-2025-61882 POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247501230&idx=1&sn=3d231f3c196a02c600fc6a08aad8424c](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247501230&idx=1&sn=3d231f3c196a02c600fc6a08aad8424c) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 电信服务商TravelWifi涉美军方人员数据泄露事件分析及影响评估 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247514729&idx=2&sn=d6079764f6df84c99446591897fbeea8) |
-| 2 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 越南航空730万条客户个人数据泄露，IT供应链国际化惹的祸？|泄露22万余人个人信息，知名医学检测机构被罚2700万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612796&idx=2&sn=b9bbb685ce432358c277123e842236a6) |
+| 1 | 国外：一周网络安全态势回顾之第121期，P2P借贷数据泄露影响 1760万个账户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502154&idx=1&sn=839f9d5d04031e1edd0ef23143961b5f](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502154&idx=1&sn=839f9d5d04031e1edd0ef23143961b5f) |
+| 2 | 篇 76：数字时代下政府数据泄露如何重塑地缘政治格局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503615&idx=2&sn=37264fa72b528d7c8a9e9786e36d9452](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503615&idx=2&sn=37264fa72b528d7c8a9e9786e36d9452) |
 
 
 ## 📁 归档路径
@@ -128,7 +104,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -137,5 +113,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-18 04:21:27*
+*生成时间: 2025-10-18 08:23:05*
 *报告工具: 微信文章安全归档系统*
