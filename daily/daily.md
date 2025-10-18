@@ -1,22 +1,22 @@
-# 2025-10-17 安全威胁态势报告
+# 2025-10-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 4篇
+- **信息泄露**: 3篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
+- **系统漏洞**: 2篇
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,10 +65,20 @@
 
 ### Doonsec
 
-- [【高危漏洞预警】Windows Agere调制解调器驱动程序权限提升漏洞CVE-2025-24990](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490873&idx=1&sn=1d90785832deab955144843d2fa5e4cd) (发布日期: 2025-10-17)
-- [以色列&伊朗的网络安全战（一）---相关APT组织合集](https://mp.weixin.qq.com/s?__biz=Mzk0NTMxMzExMA==&mid=2247483890&idx=1&sn=30461a3ec8ce6bd27aad65d23237aad2) (发布日期: 2025-10-17)
-- [FBI秘密单位Group 78与勒索软件组织的对抗情况分析](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183041&idx=1&sn=df4a061816a2c8f70c3f983ff0d27b91) (发布日期: 2025-10-17)
-- [普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470) (发布日期: 2025-10-17)
+- [Rce-labs通关记录（上）](https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3) (发布日期: 2025-10-18)
+- [漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) (发布日期: 2025-10-18)
+- [漏洞预警 | 用友NC XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384) (发布日期: 2025-10-18)
+- [漏洞预警 | 普华PowerPMS信息泄漏漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) (发布日期: 2025-10-18)
+- [工具 | rce-labs](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5) (发布日期: 2025-10-18)
+- [指纹+PoC双杀！查守卫observer_ward热更新军火库，0day发布5分钟进靶标10万站点一夜扫光](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28) (发布日期: 2025-10-18)
+- [国家能源局印发《关于加强用户侧涉网安全管理的通知》](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499233&idx=4&sn=4f81eb45c416b63de0d0738fd202bd0c) (发布日期: 2025-10-18)
+- [国家能源局关于加强用户侧涉网安全管理的通知](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492035&idx=1&sn=fc032fe327b68bfe2641a212ab6f06ab) (发布日期: 2025-10-18)
+- [[炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) (发布日期: 2025-10-18)
+- [TCP连接老断？三招锁定真凶：是应用Bug、防火墙还是旁路阻断？](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516538&idx=1&sn=0fadb2217dc797e573938664419e3e57) (发布日期: 2025-10-18)
+- [被黑客攻击、数据泄露？这堂安全课，帮你把风险挡在门外](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159) (发布日期: 2025-10-18)
+- [苹果把最高漏洞奖金提高到 200 万美元，发现超高危漏洞最高可拿 500 万美元](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8) (发布日期: 2025-10-18)
+- [Java反序列化漏洞黑盒挖掘思路-下篇](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8) (发布日期: 2025-10-18)
+- [美国电子巨头 Avnet 确认数据泄露，被盗数据无法读取](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4) (发布日期: 2025-10-18)
 
 
 ## 🎯 威胁详情分析
@@ -77,25 +87,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Windows Agere调制解调器驱动程序权限提升漏洞CVE-2025-24990 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490873&idx=1&sn=1d90785832deab955144843d2fa5e4cd](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490873&idx=1&sn=1d90785832deab955144843d2fa5e4cd) |
-| 2 | 普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470) |
+| 1 | 漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) |
+| 2 | 漏洞预警 | 用友NC XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=2&sn=9789f573fa41cbc72ef51fbf35647384) |
+| 3 | 漏洞预警 | 普华PowerPMS信息泄漏漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) |
+| 4 | 指纹+PoC双杀！查守卫observer_ward热更新军火库，0day发布5分钟进靶标10万站点一夜扫光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493178&idx=1&sn=d0381c4ae05560581fb8e40d6f9f6e28) |
+| 5 | [炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) |
+| 6 | 苹果把最高漏洞奖金提高到 200 万美元，发现超高危漏洞最高可拿 500 万美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247485492&idx=3&sn=b556baca6f5bf8ee7792e1201d8b5ee8) |
+| 7 | Java反序列化漏洞黑盒挖掘思路-下篇 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8](https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484738&idx=1&sn=54b273dab74ad766f90779797ffa57e8) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 普华科技-PowerPMS Reg.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489371&idx=1&sn=cd4d8e5ccaf6d6040df1e8beff7fb470) |
+| 1 | Rce-labs通关记录（上） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3](https://mp.weixin.qq.com/s?__biz=Mzg4MTgxNjQwOQ==&mid=2247485005&idx=1&sn=987b108ed662747526863917576bdfa3) |
+| 2 | 漏洞预警 | 孚盟云SQL注入和任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=1&sn=7c31efd8124cabac19a75955f8607015) |
+| 3 | 工具 | rce-labs | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=4&sn=9d9217fd5cfcadbdf6673ccf64e7ffb5) |
+| 4 | [炒冷饭]用友U8Cloud全版本NCCloudGatewayServlet命令执行漏洞分析复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484107&idx=1&sn=e8aaddf74920ac1f1203e3bbc16b8bb6) |
 
-### 威胁情报
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 以色列&伊朗的网络安全战（一）---相关APT组织合集 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTMxMzExMA==&mid=2247483890&idx=1&sn=30461a3ec8ce6bd27aad65d23237aad2](https://mp.weixin.qq.com/s?__biz=Mzk0NTMxMzExMA==&mid=2247483890&idx=1&sn=30461a3ec8ce6bd27aad65d23237aad2) |
+| 1 | 漏洞预警 | 普华PowerPMS信息泄漏漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494704&idx=3&sn=27b16c92cca4c87b416f4e47ee732fe4) |
+| 2 | 被黑客攻击、数据泄露？这堂安全课，帮你把风险挡在门外 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524357&idx=1&sn=ba1bbdf12120ebc0eecefff38af05159) |
+| 3 | 美国电子巨头 Avnet 确认数据泄露，被盗数据无法读取 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493798&idx=1&sn=f711c67bd8bc3f968d2449e42192bad4) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-17/`
+文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-18/`
 
 ## 🔗 数据源说明
 
@@ -106,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-17 16:23:29*
+*生成时间: 2025-10-18 01:20:54*
 *报告工具: 微信文章安全归档系统*
