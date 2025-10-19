@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 6
 - **数据源分布**:
   - Doonsec: 6篇
-  - ChainReactors: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
+- **漏洞利用**: 5篇
 - **攻击技术**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **供应链**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,18 +63,12 @@
 
 ### Doonsec
 
-- [js逆向之edu sql注入通杀](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6) (发布日期: 2025-10-19)
-- [颠覆传统安全检测！这个AI工具让渗透测试效率提升10倍](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452515009&idx=1&sn=38bcd19367f25c90c15042d672f4417a) (发布日期: 2025-10-19)
-- [金和OA ApproveRemindSetExec XXE漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd) (发布日期: 2025-10-19)
-- [【网络攻击】美国安局利用苹果手机短信服务漏洞，秘密网攻控制国家授时中心多名工作人员的手机终端](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881) (发布日期: 2025-10-19)
-- [这个SQL注入有点东西](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147) (发布日期: 2025-10-19)
-- [2025年了试试这款自吐加密算法脚本](https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484199&idx=1&sn=7b40e104af77f0612db60d7d27ee1f42) (发布日期: 2025-10-19)
-
-### ChainReactors
-
-- [ ] [技术分享｜LIAN——通用高精度代码安全分析技术](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496399&idx=1&sn=be5b83dbdd510b6356d3d5560e2a7c47) (发布日期: 2025-10-19)
-- [ ] [恶意代码自动化分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493783&idx=1&sn=da73b8cd1b34b9b1c1505c8955011fcd) (发布日期: 2025-10-19)
-- [ ] [CVE-2025-11001分析复现](https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c) (发布日期: 2025-10-19)
+- [深度解析 7-Zip CVE-2025-11001 漏洞](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d) (发布日期: 2025-10-19)
+- [【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc) (发布日期: 2025-10-19)
+- [Microsoft Defender 漏洞允许攻击者绕过身份验证并上传恶意文件](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e) (发布日期: 2025-10-19)
+- [银狐从中国大陆到马来西亚的恶意软件攻击链曝光](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a) (发布日期: 2025-10-19)
+- [7z 远程代码执行exp CVE-2025-11001](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a) (发布日期: 2025-10-19)
+- [开源漏洞文库推荐，打造自己的漏洞文库，易维护部署](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213) (发布日期: 2025-10-19)
 
 
 ## 🎯 威胁详情分析
@@ -83,16 +77,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 金和OA ApproveRemindSetExec XXE漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd) |
-| 2 | 【网络攻击】美国安局利用苹果手机短信服务漏洞，秘密网攻控制国家授时中心多名工作人员的手机终端 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881) |
-| 3 |  ] [CVE-2025-11001分析复现 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c](https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c) |
+| 1 | 深度解析 7-Zip CVE-2025-11001 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485862&idx=1&sn=294960f8d85cb212cea061519e68d03d) |
+| 2 | 【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc) |
+| 3 | Microsoft Defender 漏洞允许攻击者绕过身份验证并上传恶意文件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488165&idx=1&sn=e936810d15902a64c751b682511e1a0e) |
+| 4 | 7z 远程代码执行exp CVE-2025-11001 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a) |
+| 5 | 开源漏洞文库推荐，打造自己的漏洞文库，易维护部署 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489063&idx=1&sn=1681e18874454a77b4e32da2dc228213) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | js逆向之edu sql注入通杀 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6) |
-| 2 | 这个SQL注入有点东西 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147) |
+| 1 | 【漏洞复现】用友 U8 Cloud NCCloudGatewayServlet 命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485196&idx=1&sn=a40568bb2665379d086fbddc33fc24dc) |
+| 2 | 7z 远程代码执行exp CVE-2025-11001 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=2&sn=b41cdc95c48df649f1b35f7b1b71ec3a) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐从中国大陆到马来西亚的恶意软件攻击链曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503650&idx=1&sn=dfd251290ac4afdfbf070d957ba0f30a) |
 
 
 ## 📁 归档路径
@@ -108,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **供应链** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -118,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-19 04:23:07*
+*生成时间: 2025-10-19 08:21:56*
 *报告工具: 微信文章安全归档系统*
