@@ -2,19 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 6篇
+  - ChainReactors: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **信息泄露**: 2篇
-- **攻击技术**: 1篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -63,14 +63,18 @@
 
 ### Doonsec
 
-- [朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露|啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f) (发布日期: 2025-10-19)
-- [7-Zip两大高危漏洞可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) (发布日期: 2025-10-19)
-- [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068) (发布日期: 2025-10-19)
-- [某APP众测报文加密解决-Frida定位加密函数（一）](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488996&idx=1&sn=5ee7b0ac8fe300cd16308aae435e7722) (发布日期: 2025-10-19)
-- [告别繁琐命令行：用开源ToughRADIUS轻松管理H3C SSLVPN千名用户](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861950&idx=1&sn=8d3e5f94061520dcc8384f772b59b8da) (发布日期: 2025-10-19)
-- [Capita因数据泄露支付1400万英镑罚款](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56) (发布日期: 2025-10-19)
-- [RealVul: 基于大语言模型训练微调的PHP漏洞检测框架深度解析安全工具](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd) (发布日期: 2025-10-19)
-- [各地省级网信部门受理数据出境安全评估申报、个人信息出境标准合同备案工作的联系方式](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118952&idx=1&sn=4376408dad87a02e058962c5389696c4) (发布日期: 2025-10-19)
+- [js逆向之edu sql注入通杀](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6) (发布日期: 2025-10-19)
+- [颠覆传统安全检测！这个AI工具让渗透测试效率提升10倍](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452515009&idx=1&sn=38bcd19367f25c90c15042d672f4417a) (发布日期: 2025-10-19)
+- [金和OA ApproveRemindSetExec XXE漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd) (发布日期: 2025-10-19)
+- [【网络攻击】美国安局利用苹果手机短信服务漏洞，秘密网攻控制国家授时中心多名工作人员的手机终端](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881) (发布日期: 2025-10-19)
+- [这个SQL注入有点东西](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147) (发布日期: 2025-10-19)
+- [2025年了试试这款自吐加密算法脚本](https://mp.weixin.qq.com/s?__biz=MzkyNDU2MDk4NQ==&mid=2247484199&idx=1&sn=7b40e104af77f0612db60d7d27ee1f42) (发布日期: 2025-10-19)
+
+### ChainReactors
+
+- [ ] [技术分享｜LIAN——通用高精度代码安全分析技术](https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496399&idx=1&sn=be5b83dbdd510b6356d3d5560e2a7c47) (发布日期: 2025-10-19)
+- [ ] [恶意代码自动化分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493783&idx=1&sn=da73b8cd1b34b9b1c1505c8955011fcd) (发布日期: 2025-10-19)
+- [ ] [CVE-2025-11001分析复现](https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c) (发布日期: 2025-10-19)
 
 
 ## 🎯 威胁详情分析
@@ -79,22 +83,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7-Zip两大高危漏洞可导致任意代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) |
-| 2 | [ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068) |
-| 3 | RealVul: 基于大语言模型训练微调的PHP漏洞检测框架深度解析安全工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd) |
+| 1 | 金和OA ApproveRemindSetExec XXE漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484148&idx=1&sn=3c19a458ddd56c3c8228c899e03d8edd) |
+| 2 | 【网络攻击】美国安局利用苹果手机短信服务漏洞，秘密网攻控制国家授时中心多名工作人员的手机终端 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521097&idx=1&sn=63dd616c1718c67eb7ec078bec019881) |
+| 3 |  ] [CVE-2025-11001分析复现 | ChainReactors | [https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c](https://mp.weixin.qq.com/s?__biz=MzkxODg3MTU4NA==&mid=2247484295&idx=1&sn=92f0474593bb32dc6087d690e2127b9c) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7-Zip两大高危漏洞可导致任意代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露|啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f) |
-| 2 | Capita因数据泄露支付1400万英镑罚款 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56) |
+| 1 | js逆向之edu sql注入通杀 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247552956&idx=1&sn=8da31e534856a624a1308d143d5239c6) |
+| 2 | 这个SQL注入有点东西 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492934&idx=1&sn=606c91b4647baae35fc7fe1760a74147) |
 
 
 ## 📁 归档路径
@@ -111,7 +109,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +118,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-19 01:41:56*
+*生成时间: 2025-10-19 04:23:07*
 *报告工具: 微信文章安全归档系统*
