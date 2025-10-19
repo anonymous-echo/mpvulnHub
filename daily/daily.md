@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **攻击技术**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +63,13 @@
 
 ### Doonsec
 
-- [基于LLM的Web漏洞PoC自动生成探索](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6) (发布日期: 2025-10-19)
-- [【安全圈】银狐组织扩散 Winos 4.0 攻击至日本与马来西亚，携带新型 HoldingHands 后门](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072291&idx=3&sn=7b40deaad476d5d3d94f363b9f09d1a9) (发布日期: 2025-10-19)
-- [数字取证-钉钉 TG账户接管](https://mp.weixin.qq.com/s?__biz=Mzk0MDQwNDI3MQ==&mid=2247484115&idx=1&sn=ee32d5800121059e0534339377a0ba15) (发布日期: 2025-10-19)
-- [微软数字防御报告：自动化漏洞利用技术颠覆传统](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328929&idx=3&sn=1d97252ebf7f1bb3610a8af109b34f06) (发布日期: 2025-10-19)
-- [CVE-2025-59287 WSUS 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125) (发布日期: 2025-10-19)
-- [SRC挖掘之优惠券](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485640&idx=1&sn=0beb1b92bd6b71701d19129b4bff0f6a) (发布日期: 2025-10-19)
-- [CTF 密码学专项：从特征识别到 Flag 解码的实战指南](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486201&idx=1&sn=296ae69c5df956b27ee28a31d72f745d) (发布日期: 2025-10-19)
-- [防范钓鱼攻击：当有人给你打电话或加你微信说“我是信息科的”，真的吗？](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485619&idx=1&sn=438d05c25d1fb3fdf45bc13f0c0f7592) (发布日期: 2025-10-19)
+- [隔离内网并非金钟罩：从针对国家授时中心的定向网攻谈起](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492144&idx=1&sn=200dc4998e32bfa90fa09531181121a7) (发布日期: 2025-10-19)
+- [GB/Tu202f22239‑2019《网络安全等级保护基本要求》中第二、三、四级要求项对比（安全运维管理）](https://mp.weixin.qq.com/s?__biz=MzA3NDMyNDM0NQ==&mid=2247485213&idx=1&sn=1cdc103751aa3eb6bd7ba6e98bb5f365) (发布日期: 2025-10-19)
+- [CVE-2025-49144 PoC 供安全研究人员测试和尝试](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf) (发布日期: 2025-10-19)
+- [CVE-2025-59287 — WSUS 远程代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac) (发布日期: 2025-10-19)
+- [CVE-2025-8941：Linux-PAM 中的严重权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097) (发布日期: 2025-10-19)
+- [未履行数据安全保护义务，湖南一文旅公司被罚15万元](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=3&sn=b689b2f4cc7ee9e34883a013b13971ca) (发布日期: 2025-10-19)
+- [朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=4&sn=206b8d9b09401ed944d2735775fb603e) (发布日期: 2025-10-19)
 
 
 ## 🎯 威胁详情分析
@@ -80,27 +78,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 基于LLM的Web漏洞PoC自动生成探索 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486481&idx=1&sn=1b29368f3774a85dc033daa0c53329d6) |
-| 2 | 微软数字防御报告：自动化漏洞利用技术颠覆传统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328929&idx=3&sn=1d97252ebf7f1bb3610a8af109b34f06](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328929&idx=3&sn=1d97252ebf7f1bb3610a8af109b34f06) |
-| 3 | CVE-2025-59287 WSUS 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125) |
+| 1 | CVE-2025-49144 PoC 供安全研究人员测试和尝试 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=1&sn=2df2b4968713ed9a9e88c9c84f5882cf) |
+| 2 | CVE-2025-59287 — WSUS 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac) |
+| 3 | CVE-2025-8941：Linux-PAM 中的严重权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=3&sn=1c1a98a67cfded0aeac5d1c41f969097) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-59287 WSUS 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247485481&idx=1&sn=16024d5dbc80434edca170704e61f125) |
+| 1 | 隔离内网并非金钟罩：从针对国家授时中心的定向网攻谈起 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492144&idx=1&sn=200dc4998e32bfa90fa09531181121a7](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492144&idx=1&sn=200dc4998e32bfa90fa09531181121a7) |
+| 2 | CVE-2025-59287 — WSUS 远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533144&idx=2&sn=82a1222b06b4a4b1dade45d35a93c7ac) |
 
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】银狐组织扩散 Winos 4.0 攻击至日本与马来西亚，携带新型 HoldingHands 后门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072291&idx=3&sn=7b40deaad476d5d3d94f363b9f09d1a9](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072291&idx=3&sn=7b40deaad476d5d3d94f363b9f09d1a9) |
-
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC挖掘之优惠券 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485640&idx=1&sn=0beb1b92bd6b71701d19129b4bff0f6a](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485640&idx=1&sn=0beb1b92bd6b71701d19129b4bff0f6a) |
+| 1 | 朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=4&sn=206b8d9b09401ed944d2735775fb603e](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637663&idx=4&sn=206b8d9b09401ed944d2735775fb603e) |
 
 
 ## 📁 归档路径
@@ -117,7 +110,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -126,5 +119,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-19 12:35:36*
+*生成时间: 2025-10-19 16:20:59*
 *报告工具: 微信文章安全归档系统*
