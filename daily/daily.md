@@ -1,20 +1,20 @@
-# 2025-10-18 安全威胁态势报告
+# 2025-10-19 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **安全运营**: 2篇
+- **漏洞利用**: 3篇
+- **信息泄露**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,23 +63,14 @@
 
 ### Doonsec
 
-- [SDL序列课程-第59篇-安全需求-文件上传需求-文件上传安全性和监控的重要性](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484906&idx=1&sn=95b632ecfeebf5bb906cd6e29cbbc8f5) (发布日期: 2025-10-18)
-- [安全蓝队缺好用工具？这个 4900 + 星的开源项目，帮你整理好了所有资源](https://mp.weixin.qq.com/s?__biz=MzU5NzQ3NzIwMA==&mid=2247487228&idx=1&sn=4ae893a53896c34089d96bfb168f2590) (发布日期: 2025-10-18)
-- [论文的研读与思考|Pentest-R1：通过两阶段强化学习优化的自动化渗透测试推理](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247484762&idx=1&sn=ad139e3444784c6a8d74d5709422eda1) (发布日期: 2025-10-18)
-- [【安全圈】史上最高危：微软修复 ASP.NET Core 漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=1&sn=7b50c69ca8fac5d7c27d667f3c6e26c0) (发布日期: 2025-10-18)
-- [【安全圈】黑客利用思科 SNMP 漏洞在交换机上部署 rootkit](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=2&sn=1f382471889e81a7e2f2c036582b8909) (发布日期: 2025-10-18)
-- [架构、风险与落地：如何评估和选择适合的AI-SOC平台](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=1&sn=8fe17850ae2d186a6cfe6c9cd1bc03f1) (发布日期: 2025-10-18)
-- [挖洞工具开发思路 + SRC实战技巧，这里都有](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=2&sn=315f990e66e5499f06e359b0a4b5cbde) (发布日期: 2025-10-18)
-- [FreeBuf周报 | F5确认源代码与漏洞数据遭窃；中国金融科技企业遭恶意LNK文件攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=3&sn=222228fe25202b9d14b26a9595092520) (发布日期: 2025-10-18)
-- [AI | 利用LLM+MCP服务辅助BYOVD漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490206&idx=1&sn=63818ab4f94dbe8be2b235d49a63a68b) (发布日期: 2025-10-18)
-- [【火热报名】普陀区数据流通安全合规沙龙暨数据创新实验室宣贯培训报名启动](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247520685&idx=1&sn=21784fe312f0cab124c186f12e857231) (发布日期: 2025-10-18)
-- [倒计时6天 | 一汽奔腾-汽车网络数据安全日议程公布！现场精准对接，最后2个名额](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247560996&idx=2&sn=c2dd64aa42aa56cc42f0d6e0b9f00415) (发布日期: 2025-10-18)
-- [书接上回edusrc高危8分后出严重10rank](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484178&idx=1&sn=99af6f008d43eabb4c8a87afbc53564a) (发布日期: 2025-10-18)
-- [专家解读｜加快实施个人信息出境认证制度 以高水平数据安全保障数字经济高质量发展](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649174843&idx=3&sn=1b3b24668cecd5d5f229c00d0aa74067) (发布日期: 2025-10-18)
-- [CVE-2025-11001 或 CVE-2025-11002 漏洞利用](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533134&idx=2&sn=d4d1116ecb5df57cb697f1e6ab62ecfe) (发布日期: 2025-10-18)
-- [内网渗透体系建设（建议收藏）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575323&idx=1&sn=ee3a558310f378a2a18d3e43cf6587d2) (发布日期: 2025-10-18)
-- [安全运维是做什么的？包含哪七个方面](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575323&idx=2&sn=a21aef21666aa2b99624d3691f3e34f9) (发布日期: 2025-10-18)
-- [金和 JC6 WebBill 任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493019&idx=1&sn=ad6d89b1f16572abd9575f9a7e9a8811) (发布日期: 2025-10-18)
+- [朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露|啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f) (发布日期: 2025-10-19)
+- [7-Zip两大高危漏洞可导致任意代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) (发布日期: 2025-10-19)
+- [[ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068) (发布日期: 2025-10-19)
+- [某APP众测报文加密解决-Frida定位加密函数（一）](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247488996&idx=1&sn=5ee7b0ac8fe300cd16308aae435e7722) (发布日期: 2025-10-19)
+- [告别繁琐命令行：用开源ToughRADIUS轻松管理H3C SSLVPN千名用户](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458861950&idx=1&sn=8d3e5f94061520dcc8384f772b59b8da) (发布日期: 2025-10-19)
+- [Capita因数据泄露支付1400万英镑罚款](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56) (发布日期: 2025-10-19)
+- [RealVul: 基于大语言模型训练微调的PHP漏洞检测框架深度解析安全工具](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd) (发布日期: 2025-10-19)
+- [各地省级网信部门受理数据出境安全评估申报、个人信息出境标准合同备案工作的联系方式](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652118952&idx=1&sn=4376408dad87a02e058962c5389696c4) (发布日期: 2025-10-19)
 
 
 ## 🎯 威胁详情分析
@@ -88,30 +79,27 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】史上最高危：微软修复 ASP.NET Core 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=1&sn=7b50c69ca8fac5d7c27d667f3c6e26c0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=1&sn=7b50c69ca8fac5d7c27d667f3c6e26c0) |
-| 2 | 【安全圈】黑客利用思科 SNMP 漏洞在交换机上部署 rootkit | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=2&sn=1f382471889e81a7e2f2c036582b8909](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072273&idx=2&sn=1f382471889e81a7e2f2c036582b8909) |
-| 3 | FreeBuf周报 | F5确认源代码与漏洞数据遭窃；中国金融科技企业遭恶意LNK文件攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=3&sn=222228fe25202b9d14b26a9595092520](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=3&sn=222228fe25202b9d14b26a9595092520) |
-| 4 | AI | 利用LLM+MCP服务辅助BYOVD漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490206&idx=1&sn=63818ab4f94dbe8be2b235d49a63a68b](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490206&idx=1&sn=63818ab4f94dbe8be2b235d49a63a68b) |
-| 5 | CVE-2025-11001 或 CVE-2025-11002 漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533134&idx=2&sn=d4d1116ecb5df57cb697f1e6ab62ecfe](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533134&idx=2&sn=d4d1116ecb5df57cb697f1e6ab62ecfe) |
-| 6 | 金和 JC6 WebBill 任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493019&idx=1&sn=ad6d89b1f16572abd9575f9a7e9a8811](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493019&idx=1&sn=ad6d89b1f16572abd9575f9a7e9a8811) |
+| 1 | 7-Zip两大高危漏洞可导致任意代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) |
+| 2 | [ .NET 安全代码审计 ] 从零基础到高阶实战，开启漏洞赏金之路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500826&idx=1&sn=384e28799a8cb113e496fb1e14a07068) |
+| 3 | RealVul: 基于大语言模型训练微调的PHP漏洞检测框架深度解析安全工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524411&idx=1&sn=13dcf5b9240b034eb0153d63c41dc8bd) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透体系建设（建议收藏） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575323&idx=1&sn=ee3a558310f378a2a18d3e43cf6587d2](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575323&idx=1&sn=ee3a558310f378a2a18d3e43cf6587d2) |
+| 1 | 7-Zip两大高危漏洞可导致任意代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=3&sn=d26b381f137dde86f7959766f42de503) |
 
-### 安全运营
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 挖洞工具开发思路 + SRC实战技巧，这里都有 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=2&sn=315f990e66e5499f06e359b0a4b5cbde](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651328909&idx=2&sn=315f990e66e5499f06e359b0a4b5cbde) |
-| 2 | 书接上回edusrc高危8分后出严重10rank | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484178&idx=1&sn=99af6f008d43eabb4c8a87afbc53564a](https://mp.weixin.qq.com/s?__biz=MzkwNzIxMzc5Ng==&mid=2247484178&idx=1&sn=99af6f008d43eabb4c8a87afbc53564a) |
+| 1 | 朝日啤酒遭勒索攻击，物流瘫痪，员工数据泄露|啤酒巨头朝日遭网络攻击Qilin勒索软件团伙宣称对此事件负责 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612800&idx=2&sn=22b3d2b83994b3cd33d25a864aad078f) |
+| 2 | Capita因数据泄露支付1400万英镑罚款 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499245&idx=1&sn=5c43995cedbe73d86e53a548efff5f56) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-18/`
+文章已归档到: `doc/2025/2025-10/2025-W42/2025-10-19/`
 
 ## 🔗 数据源说明
 
@@ -122,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -132,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-18 12:35:34*
+*生成时间: 2025-10-19 01:41:56*
 *报告工具: 微信文章安全归档系统*
