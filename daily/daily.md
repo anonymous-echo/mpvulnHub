@@ -1,19 +1,19 @@
-# 2025-10-20 安全威胁态势报告
+# 2025-10-21 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +62,11 @@
 
 ### Doonsec
 
-- [【高危漏洞预警】Linux内核af_alg写入漏洞(CVE-2025-39964)](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6) (发布日期: 2025-10-20)
-- [关于发布国资国企在线监管安全运营中心授权建设分中心目录的通知](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553396&idx=1&sn=7c72f3599397d774443f5d224871687c) (发布日期: 2025-10-20)
-- [金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6) (发布日期: 2025-10-20)
-- [CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce) (发布日期: 2025-10-20)
-- [CVE-2025-59230正在被利用 Windows 远程访问连接管理器中的 0 day 漏洞发起持续攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799) (发布日期: 2025-10-20)
-- [Redis未授权访问详解——新手友好](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524497&idx=1&sn=70e415036e34cc5959f2f455bc50b7e8) (发布日期: 2025-10-20)
-- [数据安全警钟再响！一文旅公司因安全漏洞被罚15万元](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3) (发布日期: 2025-10-20)
+- [sql注入bypass与poc大总结](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) (发布日期: 2025-10-21)
+- [FastMonitor网络流量监控与威胁检测工具|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495283&idx=1&sn=5601c82709119c39b37c6c1d9ac70c48) (发布日期: 2025-10-21)
+- [安全的最大误区：以为隔离了内网，就隔绝了威胁](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a) (发布日期: 2025-10-21)
+- [工具推荐 | 最新开源多人协作红队渗透框架](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496063&idx=1&sn=01a7127748cbdca771450184a337c36a) (发布日期: 2025-10-21)
+- [黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07) (发布日期: 2025-10-21)
 
 
 ## 🎯 威胁详情分析
@@ -77,28 +75,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Linux内核af_alg写入漏洞(CVE-2025-39964) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490878&idx=1&sn=2a7e8c0823c1aaa6d705bfdef6c2e6e6) |
-| 2 | 金和OA DownLoadBgImage.aspx接口存在文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489392&idx=1&sn=3d56a9edd29fbea34bd5bd8714e719d6) |
-| 3 | CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce) |
-| 4 | CVE-2025-59230正在被利用 Windows 远程访问连接管理器中的 0 day 漏洞发起持续攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=2&sn=1f515413fc380642e71a0e9893285799) |
-| 5 | 数据安全警钟再响！一文旅公司因安全漏洞被罚15万元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493175&idx=1&sn=8984c66c4c8df99368db84649edd7dd3) |
+| 1 | sql注入bypass与poc大总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) |
+| 2 | 黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-11001、CVE-2025-11002：7-Zip 的符号链接处理漏洞可能允许任意文件写入/远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533153&idx=1&sn=f3add6ff1e3214485e591d4a24b291ce) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 关于发布国资国企在线监管安全运营中心授权建设分中心目录的通知 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553396&idx=1&sn=7c72f3599397d774443f5d224871687c](https://mp.weixin.qq.com/s?__biz=MzkxMzAzMjU0OA==&mid=2247553396&idx=1&sn=7c72f3599397d774443f5d224871687c) |
+| 1 | sql注入bypass与poc大总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) |
+| 2 | 安全的最大误区：以为隔离了内网，就隔绝了威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-20/`
+文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-21/`
 
 ## 🔗 数据源说明
 
@@ -109,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-20 16:24:17*
+*生成时间: 2025-10-21 01:26:51*
 *报告工具: 微信文章安全归档系统*
