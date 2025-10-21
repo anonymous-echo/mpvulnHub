@@ -2,18 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 5篇
+  - ChainReactors: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,30 +57,12 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### ChainReactors
 
-- [sql注入bypass与poc大总结](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) (发布日期: 2025-10-21)
-- [FastMonitor网络流量监控与威胁检测工具|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495283&idx=1&sn=5601c82709119c39b37c6c1d9ac70c48) (发布日期: 2025-10-21)
-- [安全的最大误区：以为隔离了内网，就隔绝了威胁](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a) (发布日期: 2025-10-21)
-- [工具推荐 | 最新开源多人协作红队渗透框架](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496063&idx=1&sn=01a7127748cbdca771450184a337c36a) (发布日期: 2025-10-21)
-- [黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07) (发布日期: 2025-10-21)
+- [ ] [芯片安全设计及应用技术研讨会上海站--“破局芯片安全：技术 · 标准 · 产业”](https://mp.weixin.qq.com/s?__biz=MzAwNTczMjAzMg==&mid=2650240015&idx=1&sn=880b40f098f8626e2ee0254d17cde6b4) (发布日期: 2025-10-21)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | sql注入bypass与poc大总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) |
-| 2 | 黑客利用Oracle EBS漏洞攻击美国航空子公司Envoy | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119031&idx=2&sn=edecc474e729d6fa2033a7aa81988a07) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | sql注入bypass与poc大总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4](https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485642&idx=1&sn=629d19fb776071d5ab36fa410d2f15b4) |
-| 2 | 安全的最大误区：以为隔离了内网，就隔绝了威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516550&idx=1&sn=aa7859917164797533f235770c018a5a) |
 
 
 ## 📁 归档路径
@@ -99,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -109,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-21 01:26:51*
+*生成时间: 2025-10-21 04:22:44*
 *报告工具: 微信文章安全归档系统*
