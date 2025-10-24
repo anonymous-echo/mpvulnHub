@@ -1,22 +1,23 @@
-# 2025-10-23 安全威胁态势报告
+# 2025-10-24 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 22
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 22篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 14篇
+- **攻击技术**: 3篇
+- **威胁情报**: 3篇
+- **安全运营**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 2篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -65,13 +66,28 @@
 
 ### Doonsec
 
-- [智能时代·可信AI安全 | 第九届安全开发者峰会圆满落幕！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602619&idx=1&sn=b9063ec4480decff67b9e0c48c0b197f) (发布日期: 2025-10-23)
-- [孚盟云平台GetDropDownListContent.ashx接口存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503) (发布日期: 2025-10-23)
-- [SDL序列课程-第60篇-安全需求-文件上传需求-上传文件必须经过重命名处理，不允许原名保存](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484912&idx=1&sn=b97233f0e44dabc353e37e6153e3d86f) (发布日期: 2025-10-23)
-- [【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0) (发布日期: 2025-10-23)
-- [2025年9月企业必修安全漏洞清单](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496880&idx=1&sn=26a77c6c0a9017da748cdd0558b66525) (发布日期: 2025-10-23)
-- [实战某SRC上APP的多个漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade) (发布日期: 2025-10-23)
-- [EtherHiding：APT恶意软件隐藏区块链里](https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488653&idx=1&sn=864d531e78d7e5e79a3c7c7e8fc98b99) (发布日期: 2025-10-23)
+- [软件测试转安全测试：30 天掌握接口漏洞测试](https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488018&idx=1&sn=19dcf7c88257705ca55a4f274ad5d35a) (发布日期: 2025-10-24)
+- [SideWinder 组织借微软ClickOnce技术发动一键式网络攻击——每周威胁情报动态第243期（10.17-10.23）](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492808&idx=1&sn=ea814acf454a5c5ba88406b820cfa0f0) (发布日期: 2025-10-24)
+- [某大学生常用APP抓包数据加密流程分析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498250&idx=1&sn=2ab5fce1eb22c0a9acc98183358e0091) (发布日期: 2025-10-24)
+- [VirtualBox 存在多个漏洞，可导致系统被接管](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796665&idx=3&sn=79ecd59b571a3636ece0624a8485b5ed) (发布日期: 2025-10-24)
+- [【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a) (发布日期: 2025-10-24)
+- [【密码学】数字签名方案](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493015&idx=1&sn=b6af13aee3f429817225797257a65318) (发布日期: 2025-10-24)
+- [深度拆解：从SMS漏洞到42种工具集，一次针对“北京时间”的“教科书式”攻击](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901521&idx=1&sn=c1b7bf81b952903f389023aa22a331ec) (发布日期: 2025-10-24)
+- [1024-暗网威胁情报监测系统重磅升级更加强大](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487326&idx=1&sn=5242cf18ee3312a06921827a02701242) (发布日期: 2025-10-24)
+- [红蓝对抗、攻防渗透、威胁情报、数据泄露](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf) (发布日期: 2025-10-24)
+- [针对某银行演练红队攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493892&idx=1&sn=ee3230ff9c06ee91069646c6dbd40d0d) (发布日期: 2025-10-24)
+- [漏洞预警 | Apache ActiveMQ反序列化漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=1&sn=c68bf5766e25fe37221cb61177ae7b4b) (发布日期: 2025-10-24)
+- [漏洞预警 | 同享人力资源管理系统SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f) (发布日期: 2025-10-24)
+- [漏洞预警 | 金和OA XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=3&sn=a2fab88caf9510cf3b0f59a2dcaaa2fd) (发布日期: 2025-10-24)
+- [300页 25种红队黑客攻击技巧](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293376&idx=1&sn=5b348d520b00dfd3527268b837cfef5a) (发布日期: 2025-10-24)
+- [你还在手动检测？用 BucketTool 秒破 OSS/COS/OBS/S3 漏洞！](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485875&idx=1&sn=57d0603a1a02ff23dadc3ab2cfa74de8) (发布日期: 2025-10-24)
+- [漏洞情报(已验证) | 0 Day 金和OA ExamineNodSingletonXml.aspx 存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc) (发布日期: 2025-10-24)
+- [网络安全行业，为什么总是谈“两高一弱”是最危险的安全漏洞？](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494554&idx=1&sn=d76399cc2e3cada7a78ddea36b9a7f70) (发布日期: 2025-10-24)
+- [高管安全意识觉醒：从\"安全成本\"到\"业务护盾\"的认知转变](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488025&idx=1&sn=456443f537dbfa40d2a71e51d6c3fd97) (发布日期: 2025-10-24)
+- [逍遥安全培训SRC小程序APP抓包漏洞挖掘配置课](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484924&idx=1&sn=b60daca104e3c30df530d6df4cb98f32) (发布日期: 2025-10-24)
+- [基于灯塔ARL二开|Golang+React的资产侦察与漏洞检测平台(2025-10-23)更新](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495309&idx=1&sn=ff63daa95d28885da51839d354323ad8) (发布日期: 2025-10-24)
+- [安全测试效率翻倍！自动化资产测绘+漏洞扫描](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496084&idx=1&sn=7a1b45c30ab22d8d8a9fc7adc6f3b3f1) (发布日期: 2025-10-24)
+- [SRC高危逻辑漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524565&idx=1&sn=d2832b54c5b916c5279fa8428b37e839) (发布日期: 2025-10-24)
 
 
 ## 🎯 威胁详情分析
@@ -80,34 +96,54 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 孚盟云平台GetDropDownListContent.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503) |
-| 2 | 【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0) |
-| 3 | 2025年9月企业必修安全漏洞清单 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496880&idx=1&sn=26a77c6c0a9017da748cdd0558b66525](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496880&idx=1&sn=26a77c6c0a9017da748cdd0558b66525) |
-| 4 | 实战某SRC上APP的多个漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade) |
+| 1 | 软件测试转安全测试：30 天掌握接口漏洞测试 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488018&idx=1&sn=19dcf7c88257705ca55a4f274ad5d35a](https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488018&idx=1&sn=19dcf7c88257705ca55a4f274ad5d35a) |
+| 2 | VirtualBox 存在多个漏洞，可导致系统被接管 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796665&idx=3&sn=79ecd59b571a3636ece0624a8485b5ed](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796665&idx=3&sn=79ecd59b571a3636ece0624a8485b5ed) |
+| 3 | 【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a) |
+| 4 | 深度拆解：从SMS漏洞到42种工具集，一次针对“北京时间”的“教科书式”攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901521&idx=1&sn=c1b7bf81b952903f389023aa22a331ec](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901521&idx=1&sn=c1b7bf81b952903f389023aa22a331ec) |
+| 5 | 漏洞预警 | Apache ActiveMQ反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=1&sn=c68bf5766e25fe37221cb61177ae7b4b](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=1&sn=c68bf5766e25fe37221cb61177ae7b4b) |
+| 6 | 漏洞预警 | 同享人力资源管理系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f) |
+| 7 | 漏洞预警 | 金和OA XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=3&sn=a2fab88caf9510cf3b0f59a2dcaaa2fd](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=3&sn=a2fab88caf9510cf3b0f59a2dcaaa2fd) |
+| 8 | 你还在手动检测？用 BucketTool 秒破 OSS/COS/OBS/S3 漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485875&idx=1&sn=57d0603a1a02ff23dadc3ab2cfa74de8](https://mp.weixin.qq.com/s?__biz=MzkzNDI5NjEzMQ==&mid=2247485875&idx=1&sn=57d0603a1a02ff23dadc3ab2cfa74de8) |
+| 9 | 漏洞情报(已验证) | 0 Day 金和OA ExamineNodSingletonXml.aspx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc) |
+| 10 | 网络安全行业，为什么总是谈“两高一弱”是最危险的安全漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494554&idx=1&sn=d76399cc2e3cada7a78ddea36b9a7f70](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494554&idx=1&sn=d76399cc2e3cada7a78ddea36b9a7f70) |
+| 11 | 逍遥安全培训SRC小程序APP抓包漏洞挖掘配置课 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484924&idx=1&sn=b60daca104e3c30df530d6df4cb98f32](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484924&idx=1&sn=b60daca104e3c30df530d6df4cb98f32) |
+| 12 | 基于灯塔ARL二开|Golang+React的资产侦察与漏洞检测平台(2025-10-23)更新 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495309&idx=1&sn=ff63daa95d28885da51839d354323ad8](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495309&idx=1&sn=ff63daa95d28885da51839d354323ad8) |
+| 13 | 安全测试效率翻倍！自动化资产测绘+漏洞扫描 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496084&idx=1&sn=7a1b45c30ab22d8d8a9fc7adc6f3b3f1](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496084&idx=1&sn=7a1b45c30ab22d8d8a9fc7adc6f3b3f1) |
+| 14 | SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524565&idx=1&sn=d2832b54c5b916c5279fa8428b37e839](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524565&idx=1&sn=d2832b54c5b916c5279fa8428b37e839) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 孚盟云平台GetDropDownListContent.ashx接口存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489416&idx=1&sn=4fdf8702164d4bc159a1cf34da375503) |
-| 2 | 【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490896&idx=1&sn=ee09d94250ee1de1592a9bad191e43e0) |
+| 1 | 【高危漏洞预警】Cisco IOS XE Software命令执行漏洞CVE-2025-20334 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549275&idx=2&sn=b81f2b7c3b62af0328d66811d34db15a) |
+| 2 | 漏洞预警 | 同享人力资源管理系统SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494772&idx=2&sn=d748d852a661460c1f405a0ab71e794f) |
+| 3 | 漏洞情报(已验证) | 0 Day 金和OA ExamineNodSingletonXml.aspx 存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc](https://mp.weixin.qq.com/s?__biz=MzUyNzk1NjA5MQ==&mid=2247483991&idx=1&sn=5cd74ae80b7193653bedcd2f36dc86bc) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | EtherHiding：APT恶意软件隐藏区块链里 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488653&idx=1&sn=864d531e78d7e5e79a3c7c7e8fc98b99](https://mp.weixin.qq.com/s?__biz=MzkyMjM0ODAwNg==&mid=2247488653&idx=1&sn=864d531e78d7e5e79a3c7c7e8fc98b99) |
+| 1 | SideWinder 组织借微软ClickOnce技术发动一键式网络攻击——每周威胁情报动态第243期（10.17-10.23） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492808&idx=1&sn=ea814acf454a5c5ba88406b820cfa0f0](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492808&idx=1&sn=ea814acf454a5c5ba88406b820cfa0f0) |
+| 2 | 1024-暗网威胁情报监测系统重磅升级更加强大 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487326&idx=1&sn=5242cf18ee3312a06921827a02701242](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487326&idx=1&sn=5242cf18ee3312a06921827a02701242) |
+| 3 | 红蓝对抗、攻防渗透、威胁情报、数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 实战某SRC上APP的多个漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247520974&idx=1&sn=bdce92f04cee3546c9ca5646d673dade) |
+| 1 | 逍遥安全培训SRC小程序APP抓包漏洞挖掘配置课 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484924&idx=1&sn=b60daca104e3c30df530d6df4cb98f32](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484924&idx=1&sn=b60daca104e3c30df530d6df4cb98f32) |
+| 2 | SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524565&idx=1&sn=d2832b54c5b916c5279fa8428b37e839](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524565&idx=1&sn=d2832b54c5b916c5279fa8428b37e839) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 红蓝对抗、攻防渗透、威胁情报、数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514261&idx=1&sn=f86bd3ee3cfd343f82ab7788a59b9dbf) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-23/`
+文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-24/`
 
 ## 🔗 数据源说明
 
@@ -118,7 +154,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
@@ -128,5 +164,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-23 16:24:40*
+*生成时间: 2025-10-24 01:22:36*
 *报告工具: 微信文章安全归档系统*
