@@ -2,19 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
-- **漏洞利用**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,13 +62,19 @@
 
 ### Doonsec
 
-- [黑客可以将恶意代码注入防病毒进程以创建后门](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119170&idx=2&sn=6b659c285d2cc0ed2b5193885d842542) (发布日期: 2025-10-25)
-- [构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515471&idx=1&sn=6eaf0c005e27a31da530311b75f79b6f) (发布日期: 2025-10-25)
-- [《0 杀软告警、0 进程注入、0 特征残留——GoPhantom 把红队作业做成“艺术片”！》](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493355&idx=1&sn=80b8beed0391a42daf59175f1d35af61) (发布日期: 2025-10-25)
-- [CVSS 9.8严重漏洞揭秘：CVE-2025-59287 WSUS PreAuth RCE的利用困局](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2) (发布日期: 2025-10-25)
-- [网络安全法修改拟增加促进人工智能安全与发展的内容](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499327&idx=1&sn=47a821f79298604ccadaf824ad8d2a77) (发布日期: 2025-10-25)
-- [员工数据泄露防护：从人因风险到技术防线的全方位策略](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488026&idx=1&sn=57b0682273031c2762dd03ed57d3bb7d) (发布日期: 2025-10-25)
-- [数据安全知识：什么是数据管理？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502383&idx=2&sn=857ba514941c6d619e50467144d562d4) (发布日期: 2025-10-25)
+- [第136篇：美国NSA的苹果手机\"三角测量\"后门的窃密模块分析 | 机器学习引擎识别照片信息](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487799&idx=1&sn=56e7121d80f57da9d10770dfe3a44e14) (发布日期: 2025-10-25)
+- [警惕聊天框里的“特洛伊木马”！一条协作消息如何让黑客接管你的电脑？](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486017&idx=1&sn=18972d3fec7f203f5dd63e8f024dacd5) (发布日期: 2025-10-25)
+- [安天AVL SDK反病毒引擎升级通告（20251025）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212916&idx=1&sn=5331d76cfadb592531f4bd7003a6c5c7) (发布日期: 2025-10-25)
+- [普华Powerpms Reg.ashx SQL注入漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) (发布日期: 2025-10-25)
+- [零基础也能懂！渗透测试全流程拆解，从入门到实操就看这篇](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486256&idx=1&sn=4dc62580f81e2c5b5033d531a63bcfa0) (发布日期: 2025-10-25)
+- [中国智能网联汽车技术规程：（C-ICAP）（2024版）-隐私保护测评规则](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628072&idx=1&sn=70a0840fb04a0b8fb79195396e81d286) (发布日期: 2025-10-25)
+- [你是说甲方让我测他们的漏洞靶场，然后出渗透报告？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3) (发布日期: 2025-10-25)
+- [美国核安全局关键设施遭渗透，SharePoint漏洞成突破口](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb) (发布日期: 2025-10-25)
+- [朝鲜攻击者组织利用区块链技术构建恶意软件分发平台](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=2&sn=a8a06cacb22ba5e4a4f4308852914d0b) (发布日期: 2025-10-25)
+- [大模型提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c) (发布日期: 2025-10-25)
+- [JeecgBoot积木报表综合漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110) (发布日期: 2025-10-25)
+- [国泰海通与安恒信息达成全面战略合作 共筑AI驱动的金融安全新生态](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650635416&idx=1&sn=e061478a532ccd5b7904f5029afab8e1) (发布日期: 2025-10-25)
+- [CVE-2025-53072 CVE-2025-62481](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0) (发布日期: 2025-10-25)
 
 
 ## 🎯 威胁详情分析
@@ -78,22 +83,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515471&idx=1&sn=6eaf0c005e27a31da530311b75f79b6f](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515471&idx=1&sn=6eaf0c005e27a31da530311b75f79b6f) |
-| 2 | CVSS 9.8严重漏洞揭秘：CVE-2025-59287 WSUS PreAuth RCE的利用困局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2) |
+| 1 | 普华Powerpms Reg.ashx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) |
+| 2 | 你是说甲方让我测他们的漏洞靶场，然后出渗透报告？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3) |
+| 3 | 美国核安全局关键设施遭渗透，SharePoint漏洞成突破口 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb) |
+| 4 | JeecgBoot积木报表综合漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110) |
+| 5 | CVE-2025-53072 CVE-2025-62481 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 黑客可以将恶意代码注入防病毒进程以创建后门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119170&idx=2&sn=6b659c285d2cc0ed2b5193885d842542](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119170&idx=2&sn=6b659c285d2cc0ed2b5193885d842542) |
-| 2 | 《0 杀软告警、0 进程注入、0 特征残留——GoPhantom 把红队作业做成“艺术片”！》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493355&idx=1&sn=80b8beed0391a42daf59175f1d35af61](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493355&idx=1&sn=80b8beed0391a42daf59175f1d35af61) |
-| 3 | CVSS 9.8严重漏洞揭秘：CVE-2025-59287 WSUS PreAuth RCE的利用困局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2](https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492505&idx=1&sn=a62aa31cf0b1372c8472e6c2226b72b2) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 员工数据泄露防护：从人因风险到技术防线的全方位策略 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488026&idx=1&sn=57b0682273031c2762dd03ed57d3bb7d](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488026&idx=1&sn=57b0682273031c2762dd03ed57d3bb7d) |
+| 1 | 普华Powerpms Reg.ashx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) |
+| 2 | 大模型提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c) |
 
 
 ## 📁 归档路径
@@ -109,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-25 01:24:01*
+*生成时间: 2025-10-25 04:22:13*
 *报告工具: 微信文章安全归档系统*
