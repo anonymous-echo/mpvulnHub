@@ -9,11 +9,14 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
+- **攻击技术**: 3篇
+- **漏洞利用**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **供应链**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,13 +65,13 @@
 
 ### Doonsec
 
-- [Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) (发布日期: 2025-10-25)
-- [中信银行：基于大型语言模型（LLM）的开源漏洞修复方案的生成方法及系统](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b) (发布日期: 2025-10-25)
-- [【安全圈】速更新！Windows服务器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3) (发布日期: 2025-10-25)
-- [广州奇安信红队招人！！！](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494859&idx=1&sn=95f157df94ba71b9269bedba77ea2e87) (发布日期: 2025-10-25)
-- [黑客正积极利用Windows Server Update Services远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) (发布日期: 2025-10-25)
-- [FreeBuf周报 | 无印良品因遭勒索攻击暂停线上销售；Linux-PAM漏洞PoC利用代码公开](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919) (发布日期: 2025-10-25)
-- [网络安全人士必备的30个安全工具](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247561364&idx=1&sn=47086a9ea23d0cc933f0491d5ddf4683) (发布日期: 2025-10-25)
+- [Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) (发布日期: 2025-10-25)
+- [佰倬加密方案助力北京某国家级三甲医院核心医疗系统通过密评](https://mp.weixin.qq.com/s?__biz=Mzg2ODAyMjQxMg==&mid=2247486381&idx=1&sn=f18872d18651a3004a1cb8ab710ff4c2) (发布日期: 2025-10-25)
+- [【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(上)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637) (发布日期: 2025-10-25)
+- [【红队思路】简简单单绕过杀软实现用户添加](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484674&idx=1&sn=947f31c1cd610747e0124bd1b35e82fc) (发布日期: 2025-10-25)
+- [某PHP系统前台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) (发布日期: 2025-10-25)
+- [几款浏览器未授权漏洞挖掘插件分享](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458) (发布日期: 2025-10-25)
+- [太绝了！5张思维导图搞定Web安全知识架构](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575418&idx=2&sn=2836fce58602892fa8b95f9de3186f39) (发布日期: 2025-10-25)
 
 
 ## 🎯 威胁详情分析
@@ -77,18 +80,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) |
-| 2 | 中信银行：基于大型语言模型（LLM）的开源漏洞修复方案的生成方法及系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b) |
-| 3 | 【安全圈】速更新！Windows服务器曝高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3) |
-| 4 | 黑客正积极利用Windows Server Update Services远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) |
-| 5 | FreeBuf周报 | 无印良品因遭勒索攻击暂停线上销售；Linux-PAM漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919) |
+| 1 | 某PHP系统前台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) |
+| 2 | 几款浏览器未授权漏洞挖掘插件分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) |
-| 2 | 黑客正积极利用Windows Server Update Services远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) |
+| 1 | Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) |
+| 2 | 【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(上) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637) |
+| 3 | 某PHP系统前台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) |
 
 
 ## 📁 归档路径
@@ -104,8 +111,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **供应链** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -114,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-25 16:21:22*
+*生成时间: 2025-10-25 20:19:46*
 *报告工具: 微信文章安全归档系统*
