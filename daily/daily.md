@@ -2,15 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
+- **供应链**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,11 +62,33 @@
 
 ### Doonsec
 
-- [破局全球通信加密霸权：盛邦安全发布200G高速链路加密网关，两倍性能超越国际巨头，开启算网安全新纪元](https://mp.weixin.qq.com/s?__biz=MzAwNTAxMjUwNw==&mid=2650279157&idx=1&sn=7b02d349dfbaa645bda31fd492e9760f) (发布日期: 2025-10-25)
-- [Suricata入侵检测实战：从规则编写到ICMP扫描告警全解析](https://mp.weixin.qq.com/s?__biz=MzI2MDI0NTM2Nw==&mid=2247490731&idx=1&sn=d3a85a8b0778c8830bf3e3f258d93dcb) (发布日期: 2025-10-25)
+- [Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) (发布日期: 2025-10-25)
+- [中信银行：基于大型语言模型（LLM）的开源漏洞修复方案的生成方法及系统](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b) (发布日期: 2025-10-25)
+- [【安全圈】速更新！Windows服务器曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3) (发布日期: 2025-10-25)
+- [广州奇安信红队招人！！！](https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494859&idx=1&sn=95f157df94ba71b9269bedba77ea2e87) (发布日期: 2025-10-25)
+- [黑客正积极利用Windows Server Update Services远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) (发布日期: 2025-10-25)
+- [FreeBuf周报 | 无印良品因遭勒索攻击暂停线上销售；Linux-PAM漏洞PoC利用代码公开](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919) (发布日期: 2025-10-25)
+- [网络安全人士必备的30个安全工具](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247561364&idx=1&sn=47086a9ea23d0cc933f0491d5ddf4683) (发布日期: 2025-10-25)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) |
+| 2 | 中信银行：基于大型语言模型（LLM）的开源漏洞修复方案的生成方法及系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932846&idx=1&sn=a39d6bb6d893e53b8212473921e0df3b) |
+| 3 | 【安全圈】速更新！Windows服务器曝高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072393&idx=1&sn=77afd354e52d6be27280d6083ba913a3) |
+| 4 | 黑客正积极利用Windows Server Update Services远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) |
+| 5 | FreeBuf周报 | 无印良品因遭勒索攻击暂停线上销售；Linux-PAM漏洞PoC利用代码公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=3&sn=e9f505d4b4811c937f085134239dd919) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Windows 服务器更新服务 (WSUS) 远程代码执行漏洞被黑客利用攻击中 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183148&idx=2&sn=7f4ea604c0be618db406165d656c36eb) |
+| 2 | 黑客正积极利用Windows Server Update Services远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329359&idx=1&sn=25b028bdcc87a57f93d5a112a61be8a6) |
 
 
 ## 📁 归档路径
@@ -79,8 +104,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **供应链** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +114,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-25 12:35:31*
+*生成时间: 2025-10-25 16:21:22*
 *报告工具: 微信文章安全归档系统*
