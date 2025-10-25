@@ -2,18 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,19 +63,20 @@
 
 ### Doonsec
 
-- [第136篇：美国NSA的苹果手机\"三角测量\"后门的窃密模块分析 | 机器学习引擎识别照片信息](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487799&idx=1&sn=56e7121d80f57da9d10770dfe3a44e14) (发布日期: 2025-10-25)
-- [警惕聊天框里的“特洛伊木马”！一条协作消息如何让黑客接管你的电脑？](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486017&idx=1&sn=18972d3fec7f203f5dd63e8f024dacd5) (发布日期: 2025-10-25)
-- [安天AVL SDK反病毒引擎升级通告（20251025）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212916&idx=1&sn=5331d76cfadb592531f4bd7003a6c5c7) (发布日期: 2025-10-25)
-- [普华Powerpms Reg.ashx SQL注入漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) (发布日期: 2025-10-25)
-- [零基础也能懂！渗透测试全流程拆解，从入门到实操就看这篇](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247486256&idx=1&sn=4dc62580f81e2c5b5033d531a63bcfa0) (发布日期: 2025-10-25)
-- [中国智能网联汽车技术规程：（C-ICAP）（2024版）-隐私保护测评规则](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628072&idx=1&sn=70a0840fb04a0b8fb79195396e81d286) (发布日期: 2025-10-25)
-- [你是说甲方让我测他们的漏洞靶场，然后出渗透报告？](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3) (发布日期: 2025-10-25)
-- [美国核安全局关键设施遭渗透，SharePoint漏洞成突破口](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb) (发布日期: 2025-10-25)
-- [朝鲜攻击者组织利用区块链技术构建恶意软件分发平台](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=2&sn=a8a06cacb22ba5e4a4f4308852914d0b) (发布日期: 2025-10-25)
-- [大模型提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c) (发布日期: 2025-10-25)
-- [JeecgBoot积木报表综合漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110) (发布日期: 2025-10-25)
-- [国泰海通与安恒信息达成全面战略合作 共筑AI驱动的金融安全新生态](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650635416&idx=1&sn=e061478a532ccd5b7904f5029afab8e1) (发布日期: 2025-10-25)
-- [CVE-2025-53072 CVE-2025-62481](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0) (发布日期: 2025-10-25)
+- [2025 TechWorld | 智跃新境·人工智能安全专题论坛精彩回顾](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474220&idx=1&sn=8408e3c8d132934cb0d7cfcc4789ae6b) (发布日期: 2025-10-25)
+- [2025 TechWorld | 数驭未来·数据安全专题论坛精彩回顾](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474220&idx=2&sn=6f7765815ff9297b9f56553048396b65) (发布日期: 2025-10-25)
+- [两个新的 Windows 零日漏洞被利用——其中一个影响所有已发布的版本](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=2&sn=c336b60dd2ed407b56498467ed470569) (发布日期: 2025-10-25)
+- [WSUS 反序列化漏洞（CVE-2025-59287）攻击分析](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=3&sn=2714cfad7e92c3bbae52bcfc36d43938) (发布日期: 2025-10-25)
+- [0072. 我如何使用 FOFA 在 Grafana 中找到“CVE-2025–4123”（并获得赏金）](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691170&idx=1&sn=bc3ecd564c0bfce6e0c7dce48f5543f6) (发布日期: 2025-10-25)
+- [红队视角：内网是如何被一步步打穿的？](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494248&idx=1&sn=4edb63566ac15f9b7117fbe226cddd96) (发布日期: 2025-10-25)
+- [9.8高危！CISA刚拉响警报：Oracle、微软这5个漏洞，黑客已在“实战”中！](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485224&idx=1&sn=5cba3750f386e7140ca339d6d1cb2d12) (发布日期: 2025-10-25)
+- [如何把DNS 变成后门](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489821&idx=1&sn=1d6e637c14fbfdfe07abf3347dd5a137) (发布日期: 2025-10-25)
+- [构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485180&idx=1&sn=08133c80d5eedcd15ca5437c6ca3b192) (发布日期: 2025-10-25)
+- [神州希望助力儋州市妇幼保健院开展网络安全应急演练](https://mp.weixin.qq.com/s?__biz=MzA4Mzg1ODMwMg==&mid=2650726161&idx=1&sn=aa190ea73344e5405ab9feac9d566a42) (发布日期: 2025-10-25)
+- [RediShell：从PoC到补丁——当 Redis 的 Lua 沙箱被攻破（CVE-2025-49844）](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484659&idx=1&sn=077ed29e41039c1f1bca85eed5522575) (发布日期: 2025-10-25)
+- [第136篇：美国NSA的苹果手机\"三角测量\"后门的窃密模块分析 | 机器学习引擎识别照片信息](https://mp.weixin.qq.com/s?__biz=MzUyOTcyNDg1OA==&mid=2247484715&idx=1&sn=029c04426d90e61a683bdc8414261e00) (发布日期: 2025-10-25)
+- [安全应急响应时间线创建](https://mp.weixin.qq.com/s?__biz=Mzg3OTE2MzM3OA==&mid=2247486633&idx=1&sn=b5849cdd36d5412a11717ff605258ea8) (发布日期: 2025-10-25)
+- [红队免杀心法：告别间接系统调用，无痕调用 NTAPI绕过 EDR堆栈检测](https://mp.weixin.qq.com/s?__biz=MzU0NDc0NTY3OQ==&mid=2247488746&idx=1&sn=177bb5ad85919f72ce717de7f3c55277) (发布日期: 2025-10-25)
 
 
 ## 🎯 威胁详情分析
@@ -83,18 +85,24 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 普华Powerpms Reg.ashx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) |
-| 2 | 你是说甲方让我测他们的漏洞靶场，然后出渗透报告？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484832&idx=1&sn=e7a7122314f200606eade90f330b8ea3) |
-| 3 | 美国核安全局关键设施遭渗透，SharePoint漏洞成突破口 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=1&sn=60b0b86d7a0011d7fc0b104cbedd8bdb) |
-| 4 | JeecgBoot积木报表综合漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=4&sn=bb6155da097d2d6f64ea3f8455e14110) |
-| 5 | CVE-2025-53072 CVE-2025-62481 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488213&idx=1&sn=ffca3b5ca9f80832c5eeb2da28e093d0) |
+| 1 | 两个新的 Windows 零日漏洞被利用——其中一个影响所有已发布的版本 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=2&sn=c336b60dd2ed407b56498467ed470569](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=2&sn=c336b60dd2ed407b56498467ed470569) |
+| 2 | WSUS 反序列化漏洞（CVE-2025-59287）攻击分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=3&sn=2714cfad7e92c3bbae52bcfc36d43938](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533220&idx=3&sn=2714cfad7e92c3bbae52bcfc36d43938) |
+| 3 | 0072. 我如何使用 FOFA 在 Grafana 中找到“CVE-2025–4123”（并获得赏金） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691170&idx=1&sn=bc3ecd564c0bfce6e0c7dce48f5543f6](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691170&idx=1&sn=bc3ecd564c0bfce6e0c7dce48f5543f6) |
+| 4 | 9.8高危！CISA刚拉响警报：Oracle、微软这5个漏洞，黑客已在“实战”中！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485224&idx=1&sn=5cba3750f386e7140ca339d6d1cb2d12](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485224&idx=1&sn=5cba3750f386e7140ca339d6d1cb2d12) |
+| 5 | 构建大模型安全自动化测试框架：从手工POC到AI对抗AI的递归Fuzz实践 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485180&idx=1&sn=08133c80d5eedcd15ca5437c6ca3b192](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485180&idx=1&sn=08133c80d5eedcd15ca5437c6ca3b192) |
+| 6 | RediShell：从PoC到补丁——当 Redis 的 Lua 沙箱被攻破（CVE-2025-49844） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484659&idx=1&sn=077ed29e41039c1f1bca85eed5522575](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484659&idx=1&sn=077ed29e41039c1f1bca85eed5522575) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 普华Powerpms Reg.ashx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484185&idx=1&sn=09137ce4f7edda1c1ecd7fe763c3b914) |
-| 2 | 大模型提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612895&idx=3&sn=b0b775055890bcac2dedaf77b82d7b6c) |
+| 1 | 红队视角：内网是如何被一步步打穿的？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494248&idx=1&sn=4edb63566ac15f9b7117fbe226cddd96](https://mp.weixin.qq.com/s?__biz=MzUyMTE0MDQ0OA==&mid=2247494248&idx=1&sn=4edb63566ac15f9b7117fbe226cddd96) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全应急响应时间线创建 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTE2MzM3OA==&mid=2247486633&idx=1&sn=b5849cdd36d5412a11717ff605258ea8](https://mp.weixin.qq.com/s?__biz=Mzg3OTE2MzM3OA==&mid=2247486633&idx=1&sn=b5849cdd36d5412a11717ff605258ea8) |
 
 
 ## 📁 归档路径
@@ -110,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-25 04:22:13*
+*生成时间: 2025-10-25 08:22:38*
 *报告工具: 微信文章安全归档系统*
