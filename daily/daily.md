@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
-- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,19 +62,11 @@
 
 ### Doonsec
 
-- [【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(下)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504521&idx=1&sn=7bbeb7599752c1a08ff8fbe08d4912f6) (发布日期: 2025-10-26)
-- [针对某黑产远控木马样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493928&idx=1&sn=3cb312745cfc88924ede4004246e2e2d) (发布日期: 2025-10-26)
-- [美国核安全局关键设施遭渗透，SharePoint漏洞成突破口](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=3&sn=cf570f445bcfcb625ec35e2bc7cbd691) (发布日期: 2025-10-26)
-- [三星Galaxy S25的0Day漏洞遭利用，可远程操控摄像头并追踪定位](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=4&sn=f4a4dcb0648be3e74e9b2cf97e4672c8) (发布日期: 2025-10-26)
-- [【安全圈】LockBit勒索软件重回市场](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072410&idx=1&sn=0dc23c998d5d2e0b9b5630b9701d2874) (发布日期: 2025-10-26)
-- [实战 | 记一次X站逻辑漏洞到到管理员后台](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498465&idx=1&sn=376cefca383754d3b7c2740f994bfd46) (发布日期: 2025-10-26)
-- [0073. 我使用 GPT-3 在单个代码库中发现了 213 个安全漏洞](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691176&idx=1&sn=776ddd929eff30f7104f8ba72beb8767) (发布日期: 2025-10-26)
-- [edusrc之弱口令的魅力](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485729&idx=1&sn=c77fb744cdd2e8b55acb6605f072f1bb) (发布日期: 2025-10-26)
-- [70余万台BIND 9实例受缓存投毒漏洞影响，PoC已公开（CVE-2025-40778）](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329371&idx=3&sn=fc8a09ffea85c5a466e285324d755e40) (发布日期: 2025-10-26)
-- [薛棋骏参加2025年高校网络安全管理运维赛决赛](https://mp.weixin.qq.com/s?__biz=MzIzNDcyMDM1MQ==&mid=2247484364&idx=1&sn=15a817c088d850dff003657a16bd0f5e) (发布日期: 2025-10-26)
-- [第137篇：揭秘美国NSA的苹果手机\"三角测量\"后门的隐匿手段](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487831&idx=1&sn=37774859c0954949a4d2b6050f66f273) (发布日期: 2025-10-26)
-- [加强数据安全治理 守好数据安全防线](https://mp.weixin.qq.com/s?__biz=MzIzNTEzNzIyMA==&mid=2247487041&idx=1&sn=eb75cf15c10f2e3321a9c9007ea3f9cd) (发布日期: 2025-10-26)
-- [VMware Workstation 客户机到主机逃逸（CVE-2023-20870/34044/20869）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533230&idx=1&sn=fc8009be646722909273048ee9ee51d2) (发布日期: 2025-10-26)
+- [网络安全工具---wireshark(一)](https://mp.weixin.qq.com/s?__biz=Mzg2NzgzNjI2NQ==&mid=2247483753&idx=1&sn=ec6f6b11246794ec3df65ed307f34807) (发布日期: 2025-10-26)
+- [网络安全工具---wireshark(一)](https://mp.weixin.qq.com/s?__biz=Mzg2NzgzNjI2NQ==&mid=2247483751&idx=1&sn=605afefdebaaf8e667868559acbde5cc) (发布日期: 2025-10-26)
+- [从脚本小子到赏金猎人：你的进阶之路缺一个Pocsuite3](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797242&idx=1&sn=4e65e946382db108e36e4dd400738984) (发布日期: 2025-10-26)
+- [原创| 当你 “被发微博”时，黑客到底干了啥？揭秘网页中最危险的 XSS 攻击](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524596&idx=1&sn=8b83ee7bbfc1d20f3c8ac478d65faf03) (发布日期: 2025-10-26)
+- [智能网联汽车信息安全测试白皮书（2025）](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628086&idx=2&sn=589a0952150a24ff8bf6b629a17827e7) (发布日期: 2025-10-26)
 
 
 ## 🎯 威胁详情分析
@@ -86,24 +75,13 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 美国核安全局关键设施遭渗透，SharePoint漏洞成突破口 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=3&sn=cf570f445bcfcb625ec35e2bc7cbd691](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=3&sn=cf570f445bcfcb625ec35e2bc7cbd691) |
-| 2 | 三星Galaxy S25的0Day漏洞遭利用，可远程操控摄像头并追踪定位 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=4&sn=f4a4dcb0648be3e74e9b2cf97e4672c8](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637776&idx=4&sn=f4a4dcb0648be3e74e9b2cf97e4672c8) |
-| 3 | 实战 | 记一次X站逻辑漏洞到到管理员后台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498465&idx=1&sn=376cefca383754d3b7c2740f994bfd46](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498465&idx=1&sn=376cefca383754d3b7c2740f994bfd46) |
-| 4 | 0073. 我使用 GPT-3 在单个代码库中发现了 213 个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691176&idx=1&sn=776ddd929eff30f7104f8ba72beb8767](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691176&idx=1&sn=776ddd929eff30f7104f8ba72beb8767) |
-| 5 | 70余万台BIND 9实例受缓存投毒漏洞影响，PoC已公开（CVE-2025-40778） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329371&idx=3&sn=fc8a09ffea85c5a466e285324d755e40](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329371&idx=3&sn=fc8a09ffea85c5a466e285324d755e40) |
-| 6 | VMware Workstation 客户机到主机逃逸（CVE-2023-20870/34044/20869） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533230&idx=1&sn=fc8009be646722909273048ee9ee51d2](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533230&idx=1&sn=fc8009be646722909273048ee9ee51d2) |
+| 1 | 从脚本小子到赏金猎人：你的进阶之路缺一个Pocsuite3 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797242&idx=1&sn=4e65e946382db108e36e4dd400738984](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797242&idx=1&sn=4e65e946382db108e36e4dd400738984) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(下) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504521&idx=1&sn=7bbeb7599752c1a08ff8fbe08d4912f6](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504521&idx=1&sn=7bbeb7599752c1a08ff8fbe08d4912f6) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | edusrc之弱口令的魅力 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485729&idx=1&sn=c77fb744cdd2e8b55acb6605f072f1bb](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485729&idx=1&sn=c77fb744cdd2e8b55acb6605f072f1bb) |
+| 1 | 原创| 当你 “被发微博”时，黑客到底干了啥？揭秘网页中最危险的 XSS 攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524596&idx=1&sn=8b83ee7bbfc1d20f3c8ac478d65faf03](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524596&idx=1&sn=8b83ee7bbfc1d20f3c8ac478d65faf03) |
 
 
 ## 📁 归档路径
@@ -119,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -129,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-26 12:36:10*
+*生成时间: 2025-10-26 16:21:46*
 *报告工具: 微信文章安全归档系统*
