@@ -1,22 +1,22 @@
-# 2025-10-25 安全威胁态势报告
+# 2025-10-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 11
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 11篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 3篇
 - **漏洞利用**: 2篇
-- **信息泄露**: 1篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
+- **网络攻击**: 2篇
 - **Web安全**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,13 +65,17 @@
 
 ### Doonsec
 
-- [Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) (发布日期: 2025-10-25)
-- [佰倬加密方案助力北京某国家级三甲医院核心医疗系统通过密评](https://mp.weixin.qq.com/s?__biz=Mzg2ODAyMjQxMg==&mid=2247486381&idx=1&sn=f18872d18651a3004a1cb8ab710ff4c2) (发布日期: 2025-10-25)
-- [【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(上)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637) (发布日期: 2025-10-25)
-- [【红队思路】简简单单绕过杀软实现用户添加](https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484674&idx=1&sn=947f31c1cd610747e0124bd1b35e82fc) (发布日期: 2025-10-25)
-- [某PHP系统前台SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) (发布日期: 2025-10-25)
-- [几款浏览器未授权漏洞挖掘插件分享](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458) (发布日期: 2025-10-25)
-- [太绝了！5张思维导图搞定Web安全知识架构](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575418&idx=2&sn=2836fce58602892fa8b95f9de3186f39) (发布日期: 2025-10-25)
+- [利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612904&idx=2&sn=ab7fa1c19955dcc9ed99bd5e9fce8827) (发布日期: 2025-10-26)
+- [深度解析：OWASP AI 成熟度评估模型](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612904&idx=3&sn=635dd31ea103e29ba8a7ddaf6c282779) (发布日期: 2025-10-26)
+- [实战SRC挖掘｜微信小程序渗透漏洞复盘](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) (发布日期: 2025-10-26)
+- [记一次双平台apt挖矿团伙非法攻击溯源反制过程](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0) (发布日期: 2025-10-26)
+- [免费内网穿透工具ZeroNews的使用](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551) (发布日期: 2025-10-26)
+- [高级安卓木马藏身Telegram Messenger，已感染超过58,000台设备，覆盖约3,000种机型](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247515118&idx=3&sn=6682d6d50b0c7b6ae0323ee38ec5ca61) (发布日期: 2025-10-26)
+- [技术深扒：PolarEdge 如何把你的 Cisco、ASUS 路由器变成“肉鸡”？](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485226&idx=1&sn=8eaf3c52f5ff1abc5d1819962c5658a0) (发布日期: 2025-10-26)
+- [公安部发布《互联网交互式服务安全管理要求 第12部分：网络直播服务》等19项公共安全行业标准](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499340&idx=1&sn=665e169b5fe8a87a4b2f831eaf7151d1) (发布日期: 2025-10-26)
+- [ecshop4.1.19sql注入分析](https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43) (发布日期: 2025-10-26)
+- [APP渗透漏洞挖掘思路全景图：从入门到高手进阶指南](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322) (发布日期: 2025-10-26)
+- [网络安全专家给大一学生的四堂课](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502456&idx=1&sn=df1a7be8bac1a6fb5b311b7036db2655) (发布日期: 2025-10-26)
 
 
 ## 🎯 威胁详情分析
@@ -80,27 +84,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某PHP系统前台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) |
-| 2 | 几款浏览器未授权漏洞挖掘插件分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485708&idx=1&sn=a8e8c10e95649ed8c4b9c29214ff2458) |
+| 1 | 实战SRC挖掘｜微信小程序渗透漏洞复盘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) |
+| 2 | APP渗透漏洞挖掘思路全景图：从入门到高手进阶指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) |
-| 2 | 【攻防实战】Redis未授权RCE联动metasploit打穿三层内网(上) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504449&idx=1&sn=0d2b27079d9a7cf471aaf3da39cf0637) |
-| 3 | 某PHP系统前台SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487417&idx=1&sn=136a8ba9aec41b14f774e4f084d444fe) |
+| 1 | 免费内网穿透工具ZeroNews的使用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551) |
+| 2 | ecshop4.1.19sql注入分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43](https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Salesforce 遭勒索软件攻击导致大规模数据泄露，并拒绝支付赎金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493821&idx=1&sn=bda7f07ae2810df175fc4ba71a30a268) |
+| 1 | 记一次双平台apt挖矿团伙非法攻击溯源反制过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 实战SRC挖掘｜微信小程序渗透漏洞复盘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-25/`
+文章已归档到: `doc/2025/2025-10/2025-W43/2025-10-26/`
 
 ## 🔗 数据源说明
 
@@ -111,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -121,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-25 20:19:46*
+*生成时间: 2025-10-26 01:38:56*
 *报告工具: 微信文章安全归档系统*
