@@ -2,19 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 4篇
-  - BruceFeIix: 2篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
-- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,15 +60,11 @@
 
 ### Doonsec
 
-- [网络安全法修正草案将提请二审：拟增加促进人工智能安全与发展的内容](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534324&idx=2&sn=76e5a81d02e7b4af8b78db71c9feee4c) (发布日期: 2025-10-26)
-- [金和OA GetTreeDate.aspx SQL注入漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) (发布日期: 2025-10-26)
-- [用于评估AI Web渗透测试能力的工具：XBow Bechmark,比靶机更好](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486354&idx=1&sn=4014e8b3507b47666624e45dde977b6a) (发布日期: 2025-10-26)
-- [这些国产商业化漏洞扫描工具你用过吗](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e) (发布日期: 2025-10-26)
-
-### BruceFeIix
-
-- [ ] [漏洞挖掘：Springboot漏洞组合拳造成云接管](https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805) (发布日期: 2025-10-26)
-- [ ] [漏洞赏金猎人必备：如何通过漏洞编号秒速定位POC](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53) (发布日期: 2025-10-26)
+- [超越传统警报：构建智能情境感知威胁检测系统](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483961&idx=1&sn=6a6da41488c979415f9825fd678bacdf) (发布日期: 2025-10-26)
+- [跨语法雷区：利用语法混淆进行漏洞利用](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4) (发布日期: 2025-10-26)
+- [【漏洞复现】Unibox路由器download_csv.php存在任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485809&idx=1&sn=ff06b5359693b754add3b857e06c6839) (发布日期: 2025-10-26)
+- [XWiki 存在任意文件读取漏洞CVE-2025-55747 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483740&idx=1&sn=7cddd47901f6cf15ca2f9c8574a64fd1) (发布日期: 2025-10-26)
+- [CVE-2025-33073 针对 NTLM 反射 SMB PoC](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55) (发布日期: 2025-10-26)
 
 
 ## 🎯 威胁详情分析
@@ -80,16 +73,10 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 金和OA GetTreeDate.aspx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) |
-| 2 | 这些国产商业化漏洞扫描工具你用过吗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e) |
-| 3 |  ] [漏洞挖掘：Springboot漏洞组合拳造成云接管 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805](https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805) |
-| 4 |  ] [漏洞赏金猎人必备：如何通过漏洞编号秒速定位POC | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 金和OA GetTreeDate.aspx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) |
+| 1 | 跨语法雷区：利用语法混淆进行漏洞利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247490951&idx=1&sn=43ce67a5e9589ada8a3ae3b3ea4802c4) |
+| 2 | 【漏洞复现】Unibox路由器download_csv.php存在任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485809&idx=1&sn=ff06b5359693b754add3b857e06c6839](https://mp.weixin.qq.com/s?__biz=Mzg2MjkwMDY3OA==&mid=2247485809&idx=1&sn=ff06b5359693b754add3b857e06c6839) |
+| 3 | XWiki 存在任意文件读取漏洞CVE-2025-55747 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483740&idx=1&sn=7cddd47901f6cf15ca2f9c8574a64fd1](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483740&idx=1&sn=7cddd47901f6cf15ca2f9c8574a64fd1) |
+| 4 | CVE-2025-33073 针对 NTLM 反射 SMB PoC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488221&idx=1&sn=01f697e35abf4b3140beff0373bd8d55) |
 
 
 ## 📁 归档路径
@@ -106,7 +93,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +102,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-26 04:21:19*
+*生成时间: 2025-10-26 08:22:43*
 *报告工具: 微信文章安全归档系统*
