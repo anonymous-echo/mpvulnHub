@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 4篇
+  - BruceFeIix: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 - **Web安全**: 1篇
 
 ## 🔍 匹配规则
@@ -65,17 +63,15 @@
 
 ### Doonsec
 
-- [利用GPT-4生成勒索软件代码的LLM驱动型恶意软件MalTerminal现世](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612904&idx=2&sn=ab7fa1c19955dcc9ed99bd5e9fce8827) (发布日期: 2025-10-26)
-- [深度解析：OWASP AI 成熟度评估模型](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650612904&idx=3&sn=635dd31ea103e29ba8a7ddaf6c282779) (发布日期: 2025-10-26)
-- [实战SRC挖掘｜微信小程序渗透漏洞复盘](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) (发布日期: 2025-10-26)
-- [记一次双平台apt挖矿团伙非法攻击溯源反制过程](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0) (发布日期: 2025-10-26)
-- [免费内网穿透工具ZeroNews的使用](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551) (发布日期: 2025-10-26)
-- [高级安卓木马藏身Telegram Messenger，已感染超过58,000台设备，覆盖约3,000种机型](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247515118&idx=3&sn=6682d6d50b0c7b6ae0323ee38ec5ca61) (发布日期: 2025-10-26)
-- [技术深扒：PolarEdge 如何把你的 Cisco、ASUS 路由器变成“肉鸡”？](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485226&idx=1&sn=8eaf3c52f5ff1abc5d1819962c5658a0) (发布日期: 2025-10-26)
-- [公安部发布《互联网交互式服务安全管理要求 第12部分：网络直播服务》等19项公共安全行业标准](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499340&idx=1&sn=665e169b5fe8a87a4b2f831eaf7151d1) (发布日期: 2025-10-26)
-- [ecshop4.1.19sql注入分析](https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43) (发布日期: 2025-10-26)
-- [APP渗透漏洞挖掘思路全景图：从入门到高手进阶指南](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322) (发布日期: 2025-10-26)
-- [网络安全专家给大一学生的四堂课](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502456&idx=1&sn=df1a7be8bac1a6fb5b311b7036db2655) (发布日期: 2025-10-26)
+- [网络安全法修正草案将提请二审：拟增加促进人工智能安全与发展的内容](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534324&idx=2&sn=76e5a81d02e7b4af8b78db71c9feee4c) (发布日期: 2025-10-26)
+- [金和OA GetTreeDate.aspx SQL注入漏洞复现](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) (发布日期: 2025-10-26)
+- [用于评估AI Web渗透测试能力的工具：XBow Bechmark,比靶机更好](https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486354&idx=1&sn=4014e8b3507b47666624e45dde977b6a) (发布日期: 2025-10-26)
+- [这些国产商业化漏洞扫描工具你用过吗](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e) (发布日期: 2025-10-26)
+
+### BruceFeIix
+
+- [ ] [漏洞挖掘：Springboot漏洞组合拳造成云接管](https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805) (发布日期: 2025-10-26)
+- [ ] [漏洞赏金猎人必备：如何通过漏洞编号秒速定位POC](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53) (发布日期: 2025-10-26)
 
 
 ## 🎯 威胁详情分析
@@ -84,27 +80,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 实战SRC挖掘｜微信小程序渗透漏洞复盘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) |
-| 2 | APP渗透漏洞挖掘思路全景图：从入门到高手进阶指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247484974&idx=1&sn=64cb3d42c8a06fdf76ae2e16461c8322) |
+| 1 | 金和OA GetTreeDate.aspx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) |
+| 2 | 这些国产商业化漏洞扫描工具你用过吗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488761&idx=1&sn=45963b2f11378109c544152375f5946e) |
+| 3 |  ] [漏洞挖掘：Springboot漏洞组合拳造成云接管 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805](https://mp.weixin.qq.com/s?__biz=Mzk1NzY0ODcwMA==&mid=2247483722&idx=1&sn=937f0a4897ddcaf53311a9eb5e281805) |
+| 4 |  ] [漏洞赏金猎人必备：如何通过漏洞编号秒速定位POC | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797235&idx=1&sn=241cf498823ee6fdffcfb4d592f74b53) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 免费内网穿透工具ZeroNews的使用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484008&idx=1&sn=f043b22d74b16dde32ca04a90a35f551) |
-| 2 | ecshop4.1.19sql注入分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43](https://mp.weixin.qq.com/s?__biz=MzkyNTY2Nzk0MQ==&mid=2247483922&idx=1&sn=85c908364dcb781be3ba5b804aafed43) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记一次双平台apt挖矿团伙非法攻击溯源反制过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493408&idx=1&sn=27349de0a9dbd667697a79c11d8afdb0) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 实战SRC挖掘｜微信小程序渗透漏洞复盘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498258&idx=1&sn=50fa45d3e79b5ab16171b551b1117384) |
+| 1 | 金和OA GetTreeDate.aspx SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484191&idx=1&sn=e8876d823b96e81e47463677a7a0b203) |
 
 
 ## 📁 归档路径
@@ -120,8 +105,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -130,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-10-26 01:38:56*
+*生成时间: 2025-10-26 04:21:19*
 *报告工具: 微信文章安全归档系统*
