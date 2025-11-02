@@ -1,21 +1,18 @@
-# 2025-11-01 安全威胁态势报告
+# 2025-11-02 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 7
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 7篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 3篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,14 +61,13 @@
 
 ### Doonsec
 
-- [Apache Tomcat 修补URL重写绕过（CVE-2025-55752）存在RCE和控制台ANSI注入风险](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79) (发布日期: 2025-11-01)
-- [漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解）](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553127&idx=1&sn=e999f4a9abb58bb5ff153f36f80bb31c) (发布日期: 2025-11-01)
-- [APT | 伪猎者组织NAKSOO远控木马加密通信分析](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490382&idx=1&sn=bf339eccbdebb33a562c3d2c7bd09a88) (发布日期: 2025-11-01)
-- [企业安全-大模型分析WAF误拦截实践](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447979973&idx=1&sn=4ed5c26b8e952908e3e87f2e6d3c3e75) (发布日期: 2025-11-01)
-- [【案例】HubSpot 账户接管漏洞：参数暴力破解](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486665&idx=1&sn=5a7ebd057dd281cbd1e2d0aa4388fecf) (发布日期: 2025-11-01)
-- [国外软件漏洞预警！！！拒绝服务通杀全平台](https://mp.weixin.qq.com/s?__biz=Mzg4MzY3MTgyMw==&mid=2247484169&idx=1&sn=16d3899502f30a6f9a756535e463fb22) (发布日期: 2025-11-01)
-- [Nacos nodes接口存在敏感信息泄露漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483774&idx=1&sn=3e0e4d3fa507babbabeaa787c176e564) (发布日期: 2025-11-01)
-- [ActiveMQ漏洞检测工具发布！一键检测，守护企业安全](https://mp.weixin.qq.com/s?__biz=Mzk3NTQ2MjAxMQ==&mid=2247483870&idx=1&sn=d91957783a27107f1fe818e7c7763843) (发布日期: 2025-11-01)
+- [技术警报：僵尸网络“大进化”！不只DDoS，它们正伪装成“真人”疯狂窃密](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485263&idx=1&sn=f46d2805d580485e3a29d354b7e84b93) (发布日期: 2025-11-02)
+- [康杜恩特数据泄露事件影响数百万人](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119241&idx=2&sn=24c297850685ca74f680f226dc9e5d2d) (发布日期: 2025-11-02)
+- [JSON格式漏洞：核心挖掘技巧](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486668&idx=1&sn=df300cfa9ca5b09bb8c70fbd01d0b422) (发布日期: 2025-11-02)
+- [BucketTool【浏览器存储桶配置漏洞检测插件】](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491646&idx=1&sn=c7c07932c647de23f513a2ecb5afe8a6) (发布日期: 2025-11-02)
+- [应急溯源专题：发现后门只是开始：深度解析+精准溯源，反手将黑客一军！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493513&idx=1&sn=e67f782cd7c6c095ad19df6f7790cf0d) (发布日期: 2025-11-02)
+- [黑客神器还是安全盾牌？聊聊Python在渗透测试中的“万能”魅力](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485015&idx=1&sn=207afd9065af96b494fda1cefe5cded1) (发布日期: 2025-11-02)
+- [全球最大的信用报告和数据分析公司之 Experian 因大规模收集个人数据被罚款 320 万美元](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493978&idx=1&sn=91836ffb68ad87969bd34177f8eff735) (发布日期: 2025-11-02)
 
 
 ## 🎯 威胁详情分析
@@ -80,29 +76,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Tomcat 修补URL重写绕过（CVE-2025-55752）存在RCE和控制台ANSI注入风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79) |
-| 2 | 漏洞挖掘 | 从信息收集到接管统一小通杀（附案例详解） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553127&idx=1&sn=e999f4a9abb58bb5ff153f36f80bb31c](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553127&idx=1&sn=e999f4a9abb58bb5ff153f36f80bb31c) |
-| 3 | 【案例】HubSpot 账户接管漏洞：参数暴力破解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486665&idx=1&sn=5a7ebd057dd281cbd1e2d0aa4388fecf](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486665&idx=1&sn=5a7ebd057dd281cbd1e2d0aa4388fecf) |
-| 4 | 国外软件漏洞预警！！！拒绝服务通杀全平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzY3MTgyMw==&mid=2247484169&idx=1&sn=16d3899502f30a6f9a756535e463fb22](https://mp.weixin.qq.com/s?__biz=Mzg4MzY3MTgyMw==&mid=2247484169&idx=1&sn=16d3899502f30a6f9a756535e463fb22) |
-| 5 | Nacos nodes接口存在敏感信息泄露漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483774&idx=1&sn=3e0e4d3fa507babbabeaa787c176e564](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483774&idx=1&sn=3e0e4d3fa507babbabeaa787c176e564) |
-| 6 | ActiveMQ漏洞检测工具发布！一键检测，守护企业安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTQ2MjAxMQ==&mid=2247483870&idx=1&sn=d91957783a27107f1fe818e7c7763843](https://mp.weixin.qq.com/s?__biz=Mzk3NTQ2MjAxMQ==&mid=2247483870&idx=1&sn=d91957783a27107f1fe818e7c7763843) |
+| 1 | JSON格式漏洞：核心挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486668&idx=1&sn=df300cfa9ca5b09bb8c70fbd01d0b422](https://mp.weixin.qq.com/s?__biz=Mzg2Mzg2NDM0NA==&mid=2247486668&idx=1&sn=df300cfa9ca5b09bb8c70fbd01d0b422) |
+| 2 | BucketTool【浏览器存储桶配置漏洞检测插件】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491646&idx=1&sn=c7c07932c647de23f513a2ecb5afe8a6](https://mp.weixin.qq.com/s?__biz=MzkyNzIxMjM3Mg==&mid=2247491646&idx=1&sn=c7c07932c647de23f513a2ecb5afe8a6) |
+| 3 | 全球最大的信用报告和数据分析公司之 Experian 因大规模收集个人数据被罚款 320 万美元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493978&idx=1&sn=91836ffb68ad87969bd34177f8eff735](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493978&idx=1&sn=91836ffb68ad87969bd34177f8eff735) |
 
-### 攻击技术
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Apache Tomcat 修补URL重写绕过（CVE-2025-55752）存在RCE和控制台ANSI注入风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488285&idx=1&sn=3151f79e0fac6aab0561513a9621aa79) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | APT | 伪猎者组织NAKSOO远控木马加密通信分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490382&idx=1&sn=bf339eccbdebb33a562c3d2c7bd09a88](https://mp.weixin.qq.com/s?__biz=MzkzNjIwMzM5Nw==&mid=2247490382&idx=1&sn=bf339eccbdebb33a562c3d2c7bd09a88) |
+| 1 | 康杜恩特数据泄露事件影响数百万人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119241&idx=2&sn=24c297850685ca74f680f226dc9e5d2d](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119241&idx=2&sn=24c297850685ca74f680f226dc9e5d2d) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W44/2025-11-01/`
+文章已归档到: `doc/2025/2025-11/2025-W44/2025-11-02/`
 
 ## 🔗 数据源说明
 
@@ -113,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -123,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-01 08:22:27*
+*生成时间: 2025-11-02 01:40:57*
 *报告工具: 微信文章安全归档系统*
