@@ -2,24 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 8篇
-  - BruceFeIix: 13篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 3篇
-- **威胁情报**: 2篇
-- **信息泄露**: 2篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,73 +60,16 @@
 
 ### Doonsec
 
-- [记一次攻防演练](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553192&idx=1&sn=201f6cac2148ad7b1eb3e9b822f1c454) (发布日期: 2025-11-02)
-- [别让“小疏忽”变成大漏洞！信息泄漏攻防实战课，每个开发者都该上一堂](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524691&idx=1&sn=6a32400fb1b6224a723366646b92b000) (发布日期: 2025-11-02)
-- [永久免费白嫖多个域名，一键托管Cloudflare，免费申请SSL加密证书，轻松建站、搭建线路伪装，附图文详解](https://mp.weixin.qq.com/s?__biz=MzkyNzYzNTQ2Nw==&mid=2247485522&idx=1&sn=fcc655a1978f6e79bd82f10b8eb4eb99) (发布日期: 2025-11-02)
-- [人工智能系统中的后门攻击：原理、方式与防御机制](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483972&idx=1&sn=d41c89b2f32a0c5af88f17831a48781f) (发布日期: 2025-11-02)
-- [暗网站点都在使用的抗DDos脚本 -- Nginx-Lua-Anti-DDoS](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486983&idx=1&sn=5499972d9833cb0a86e4622d23ef496b) (发布日期: 2025-11-02)
-- [【连载】红蓝对抗-攻防演练-WEB安全渗透测试：SQL注入漏洞深度解析（二）](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484833&idx=1&sn=706003f34974a33c65fff407225178d4) (发布日期: 2025-11-02)
-- [惨烈！一数据泄露事件已致49人死亡](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=1&sn=f5d3cdc9857efeb54754a5434bf29630) (发布日期: 2025-11-02)
-- [一款用于快速验证未授权漏洞Burp插件](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=4&sn=ee6158f1d635ebb6a3fcef03d61e5564) (发布日期: 2025-11-02)
-
-### BruceFeIix
-
-- [ ] [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041) (发布日期: 2025-11-02)
-- [ ] [开源情报|国际动态|美西方轨道打击体系重构对中国国家安全的极端威胁评估](https://mp.weixin.qq.com/s?__biz=Mzg2NTcyNjU4Nw==&mid=2247486060&idx=1&sn=6687fe08fc3b7254a6d0ebd597b91e3c) (发布日期: 2025-11-02)
-- [ ] [【攻防实战】通达OA文件上传联动Cobalt Strike打穿三层内网(上)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504564&idx=1&sn=884f7df932fe287399deeed6ee11514f) (发布日期: 2025-11-02)
-- [ ] [信安工程师学习笔记（14）恶意代码防范技术原理（上）](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488807&idx=1&sn=941c7bdc2cb1da04039705d0f5e0c743) (发布日期: 2025-11-02)
-- [ ] [微软 WSUS CVE-2025-59287 漏洞回顾分析](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485919&idx=1&sn=886982076d0abccabc11184b9b250a01) (发布日期: 2025-11-02)
-- [ ] [【安全圈】2025 年最具争议的五个加密货币时刻](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072528&idx=3&sn=474a13fb9b0ce5024a5970f071822ca7) (发布日期: 2025-11-02)
-- [ ] [银狐黑产利用同花顺软件高级钓鱼样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494036&idx=1&sn=a5c9578bcd90748c18a57df19685735c) (发布日期: 2025-11-02)
-- [ ] [网络安全运营运维](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293752&idx=4&sn=542faf284cbe4c38f4d8ca79773c5327) (发布日期: 2025-11-02)
-- [ ] [云安全](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293752&idx=7&sn=584a084bab5742e80d47a21695d8b83b) (发布日期: 2025-11-02)
-- [ ] [macOS全新安全防护层：先于黑客发现管理员配置失误](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329720&idx=3&sn=a5c33afac6254f761cf256bc5cdd718d) (发布日期: 2025-11-02)
-- [ ] [银狐将“Winos 4.0”攻击扩展至日本和马来西亚](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=2&sn=215835ed120e80bb8ad06dad97cef49b) (发布日期: 2025-11-02)
-- [ ] [CVE-2025-49844：Redis Lua 脚本中的释放后使用漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=3&sn=8af813cf85c60fa876ed8502df5e31d3) (发布日期: 2025-11-02)
-- [ ] [Windows 11“更新并关机”漏洞历经两年终于修复](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503919&idx=4&sn=e4a9ff5a7658728ae5bec4974edb802a) (发布日期: 2025-11-02)
+- [庆尘 Src 9-10 月课程进度总结与后期规划 | 附赏金成果汇总](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b) (发布日期: 2025-11-02)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 别让“小疏忽”变成大漏洞！信息泄漏攻防实战课，每个开发者都该上一堂 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524691&idx=1&sn=6a32400fb1b6224a723366646b92b000](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524691&idx=1&sn=6a32400fb1b6224a723366646b92b000) |
-| 2 | 【连载】红蓝对抗-攻防演练-WEB安全渗透测试：SQL注入漏洞深度解析（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484833&idx=1&sn=706003f34974a33c65fff407225178d4](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484833&idx=1&sn=706003f34974a33c65fff407225178d4) |
-| 3 | 一款用于快速验证未授权漏洞Burp插件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=4&sn=ee6158f1d635ebb6a3fcef03d61e5564](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=4&sn=ee6158f1d635ebb6a3fcef03d61e5564) |
-| 4 |  ] [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041) |
-| 5 |  ] [微软 WSUS CVE-2025-59287 漏洞回顾分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485919&idx=1&sn=886982076d0abccabc11184b9b250a01](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247485919&idx=1&sn=886982076d0abccabc11184b9b250a01) |
-| 6 |  ] [CVE-2025-49844：Redis Lua 脚本中的释放后使用漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=3&sn=8af813cf85c60fa876ed8502df5e31d3](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=3&sn=8af813cf85c60fa876ed8502df5e31d3) |
-| 7 |  ] [Windows 11“更新并关机”漏洞历经两年终于修复 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503919&idx=4&sn=e4a9ff5a7658728ae5bec4974edb802a](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503919&idx=4&sn=e4a9ff5a7658728ae5bec4974edb802a) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【连载】红蓝对抗-攻防演练-WEB安全渗透测试：SQL注入漏洞深度解析（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484833&idx=1&sn=706003f34974a33c65fff407225178d4](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484833&idx=1&sn=706003f34974a33c65fff407225178d4) |
-| 2 |  ] [某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485799&idx=1&sn=11954a764293d1730ba6f7c8d17ad041) |
-| 3 |  ] [【攻防实战】通达OA文件上传联动Cobalt Strike打穿三层内网(上) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504564&idx=1&sn=884f7df932fe287399deeed6ee11514f](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504564&idx=1&sn=884f7df932fe287399deeed6ee11514f) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [银狐黑产利用同花顺软件高级钓鱼样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494036&idx=1&sn=a5c9578bcd90748c18a57df19685735c](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494036&idx=1&sn=a5c9578bcd90748c18a57df19685735c) |
-| 2 |  ] [银狐将“Winos 4.0”攻击扩展至日本和马来西亚 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=2&sn=215835ed120e80bb8ad06dad97cef49b](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533368&idx=2&sn=215835ed120e80bb8ad06dad97cef49b) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [网络安全运营运维 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293752&idx=4&sn=542faf284cbe4c38f4d8ca79773c5327](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293752&idx=4&sn=542faf284cbe4c38f4d8ca79773c5327) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 别让“小疏忽”变成大漏洞！信息泄漏攻防实战课，每个开发者都该上一堂 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524691&idx=1&sn=6a32400fb1b6224a723366646b92b000](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524691&idx=1&sn=6a32400fb1b6224a723366646b92b000) |
-| 2 | 惨烈！一数据泄露事件已致49人死亡 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=1&sn=f5d3cdc9857efeb54754a5434bf29630](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613021&idx=1&sn=f5d3cdc9857efeb54754a5434bf29630) |
+| 1 | 庆尘 Src 9-10 月课程进度总结与后期规划 | 附赏金成果汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b) |
 
 
 ## 📁 归档路径
@@ -150,8 +85,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -160,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-02 04:23:03*
+*生成时间: 2025-11-02 08:21:54*
 *报告工具: 微信文章安全归档系统*
