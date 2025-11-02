@@ -2,16 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 8篇
+- **攻击技术**: 4篇
+- **威胁情报**: 1篇
 - **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,16 +66,65 @@
 
 ### Doonsec
 
-- [庆尘 Src 9-10 月课程进度总结与后期规划 | 附赏金成果汇总](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b) (发布日期: 2025-11-02)
+- [【攻防实战】通达OA文件上传联动Cobalt Strike打穿三层内网(下)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504627&idx=1&sn=cddf03762b4341b0017947565ff18bf0) (发布日期: 2025-11-02)
+- [《2025年暴露管理指数》深度解读：高危漏洞激增20%](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637866&idx=4&sn=4e23302e960340ceb71edeeaa4dcccac) (发布日期: 2025-11-02)
+- [俄罗斯海军软件及内部敏感数据泄露【约250GB可完整下载】](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487479&idx=1&sn=163e2472218c70161dd0a93facc30e1d) (发布日期: 2025-11-02)
+- [CSS注入：仅用CSS进行攻击（第一部分）](https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490367&idx=1&sn=df44b25376eefe34ed8664f221baab38) (发布日期: 2025-11-02)
+- [记edusrc某高危漏洞的简单挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a) (发布日期: 2025-11-02)
+- [远离赌博！德州扑克洗牌机漏洞可操控赌局](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484407&idx=1&sn=1e5e0ba7047b044c7a194eb1be3281cf) (发布日期: 2025-11-02)
+- [WebSocket漏洞挖掘新手指南：轻松发现隐藏的XSS](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630) (发布日期: 2025-11-02)
+- [信安工程师学习笔记（15）恶意代码防范技术原理（下）](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488862&idx=1&sn=754d0d3817df0376737cfa8213f31c0b) (发布日期: 2025-11-02)
+- [【安全圈】潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等系统](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=2&sn=c81c7308a4677ee750540927bea32d33) (发布日期: 2025-11-02)
+- [【安全圈】黑客利用Windows零日漏洞攻击欧洲多国外交部门，微软未修补](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6) (发布日期: 2025-11-02)
+- [银狐黑产组织伪装成WPS钓鱼网站最新高级样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494056&idx=1&sn=7aec8460f6266dae1fa9031b761d6923) (发布日期: 2025-11-02)
+- [2025年四川警察学院电子数据取证分析大比武——数据处理](https://mp.weixin.qq.com/s?__biz=MzYyNTgyMjY2NQ==&mid=2247484111&idx=1&sn=dd2f740c567b96e48f9f0a2eb4050acc) (发布日期: 2025-11-02)
+- [Solar安全洞察 | 10月勒索态势月报：一个默认密码引发的系统雪崩](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508181&idx=2&sn=7eafd613b380e497a5cd68b642b6ab08) (发布日期: 2025-11-02)
+- [英伟达AI红队的大模型安全建议](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485145&idx=1&sn=3932e0250f3895947812bce4e4cb9499) (发布日期: 2025-11-02)
+- [契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651) (发布日期: 2025-11-02)
+- [2025-11-02 最新安全漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486356&idx=1&sn=c236a9c56ee692451bbe163ad08f89e5) (发布日期: 2025-11-02)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 《2025年暴露管理指数》深度解读：高危漏洞激增20% | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637866&idx=4&sn=4e23302e960340ceb71edeeaa4dcccac](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637866&idx=4&sn=4e23302e960340ceb71edeeaa4dcccac) |
+| 2 | 记edusrc某高危漏洞的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a) |
+| 3 | 远离赌博！德州扑克洗牌机漏洞可操控赌局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484407&idx=1&sn=1e5e0ba7047b044c7a194eb1be3281cf](https://mp.weixin.qq.com/s?__biz=MzkwNDg1NTU0Mg==&mid=2247484407&idx=1&sn=1e5e0ba7047b044c7a194eb1be3281cf) |
+| 4 | WebSocket漏洞挖掘新手指南：轻松发现隐藏的XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630) |
+| 5 | 【安全圈】潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=2&sn=c81c7308a4677ee750540927bea32d33](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=2&sn=c81c7308a4677ee750540927bea32d33) |
+| 6 | 【安全圈】黑客利用Windows零日漏洞攻击欧洲多国外交部门，微软未修补 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072545&idx=3&sn=b377ffd060e2d116ea5dc3583fc232c6) |
+| 7 | 契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651) |
+| 8 | 2025-11-02 最新安全漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486356&idx=1&sn=c236a9c56ee692451bbe163ad08f89e5](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486356&idx=1&sn=c236a9c56ee692451bbe163ad08f89e5) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【攻防实战】通达OA文件上传联动Cobalt Strike打穿三层内网(下) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504627&idx=1&sn=cddf03762b4341b0017947565ff18bf0](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504627&idx=1&sn=cddf03762b4341b0017947565ff18bf0) |
+| 2 | CSS注入：仅用CSS进行攻击（第一部分） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490367&idx=1&sn=df44b25376eefe34ed8664f221baab38](https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490367&idx=1&sn=df44b25376eefe34ed8664f221baab38) |
+| 3 | WebSocket漏洞挖掘新手指南：轻松发现隐藏的XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797284&idx=1&sn=a6e02f657b19a94cebcceae764c71630) |
+| 4 | 契约锁电子签章系统dbtest接口存在远程命令执行漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483778&idx=1&sn=fdeb660176775f5edb22422377767651) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 银狐黑产组织伪装成WPS钓鱼网站最新高级样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494056&idx=1&sn=7aec8460f6266dae1fa9031b761d6923](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494056&idx=1&sn=7aec8460f6266dae1fa9031b761d6923) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 庆尘 Src 9-10 月课程进度总结与后期规划 | 附赏金成果汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b](https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493357&idx=1&sn=fd9acebb0a779d6e81db05e57768fd2b) |
+| 1 | 记edusrc某高危漏洞的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485816&idx=1&sn=0df6eb6ed0a0296152aff918aff4ef3a) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 俄罗斯海军软件及内部敏感数据泄露【约250GB可完整下载】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487479&idx=1&sn=163e2472218c70161dd0a93facc30e1d](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487479&idx=1&sn=163e2472218c70161dd0a93facc30e1d) |
 
 
 ## 📁 归档路径
@@ -85,8 +140,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **安全运营** 是今日主要威胁类型，共 1 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -95,5 +150,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-02 08:21:54*
+*生成时间: 2025-11-02 12:35:06*
 *报告工具: 微信文章安全归档系统*
