@@ -1,20 +1,24 @@
-# 2025-11-02 安全威胁态势报告
+# 2025-11-03 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 29
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 29篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 14篇
+- **攻击技术**: 6篇
+- **信息泄露**: 4篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **Web安全**: 3篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,12 +67,35 @@
 
 ### Doonsec
 
-- [别把桌面当防线：Docker Desktop 的 Engine API 未授权访问（CVE-2025-9074）](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484732&idx=1&sn=d28f22d90bc94e947dd883499c7ba723) (发布日期: 2025-11-02)
-- [2025 年年底实战视角：腾讯云 WAF XSS 绕过技术的分类逻辑与实现原理](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484449&idx=1&sn=0490515ca3b976530e27f46dc5fd0d16) (发布日期: 2025-11-02)
-- [从控股公司下手挖掘漏洞的骚思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498494&idx=1&sn=bac97ff85c737b657923306d701e70b5) (发布日期: 2025-11-02)
-- [Linux应急响应：我的时间线排查法分享](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486829&idx=1&sn=6971dff8d230692d8744ad95d2bc66be) (发布日期: 2025-11-02)
-- [转载:94年任职国企，信息安全工程师，已购房，喜欢音乐&钢琴，情绪稳定的小姐姐想脱单｜一起奔向更好的生活～](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg5MjMxOA==&mid=2247484028&idx=1&sn=29505d218b76d3245078ebe9555f31e5) (发布日期: 2025-11-02)
-- [XXE漏洞前置知识](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490915&idx=1&sn=0644988af352918c6e44fa7872bf16ea) (发布日期: 2025-11-02)
+- [警惕！供水、储油、储粮等关基工控设施的设置遭到篡改|Qilin勒索组织再袭日本Super Value超市遭攻击内部员工数据泄露](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=1&sn=d492400d1bf6f082b52ec3d9103cdba6) (发布日期: 2025-11-03)
+- [Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=3&sn=6608e0f7c733f381bee7f07449038a3a) (发布日期: 2025-11-03)
+- [Metasploit模块开发指南：从PoC到武器化！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=4&sn=1381116953ad5657fc41fa1aa6da13a3) (发布日期: 2025-11-03)
+- [超全！CISP全类别详细介绍，后面有福利](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507188&idx=3&sn=9137f3d678f03724990728e4793ba683) (发布日期: 2025-11-03)
+- [国家级黑客疑似在供应链攻击中部署新型 Airstalk 恶意软件](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=1&sn=83cbe849937e9ef0816ad4ac527cdc61) (发布日期: 2025-11-03)
+- [Conduent数据泄露事件影响超过1050万美国人](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=3&sn=a2216465564b575f157c86c79b42347a) (发布日期: 2025-11-03)
+- [记某综合管理系统代审前台Http_SSRF到RCE](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487506&idx=1&sn=9dd94b4ee58ed2066507e56a036d5678) (发布日期: 2025-11-03)
+- [企业赏金SRC实战中危案例｜收费视频资源突破](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=1&sn=a9edb61e9b06d5008252912296b745fd) (发布日期: 2025-11-03)
+- [证书站实战｜多API接口组合攻击漏洞案例](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=2&sn=7d44ab93bdfea5094d59b24832a63842) (发布日期: 2025-11-03)
+- [WordPress 插件严重漏洞（CVE-2025-8489，CVSS 9.8）允许未经身份验证的管理员接管账户](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89) (发布日期: 2025-11-03)
+- [安全工具 | Z0Scan被动扫描与分布式架构设计思路](https://mp.weixin.qq.com/s?__biz=MzkxMzI5NzI5Mg==&mid=2247483995&idx=1&sn=a36d8ac7bbe139defa5dcb818e5f914e) (发布日期: 2025-11-03)
+- [5款浏览器漏洞挖掘插件，红队白帽必备效率神器](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484092&idx=1&sn=cd536592ab6dc20a7c677b97c165522f) (发布日期: 2025-11-03)
+- [深扒：黑客如何“隐身”两个月？揭秘“零恶意软件”的渗透攻击链！](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485265&idx=1&sn=feb5603d028c0f8f8fac7bf53d0b1658) (发布日期: 2025-11-03)
+- [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500884&idx=2&sn=21adf19f1373eea3fbfc8ac57ae201a7) (发布日期: 2025-11-03)
+- [Nacos 综合漏洞利用工具 | 更新V3.0.5！](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514478&idx=1&sn=575b0bff4211dd0706213f4fd598a708) (发布日期: 2025-11-03)
+- [OSS 存储桶漏洞扫描工具，支持阿里云、腾讯云、华为云、AWS S3 等主流对象存储服务](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495565&idx=1&sn=69e655fb70d2e95cc7138872fec37303) (发布日期: 2025-11-03)
+- [漏洞预警 | WordPress Plugin Contact Form CFDB7 SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0) (发布日期: 2025-11-03)
+- [漏洞预警 | Ruvar HRM SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b) (发布日期: 2025-11-03)
+- [漏洞预警 | 金和OA SQL注入和XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c) (发布日期: 2025-11-03)
+- [美国国防部398GB的数据泄露，单个文件分析](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487486&idx=1&sn=f4cc70b0956bf42b9ab9d96aeaa55f6d) (发布日期: 2025-11-03)
+- [正式实施!《水利重要数据安全保护要求》解读+下载](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136968&idx=1&sn=16084ba186bba951358036b8edafe072) (发布日期: 2025-11-03)
+- [招聘：安全攻防工程师、安全服务工程师](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293769&idx=1&sn=7031d284d96fa5c22e36a77e9ea39c32) (发布日期: 2025-11-03)
+- [外包巨头Conduent数据泄露波及逾一千万人](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499447&idx=2&sn=e800c2840e15e866f7d5e44558c33ad0) (发布日期: 2025-11-03)
+- [XXE漏洞基础玩法](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490972&idx=1&sn=41fb94123a92539772b8b29ecccb82a0) (发布日期: 2025-11-03)
+- [Rust库曝高危漏洞（CVE-2025-62518）可导致远程代码执行](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89) (发布日期: 2025-11-03)
+- [干货分享：常见远程连接工具取证分析](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048741&idx=2&sn=f0bb6283adbe7a81774cac49ece83354) (发布日期: 2025-11-03)
+- [从资产发现到漏洞利用: 一款工具轻松搞定](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496133&idx=1&sn=5e1be38b9248e1db7eb9a2a9aba559c8) (发布日期: 2025-11-03)
+- [日本零售巨头无印良品的供应商遭受勒索软件攻击后暂停在线销售](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493980&idx=1&sn=c26e67bc05fdc8861229f3e672ee2888) (发布日期: 2025-11-03)
+- [把小洞变大洞：将任意文件读取/删除漏洞危害扩至最大导致系统全面沦陷|挖洞技巧](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495533&idx=1&sn=a8ad96dfb124d3cb22405dfb847dec18) (发布日期: 2025-11-03)
 
 
 ## 🎯 威胁详情分析
@@ -77,26 +104,57 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 别把桌面当防线：Docker Desktop 的 Engine API 未授权访问（CVE-2025-9074） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484732&idx=1&sn=d28f22d90bc94e947dd883499c7ba723](https://mp.weixin.qq.com/s?__biz=MzkwMDcyMjQxOQ==&mid=2247484732&idx=1&sn=d28f22d90bc94e947dd883499c7ba723) |
-| 2 | 从控股公司下手挖掘漏洞的骚思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498494&idx=1&sn=bac97ff85c737b657923306d701e70b5](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498494&idx=1&sn=bac97ff85c737b657923306d701e70b5) |
-| 3 | XXE漏洞前置知识 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490915&idx=1&sn=0644988af352918c6e44fa7872bf16ea](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490915&idx=1&sn=0644988af352918c6e44fa7872bf16ea) |
+| 1 | Ubuntu内核曝严重UAF漏洞，可致攻击者获取Root权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=3&sn=6608e0f7c733f381bee7f07449038a3a](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=3&sn=6608e0f7c733f381bee7f07449038a3a) |
+| 2 | Metasploit模块开发指南：从PoC到武器化！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=4&sn=1381116953ad5657fc41fa1aa6da13a3](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=4&sn=1381116953ad5657fc41fa1aa6da13a3) |
+| 3 | 证书站实战｜多API接口组合攻击漏洞案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=2&sn=7d44ab93bdfea5094d59b24832a63842](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=2&sn=7d44ab93bdfea5094d59b24832a63842) |
+| 4 | WordPress 插件严重漏洞（CVE-2025-8489，CVSS 9.8）允许未经身份验证的管理员接管账户 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485668&idx=1&sn=54fa730ee0ad37774102dd618a0c2b89) |
+| 5 | 5款浏览器漏洞挖掘插件，红队白帽必备效率神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484092&idx=1&sn=cd536592ab6dc20a7c677b97c165522f](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484092&idx=1&sn=cd536592ab6dc20a7c677b97c165522f) |
+| 6 | Nacos 综合漏洞利用工具 | 更新V3.0.5！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514478&idx=1&sn=575b0bff4211dd0706213f4fd598a708](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514478&idx=1&sn=575b0bff4211dd0706213f4fd598a708) |
+| 7 | OSS 存储桶漏洞扫描工具，支持阿里云、腾讯云、华为云、AWS S3 等主流对象存储服务 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495565&idx=1&sn=69e655fb70d2e95cc7138872fec37303](https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247495565&idx=1&sn=69e655fb70d2e95cc7138872fec37303) |
+| 8 | 漏洞预警 | WordPress Plugin Contact Form CFDB7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0) |
+| 9 | 漏洞预警 | Ruvar HRM SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b) |
+| 10 | 漏洞预警 | 金和OA SQL注入和XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c) |
+| 11 | XXE漏洞基础玩法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490972&idx=1&sn=41fb94123a92539772b8b29ecccb82a0](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247490972&idx=1&sn=41fb94123a92539772b8b29ecccb82a0) |
+| 12 | Rust库曝高危漏洞（CVE-2025-62518）可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89) |
+| 13 | 从资产发现到漏洞利用: 一款工具轻松搞定 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496133&idx=1&sn=5e1be38b9248e1db7eb9a2a9aba559c8](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496133&idx=1&sn=5e1be38b9248e1db7eb9a2a9aba559c8) |
+| 14 | 把小洞变大洞：将任意文件读取/删除漏洞危害扩至最大导致系统全面沦陷|挖洞技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495533&idx=1&sn=a8ad96dfb124d3cb22405dfb847dec18](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495533&idx=1&sn=a8ad96dfb124d3cb22405dfb847dec18) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 2025 年年底实战视角：腾讯云 WAF XSS 绕过技术的分类逻辑与实现原理 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484449&idx=1&sn=0490515ca3b976530e27f46dc5fd0d16](https://mp.weixin.qq.com/s?__biz=MzkwOTY3Njg4Nw==&mid=2247484449&idx=1&sn=0490515ca3b976530e27f46dc5fd0d16) |
+| 1 | 记某综合管理系统代审前台Http_SSRF到RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487506&idx=1&sn=9dd94b4ee58ed2066507e56a036d5678](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487506&idx=1&sn=9dd94b4ee58ed2066507e56a036d5678) |
+| 2 | .NET 实战攻防电子报刊，从内网基础到高阶实战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500884&idx=2&sn=21adf19f1373eea3fbfc8ac57ae201a7](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500884&idx=2&sn=21adf19f1373eea3fbfc8ac57ae201a7) |
+| 3 | 漏洞预警 | WordPress Plugin Contact Form CFDB7 SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=1&sn=a680e351a3659bef4e23fd7a15805bb0) |
+| 4 | 漏洞预警 | Ruvar HRM SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=2&sn=f1875a4b01bfab68587a7b446cf6329b) |
+| 5 | 漏洞预警 | 金和OA SQL注入和XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494836&idx=3&sn=5176cfa0cb55a6eb34d9b92edf4f1f8c) |
+| 6 | Rust库曝高危漏洞（CVE-2025-62518）可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524697&idx=1&sn=7233252e76afb475694a54f8dd624b89) |
 
-### 威胁情报
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Linux应急响应：我的时间线排查法分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486829&idx=1&sn=6971dff8d230692d8744ad95d2bc66be](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486829&idx=1&sn=6971dff8d230692d8744ad95d2bc66be) |
+| 1 | 企业赏金SRC实战中危案例｜收费视频资源突破 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=1&sn=a9edb61e9b06d5008252912296b745fd](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489097&idx=1&sn=a9edb61e9b06d5008252912296b745fd) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 警惕！供水、储油、储粮等关基工控设施的设置遭到篡改|Qilin勒索组织再袭日本Super Value超市遭攻击内部员工数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=1&sn=d492400d1bf6f082b52ec3d9103cdba6](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613039&idx=1&sn=d492400d1bf6f082b52ec3d9103cdba6) |
+| 2 | Conduent数据泄露事件影响超过1050万美国人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=3&sn=a2216465564b575f157c86c79b42347a](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=3&sn=a2216465564b575f157c86c79b42347a) |
+| 3 | 美国国防部398GB的数据泄露，单个文件分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487486&idx=1&sn=f4cc70b0956bf42b9ab9d96aeaa55f6d](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247487486&idx=1&sn=f4cc70b0956bf42b9ab9d96aeaa55f6d) |
+| 4 | 外包巨头Conduent数据泄露波及逾一千万人 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499447&idx=2&sn=e800c2840e15e866f7d5e44558c33ad0](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499447&idx=2&sn=e800c2840e15e866f7d5e44558c33ad0) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 国家级黑客疑似在供应链攻击中部署新型 Airstalk 恶意软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=1&sn=83cbe849937e9ef0816ad4ac527cdc61](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796748&idx=1&sn=83cbe849937e9ef0816ad4ac527cdc61) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W44/2025-11-02/`
+文章已归档到: `doc/2025/2025-11/2025-W45/2025-11-03/`
 
 ## 🔗 数据源说明
 
@@ -107,8 +165,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 14 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -117,5 +175,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-02 16:21:01*
+*生成时间: 2025-11-03 01:40:50*
 *报告工具: 微信文章安全归档系统*
