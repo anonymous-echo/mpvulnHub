@@ -1,19 +1,20 @@
-# 2025-11-03 安全威胁态势报告
+# 2025-11-04 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 24
 - **数据源分布**:
-  - Doonsec: 7篇
+  - Doonsec: 24篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 11篇
+- **攻击技术**: 3篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 1篇
+- **Web安全**: 2篇
+- **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -63,13 +64,30 @@
 
 ### Doonsec
 
-- [丝滑的三要素信息泄露](https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485274&idx=1&sn=790ea427ae7e33537280191024ff79e3) (发布日期: 2025-11-03)
-- [Fastjson原生反序列化](https://mp.weixin.qq.com/s?__biz=Mzg3MDY0NjA5MQ==&mid=2247484664&idx=1&sn=a7d81d79af0ab7b7376b45dc62139493) (发布日期: 2025-11-03)
-- [这可能是最早的2025【全年】攻防演练复盘](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184987&idx=1&sn=617704c6a3dd62af97dda63b896c7880) (发布日期: 2025-11-03)
-- [朝鲜Kimsuky APT组织针对韩国最新攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494082&idx=1&sn=2a67f61ad84c79b158b3c051fc2ded84) (发布日期: 2025-11-03)
-- [安全日志到 ATT&CK 洞察：利用 LLMs 进行高级威胁理解和认知特征推断](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247483984&idx=1&sn=6e9128f8113898156a1b59b7447a0c06) (发布日期: 2025-11-03)
-- [高级代码审计AI系统-----AuditLuma](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493038&idx=1&sn=ae2bbc9227e50919633b950afa262b6b) (发布日期: 2025-11-03)
-- [自动化检测 Swagger API 接口未授权访问漏洞工具 - SwaggerHound](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486637&idx=1&sn=dbd8f8e92bdc4a375a39b1a5964a0d9e) (发布日期: 2025-11-03)
+- [伊朗黑客利用 Phoenix 后门攻击了 100 多个政府机构](https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247490229&idx=1&sn=cb447d78f509381e6721bd6fa47cbf27) (发布日期: 2025-11-04)
+- [Chrome 142发布：修复两个高危级V8漏洞，支付10万美元漏洞赏金](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495189&idx=1&sn=07a0236d0f1a21a2e06a6102597d02aa) (发布日期: 2025-11-04)
+- [黑客利用Windows零日漏洞攻击多国外交部门，微软未修补|潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=1&sn=ce13fbc76c54b782a7963b76e214107d) (发布日期: 2025-11-04)
+- [OpenAI发布基于GPT-5的自主漏洞修复AI Agent](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=2&sn=340b0d8e6acf43766066b8168c8783de) (发布日期: 2025-11-04)
+- [某大学生常用APP抓包数据加密流程分析](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=3&sn=a77e43e45a14aacbcb4b1a495e750913) (发布日期: 2025-11-04)
+- [【高危漏洞预警】Microsoft Windows SMB Server身份认证绕过漏洞CVE-2025-58726](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=4&sn=270e267f082cc09cf86d769eedeca5a1) (发布日期: 2025-11-04)
+- [2025-11-04 最新安全漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486364&idx=1&sn=f494d2768ecd0587ddd3c829119737a8) (发布日期: 2025-11-04)
+- [运维转安全运维：5 个复用命令 + 1 个 ELK 实战，1 周上手](https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247488272&idx=1&sn=f171464bdc42b7f03245e3d04570b148) (发布日期: 2025-11-04)
+- [红蓝攻防演练——记两次内网入侵溯源](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498733&idx=1&sn=5494a1f8a48390c556b9045298d7d143) (发布日期: 2025-11-04)
+- [【密码学】安全多方计算(半诚实对手)](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493095&idx=1&sn=e50bcaae6582da490515bda35c5d7a75) (发布日期: 2025-11-04)
+- [20 道大厂攻防演练高级蓝队面试题！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527792&idx=1&sn=c54fdd4b1c75ae037c11ea252caae32c) (发布日期: 2025-11-04)
+- [java代码审计基础-java反射(一)](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492944&idx=1&sn=19c47ab9b0b6d27f272b944c755e5bd9) (发布日期: 2025-11-04)
+- [公安部亮剑“护网-2025” 通报六起典型网络数据安全案件 多家单位因未履行安全保护义务被严处](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485764&idx=1&sn=138cc726b7433187a77c1e40b818f193) (发布日期: 2025-11-04)
+- [一个接口到底能引发多少漏洞！](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520393&idx=1&sn=5d43ed836d46c7237421ec20fb1daf71) (发布日期: 2025-11-04)
+- [警惕！又一个“红队利器”被玩坏，自称“恶意软件开发者”的作者到底想干嘛？](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485267&idx=1&sn=fb579c3879e68a484f7ba0487a97ba3c) (发布日期: 2025-11-04)
+- [实战之MySQL注入-OrderBy处注入](https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484067&idx=1&sn=3d4145281d2387bddb51291c87d8fc94) (发布日期: 2025-11-04)
+- [漏洞预警 | JumpServer ConnectionToken 权限验证不当漏洞(CVE-2025-62712)](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484679&idx=1&sn=4fcee0b77b5f07b1dc769c7af04664ba) (发布日期: 2025-11-04)
+- [漏洞预警 | Windows远程访问连接管理器权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=1&sn=437cac8ee10ee6fb081523d0c58a7f64) (发布日期: 2025-11-04)
+- [漏洞预警 | KINGOSOFT高校智慧校园教学综合服务平台任意文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=2&sn=8ba9891e708d425ba04bf8a6975a150c) (发布日期: 2025-11-04)
+- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be) (发布日期: 2025-11-04)
+- [公安部亮剑“护网-2025” 通报六起典型网络数据安全案件 多家单位因未履行安全保护义务被严处](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462145&idx=1&sn=8e2a03f29eb456d4c89d9d92b1402bf4) (发布日期: 2025-11-04)
+- [NDR加密流量分析的技巧](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516626&idx=1&sn=4e01ceede1d360932e1800202f776e65) (发布日期: 2025-11-04)
+- [新型webshell免杀 | 哥斯拉 Websocket型 webshell](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247496139&idx=1&sn=7497334b2bd8dd675054b5a1738ebf3c) (发布日期: 2025-11-04)
+- [渗透测试利器，基于多引擎融合的 AI漏洞扫描器和渗透测试工具|Deep-EyeV1.3漏洞探测](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495539&idx=1&sn=4000366232b81fd1c0f105fe21b9a48c) (发布日期: 2025-11-04)
 
 
 ## 🎯 威胁详情分析
@@ -78,18 +96,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 自动化检测 Swagger API 接口未授权访问漏洞工具 - SwaggerHound | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486637&idx=1&sn=dbd8f8e92bdc4a375a39b1a5964a0d9e](https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486637&idx=1&sn=dbd8f8e92bdc4a375a39b1a5964a0d9e) |
+| 1 | Chrome 142发布：修复两个高危级V8漏洞，支付10万美元漏洞赏金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495189&idx=1&sn=07a0236d0f1a21a2e06a6102597d02aa](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495189&idx=1&sn=07a0236d0f1a21a2e06a6102597d02aa) |
+| 2 | 黑客利用Windows零日漏洞攻击多国外交部门，微软未修补|潜伏十年的 Linux 高危漏洞正被勒索软件利用，影响Ubuntu等 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=1&sn=ce13fbc76c54b782a7963b76e214107d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=1&sn=ce13fbc76c54b782a7963b76e214107d) |
+| 3 | OpenAI发布基于GPT-5的自主漏洞修复AI Agent | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=2&sn=340b0d8e6acf43766066b8168c8783de](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=2&sn=340b0d8e6acf43766066b8168c8783de) |
+| 4 | 【高危漏洞预警】Microsoft Windows SMB Server身份认证绕过漏洞CVE-2025-58726 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=4&sn=270e267f082cc09cf86d769eedeca5a1](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613060&idx=4&sn=270e267f082cc09cf86d769eedeca5a1) |
+| 5 | 2025-11-04 最新安全漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486364&idx=1&sn=f494d2768ecd0587ddd3c829119737a8](https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486364&idx=1&sn=f494d2768ecd0587ddd3c829119737a8) |
+| 6 | 一个接口到底能引发多少漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520393&idx=1&sn=5d43ed836d46c7237421ec20fb1daf71](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520393&idx=1&sn=5d43ed836d46c7237421ec20fb1daf71) |
+| 7 | 漏洞预警 | JumpServer ConnectionToken 权限验证不当漏洞(CVE-2025-62712) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484679&idx=1&sn=4fcee0b77b5f07b1dc769c7af04664ba](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484679&idx=1&sn=4fcee0b77b5f07b1dc769c7af04664ba) |
+| 8 | 漏洞预警 | Windows远程访问连接管理器权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=1&sn=437cac8ee10ee6fb081523d0c58a7f64](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=1&sn=437cac8ee10ee6fb081523d0c58a7f64) |
+| 9 | 漏洞预警 | KINGOSOFT高校智慧校园教学综合服务平台任意文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=2&sn=8ba9891e708d425ba04bf8a6975a150c](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=2&sn=8ba9891e708d425ba04bf8a6975a150c) |
+| 10 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be) |
+| 11 | 渗透测试利器，基于多引擎融合的 AI漏洞扫描器和渗透测试工具|Deep-EyeV1.3漏洞探测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495539&idx=1&sn=4000366232b81fd1c0f105fe21b9a48c](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495539&idx=1&sn=4000366232b81fd1c0f105fe21b9a48c) |
 
-### 威胁情报
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 朝鲜Kimsuky APT组织针对韩国最新攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494082&idx=1&sn=2a67f61ad84c79b158b3c051fc2ded84](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494082&idx=1&sn=2a67f61ad84c79b158b3c051fc2ded84) |
+| 1 | 红蓝攻防演练——记两次内网入侵溯源 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498733&idx=1&sn=5494a1f8a48390c556b9045298d7d143](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247498733&idx=1&sn=5494a1f8a48390c556b9045298d7d143) |
+| 2 | 实战之MySQL注入-OrderBy处注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484067&idx=1&sn=3d4145281d2387bddb51291c87d8fc94](https://mp.weixin.qq.com/s?__biz=MzIxNTg1MjYzOQ==&mid=2247484067&idx=1&sn=3d4145281d2387bddb51291c87d8fc94) |
+| 3 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247494865&idx=3&sn=7ad7c25678ac3c6170e7ec804dd764be) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W45/2025-11-03/`
+文章已归档到: `doc/2025/2025-11/2025-W45/2025-11-04/`
 
 ## 🔗 数据源说明
 
@@ -100,8 +130,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +140,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-03 16:23:41*
+*生成时间: 2025-11-04 01:37:03*
 *报告工具: 微信文章安全归档系统*
