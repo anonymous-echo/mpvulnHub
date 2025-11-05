@@ -2,21 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 38
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 38篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **信息泄露**: 2篇
-- **攻击技术**: 1篇
+- **漏洞利用**: 16篇
+- **攻击技术**: 5篇
+- **信息泄露**: 4篇
+- **供应链**: 4篇
 - **威胁情报**: 1篇
-- **供应链**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 - **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
@@ -66,22 +67,44 @@
 
 ### Doonsec
 
-- [利用 CVE-2025-21479 在三星手机上实现攻击的研究](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262221&idx=1&sn=41c46a9d52e942ea37b88da66ee3d27b) (发布日期: 2025-11-05)
-- [《网络安全法》新规下，AI 验证如何让安全防护“显形”？](https://mp.weixin.qq.com/s?__biz=Mzk0MTMzMDUyOA==&mid=2247506925&idx=1&sn=487bbded87bbe03b382d546d4bdf9714) (发布日期: 2025-11-05)
-- [WordPress Latepoint 文件包含漏洞 (CVE-2025-6715)](https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485693&idx=1&sn=9190fabd98cb25dfd9e11309485461b2) (发布日期: 2025-11-05)
-- [Ai全自动化渗透测试工具 -- AiScan-N（11月1日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517563&idx=1&sn=5b471beeb07738427f3d6c336a9aebc3) (发布日期: 2025-11-05)
-- [双 11 抄底报名 CISSP！2026年班期随心选，开班计划抢先看→](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525612&idx=2&sn=4dc5f0e097444acddf9f854d77b74ff6) (发布日期: 2025-11-05)
-- [Android 0-Click允许远程代码执行攻击漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58) (发布日期: 2025-11-05)
-- [AMD Zen 5 处理器 RDSEED 漏洞：随机性失效引发完整性破坏](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec) (发布日期: 2025-11-05)
-- [WatchVuln-web 一个用于监控和展示漏洞信息的全栈 Web 应用](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81) (发布日期: 2025-11-05)
-- [瑞典市政系统核心供应商被攻击，150万民众隐私数据泄露](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789366&idx=1&sn=f40c330770275d68e29245d678ceb344) (发布日期: 2025-11-05)
-- [GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68) (发布日期: 2025-11-05)
-- [信息安全漏洞周报（2025年第44期）](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2) (发布日期: 2025-11-05)
-- [Open VSX代码仓库泄露访问令牌引发供应链攻击 恶意扩展程序被植入](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585161&idx=1&sn=9a5ca3cdc0db8437b05fab7c210014dc) (发布日期: 2025-11-05)
-- [Knownsec数据泄露？](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488366&idx=1&sn=3f18435301ae6e51f22fab31122ed767) (发布日期: 2025-11-05)
-- [Java反序列化漏洞黑盒挖掘思路-下篇](https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1) (发布日期: 2025-11-05)
-- [若依（RuoYi）框架漏洞总结](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153) (发布日期: 2025-11-05)
-- [亚信安全 - 应急响应专家](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507192&idx=1&sn=0eac9d9e995d9d42ee7483c74a125f46) (发布日期: 2025-11-05)
+- [【cyberstrikelab】PT-17 CVE-2025-24813](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488528&idx=1&sn=d03183a139f69651fd1d0776c05de802) (发布日期: 2025-11-05)
+- [【高危漏洞预警】高通Qualcomm代码执行漏洞（CVE-2025-47361）](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362) (发布日期: 2025-11-05)
+- [病毒百科换LOGO啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212946&idx=1&sn=35f3b1029b5465feb300e12b2d7c6412) (发布日期: 2025-11-05)
+- [【安全圈】苹果新版网页版 Apple App Store 前端源代码因配置错误被泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=1&sn=ce068405a349b38f64fc22cbd355ca17) (发布日期: 2025-11-05)
+- [【安全圈】安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3) (发布日期: 2025-11-05)
+- [【安全圈】SesameOp 后门滥用 OpenAI Assistants API 实现远程隐蔽控制](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=4&sn=be9948bed672142c029795612d60a20f) (发布日期: 2025-11-05)
+- [一款 Nacos 综合漏洞利用工具——NacosExploit](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486352&idx=1&sn=4a2a0667923eeeb51284204826a7b426) (发布日期: 2025-11-05)
+- [谷歌：速修复系统组件中的这个安卓零点击RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2) (发布日期: 2025-11-05)
+- [热门 React Native NPM 包中存在严重漏洞，开发人员易受攻击](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=2&sn=bc54e02a8f815ed78b67d3135a9f9607) (发布日期: 2025-11-05)
+- [【论文速读】|SIRAJ：通过蒸馏结构化推理实现对大语言模型智能体的多样化高效红队测试](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497284&idx=1&sn=a8e958c54c38c7d7e54760e73087a34c) (发布日期: 2025-11-05)
+- [知道创宇数据泄露事件后续，官方已出具情况告知函（盖章文件）](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492774&idx=1&sn=c2a9d55c5c947a6debb1b54b9efe868b) (发布日期: 2025-11-05)
+- [数据泄露造成巨额损失，运营商巨头利润下滑超90%](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515163&idx=1&sn=7dc5530064baf6c8d5f167607390dbd7) (发布日期: 2025-11-05)
+- [威胁情报共享：未知访问流量分析](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485772&idx=1&sn=815968f6c478a877cab96c11fb23174e) (发布日期: 2025-11-05)
+- [SDC2025 议题回顾 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=1&sn=1bce0d64e93eb064e5204867b682e2e4) (发布日期: 2025-11-05)
+- [谷歌AI再立新功，“Big Sleep”发现Safari五大安全漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=3&sn=e6576c3dfd7b2ef0e1aa066a64add6c0) (发布日期: 2025-11-05)
+- [全球云上数据泄露风险分析简报 （第八期）](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499157&idx=1&sn=11df6d19a6bff6b6de0e5c5ccdb83406) (发布日期: 2025-11-05)
+- [Bugcrowd收购Mayhem Security 推进AI驱动的人机协同安全测试](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=2&sn=14b4dc586534fa4d005bd077742214d2) (发布日期: 2025-11-05)
+- [JavaScript库React高危漏洞（CVE-2025-11953）威胁数百万开发者](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=3&sn=ba21721061015dacf28f01c8ec7c0f91) (发布日期: 2025-11-05)
+- [谷歌AI工具Big Sleep发现苹果Safari浏览器WebKit组件5个新漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb) (发布日期: 2025-11-05)
+- [如何选择入侵检测/入侵防御？看完这篇让你不再纠结，轻松选对](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493228&idx=1&sn=eb3a8f4287130bc3562abab1ee537c82) (发布日期: 2025-11-05)
+- [政策强约束下的组件安全：2025年网络安全合规新指南](https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486285&idx=1&sn=0b5fd3b568c35c20023db36388ffd985) (发布日期: 2025-11-05)
+- [【国内网安政策简评】《个人信息出境认证办法》发布，管理机制全面升级](https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486567&idx=1&sn=edef617b6c7a7056094cf32833fbf10d) (发布日期: 2025-11-05)
+- [25年首个大模型安全报告发布，网易易盾实力入选](https://mp.weixin.qq.com/s?__biz=MzAwNTg2NjYxOA==&mid=2650744350&idx=1&sn=1bbf95946459d46c939fffc92705176b) (发布日期: 2025-11-05)
+- [数据安全丨国家数据局印发《关于在国家数据基础设施建设先行先试中加强场景应用的实施方案》](https://mp.weixin.qq.com/s?__biz=MzI2MDk2NDA0OA==&mid=2247535581&idx=2&sn=01dd1a4167b757aecc9fca72b0e9fab1) (发布日期: 2025-11-05)
+- [Go红队开发—图形化界面](https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247488693&idx=1&sn=9f40738a61b4e114a1677cb3e071b2a9) (发布日期: 2025-11-05)
+- [某个OA系统的代码审计【ok】](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556686&idx=1&sn=3667a89185b438268be057c549d23d3e) (发布日期: 2025-11-05)
+- [【免费领】HW护网蓝队面试题整理汇总（含答案及解析）](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556686&idx=2&sn=7c16e05e1abcac1743857a0311e9469c) (发布日期: 2025-11-05)
+- [大学四年挖漏洞赚15万的心路历程：从连Kali都不会装，到靠技术实现经济独立](https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487603&idx=1&sn=be95ade7502335a6f3b22aeb7cae9af0) (发布日期: 2025-11-05)
+- [全球云上数据泄露风险分析简报 （第八期）](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474314&idx=1&sn=d08e59971943936f510544f4615ee035) (发布日期: 2025-11-05)
+- [记一次edusrc高危7rank漏洞的简单挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985) (发布日期: 2025-11-05)
+- [【附POC及复现环境】Apache Tomcat RewriteValve 路径遍历漏洞复现(CVE-2025-55752)](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484891&idx=1&sn=0e0a03bd22742bc1529f72cc6ac1613d) (发布日期: 2025-11-05)
+- [《网络安全法》修改通过，网御星云“AI护AI”构筑大模型应用安全防线](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204242&idx=1&sn=bb52308d30f1a982f0f8ea8c5cbc5f1e) (发布日期: 2025-11-05)
+- [渗透测试的8个步骤，一文详解（小白必看）！](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575547&idx=1&sn=74fbba09f0a6e6d5df218010cea0112d) (发布日期: 2025-11-05)
+- [[Android逆向] 某乖生活app桶自洁接口加密参数分析](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486847&idx=1&sn=b792075af9538fd3bd856dd20cb7d86f) (发布日期: 2025-11-05)
+- [双漏洞警报：Linux 内核藏勒索后门，Claude AI 偷敏感数据](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=1&sn=fabbe1472974118ac729c28a79f2a3d9) (发布日期: 2025-11-05)
+- [别小看一个接口！从数据裸奔到系统沦陷，它能引发致命漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=3&sn=9c77ea419a48dac14311b6433b5013d7) (发布日期: 2025-11-05)
+- [【已复现】WatchGuard Fireware OS 未授权远程代码执行漏洞(CVE-2025-9242)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7) (发布日期: 2025-11-05)
+- [金和OA C6 XXE漏洞](https://mp.weixin.qq.com/s?__biz=MzU0NDk4MTM0OA==&mid=2247488405&idx=1&sn=bc51163e1a181cef4a96fe6b85fd9257) (发布日期: 2025-11-05)
 
 
 ## 🎯 威胁详情分析
@@ -90,40 +113,62 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 利用 CVE-2025-21479 在三星手机上实现攻击的研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262221&idx=1&sn=41c46a9d52e942ea37b88da66ee3d27b](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262221&idx=1&sn=41c46a9d52e942ea37b88da66ee3d27b) |
-| 2 | WordPress Latepoint 文件包含漏洞 (CVE-2025-6715) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485693&idx=1&sn=9190fabd98cb25dfd9e11309485461b2](https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485693&idx=1&sn=9190fabd98cb25dfd9e11309485461b2) |
-| 3 | Android 0-Click允许远程代码执行攻击漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58) |
-| 4 | AMD Zen 5 处理器 RDSEED 漏洞：随机性失效引发完整性破坏 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=2&sn=40f28e3c7ab1e617f7669fdcadc175ec) |
-| 5 | WatchVuln-web 一个用于监控和展示漏洞信息的全栈 Web 应用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81](https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247490465&idx=1&sn=97fe75bd6159e2ee4f2d61619e45ac81) |
-| 6 | GeoServer TestWFSpost 存在SSRF漏洞CVE-2024-29198 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483821&idx=1&sn=008bacea64fc411cdb6406b1e7e2ba68) |
-| 7 | 信息安全漏洞周报（2025年第44期） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463809&idx=1&sn=6e284170082a5dbbba8edc82bb395bf2) |
-| 8 | Java反序列化漏洞黑盒挖掘思路-下篇 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1](https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491615&idx=1&sn=bf3eb74c518a3deb37c42e83622e5fc1) |
-| 9 | 若依（RuoYi）框架漏洞总结 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153](https://mp.weixin.qq.com/s?__biz=Mzk2NDI0MjUyNQ==&mid=2247485651&idx=1&sn=a224df4687425bee790c95a97c789153) |
+| 1 | 【cyberstrikelab】PT-17 CVE-2025-24813 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488528&idx=1&sn=d03183a139f69651fd1d0776c05de802](https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247488528&idx=1&sn=d03183a139f69651fd1d0776c05de802) |
+| 2 | 【高危漏洞预警】高通Qualcomm代码执行漏洞（CVE-2025-47361） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362) |
+| 3 | 【安全圈】安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3) |
+| 4 | 一款 Nacos 综合漏洞利用工具——NacosExploit | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486352&idx=1&sn=4a2a0667923eeeb51284204826a7b426](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486352&idx=1&sn=4a2a0667923eeeb51284204826a7b426) |
+| 5 | 谷歌：速修复系统组件中的这个安卓零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2) |
+| 6 | 热门 React Native NPM 包中存在严重漏洞，开发人员易受攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=2&sn=bc54e02a8f815ed78b67d3135a9f9607](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=2&sn=bc54e02a8f815ed78b67d3135a9f9607) |
+| 7 | 谷歌AI再立新功，“Big Sleep”发现Safari五大安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=3&sn=e6576c3dfd7b2ef0e1aa066a64add6c0](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458603265&idx=3&sn=e6576c3dfd7b2ef0e1aa066a64add6c0) |
+| 8 | JavaScript库React高危漏洞（CVE-2025-11953）威胁数百万开发者 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=3&sn=ba21721061015dacf28f01c8ec7c0f91](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=3&sn=ba21721061015dacf28f01c8ec7c0f91) |
+| 9 | 谷歌AI工具Big Sleep发现苹果Safari浏览器WebKit组件5个新漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb) |
+| 10 | 大学四年挖漏洞赚15万的心路历程：从连Kali都不会装，到靠技术实现经济独立 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487603&idx=1&sn=be95ade7502335a6f3b22aeb7cae9af0](https://mp.weixin.qq.com/s?__biz=MzkwMjc0NDk0NQ==&mid=2247487603&idx=1&sn=be95ade7502335a6f3b22aeb7cae9af0) |
+| 11 | 记一次edusrc高危7rank漏洞的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985) |
+| 12 | 【附POC及复现环境】Apache Tomcat RewriteValve 路径遍历漏洞复现(CVE-2025-55752) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484891&idx=1&sn=0e0a03bd22742bc1529f72cc6ac1613d](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484891&idx=1&sn=0e0a03bd22742bc1529f72cc6ac1613d) |
+| 13 | 双漏洞警报：Linux 内核藏勒索后门，Claude AI 偷敏感数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=1&sn=fabbe1472974118ac729c28a79f2a3d9](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=1&sn=fabbe1472974118ac729c28a79f2a3d9) |
+| 14 | 别小看一个接口！从数据裸奔到系统沦陷，它能引发致命漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=3&sn=9c77ea419a48dac14311b6433b5013d7](https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247537501&idx=3&sn=9c77ea419a48dac14311b6433b5013d7) |
+| 15 | 【已复现】WatchGuard Fireware OS 未授权远程代码执行漏洞(CVE-2025-9242) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7) |
+| 16 | 金和OA C6 XXE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0NDk4MTM0OA==&mid=2247488405&idx=1&sn=bc51163e1a181cef4a96fe6b85fd9257](https://mp.weixin.qq.com/s?__biz=MzU0NDk4MTM0OA==&mid=2247488405&idx=1&sn=bc51163e1a181cef4a96fe6b85fd9257) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Android 0-Click允许远程代码执行攻击漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096586&idx=1&sn=55d551fdf2cb47aa8f347bdd343c3f58) |
+| 1 | 【高危漏洞预警】高通Qualcomm代码执行漏洞（CVE-2025-47361） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490947&idx=1&sn=e9152fae20ac24f8be508953e3803362) |
+| 2 | 【安全圈】安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3) |
+| 3 | 谷歌：速修复系统组件中的这个安卓零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2) |
+| 4 | 【国内网安政策简评】《个人信息出境认证办法》发布，管理机制全面升级 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486567&idx=1&sn=edef617b6c7a7056094cf32833fbf10d](https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486567&idx=1&sn=edef617b6c7a7056094cf32833fbf10d) |
+| 5 | 【已复现】WatchGuard Fireware OS 未授权远程代码执行漏洞(CVE-2025-9242) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495180&idx=1&sn=e49995b2dbc26b4ab917a3fa66b69fd7) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 亚信安全 - 应急响应专家 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507192&idx=1&sn=0eac9d9e995d9d42ee7483c74a125f46](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507192&idx=1&sn=0eac9d9e995d9d42ee7483c74a125f46) |
+| 1 | 威胁情报共享：未知访问流量分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485772&idx=1&sn=815968f6c478a877cab96c11fb23174e](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485772&idx=1&sn=815968f6c478a877cab96c11fb23174e) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次edusrc高危7rank漏洞的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485851&idx=1&sn=bd15e526f94189ac9e247ae431fa7985) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 瑞典市政系统核心供应商被攻击，150万民众隐私数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789366&idx=1&sn=f40c330770275d68e29245d678ceb344](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789366&idx=1&sn=f40c330770275d68e29245d678ceb344) |
-| 2 | Knownsec数据泄露？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488366&idx=1&sn=3f18435301ae6e51f22fab31122ed767](https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488366&idx=1&sn=3f18435301ae6e51f22fab31122ed767) |
+| 1 | 知道创宇数据泄露事件后续，官方已出具情况告知函（盖章文件） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492774&idx=1&sn=c2a9d55c5c947a6debb1b54b9efe868b](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492774&idx=1&sn=c2a9d55c5c947a6debb1b54b9efe868b) |
+| 2 | 数据泄露造成巨额损失，运营商巨头利润下滑超90% | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515163&idx=1&sn=7dc5530064baf6c8d5f167607390dbd7](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515163&idx=1&sn=7dc5530064baf6c8d5f167607390dbd7) |
+| 3 | 全球云上数据泄露风险分析简报 （第八期） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499157&idx=1&sn=11df6d19a6bff6b6de0e5c5ccdb83406](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247499157&idx=1&sn=11df6d19a6bff6b6de0e5c5ccdb83406) |
+| 4 | 全球云上数据泄露风险分析简报 （第八期） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474314&idx=1&sn=d08e59971943936f510544f4615ee035](https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650474314&idx=1&sn=d08e59971943936f510544f4615ee035) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Open VSX代码仓库泄露访问令牌引发供应链攻击 恶意扩展程序被植入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585161&idx=1&sn=9a5ca3cdc0db8437b05fab7c210014dc](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585161&idx=1&sn=9a5ca3cdc0db8437b05fab7c210014dc) |
+| 1 | 【安全圈】安卓系统组件中存在严重零点击漏洞，可导致远程代码执行攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072589&idx=2&sn=f07d5f508e87d5fafda25dedc8ebccb3) |
+| 2 | 谷歌：速修复系统组件中的这个安卓零点击RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524330&idx=1&sn=5a3facd9ebc276e8428c3c0ea811bbd2) |
+| 3 | 谷歌AI工具Big Sleep发现苹果Safari浏览器WebKit组件5个新漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651329804&idx=4&sn=3210fafcc9604d56ed43ae6c4fdb85bb) |
+| 4 | 政策强约束下的组件安全：2025年网络安全合规新指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486285&idx=1&sn=0b5fd3b568c35c20023db36388ffd985](https://mp.weixin.qq.com/s?__biz=MzU0NDkyNTQ2OA==&mid=2247486285&idx=1&sn=0b5fd3b568c35c20023db36388ffd985) |
 
 
 ## 📁 归档路径
@@ -139,8 +184,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 16 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +194,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-05 08:27:44*
+*生成时间: 2025-11-05 12:41:13*
 *报告工具: 微信文章安全归档系统*
