@@ -2,22 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 23篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 4篇
-- **安全运营**: 2篇
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
+- **系统漏洞**: 2篇
+- **网络攻击**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,29 +63,19 @@
 
 ### Doonsec
 
-- [鸿蒙(HarmonyOS)病毒检测工具V5.0](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499023&idx=1&sn=98e0aae1e66493baa523b2ee40e03c2a) (发布日期: 2025-11-06)
-- [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485080&idx=1&sn=c6c4509a6ce51a7dfbfd0e2219200751) (发布日期: 2025-11-06)
-- [恶意软件分析 | TamperedChef: 恶意广告到凭证窃取](https://mp.weixin.qq.com/s?__biz=MzI4NTcxMjQ1MA==&mid=2247617390&idx=1&sn=f74a0b9dfa8eae6890706de20390c7b3) (发布日期: 2025-11-06)
-- [SRC培训的那些“坑”](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488981&idx=1&sn=43571af7fbc6bd3a4c82f7387b4c8b42) (发布日期: 2025-11-06)
-- [紧急！朝鲜APT双雄（Kimsuky 和 Lazarus）出手，新后门攻陷韩国、加拿大目标，这些伪装手法要警惕！](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487117&idx=1&sn=f08d58d99fd45aba601dce5d1925eaf3) (发布日期: 2025-11-06)
-- [7个 ChatGPT 漏洞使 AI 系统易受间接提示注入攻击](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97) (发布日期: 2025-11-06)
-- [Go模糊测试实战：原理解剖+CVE漏洞挖掘过程复现](https://mp.weixin.qq.com/s?__biz=MzAwNDUzNDExMQ==&mid=2247485851&idx=1&sn=e72e66912e2c7f4bf56663052bb7b3b8) (发布日期: 2025-11-06)
-- [Linux 身份与访问控制](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485034&idx=1&sn=75ffa14f3898871d856de8c03ac0c842) (发布日期: 2025-11-06)
-- [你是说甲方让我测他们的漏洞靶场，然后出渗透报告？](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493046&idx=1&sn=70a0ed5b23b34abbdba14722847959f9) (发布日期: 2025-11-06)
-- [数据安全新动态（2025年10月）](https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5NjI2Ng==&mid=2247486945&idx=1&sn=cee6390196ee8e2b7bdf615ae2481f40) (发布日期: 2025-11-06)
-- [数据安全新动态（2025年9月）](https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5NjI2Ng==&mid=2247486945&idx=2&sn=2ac2a51917742a63b595970fcb7920ec) (发布日期: 2025-11-06)
-- [渗透测试：流程&内容&价值](https://mp.weixin.qq.com/s?__biz=MzU5MTIxNzg0Ng==&mid=2247488316&idx=1&sn=a1f4644dc74e310de3932b7dd5c0fd06) (发布日期: 2025-11-06)
-- [XSS绕过WAF的小花招](https://mp.weixin.qq.com/s?__biz=MzE5ODQ4Nzg0Mg==&mid=2247484033&idx=1&sn=527a9fec09c6c3fb3929076e9901583b) (发布日期: 2025-11-06)
-- [终端为何成为泄露重灾区？渠道管控守好企业数据安全最后关卡！](https://mp.weixin.qq.com/s?__biz=MzIxNzU5NzYzNQ==&mid=2247489546&idx=1&sn=0d1dd7a418cf14590c2b7edf818dacc7) (发布日期: 2025-11-06)
-- [记一次攻防演练](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485067&idx=1&sn=ad1f7b6fc82c5adac289772ee27cfb55) (发布日期: 2025-11-06)
-- [谷歌：AI恶意软件是网络安全行业的转折点](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504362&idx=1&sn=1b8a19b02aaafed17d75e41c671b28be) (发布日期: 2025-11-06)
-- [媒体巨头日经新闻发生大规模数据泄露](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504362&idx=2&sn=6fc456129320a59af7b6fa94f2f7836e) (发布日期: 2025-11-06)
-- [Blink渲染引擎漏洞可在60秒内导致Chromium内核浏览器崩溃，PoC已公开](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248571&idx=1&sn=49cc99a4112fd116c9b1ed8ec1623114) (发布日期: 2025-11-06)
-- [用AI加速逆向工程:快速破解XLoader恶意软件](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486015&idx=1&sn=a5f855dd507c79ad69aaa3f1e6dd2707) (发布日期: 2025-11-06)
-- [【SRC实战】只给了800的严重漏洞（加码）](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa) (发布日期: 2025-11-06)
-- [大模型提示词注入实战—通过在线靶场看提示词注入手法](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508203&idx=1&sn=c691164edc73065409d588a641813313) (发布日期: 2025-11-06)
-- [2025-11-06 最新CVE漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487673&idx=1&sn=6d8f81a6d7bd45759b320ce5c1c88c5e) (发布日期: 2025-11-06)
-- [Azure WAF XSS](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488296&idx=1&sn=d4e9113e5814972d4b8857ba04eb0985) (发布日期: 2025-11-06)
+- [“双11”反诈指南：警惕“退款理赔”与“百万保障”新骗局；加密货币价格飙升引发PHP漏洞利用潮,攻击者大规模部署挖矿程序| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139243&idx=2&sn=32e0c1ef5dee1a75ee8846f1987f2cd1) (发布日期: 2025-11-06)
+- [《Web漏洞分析与防范实战》套装全2册来了！](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517568&idx=1&sn=a28a18f9cdf9d2b01c017319b798ded6) (发布日期: 2025-11-06)
+- [鸡肋 Codebuddy RCE漏洞 450元](https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18) (发布日期: 2025-11-06)
+- [信息安全漏洞月报（2025年10月）](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463827&idx=1&sn=8c36b0ccdd5b178162d06ba80297656c) (发布日期: 2025-11-06)
+- [智能网联汽车网络恶意软件数据篡改攻击检测方法](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628305&idx=1&sn=517c1956e12aedf99cbe3d2d8a9865a2) (发布日期: 2025-11-06)
+- [智能网联汽车网络安全事件分析溯源挑战与思考](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628305&idx=3&sn=730fe8e3687484ae60aa61086e56ed47) (发布日期: 2025-11-06)
+- [如何将提问变为攻击？Claude Desktop 的严重 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693) (发布日期: 2025-11-06)
+- [LockBit 5.0 独家采访：勒索软件帝国的\"重生\"](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247503990&idx=2&sn=4acb4d0b84e1ef8e58ff06f7f8d08b24) (发布日期: 2025-11-06)
+- [《Web漏洞分析与防范实战》套装全2册来了！](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872800&idx=2&sn=fad4c7546ddd38a33fbdae03bf6f61d0) (发布日期: 2025-11-06)
+- [十三载安全守护：山石网科护航物流企业安全进化之路](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303750&idx=1&sn=699e31e8aa40e0448115f28ba93d8460) (发布日期: 2025-11-06)
+- [Windows Server WSUS高危漏洞遭在野利用](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585178&idx=2&sn=316d25dca1d9667e401962858e65f20b) (发布日期: 2025-11-06)
+- [安全快报 | 黑客组织针对俄罗斯和白俄罗斯国防部门利用钓鱼电子邮件部署Tor后门以窃取情报](https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247493316&idx=1&sn=09796a4653c7a4814f65022f724e8eb3) (发布日期: 2025-11-06)
+- [北京发布数据要素综合试验区实施意见，强化多维度数据安全保障](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247580870&idx=1&sn=c2baca20f0fac2690fdfac50e9fca670) (发布日期: 2025-11-06)
 
 
 ## 🎯 威胁详情分析
@@ -97,40 +84,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7个 ChatGPT 漏洞使 AI 系统易受间接提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97) |
-| 2 | Go模糊测试实战：原理解剖+CVE漏洞挖掘过程复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNDUzNDExMQ==&mid=2247485851&idx=1&sn=e72e66912e2c7f4bf56663052bb7b3b8](https://mp.weixin.qq.com/s?__biz=MzAwNDUzNDExMQ==&mid=2247485851&idx=1&sn=e72e66912e2c7f4bf56663052bb7b3b8) |
-| 3 | 你是说甲方让我测他们的漏洞靶场，然后出渗透报告？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493046&idx=1&sn=70a0ed5b23b34abbdba14722847959f9](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493046&idx=1&sn=70a0ed5b23b34abbdba14722847959f9) |
-| 4 | Blink渲染引擎漏洞可在60秒内导致Chromium内核浏览器崩溃，PoC已公开 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248571&idx=1&sn=49cc99a4112fd116c9b1ed8ec1623114](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248571&idx=1&sn=49cc99a4112fd116c9b1ed8ec1623114) |
-| 5 | 【SRC实战】只给了800的严重漏洞（加码） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa) |
-| 6 | 2025-11-06 最新CVE漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487673&idx=1&sn=6d8f81a6d7bd45759b320ce5c1c88c5e](https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487673&idx=1&sn=6d8f81a6d7bd45759b320ce5c1c88c5e) |
+| 1 | “双11”反诈指南：警惕“退款理赔”与“百万保障”新骗局；加密货币价格飙升引发PHP漏洞利用潮,攻击者大规模部署挖矿程序| 牛览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139243&idx=2&sn=32e0c1ef5dee1a75ee8846f1987f2cd1](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139243&idx=2&sn=32e0c1ef5dee1a75ee8846f1987f2cd1) |
+| 2 | 《Web漏洞分析与防范实战》套装全2册来了！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517568&idx=1&sn=a28a18f9cdf9d2b01c017319b798ded6](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517568&idx=1&sn=a28a18f9cdf9d2b01c017319b798ded6) |
+| 3 | 鸡肋 Codebuddy RCE漏洞 450元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18](https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18) |
+| 4 | 信息安全漏洞月报（2025年10月） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463827&idx=1&sn=8c36b0ccdd5b178162d06ba80297656c](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463827&idx=1&sn=8c36b0ccdd5b178162d06ba80297656c) |
+| 5 | 如何将提问变为攻击？Claude Desktop 的严重 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693) |
+| 6 | 《Web漏洞分析与防范实战》套装全2册来了！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872800&idx=2&sn=fad4c7546ddd38a33fbdae03bf6f61d0](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872800&idx=2&sn=fad4c7546ddd38a33fbdae03bf6f61d0) |
+| 7 | Windows Server WSUS高危漏洞遭在野利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585178&idx=2&sn=316d25dca1d9667e401962858e65f20b](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585178&idx=2&sn=316d25dca1d9667e401962858e65f20b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 7个 ChatGPT 漏洞使 AI 系统易受间接提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486754&idx=1&sn=531af3649ed8bfbe36d77c2e060c2a97) |
-| 2 | XSS绕过WAF的小花招 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQ4Nzg0Mg==&mid=2247484033&idx=1&sn=527a9fec09c6c3fb3929076e9901583b](https://mp.weixin.qq.com/s?__biz=MzE5ODQ4Nzg0Mg==&mid=2247484033&idx=1&sn=527a9fec09c6c3fb3929076e9901583b) |
-| 3 | 大模型提示词注入实战—通过在线靶场看提示词注入手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508203&idx=1&sn=c691164edc73065409d588a641813313](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508203&idx=1&sn=c691164edc73065409d588a641813313) |
-| 4 | Azure WAF XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488296&idx=1&sn=d4e9113e5814972d4b8857ba04eb0985](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488296&idx=1&sn=d4e9113e5814972d4b8857ba04eb0985) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 紧急！朝鲜APT双雄（Kimsuky 和 Lazarus）出手，新后门攻陷韩国、加拿大目标，这些伪装手法要警惕！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487117&idx=1&sn=f08d58d99fd45aba601dce5d1925eaf3](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487117&idx=1&sn=f08d58d99fd45aba601dce5d1925eaf3) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SRC培训的那些“坑” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488981&idx=1&sn=43571af7fbc6bd3a4c82f7387b4c8b42](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247488981&idx=1&sn=43571af7fbc6bd3a4c82f7387b4c8b42) |
-| 2 | 【SRC实战】只给了800的严重漏洞（加码） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa](https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247499032&idx=1&sn=31cb67770ffd604b5721705cea21dbaa) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 媒体巨头日经新闻发生大规模数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504362&idx=2&sn=6fc456129320a59af7b6fa94f2f7836e](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504362&idx=2&sn=6fc456129320a59af7b6fa94f2f7836e) |
+| 1 | 鸡肋 Codebuddy RCE漏洞 450元 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18](https://mp.weixin.qq.com/s?__biz=Mzg4MTgyOTY5MQ==&mid=2247484482&idx=1&sn=51ef1b8fe8fbe68c2522babbd4403a18) |
+| 2 | 如何将提问变为攻击？Claude Desktop 的严重 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693](https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650262229&idx=1&sn=18c61134364cec5b90a2e1fff13e9693) |
 
 
 ## 📁 归档路径
@@ -146,8 +113,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -156,5 +123,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-06 04:26:15*
+*生成时间: 2025-11-06 08:27:27*
 *报告工具: 微信文章安全归档系统*
