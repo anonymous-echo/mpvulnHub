@@ -1,4 +1,4 @@
-# 2025-11-08 安全威胁态势报告
+# 2025-11-09 安全威胁态势报告
 
 ## 📊 数据概览
 
@@ -9,11 +9,10 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 1篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,10 +61,10 @@
 
 ### Doonsec
 
-- [实战几个比较有意思的SQL注入](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521286&idx=1&sn=85292933bd9085b6b2e801f9261a1418) (发布日期: 2025-11-08)
-- [一名合格红队的成长之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521286&idx=2&sn=109392ee38532c3c94b0b74154c9092b) (发布日期: 2025-11-08)
-- [一款适用于Windows的漏洞库知识库批量下载与更新工具](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486392&idx=1&sn=c54fbfc68bbd4abac39d7424c51e4b26) (发布日期: 2025-11-08)
-- [XXE漏洞狩猎清单：掌握这7种Payload，告别“一无所获”](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797325&idx=1&sn=9e272c1790005e498e1b6d73bbc1544e) (发布日期: 2025-11-08)
+- [websocket的ws与wss传输](https://mp.weixin.qq.com/s?__biz=MzkxMjYyMjA3Mg==&mid=2247485517&idx=1&sn=3ce859797049e2019382298fdb195165) (发布日期: 2025-11-09)
+- [【实操必备】docker快速搭建六大漏洞靶场，新手速成！](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484165&idx=1&sn=865a9c5695e589a4fd798523d72a18a4) (发布日期: 2025-11-09)
+- [羊城晚报社会招聘信息安全工程师](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507264&idx=1&sn=3fd8e47900c4edb638978f324dcbe4bc) (发布日期: 2025-11-09)
+- [内网渗透工具：关于Rubeus的使用指南](https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485743&idx=1&sn=882c65cd27bb5890e130acd0d1eac763) (发布日期: 2025-11-09)
 
 
 ## 🎯 威胁详情分析
@@ -74,19 +73,18 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一款适用于Windows的漏洞库知识库批量下载与更新工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486392&idx=1&sn=c54fbfc68bbd4abac39d7424c51e4b26](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486392&idx=1&sn=c54fbfc68bbd4abac39d7424c51e4b26) |
-| 2 | XXE漏洞狩猎清单：掌握这7种Payload，告别“一无所获” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797325&idx=1&sn=9e272c1790005e498e1b6d73bbc1544e](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797325&idx=1&sn=9e272c1790005e498e1b6d73bbc1544e) |
+| 1 | 【实操必备】docker快速搭建六大漏洞靶场，新手速成！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484165&idx=1&sn=865a9c5695e589a4fd798523d72a18a4](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484165&idx=1&sn=865a9c5695e589a4fd798523d72a18a4) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 实战几个比较有意思的SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521286&idx=1&sn=85292933bd9085b6b2e801f9261a1418](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521286&idx=1&sn=85292933bd9085b6b2e801f9261a1418) |
+| 1 | 内网渗透工具：关于Rubeus的使用指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485743&idx=1&sn=882c65cd27bb5890e130acd0d1eac763](https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485743&idx=1&sn=882c65cd27bb5890e130acd0d1eac763) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W45/2025-11-08/`
+文章已归档到: `doc/2025/2025-11/2025-W45/2025-11-09/`
 
 ## 🔗 数据源说明
 
@@ -97,8 +95,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -107,5 +105,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-08 16:21:36*
+*生成时间: 2025-11-09 01:40:24*
 *报告工具: 微信文章安全归档系统*
