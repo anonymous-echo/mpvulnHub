@@ -2,23 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 4篇
-- **威胁情报**: 2篇
-- **安全运营**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,25 +60,10 @@
 
 ### Doonsec
 
-- [【攻防实战】代码审计Getshell联动Cobalt Strike打穿三层内网(下)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504791&idx=1&sn=ba1a4f403b22de0e85155e84d3c9684a) (发布日期: 2025-11-09)
-- [《云原生安全攻防》-- K8s集群安全事件响应](https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247485905&idx=1&sn=8dba72c85d854a5115877f717fdf1b8e) (发布日期: 2025-11-09)
-- [以AI反制AI：AI红队大模型jailbreak越狱攻击](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486485&idx=1&sn=244534810178fb7c12db1cee48b03232) (发布日期: 2025-11-09)
-- [【安全圈】QNAP 紧急修复7大零日漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541) (发布日期: 2025-11-09)
-- [【安全圈】弱口令致门户网站遭篡改案](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=3&sn=9a6cbdb297f4c5474dae3b47e0470fca) (发布日期: 2025-11-09)
-- [彭博社专访CertiK创始人顾荣辉：贸易环境与监管进展重塑加密市场走向](https://mp.weixin.qq.com/s?__biz=MzU5OTg4MTIxMw==&mid=2247504795&idx=1&sn=13f690ce85c08c7ca8f4ffc89f68e155) (发布日期: 2025-11-09)
-- [针对与美国NSA相关的方程式APT组织攻击组件分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150) (发布日期: 2025-11-09)
-- [记一次edusrc漏洞8rank的简单挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6) (发布日期: 2025-11-09)
-- [攻击者利用Active Directory站点实现权限提升与域控沦陷](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=1&sn=67b18ae7a26803443ad8018a0cf906fe) (发布日期: 2025-11-09)
-- [每周PDF资源：AMS无人值守系统建设与效能提升；SSRF自动化发掘工具；内网渗透测试基础；如何重塑智能网联汽车安全](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=2&sn=834646c762e337fc8510eaa465e3c434) (发布日期: 2025-11-09)
-- [expr-eval JavaScript 库中的漏洞可能导致远程代码执行](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e) (发布日期: 2025-11-09)
-- [Venom C2 是一个无依赖的 Python3 命令与控制框架，用于红队持久化](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=3&sn=582dff620e9988588f2201722d613d22) (发布日期: 2025-11-09)
-- [LuBian矿池遭黑客攻击被窃取巨额比特币事件技术溯源分析报告](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294011&idx=1&sn=a7c1a0d1d0d13481cebb1c97dd3621f3) (发布日期: 2025-11-09)
-- [基于汽车领域 TARA 的有效漏洞优先级排序](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628432&idx=3&sn=3bbfdbda04a30cad916a7610313b1ab6) (发布日期: 2025-11-09)
-- [2025HW红队作战工具推荐](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575586&idx=1&sn=2f5e8de33c1121e3819174a9e45fa2e2) (发布日期: 2025-11-09)
-- [网络安全系统培训！年底大优惠，11重好礼即将截止！](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575586&idx=2&sn=700e85f15e2762aae01e35c87844e9a5) (发布日期: 2025-11-09)
-- [《云原生安全攻防》-- K8s集群安全事件响应](https://mp.weixin.qq.com/s?__biz=MzA3NzE2MjgwMg==&mid=2448909805&idx=1&sn=d898d620eae1f60384de6baf5c6bf1d9) (发布日期: 2025-11-09)
-- [【揭秘】好靶场的应急响应靶场制作的坑](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524892&idx=1&sn=f0245284c23148164c56e47ecb80f124) (发布日期: 2025-11-09)
-- [鸿蒙(HarmonyOS)应用安全检测平台](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499048&idx=1&sn=40261c471d0dc4f461e7422348601ef5) (发布日期: 2025-11-09)
+- [TIFS 2025 | 基于指令流增强型CFG的恶意软件变种检测图学习](https://mp.weixin.qq.com/s?__biz=MzkyNzQ1NzI4MA==&mid=2247485910&idx=1&sn=fd517502a1370ffb7b33b31c660151c2) (发布日期: 2025-11-09)
+- [四阶段、12项任务、7大核心能力：智能免疫架构落地全景解析（这才是新一代网络安全架构系列之二）](https://mp.weixin.qq.com/s?__biz=MjM5MDk4OTk0NA==&mid=2650126769&idx=1&sn=03dec16841a6e53ef18bce977e7313d6) (发布日期: 2025-11-09)
+- [文末送《Web漏洞分析与防范实战》带你回到黑客梦开始的地方！](https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247491709&idx=1&sn=c44dc784996717a3b78bfa43cbcca570) (发布日期: 2025-11-09)
+- [国家标准支撑《网络数据安全管理条例》生效施行（v1.0）](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247637938&idx=1&sn=3ff4944b64f1c97c2be1820ad0a65bed) (发布日期: 2025-11-09)
 
 
 ## 🎯 威胁详情分析
@@ -94,38 +72,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】QNAP 紧急修复7大零日漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072656&idx=2&sn=98caa55fb6a7d4eab9cd8a415acc1541) |
-| 2 | 记一次edusrc漏洞8rank的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6) |
-| 3 | expr-eval JavaScript 库中的漏洞可能导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e) |
-| 4 | 基于汽车领域 TARA 的有效漏洞优先级排序 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628432&idx=3&sn=3bbfdbda04a30cad916a7610313b1ab6](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628432&idx=3&sn=3bbfdbda04a30cad916a7610313b1ab6) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【攻防实战】代码审计Getshell联动Cobalt Strike打穿三层内网(下) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504791&idx=1&sn=ba1a4f403b22de0e85155e84d3c9684a](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504791&idx=1&sn=ba1a4f403b22de0e85155e84d3c9684a) |
-| 2 | 攻击者利用Active Directory站点实现权限提升与域控沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=1&sn=67b18ae7a26803443ad8018a0cf906fe](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=1&sn=67b18ae7a26803443ad8018a0cf906fe) |
-| 3 | 每周PDF资源：AMS无人值守系统建设与效能提升；SSRF自动化发掘工具；内网渗透测试基础；如何重塑智能网联汽车安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=2&sn=834646c762e337fc8510eaa465e3c434](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330033&idx=2&sn=834646c762e337fc8510eaa465e3c434) |
-| 4 | expr-eval JavaScript 库中的漏洞可能导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533498&idx=2&sn=e6144f8518962086d4b156bda9cbc94e) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 针对与美国NSA相关的方程式APT组织攻击组件分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150) |
-| 2 | 【揭秘】好靶场的应急响应靶场制作的坑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524892&idx=1&sn=f0245284c23148164c56e47ecb80f124](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247524892&idx=1&sn=f0245284c23148164c56e47ecb80f124) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记一次edusrc漏洞8rank的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247485929&idx=1&sn=2747540464ccff665c889c10ad6d98a6) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 针对与美国NSA相关的方程式APT组织攻击组件分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494222&idx=1&sn=0e4b0da92dc3c8a37dfb5f0423aa7150) |
+| 1 | 文末送《Web漏洞分析与防范实战》带你回到黑客梦开始的地方！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247491709&idx=1&sn=c44dc784996717a3b78bfa43cbcca570](https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247491709&idx=1&sn=c44dc784996717a3b78bfa43cbcca570) |
 
 
 ## 📁 归档路径
@@ -141,8 +88,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -151,5 +98,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-09 12:36:03*
+*生成时间: 2025-11-09 16:21:08*
 *报告工具: 微信文章安全归档系统*
