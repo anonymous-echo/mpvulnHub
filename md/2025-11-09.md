@@ -2,21 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 8篇
-  - BruceFeIix: 3篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **安全运营**: 3篇
-- **攻击技术**: 1篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +60,12 @@
 
 ### Doonsec
 
-- [某PHP系统前台代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e) (发布日期: 2025-11-09)
-- [Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483842&idx=1&sn=f8ead5ae5379af874ec31763ddada9d6) (发布日期: 2025-11-09)
-- [四箭齐发！安恒信息于乌镇纵论AI前沿、海峡两岸、数字经济、企业安全运营话题](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650637658&idx=1&sn=32903eaf86105efe51f2a81356ddbace) (发布日期: 2025-11-09)
-- [企业SRC支付漏洞&EDUSRC&众测挖掘思路技巧操作分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8) (发布日期: 2025-11-09)
-- [怎么开始挖SRC？](https://mp.weixin.qq.com/s?__biz=MzE5MTI5MDc1Mg==&mid=2247484186&idx=1&sn=5a69d61253b1733917ce23011baeef67) (发布日期: 2025-11-09)
-- [勒索软件杀到3.0时代：LLM当全自动攻击指挥官，传统杀毒软件直接失灵](https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247486770&idx=2&sn=5be4d4152a9e8fe33b298374829a1cd1) (发布日期: 2025-11-09)
-- [国外Agentic SOC平台落地实践经验](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485077&idx=1&sn=783462a370831771062d185c41e3a1b7) (发布日期: 2025-11-09)
-- [主流AI浏览器普遍存在致命漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613143&idx=2&sn=13d678c179ebcb5fcc388f3047a607da) (发布日期: 2025-11-09)
-
-### BruceFeIix
-
-- [ ] [2025年四川警察学院电子数据取证分析大比武——服务器](https://mp.weixin.qq.com/s?__biz=MzYyNTgyMjY2NQ==&mid=2247484186&idx=1&sn=85782258ee87485063b18a8436fb5b3e) (发布日期: 2025-11-09)
-- [ ] [追逐银狐：内核阴影中的猫鼠游戏](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=1&sn=2b18ae21f22778841d17bbd4da343ef5) (发布日期: 2025-11-09)
-- [ ] [威胁日简报：恶意软件、僵尸网络、GDI漏洞、选举攻击等中的人工智能工具](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=2&sn=ee990f9f76d32a9a9ebd4be3a4020b4b) (发布日期: 2025-11-09)
+- [java代码审计基础-java反射(二)](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492957&idx=1&sn=73afba4e9ecf2af05334eac9df754548) (发布日期: 2025-11-09)
+- [恶意软件系列第一季ruby恶意软件开发入门视频教程更新到第9节啦](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508094&idx=1&sn=d4e33b5933acc3740919397e5a1e55a7) (发布日期: 2025-11-09)
+- [系统集成环境下的数据安全威胁与防护策略](https://mp.weixin.qq.com/s?__biz=MzIzNTEzNzIyMA==&mid=2247487047&idx=1&sn=66bfd76099f4ccf54c3706ab3cc191c7) (发布日期: 2025-11-09)
+- [关注 | 国家标准支撑《网络数据安全管理条例》生效施行（v1.0）](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=3&sn=d23f3d3e9cd04b063b031a949380937e) (发布日期: 2025-11-09)
+- [关注 | 市场监管总局指导8家平台企业发起食品安全管理自律公约](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664252785&idx=4&sn=d73479d5d3788571f005d228bbf3a051) (发布日期: 2025-11-09)
+- [存储桶解析漏洞](https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483820&idx=1&sn=31a2a18ccc79cfed173d910fd63d0bdf) (发布日期: 2025-11-09)
 
 
 ## 🎯 威胁详情分析
@@ -87,31 +74,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某PHP系统前台代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e) |
-| 2 | Laravel Framework 8到11版本存在敏感信息泄露漏洞CVE-2024-29291 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483842&idx=1&sn=f8ead5ae5379af874ec31763ddada9d6](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483842&idx=1&sn=f8ead5ae5379af874ec31763ddada9d6) |
-| 3 | 企业SRC支付漏洞&EDUSRC&众测挖掘思路技巧操作分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8) |
-| 4 | 主流AI浏览器普遍存在致命漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613143&idx=2&sn=13d678c179ebcb5fcc388f3047a607da](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613143&idx=2&sn=13d678c179ebcb5fcc388f3047a607da) |
-| 5 |  ] [威胁日简报：恶意软件、僵尸网络、GDI漏洞、选举攻击等中的人工智能工具 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=2&sn=ee990f9f76d32a9a9ebd4be3a4020b4b](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=2&sn=ee990f9f76d32a9a9ebd4be3a4020b4b) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某PHP系统前台代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487592&idx=1&sn=ad5e225021f8b6f0536f4d563f4f631e) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 |  ] [追逐银狐：内核阴影中的猫鼠游戏 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=1&sn=2b18ae21f22778841d17bbd4da343ef5](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533471&idx=1&sn=2b18ae21f22778841d17bbd4da343ef5) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 四箭齐发！安恒信息于乌镇纵论AI前沿、海峡两岸、数字经济、企业安全运营话题 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650637658&idx=1&sn=32903eaf86105efe51f2a81356ddbace](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650637658&idx=1&sn=32903eaf86105efe51f2a81356ddbace) |
-| 2 | 企业SRC支付漏洞&EDUSRC&众测挖掘思路技巧操作分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499044&idx=1&sn=00039a6dc019d2c44386790cb47123a8) |
-| 3 | 怎么开始挖SRC？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5MTI5MDc1Mg==&mid=2247484186&idx=1&sn=5a69d61253b1733917ce23011baeef67](https://mp.weixin.qq.com/s?__biz=MzE5MTI5MDc1Mg==&mid=2247484186&idx=1&sn=5a69d61253b1733917ce23011baeef67) |
+| 1 | 存储桶解析漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483820&idx=1&sn=31a2a18ccc79cfed173d910fd63d0bdf](https://mp.weixin.qq.com/s?__biz=MzE5MTMwODY0NQ==&mid=2247483820&idx=1&sn=31a2a18ccc79cfed173d910fd63d0bdf) |
 
 
 ## 📁 归档路径
@@ -127,8 +90,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -137,5 +100,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-09 04:21:56*
+*生成时间: 2025-11-09 08:21:52*
 *报告工具: 微信文章安全归档系统*
