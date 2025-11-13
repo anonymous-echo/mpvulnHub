@@ -2,25 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 32
+- **总文章数**: 20
 - **数据源分布**:
-  - Doonsec: 28篇
-  - BruceFeIix: 4篇
+  - Doonsec: 20篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 5篇
-- **安全运营**: 3篇
-- **威胁情报**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 2篇
 
 ### 漏洞类型分析
-- **Web安全**: 3篇
-- **应用漏洞**: 2篇
-- **网络攻击**: 2篇
+- **Web安全**: 1篇
 - **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -69,41 +65,26 @@
 
 ### Doonsec
 
-- [“国家授时中心”网攻事件中的模块化后门植入原理分析](https://mp.weixin.qq.com/s?__biz=MzAwNDUzNDExMQ==&mid=2247485888&idx=1&sn=e240d6e1c3b4ea09bdbac2b65e006647) (发布日期: 2025-11-13)
-- [中国软件评测中心联合数世咨询发布：《2025中国数据安全企业全景图》](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540813&idx=1&sn=4f578ce069d137c322819e47827be516) (发布日期: 2025-11-13)
-- [紧急预警！FIN11 APT组织通过Clop 用零日漏洞攻破 Oracle EBS，施耐德电气等巨头应声中招](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e) (发布日期: 2025-11-13)
-- [高危 GitLab XSS 漏洞 (CVE-2025-11224) 可能导致 Kubernetes 代理会话劫持](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2) (发布日期: 2025-11-13)
-- [恶意软件系列-工具类添加gsocket隧道技术与源码分析](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508172&idx=1&sn=37bc71c437bd83daecc2e576e7ec7787) (发布日期: 2025-11-13)
-- [macOS 微内核 | 用于注入的 IPC 消息](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508172&idx=2&sn=11e3eb0f4a9ca0ab940f85208cef6b08) (发布日期: 2025-11-13)
-- [红队快速扫描js文件检查工具 -- jsapiscan（11月13日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517584&idx=1&sn=a8039abadb6d3d28df7084022c4ff7f7) (发布日期: 2025-11-13)
-- [高级黑客利用 Cisco 与 Citrix 零日漏洞发起定向攻击](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486782&idx=1&sn=37cb33fc6f72716b042979083c0770e5) (发布日期: 2025-11-13)
-- [《奇安信SRC产品漏洞评级标准V3.2》](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c) (发布日期: 2025-11-13)
-- [安全小知识-第十一期_交易支付逻辑漏洞](https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483994&idx=1&sn=c658787f06d836dec40bce9068367f47) (发布日期: 2025-11-13)
-- [从数字化迅速扩张导致的不均衡发展看数据泄露问题](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494130&idx=1&sn=29bce48806f04d0ab2df61a5e1e569a9) (发布日期: 2025-11-13)
-- [CNNVD关于微软多个安全漏洞的通报](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463846&idx=1&sn=6b6e911f0ef82810e25b9495ea9e64f8) (发布日期: 2025-11-13)
-- [Citrix NetScaler内存泄露与反射型XSS漏洞 CVE-2025-12101](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5) (发布日期: 2025-11-13)
-- [【复现】TongWeb ejbserver反序列化漏洞风险通告](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484960&idx=1&sn=bb4bce6fbb24e6c7d577576a1950346a) (发布日期: 2025-11-13)
-- [一款面向安全运维场景的集成化利器](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508283&idx=1&sn=6919f7f3ee4cd1b4169d94f9489fba39) (发布日期: 2025-11-13)
-- [【涨知识】Loki远控工具加密流量分析](https://mp.weixin.qq.com/s?__biz=MzU2Mjg1NjY4Nw==&mid=2247490903&idx=1&sn=3e4a8a87e63923195c9c90fb4bebeb5e) (发布日期: 2025-11-13)
-- [2025年9月CISP考试成绩](https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490849&idx=1&sn=d615d4876b651f68eb00003065e24ff0) (发布日期: 2025-11-13)
-- [渗透测试的车联网通信安全与防范措施研究](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628620&idx=3&sn=9d2aed372652cf35aa7f24fa4d478e9b) (发布日期: 2025-11-13)
-- [工信部预警：Morte僵尸网络通过命令注入和暴力破解劫持设备挖矿](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252792&idx=1&sn=da35e7df200727e58fc1c10a90f33736) (发布日期: 2025-11-13)
-- [企业赏金SRC实战中危案例｜收费视频资源突破](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492385&idx=1&sn=828e17bbd03c852609b5fa1b297e0bb5) (发布日期: 2025-11-13)
-- [攻击者利用Active Directory站点实现权限提升与域控沦陷](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248591&idx=1&sn=72dabcb6fb8193de6f9e48fe443589a0) (发布日期: 2025-11-13)
-- [赛事招标丨2026年信息安全攻击红队训练平台租赁服务采购项目](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495075&idx=1&sn=54f5ee3a8d378ee9241b407e87c8bd14) (发布日期: 2025-11-13)
-- [“关于2025年全国行业职业技能竞赛—第四届全国数据安全职业技能竞赛暨第四届全国安防行业职业技能竞赛预通知”](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495075&idx=3&sn=4f2f334ad517ebbf9de1de6360483169) (发布日期: 2025-11-13)
-- [【竞赛进行时】2025北京市职工职业技能大赛数据安全管理员竞赛暨“网安联杯”首届数据安全管理员职业技能竞赛（复赛）顺利进行](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495075&idx=4&sn=364e7d05a7993ed4dde4538b00a166ea) (发布日期: 2025-11-13)
-- [APP 渗透测试技巧大汇总！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527908&idx=1&sn=50b4ece787ee8ff894771c47ffa4905d) (发布日期: 2025-11-13)
-- [银狐钓鱼邮件（真实案例）](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485097&idx=1&sn=053ac199fcac6330b5e3a357f06a2dae) (发布日期: 2025-11-13)
-- [【喜报】记某SRC的双十一活动，到账400](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486709&idx=1&sn=2a167181262f4d025a052a0504f658cf) (发布日期: 2025-11-13)
-- [渗透测试必备---Kali渗透实战：3分钟搞定Kali_Linux安装，Kali常见渗透工具介绍--超详细，从零基础入门到精通。](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487262&idx=1&sn=d04745545bf1fe6c600218c873f70189) (发布日期: 2025-11-13)
-
-### BruceFeIix
-
-- [ ] [医保清零、房东税、强制社保？三大民生谣言的真相与信息安全警示；隐私保护倒退？欧盟拟修订GDPR和AI法案 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139296&idx=2&sn=fb8705e3b4f5d9da5dbe003de37f4020) (发布日期: 2025-11-13)
-- [ ] [中国软件评测中心联合数世咨询发布：《2025中国数据安全企业全景图》](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540805&idx=1&sn=205ee5be4fc5308b8ea401b45691ac32) (发布日期: 2025-11-13)
-- [ ] [如何从漏洞管理升级到暴露面管理](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485769&idx=1&sn=a34faa266b8d8c0bde76edb3d3631726) (发布日期: 2025-11-13)
-- [ ] [链接一批优质的数据安全岗位及安全人才｜11月12日更新](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238127&idx=1&sn=a6f1cfe664981c4546d984b50d1769cf) (发布日期: 2025-11-13)
+- [分发带有合法签名、伪装成 Steam 清理工具的后门恶意软件](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=1&sn=d7e349567a8fea761a462e68e8be7a16) (发布日期: 2025-11-13)
+- [CERT/CC 警告 Lite XL 文本编辑器存在代码执行漏洞（CVE-2025-12120、CVE-2025-12121）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9) (发布日期: 2025-11-13)
+- [Windows远程桌面服务漏洞允许攻击者提升权限](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=3&sn=85515815d0c7bba11137b1a1c61c5584) (发布日期: 2025-11-13)
+- [安全架构师的自我修炼：从原则到实践](https://mp.weixin.qq.com/s?__biz=MzUyNTUyNTA5OQ==&mid=2247485934&idx=1&sn=5c78e9eb82a58938bd5c0c64be2aa748) (发布日期: 2025-11-13)
+- [Gartner 2025年SIEM市场分析](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247486307&idx=1&sn=6b74c2391c7d20c4e42cd6fcfc6b65b5) (发布日期: 2025-11-13)
+- [【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞安全通告](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914) (发布日期: 2025-11-13)
+- [《AI时代勒索软件威胁与防护技术应用指南》报告启动推文](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139309&idx=2&sn=5a692e204c3dd3c73473049c260365b3) (发布日期: 2025-11-13)
+- [CVE-2025-9415 漏洞分析：GreenCMS任意文件上传（Upload）及其他漏洞研究-第二部分](https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485739&idx=1&sn=252dc8891b13e6a0eb75a30e1ea5ab1d) (发布日期: 2025-11-13)
+- [网络监控：超百台飞塔防火墙实现标准化监控告警最佳实践](https://mp.weixin.qq.com/s?__biz=MzIzNjU5NDE2MA==&mid=2247491373&idx=1&sn=3c637dc121d0edefe81cd8487a6ff920) (发布日期: 2025-11-13)
+- [【蓝队】一款功能强大的专业暗链扫描工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493848&idx=1&sn=8cde369fac73a18b71ff3c4e66c5024e) (发布日期: 2025-11-13)
+- [微软封杀KMS激活漏洞！KMS38时代终结，HWID成激活新救星](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504106&idx=1&sn=2af419013ad47199255489a54ccf7800) (发布日期: 2025-11-13)
+- [【已复现】Windows 任务主机进程权限提升漏洞(CVE-2025-60710)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504145&idx=1&sn=e87ffc546abe4fc51baa1e751a82f076) (发布日期: 2025-11-13)
+- [8家银行因违反网络安全 数据安全规定被罚！](https://mp.weixin.qq.com/s?__biz=MzU0Mzk0NDQyOA==&mid=2247522863&idx=1&sn=027e64fbff662a982b9b1c08a3e924d0) (发布日期: 2025-11-13)
+- [喜报丨四叶草安全入选陕西省网络和数据安全技术支撑单位](https://mp.weixin.qq.com/s?__biz=MjM5MTI2NDQzNg==&mid=2654553323&idx=1&sn=c8bf9613c3f61a17fb0d6312a3b16981) (发布日期: 2025-11-13)
+- [模糊测试下的拒绝服务: Windows 内核中的 Rust](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491243&idx=1&sn=b1b00a179323cb6b6227c6b93fa82045) (发布日期: 2025-11-13)
+- [【HVV实战】蓝队-Linux排查](https://mp.weixin.qq.com/s?__biz=MzkxMjc0NDg4NA==&mid=2247484121&idx=1&sn=1f38d08469438223658b60f86e4f86ff) (发布日期: 2025-11-13)
+- [【HVV实战】蓝队-Windows排查](https://mp.weixin.qq.com/s?__biz=MzkxMjc0NDg4NA==&mid=2247484121&idx=2&sn=d5b86be09498e9048a311424e35be424) (发布日期: 2025-11-13)
+- [他想Ddos你](https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247502958&idx=1&sn=8bceb9906773905e0c85e5012705e79e) (发布日期: 2025-11-13)
+- [【成功复现】Lychee路径遍历漏洞(CVE-2025-50202)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503657&idx=1&sn=07fd2e63fb855347089947402d04c5c2) (发布日期: 2025-11-13)
+- [周六开课！CISP-PTE还没有的，团购价来](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247519066&idx=1&sn=a26066eeda0197ba3bd0e00866c2ae06) (发布日期: 2025-11-13)
 
 
 ## 🎯 威胁详情分析
@@ -112,46 +93,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 紧急预警！FIN11 APT组织通过Clop 用零日漏洞攻破 Oracle EBS，施耐德电气等巨头应声中招 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e) |
-| 2 | 高危 GitLab XSS 漏洞 (CVE-2025-11224) 可能导致 Kubernetes 代理会话劫持 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2) |
-| 3 | 高级黑客利用 Cisco 与 Citrix 零日漏洞发起定向攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486782&idx=1&sn=37cb33fc6f72716b042979083c0770e5](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486782&idx=1&sn=37cb33fc6f72716b042979083c0770e5) |
-| 4 | 《奇安信SRC产品漏洞评级标准V3.2》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c) |
-| 5 | 安全小知识-第十一期_交易支付逻辑漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483994&idx=1&sn=c658787f06d836dec40bce9068367f47](https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483994&idx=1&sn=c658787f06d836dec40bce9068367f47) |
-| 6 | CNNVD关于微软多个安全漏洞的通报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463846&idx=1&sn=6b6e911f0ef82810e25b9495ea9e64f8](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463846&idx=1&sn=6b6e911f0ef82810e25b9495ea9e64f8) |
-| 7 | Citrix NetScaler内存泄露与反射型XSS漏洞 CVE-2025-12101 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5) |
-| 8 | 【复现】TongWeb ejbserver反序列化漏洞风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484960&idx=1&sn=bb4bce6fbb24e6c7d577576a1950346a](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484960&idx=1&sn=bb4bce6fbb24e6c7d577576a1950346a) |
-| 9 |  ] [如何从漏洞管理升级到暴露面管理 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485769&idx=1&sn=a34faa266b8d8c0bde76edb3d3631726](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485769&idx=1&sn=a34faa266b8d8c0bde76edb3d3631726) |
+| 1 | CERT/CC 警告 Lite XL 文本编辑器存在代码执行漏洞（CVE-2025-12120、CVE-2025-12121） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9) |
+| 2 | Windows远程桌面服务漏洞允许攻击者提升权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=3&sn=85515815d0c7bba11137b1a1c61c5584](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=3&sn=85515815d0c7bba11137b1a1c61c5584) |
+| 3 | 【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞安全通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914) |
+| 4 | CVE-2025-9415 漏洞分析：GreenCMS任意文件上传（Upload）及其他漏洞研究-第二部分 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485739&idx=1&sn=252dc8891b13e6a0eb75a30e1ea5ab1d](https://mp.weixin.qq.com/s?__biz=MzI5OTQwNjAxNQ==&mid=2247485739&idx=1&sn=252dc8891b13e6a0eb75a30e1ea5ab1d) |
+| 5 | 微软封杀KMS激活漏洞！KMS38时代终结，HWID成激活新救星 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504106&idx=1&sn=2af419013ad47199255489a54ccf7800](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504106&idx=1&sn=2af419013ad47199255489a54ccf7800) |
+| 6 | 【已复现】Windows 任务主机进程权限提升漏洞(CVE-2025-60710)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504145&idx=1&sn=e87ffc546abe4fc51baa1e751a82f076](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504145&idx=1&sn=e87ffc546abe4fc51baa1e751a82f076) |
+| 7 | 【成功复现】Lychee路径遍历漏洞(CVE-2025-50202) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503657&idx=1&sn=07fd2e63fb855347089947402d04c5c2](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503657&idx=1&sn=07fd2e63fb855347089947402d04c5c2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 高危 GitLab XSS 漏洞 (CVE-2025-11224) 可能导致 Kubernetes 代理会话劫持 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2](https://mp.weixin.qq.com/s?__biz=Mzk0NzQ0MjA1OA==&mid=2247485844&idx=1&sn=f61a028e15d0ef96072ea67e58a801f2) |
-| 2 | macOS 微内核 | 用于注入的 IPC 消息 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508172&idx=2&sn=11e3eb0f4a9ca0ab940f85208cef6b08](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508172&idx=2&sn=11e3eb0f4a9ca0ab940f85208cef6b08) |
-| 3 | Citrix NetScaler内存泄露与反射型XSS漏洞 CVE-2025-12101 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486049&idx=1&sn=4ed83dd7772dc41c21352c756afb84c5) |
-| 4 | 工信部预警：Morte僵尸网络通过命令注入和暴力破解劫持设备挖矿 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252792&idx=1&sn=da35e7df200727e58fc1c10a90f33736](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252792&idx=1&sn=da35e7df200727e58fc1c10a90f33736) |
-| 5 | 攻击者利用Active Directory站点实现权限提升与域控沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248591&idx=1&sn=72dabcb6fb8193de6f9e48fe443589a0](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248591&idx=1&sn=72dabcb6fb8193de6f9e48fe443589a0) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 紧急预警！FIN11 APT组织通过Clop 用零日漏洞攻破 Oracle EBS，施耐德电气等巨头应声中招 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487178&idx=1&sn=ac72d5933bee184338a6a3e0af3ae72e) |
-| 2 | 银狐钓鱼邮件（真实案例） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485097&idx=1&sn=053ac199fcac6330b5e3a357f06a2dae](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485097&idx=1&sn=053ac199fcac6330b5e3a357f06a2dae) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 《奇安信SRC产品漏洞评级标准V3.2》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c](https://mp.weixin.qq.com/s?__biz=Mzg5OTYwMTY5MA==&mid=2247522720&idx=2&sn=6fa2d3936c4665413dd9313ba417475c) |
-| 2 | 企业赏金SRC实战中危案例｜收费视频资源突破 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492385&idx=1&sn=828e17bbd03c852609b5fa1b297e0bb5](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492385&idx=1&sn=828e17bbd03c852609b5fa1b297e0bb5) |
-| 3 | 【喜报】记某SRC的双十一活动，到账400 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486709&idx=1&sn=2a167181262f4d025a052a0504f658cf](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486709&idx=1&sn=2a167181262f4d025a052a0504f658cf) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 从数字化迅速扩张导致的不均衡发展看数据泄露问题 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494130&idx=1&sn=29bce48806f04d0ab2df61a5e1e569a9](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494130&idx=1&sn=29bce48806f04d0ab2df61a5e1e569a9) |
+| 1 | CERT/CC 警告 Lite XL 文本编辑器存在代码执行漏洞（CVE-2025-12120、CVE-2025-12121） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533558&idx=2&sn=66e7ac7df04c858165afb95edea81bb9) |
+| 2 | 【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞安全通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492984&idx=1&sn=427515004ded06320d11eb8ca7d04914) |
 
 
 ## 📁 归档路径
@@ -167,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -177,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-13 04:25:43*
+*生成时间: 2025-11-13 08:27:01*
 *报告工具: 微信文章安全归档系统*
