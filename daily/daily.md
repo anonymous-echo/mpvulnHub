@@ -2,22 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 4篇
-- **Web安全**: 2篇
-- **网络攻击**: 1篇
+- **应用漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -66,27 +63,22 @@
 
 ### Doonsec
 
-- [AI大模型+N8N工作流的自动化安全测试流程初探](https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497449&idx=1&sn=9e5a6927b39c680e278a1aec0f0ca2d5) (发布日期: 2025-11-14)
-- [每周安全速递³⁶⁶ | Cephalus组织通过RDP部署勒索软件](https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247497449&idx=2&sn=1ab9f5ca60aa17a2b0dc6ce22bb78657) (发布日期: 2025-11-14)
-- [【漏洞通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6) (发布日期: 2025-11-14)
-- [【TSRC极客论剑系列沙龙回顾】连接信任，共赴山海](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207764&idx=1&sn=1e4f512d47bfd24c85bacb0b63705c82) (发布日期: 2025-11-14)
-- [又又又获奖了-斩获2025年“数据要素X”安全治理奖](https://mp.weixin.qq.com/s?__biz=MzUxODY3MDExMA==&mid=2247490466&idx=1&sn=66149f4505f93168af8b98125f1567d4) (发布日期: 2025-11-14)
-- [CISP-TRE TRS国家注册威胁响应工程师/专家课程介绍](https://mp.weixin.qq.com/s?__biz=Mzg4MDE0MzQzMw==&mid=2247488409&idx=1&sn=3ba0f5b3f592cb24b2e41a5e79fa756f) (发布日期: 2025-11-14)
-- [Jackson反序列化链学习](https://mp.weixin.qq.com/s?__biz=Mzk4ODEwNjkxNg==&mid=2247484262&idx=1&sn=9add7c8fbc6df46556bf1061538b1226) (发布日期: 2025-11-14)
-- [【已复现】东方通 TongWeb 应用服务器 ejbserver 远程代码执行漏洞(QVD-2025-44295)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7) (发布日期: 2025-11-14)
-- [揭秘 XSS Exploitation Tool：跨站脚本漏洞研究与测试利器](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097) (发布日期: 2025-11-14)
-- [安徽江淮汽车：基于渗透测试的车联网通信安全与防范措施](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=1&sn=373f2a8435e365412c2e73d50b4088c1) (发布日期: 2025-11-14)
-- [基于能力成熟度模型的车联网漏洞管理探索](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=3&sn=19c5dedfe4c706740604514a8beb0c07) (发布日期: 2025-11-14)
-- [驻场招聘 | 渗透测试工程师](https://mp.weixin.qq.com/s?__biz=Mzg5MDY2MTUyMA==&mid=2247491962&idx=1&sn=87e819846d658f8a79c721d83452f7cc) (发布日期: 2025-11-14)
-- [端口扫描｜网段探测｜弱口令爆破工具 -- mapsx（11月11日更）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517594&idx=1&sn=2b2174a5abc6e2b6b061bd2d24cdf2c9) (发布日期: 2025-11-14)
-- [.NET 反序列化小工具手工构建指南](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247491286&idx=1&sn=ec4f40c7859e514494b5a2967cb5f5a2) (发布日期: 2025-11-14)
-- [每周高级威胁情报解读(2025.11.07~11.13)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516597&idx=1&sn=37ce295833241692c40eec82645c4e4a) (发布日期: 2025-11-14)
-- [Legit Security推出VibeGuard,首创AI生成代码实时安全防护](https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252799&idx=1&sn=6a17e7a48a1ac94a123b324df838a122) (发布日期: 2025-11-14)
-- [今日分享|GBT46071-2025 数据安全技术+数据安全和个人信息保护社会责任指南](https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487451&idx=1&sn=7aa6ecd439b160024245e6cd197b64ed) (发布日期: 2025-11-14)
-- [ValleyRAT木马利用微信和钉钉针对国内用户发起攻击](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248595&idx=1&sn=61e3b1c742191ea610b199b539eb199d) (发布日期: 2025-11-14)
-- [命令注入执行绕过](https://mp.weixin.qq.com/s?__biz=MzkyMjI3MzU3MA==&mid=2247485014&idx=1&sn=0ca213716a9c3349091ccbdd6fdd0e78) (发布日期: 2025-11-14)
-- [【好靶场】JS加密逆向分析笔记](https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247486713&idx=1&sn=f6955ee1d3a27420b361b2a5ebcde194) (发布日期: 2025-11-14)
-- [致远密码重置漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483933&idx=1&sn=262393950f3242ae4dc3cbe9c99509fc) (发布日期: 2025-11-14)
+- [信息安全漏洞周报【第047期】](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064432&idx=1&sn=0940280b9d9d0c74242f3f2ea94abeb7) (发布日期: 2025-11-14)
+- [能信安：漏洞通告](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491389&idx=1&sn=f638cec35441134932dd577dc9864c19) (发布日期: 2025-11-14)
+- [解密私有云云原生安全：本土化创新与技术成熟度双轮驱动](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139345&idx=1&sn=1f78f18fca097076226e0c61efa5927d) (发布日期: 2025-11-14)
+- [全球联合行动重创三大恶意软件家族,逾千台服务器被捣毁；纽约立法打击\"监控定价\"：算法差异化定价必须明示 | 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139345&idx=2&sn=635574305d18f20acf0f45febeae7291) (发布日期: 2025-11-14)
+- [【HVV实战】蓝队-Linux排查](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485100&idx=1&sn=a9c173dd9e7e5f684d5ad7e04bafa946) (发布日期: 2025-11-14)
+- [木马、僵尸网络怎么防？高校师生专属防护手册](https://mp.weixin.qq.com/s?__biz=MzkyNzc0MzcwMA==&mid=2247484341&idx=1&sn=9819951aba35a67f358e6c3e61c46613) (发布日期: 2025-11-14)
+- [【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a) (发布日期: 2025-11-14)
+- [【工具分享】BurpSuite-Prompt注入智能检测扫描器](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486838&idx=1&sn=817380de4817c863215631cd49e3cfc6) (发布日期: 2025-11-14)
+- [记一次从短信验证码缺陷到发现大量学校管理员弱口令的漏洞](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553335&idx=1&sn=02fe5d03587f25c677951a423284c630) (发布日期: 2025-11-14)
+- [每天3000+告警，处理一个要30分钟——你的安全团队还能撑多久？](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661303989&idx=4&sn=f67a04e4a9c461acdf41cc20e42de405) (发布日期: 2025-11-14)
+- [GlassWorm恶意软件卷土重来 三款新VSCode扩展下载量超万次](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585443&idx=1&sn=0cb8ba4556bfd773ff2afee940998288) (发布日期: 2025-11-14)
+- [CSTIS：关于防范Morte僵尸网络的风险提示](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585443&idx=2&sn=0bdc98d5b387e8b7054218e9de6b37cd) (发布日期: 2025-11-14)
+- [DudeSuite 漏洞更新播报 20251114](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562864&idx=1&sn=66830796e05331965b8de0a69c1979a6) (发布日期: 2025-11-14)
+- [AI 驱动的SecOps：ELK 日志+大模型 Agent 如何重塑应急响应](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486248&idx=1&sn=6313218ed35524b48df2a895f54b4101) (发布日期: 2025-11-14)
+- [EXP-401 OSEE  — 攻击性安全漏洞利用专家](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525722&idx=1&sn=a551200cec387b410ab58bc30758627b) (发布日期: 2025-11-14)
+- [2025年西方甲方威胁情报现状](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486590&idx=1&sn=9a25fb9b72f1575d6795cbb48798cdca) (发布日期: 2025-11-14)
 
 
 ## 🎯 威胁详情分析
@@ -95,32 +87,26 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6) |
-| 2 | 【已复现】东方通 TongWeb 应用服务器 ejbserver 远程代码执行漏洞(QVD-2025-44295)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7) |
-| 3 | 揭秘 XSS Exploitation Tool：跨站脚本漏洞研究与测试利器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097) |
-| 4 | 基于能力成熟度模型的车联网漏洞管理探索 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=3&sn=19c5dedfe4c706740604514a8beb0c07](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628647&idx=3&sn=19c5dedfe4c706740604514a8beb0c07) |
-| 5 | 致远密码重置漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483933&idx=1&sn=262393950f3242ae4dc3cbe9c99509fc](https://mp.weixin.qq.com/s?__biz=Mzg5ODgxMTIzMg==&mid=2247483933&idx=1&sn=262393950f3242ae4dc3cbe9c99509fc) |
+| 1 | 信息安全漏洞周报【第047期】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064432&idx=1&sn=0940280b9d9d0c74242f3f2ea94abeb7](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064432&idx=1&sn=0940280b9d9d0c74242f3f2ea94abeb7) |
+| 2 | 能信安：漏洞通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491389&idx=1&sn=f638cec35441134932dd577dc9864c19](https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491389&idx=1&sn=f638cec35441134932dd577dc9864c19) |
+| 3 | 【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a) |
+| 4 | 记一次从短信验证码缺陷到发现大量学校管理员弱口令的漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553335&idx=1&sn=02fe5d03587f25c677951a423284c630](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553335&idx=1&sn=02fe5d03587f25c677951a423284c630) |
+| 5 | DudeSuite 漏洞更新播报 20251114 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562864&idx=1&sn=66830796e05331965b8de0a69c1979a6](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562864&idx=1&sn=66830796e05331965b8de0a69c1979a6) |
+| 6 | EXP-401 OSEE  — 攻击性安全漏洞利用专家 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525722&idx=1&sn=a551200cec387b410ab58bc30758627b](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525722&idx=1&sn=a551200cec387b410ab58bc30758627b) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞通告】东方通应用服务器Tongweb反序列化远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524760&idx=1&sn=03e44ee319ff12e3aa7defe165dfb4d6) |
-| 2 | 【已复现】东方通 TongWeb 应用服务器 ejbserver 远程代码执行漏洞(QVD-2025-44295)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504154&idx=1&sn=7a02f1c5ca0140088548aeb61ec9c2e7) |
-| 3 | 揭秘 XSS Exploitation Tool：跨站脚本漏洞研究与测试利器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097](https://mp.weixin.qq.com/s?__biz=MzE5ODEwNDM4MA==&mid=2247484247&idx=1&sn=9d07231712ce2dc51a046cf526b7b097) |
-| 4 | 命令注入执行绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjI3MzU3MA==&mid=2247485014&idx=1&sn=0ca213716a9c3349091ccbdd6fdd0e78](https://mp.weixin.qq.com/s?__biz=MzkyMjI3MzU3MA==&mid=2247485014&idx=1&sn=0ca213716a9c3349091ccbdd6fdd0e78) |
+| 1 | 【原创0day】东方通应用服务器 EJB 反序列化远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247527929&idx=1&sn=31fd5f7daaec3267dd4e2adb5996d14a) |
+| 2 | 【工具分享】BurpSuite-Prompt注入智能检测扫描器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486838&idx=1&sn=817380de4817c863215631cd49e3cfc6](https://mp.weixin.qq.com/s?__biz=MzkzODQzNDU5NQ==&mid=2247486838&idx=1&sn=817380de4817c863215631cd49e3cfc6) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 每周高级威胁情报解读(2025.11.07~11.13) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516597&idx=1&sn=37ce295833241692c40eec82645c4e4a](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516597&idx=1&sn=37ce295833241692c40eec82645c4e4a) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【TSRC极客论剑系列沙龙回顾】连接信任，共赴山海 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207764&idx=1&sn=1e4f512d47bfd24c85bacb0b63705c82](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207764&idx=1&sn=1e4f512d47bfd24c85bacb0b63705c82) |
+| 1 | AI 驱动的SecOps：ELK 日志+大模型 Agent 如何重塑应急响应 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486248&idx=1&sn=6313218ed35524b48df2a895f54b4101](https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486248&idx=1&sn=6313218ed35524b48df2a895f54b4101) |
+| 2 | 2025年西方甲方威胁情报现状 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486590&idx=1&sn=9a25fb9b72f1575d6795cbb48798cdca](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486590&idx=1&sn=9a25fb9b72f1575d6795cbb48798cdca) |
 
 
 ## 📁 归档路径
@@ -136,8 +122,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -146,5 +132,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-14 04:23:55*
+*生成时间: 2025-11-14 08:26:49*
 *报告工具: 微信文章安全归档系统*
