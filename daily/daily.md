@@ -2,22 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 23
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 22篇
-  - BruceFeIix: 1篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **威胁情报**: 2篇
-- **信息泄露**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,69 +60,17 @@
 
 ### Doonsec
 
-- [2025 下半年 APT 组织战争全景图：俄黑客瘫痪乌克兰粮仓，朝鲜偷加密货币，伊朗内部钓鱼成功率翻倍](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487217&idx=1&sn=4bbb0e315a2a6b70d545967235c77ce3) (发布日期: 2025-11-15)
-- [【一周安全资讯1115】《大模型一体机产品安全基本要求（征求意见稿）》公开征求意见；工信部：关于防范Morte僵尸网络的风险提示](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508304&idx=1&sn=e7ce5afda8da80f4dc526223d1c0c12c) (发布日期: 2025-11-15)
-- [安天AVL SDK反病毒引擎升级通告（20251115）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650212964&idx=1&sn=e1261934f5666e3ea7da5323115e52b9) (发布日期: 2025-11-15)
-- [Fortinet FortiWeb 认证绕过漏洞 CVE-2025-64446 分析](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486067&idx=1&sn=dc2f86ee323603faf190f8f5bce8a80b) (发布日期: 2025-11-15)
-- [攻防实战思路-不靠0day组合拳拿下目标系统](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493050&idx=1&sn=4b5983d65a088dce65a681550ae7a5ab) (发布日期: 2025-11-15)
-- [黑产也搞“SaaS”了？起底“Fantasy Hub”木马：200刀/周，打包你所有隐私](https://mp.weixin.qq.com/s?__biz=Mzk1NzM4NzMyMw==&mid=2247485309&idx=1&sn=12fe22817add93a8e9f63d081f49e09b) (发布日期: 2025-11-15)
-- [DarkComet 木马伪装成比特币钱包卷土重来|Android 远控木马 Fantasy Hub 以 MaaS 形式售卖](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=1&sn=23770550d6b82b848cb793c36f8814ce) (发布日期: 2025-11-15)
-- [补天漏洞提交助手 - 浏览器插件版](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=3&sn=67d230422b4ea628284ac86204bcabba) (发布日期: 2025-11-15)
-- [【高危漏洞预警】微软11月多个安全漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=4&sn=eed01252a233b8c46ce4309a4a72d28d) (发布日期: 2025-11-15)
-- [非常牛的Web漏洞分析与防范实战技术！](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520646&idx=1&sn=2235b0f9eee8d8426c4da38160ebb136) (发布日期: 2025-11-15)
-- [渗透测试之批量刷洞技巧](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247499398&idx=1&sn=d7f3924a2db97a7f4fe7626a465d3a68) (发布日期: 2025-11-15)
-- [通达OA前台任意用户登录漏洞复现](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487330&idx=1&sn=f9e19f30f6ae64dea0484540c901b738) (发布日期: 2025-11-15)
-- [USB 取证必修课：企业应急响应中的 USB 设备溯源与日志分析](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493731&idx=1&sn=0f2fdc26dd447c6e12af2891aa5a1da3) (发布日期: 2025-11-15)
-- [日立旗下公司数据泄露，领英成钓鱼攻击新温床|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137834&idx=1&sn=994aad3b321529946de3e10f38fc67b8) (发布日期: 2025-11-15)
-- [渗透测试之短信测试](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489159&idx=1&sn=ff3017210378ab4b4256c05dc2074c63) (发布日期: 2025-11-15)
-- [【情报分析】美军2024年与2025年的全球兵力部署有哪些变化？](https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152960&idx=1&sn=cd282c7045b28de4697391fe06a8112b) (发布日期: 2025-11-15)
-- [200页详解能源行业数据安全](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492250&idx=1&sn=92926278131c1cc1e5af66302a684cb2) (发布日期: 2025-11-15)
-- [信息安全团队KPI设定实战指南：从\"救火队\"到\"价值创造者\"的转变](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488035&idx=1&sn=ef5b2726bb806cbffb204381b9d7d69d) (发布日期: 2025-11-15)
-- [华盛顿邮报、哈佛大学数据泄露事件，consen提醒关注Oracle漏洞修复](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486096&idx=1&sn=94d39a574d2f3c21c9d5cab681f27205) (发布日期: 2025-11-15)
-- [科汛新职教网校系统CheckOrder存在SQL注入漏洞  附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054) (发布日期: 2025-11-15)
-- [安全人的价值：不在“修漏洞”，而在“护业务”](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516710&idx=1&sn=57905e771ceb5e1a26dd8d93b54a2542) (发布日期: 2025-11-15)
-- [OWASP Top 10：2025隆重推出](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119500&idx=1&sn=c5ede4fcf3fe2dc3172cb3a5704a12ae) (发布日期: 2025-11-15)
-
-### BruceFeIix
-
-- [ ] [企业安全如何挖掘业务需求？](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238149&idx=1&sn=5daed7d44df3fb263165c10349cfd9d0) (发布日期: 2025-11-15)
+- [棉花糖会员站介绍(25年11月15日版本) 新增在线独立环境内网靶场](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492813&idx=1&sn=0bb0698488bfc8a03b1ed0983be803fd) (发布日期: 2025-11-15)
+- [国家工业信息安全发展研究中心：关于智能网联汽车数据安全治理框架的探究](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628670&idx=1&sn=8234fd04fcf58af412c102fa4e1adb68) (发布日期: 2025-11-15)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Fortinet FortiWeb 认证绕过漏洞 CVE-2025-64446 分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486067&idx=1&sn=dc2f86ee323603faf190f8f5bce8a80b](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486067&idx=1&sn=dc2f86ee323603faf190f8f5bce8a80b) |
-| 2 | 攻防实战思路-不靠0day组合拳拿下目标系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493050&idx=1&sn=4b5983d65a088dce65a681550ae7a5ab](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493050&idx=1&sn=4b5983d65a088dce65a681550ae7a5ab) |
-| 3 | 补天漏洞提交助手 - 浏览器插件版 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=3&sn=67d230422b4ea628284ac86204bcabba](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=3&sn=67d230422b4ea628284ac86204bcabba) |
-| 4 | 【高危漏洞预警】微软11月多个安全漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=4&sn=eed01252a233b8c46ce4309a4a72d28d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613251&idx=4&sn=eed01252a233b8c46ce4309a4a72d28d) |
-| 5 | 非常牛的Web漏洞分析与防范实战技术！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520646&idx=1&sn=2235b0f9eee8d8426c4da38160ebb136](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520646&idx=1&sn=2235b0f9eee8d8426c4da38160ebb136) |
-| 6 | 通达OA前台任意用户登录漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487330&idx=1&sn=f9e19f30f6ae64dea0484540c901b738](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487330&idx=1&sn=f9e19f30f6ae64dea0484540c901b738) |
-| 7 | 华盛顿邮报、哈佛大学数据泄露事件，consen提醒关注Oracle漏洞修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486096&idx=1&sn=94d39a574d2f3c21c9d5cab681f27205](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486096&idx=1&sn=94d39a574d2f3c21c9d5cab681f27205) |
-| 8 | 科汛新职教网校系统CheckOrder存在SQL注入漏洞  附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054) |
-| 9 | 安全人的价值：不在“修漏洞”，而在“护业务” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516710&idx=1&sn=57905e771ceb5e1a26dd8d93b54a2542](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516710&idx=1&sn=57905e771ceb5e1a26dd8d93b54a2542) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 科汛新职教网校系统CheckOrder存在SQL注入漏洞  附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483928&idx=1&sn=6928ceaef5487687da0c1254ddee2054) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 2025 下半年 APT 组织战争全景图：俄黑客瘫痪乌克兰粮仓，朝鲜偷加密货币，伊朗内部钓鱼成功率翻倍 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487217&idx=1&sn=4bbb0e315a2a6b70d545967235c77ce3](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487217&idx=1&sn=4bbb0e315a2a6b70d545967235c77ce3) |
-| 2 | USB 取证必修课：企业应急响应中的 USB 设备溯源与日志分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493731&idx=1&sn=0f2fdc26dd447c6e12af2891aa5a1da3](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493731&idx=1&sn=0f2fdc26dd447c6e12af2891aa5a1da3) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 日立旗下公司数据泄露，领英成钓鱼攻击新温床|一周特辑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137834&idx=1&sn=994aad3b321529946de3e10f38fc67b8](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137834&idx=1&sn=994aad3b321529946de3e10f38fc67b8) |
-| 2 | 华盛顿邮报、哈佛大学数据泄露事件，consen提醒关注Oracle漏洞修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486096&idx=1&sn=94d39a574d2f3c21c9d5cab681f27205](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486096&idx=1&sn=94d39a574d2f3c21c9d5cab681f27205) |
+| 1 | 棉花糖会员站介绍(25年11月15日版本) 新增在线独立环境内网靶场 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492813&idx=1&sn=0bb0698488bfc8a03b1ed0983be803fd](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492813&idx=1&sn=0bb0698488bfc8a03b1ed0983be803fd) |
 
 
 ## 📁 归档路径
@@ -144,8 +86,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -154,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-15 04:22:23*
+*生成时间: 2025-11-15 08:23:31*
 *报告工具: 微信文章安全归档系统*
