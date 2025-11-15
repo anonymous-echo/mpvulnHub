@@ -2,20 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 15篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 12篇
-- **攻击技术**: 9篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,21 +62,11 @@
 
 ### Doonsec
 
-- [【攻防实战】Ueditor编辑器文件上传联动CS远控打穿四层内网(上)](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504886&idx=1&sn=396eda9e49292da3e54e9ed30af9c75b) (发布日期: 2025-11-15)
-- [浅谈Java反射、反序列化漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487947&idx=1&sn=d6d10acafa39b3cc3b391f5002e9a01c) (发布日期: 2025-11-15)
-- [NVIDIA NeMo框架漏洞可允许代码注入与权限提升](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af) (发布日期: 2025-11-15)
-- [思科统一联络中心（CCX）多个漏洞暴露，攻击者可执行任意命令](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=2&sn=7411b33034b209e18125b808d353684e) (发布日期: 2025-11-15)
-- [【安全圈】群晖发布紧急更新，修复 BeeStation 严重远程执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=3&sn=ed845332a76f0967ed40d52ddff0ae59) (发布日期: 2025-11-15)
-- [研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=2&sn=b944c440a5ca14eb9491a63f7df34466) (发布日期: 2025-11-15)
-- [FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874) (发布日期: 2025-11-15)
-- [CVE-2025-61882｜Oracle E-Business Suite 远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e) (发布日期: 2025-11-15)
-- [CVE-2025-11001｜7-Zip远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08) (发布日期: 2025-11-15)
-- [深信服运维管理系统 set_port 远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310) (发布日期: 2025-11-15)
-- [漏洞推送|X华智能物联综合管理平台_receive命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f) (发布日期: 2025-11-15)
-- [文件上传代码审计深度剖析](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525017&idx=1&sn=63e77b032a5c261c715045ff4eadd3cf) (发布日期: 2025-11-15)
-- [Windows TCP/IP 协议栈中存在一个严重的远程代码执行漏洞 (CVE-2025-26686)](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d) (发布日期: 2025-11-15)
-- [Fortinet FortiWeb 管理界面中的路径遍历身份验证绕过漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=2&sn=acba643cf7f56aee70e503bb235302db) (发布日期: 2025-11-15)
-- [.NET 实战攻防电子报刊，从内网基础到高阶实战！](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500904&idx=2&sn=e0463d24ba55233890d32f487a1b81f2) (发布日期: 2025-11-15)
+- [喜报丨江西神舟协办组建的江西省数据安全管理员赛项代表队荣获全国决赛第八名](https://mp.weixin.qq.com/s?__biz=MzUzNTk2NTIyNw==&mid=2247491883&idx=1&sn=87df626c4e44c04cd029da4a9472dabf) (发布日期: 2025-11-15)
+- [中国电信翼支付招募应用安全专家](https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485309&idx=1&sn=86a55afc13f1f768a1b059cb977a883d) (发布日期: 2025-11-15)
+- [研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247638010&idx=2&sn=56672bc938a977e0b6d75b067e285096) (发布日期: 2025-11-15)
+- [漏洞复现 || React Native CLI远程命令执行](https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee) (发布日期: 2025-11-15)
+- [【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（二）](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484858&idx=1&sn=6fd81c53c3ad6b37e79fd74cf9306e77) (发布日期: 2025-11-15)
 
 
 ## 🎯 威胁详情分析
@@ -87,32 +75,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 浅谈Java反射、反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487947&idx=1&sn=d6d10acafa39b3cc3b391f5002e9a01c](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487947&idx=1&sn=d6d10acafa39b3cc3b391f5002e9a01c) |
-| 2 | NVIDIA NeMo框架漏洞可允许代码注入与权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af) |
-| 3 | 思科统一联络中心（CCX）多个漏洞暴露，攻击者可执行任意命令 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=2&sn=7411b33034b209e18125b808d353684e](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=2&sn=7411b33034b209e18125b808d353684e) |
-| 4 | 【安全圈】群晖发布紧急更新，修复 BeeStation 严重远程执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=3&sn=ed845332a76f0967ed40d52ddff0ae59](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072744&idx=3&sn=ed845332a76f0967ed40d52ddff0ae59) |
-| 5 | 研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=2&sn=b944c440a5ca14eb9491a63f7df34466](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=2&sn=b944c440a5ca14eb9491a63f7df34466) |
-| 6 | FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874) |
-| 7 | CVE-2025-61882｜Oracle E-Business Suite 远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e) |
-| 8 | CVE-2025-11001｜7-Zip远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08) |
-| 9 | 深信服运维管理系统 set_port 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310) |
-| 10 | 漏洞推送|X华智能物联综合管理平台_receive命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f) |
-| 11 | Windows TCP/IP 协议栈中存在一个严重的远程代码执行漏洞 (CVE-2025-26686) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d) |
-| 12 | Fortinet FortiWeb 管理界面中的路径遍历身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=2&sn=acba643cf7f56aee70e503bb235302db](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=2&sn=acba643cf7f56aee70e503bb235302db) |
+| 1 | 研究人员发现严重AI漏洞影响Meta、Nvidia及微软推理框架 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247638010&idx=2&sn=56672bc938a977e0b6d75b067e285096](https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247638010&idx=2&sn=56672bc938a977e0b6d75b067e285096) |
+| 2 | 漏洞复现 || React Native CLI远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee](https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee) |
+| 3 | 【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484858&idx=1&sn=6fd81c53c3ad6b37e79fd74cf9306e77](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484858&idx=1&sn=6fd81c53c3ad6b37e79fd74cf9306e77) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【攻防实战】Ueditor编辑器文件上传联动CS远控打穿四层内网(上) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504886&idx=1&sn=396eda9e49292da3e54e9ed30af9c75b](https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504886&idx=1&sn=396eda9e49292da3e54e9ed30af9c75b) |
-| 2 | NVIDIA NeMo框架漏洞可允许代码注入与权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096642&idx=1&sn=6ab07eed8ece1a1378863965a99cb8af) |
-| 3 | FreeBuf周报 | ChatGPT 被诱导自我注入攻击；Windows内核0Day漏洞遭野外利用提权 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330449&idx=4&sn=196d2937587bc55a49abc9ec4f756874) |
-| 4 | CVE-2025-61882｜Oracle E-Business Suite 远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=1&sn=50f7623f882357d6227f63904dff4e7e) |
-| 5 | CVE-2025-11001｜7-Zip远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486217&idx=2&sn=3ea708014c3ff6273fba26cad4853a08) |
-| 6 | 深信服运维管理系统 set_port 远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493266&idx=1&sn=640618f4d8e46de96d0cd54d3bc8a310) |
-| 7 | 漏洞推送|X华智能物联综合管理平台_receive命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485185&idx=1&sn=e846f4388d103d6471fdb8383a56025f) |
-| 8 | Windows TCP/IP 协议栈中存在一个严重的远程代码执行漏洞 (CVE-2025-26686) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533568&idx=1&sn=c551b6914611b0d059306d160c7a8d8d) |
-| 9 | .NET 实战攻防电子报刊，从内网基础到高阶实战！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500904&idx=2&sn=e0463d24ba55233890d32f487a1b81f2](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500904&idx=2&sn=e0463d24ba55233890d32f487a1b81f2) |
+| 1 | 漏洞复现 || React Native CLI远程命令执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee](https://mp.weixin.qq.com/s?__biz=MzI2Mzc3OTg1Ng==&mid=2247492734&idx=1&sn=43c405f96eb308ba15c420ca43b943ee) |
 
 
 ## 📁 归档路径
@@ -128,8 +99,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 12 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -138,5 +109,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-15 12:36:23*
+*生成时间: 2025-11-15 16:21:25*
 *报告工具: 微信文章安全归档系统*
