@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,8 +62,9 @@
 
 ### Doonsec
 
-- [【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（三）](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484862&idx=1&sn=aeaccf3c2026debd6e8c4504621f6b55) (发布日期: 2025-11-16)
-- [iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735) (发布日期: 2025-11-16)
+- [重磅！FortiWeb 新漏洞 CVE-2025-64446 的 PoC 已公开，攻击风险陡升](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492263&idx=1&sn=7a22f6368aa6fb330c86380c4e231f59) (发布日期: 2025-11-16)
+- [RuvarHRM人力资源管理系统存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595) (发布日期: 2025-11-16)
+- [EasyTools渗透测试工具箱V1.9.6更新(支持ctf 杂项流量包一键梭哈功能)](https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484601&idx=1&sn=61f4e990cee0cca43f57677e9d90276f) (发布日期: 2025-11-16)
 
 
 ## 🎯 威胁详情分析
@@ -72,7 +73,14 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（三） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484862&idx=1&sn=aeaccf3c2026debd6e8c4504621f6b55](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484862&idx=1&sn=aeaccf3c2026debd6e8c4504621f6b55) |
+| 1 | 重磅！FortiWeb 新漏洞 CVE-2025-64446 的 PoC 已公开，攻击风险陡升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492263&idx=1&sn=7a22f6368aa6fb330c86380c4e231f59](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492263&idx=1&sn=7a22f6368aa6fb330c86380c4e231f59) |
+| 2 | RuvarHRM人力资源管理系统存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | RuvarHRM人力资源管理系统存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595) |
 
 
 ## 📁 归档路径
@@ -88,7 +96,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -98,5 +106,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-16 16:22:11*
+*生成时间: 2025-11-16 20:20:32*
 *报告工具: 微信文章安全归档系统*
