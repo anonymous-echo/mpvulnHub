@@ -1,19 +1,16 @@
-# 2025-11-17 安全威胁态势报告
+# 2025-11-18 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 5篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -60,36 +57,17 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [【漏洞通告】FortiWeb 路径遍历漏洞(CVE-2025-64446)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524782&idx=1&sn=d07c83a2c3ca1c7b02334f51bafb1135) (发布日期: 2025-11-17)
-- [安全工具分享-AI自主渗透测试平台-CyberStrikeAI](https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490813&idx=1&sn=17123a7c12a0a518cfe2209f8092d046) (发布日期: 2025-11-17)
-- [零点击接管全球顶级博彩平台：未绑定密码重置令牌漏洞深度分析](https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490471&idx=1&sn=c0922dda3e26b9693cfeb099de85ed62) (发布日期: 2025-11-17)
-- [漏洞推送|璐华RuvarHRM人力资源管理软件存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0) (发布日期: 2025-11-17)
-- [【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（四）](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484865&idx=1&sn=325232da10bea5f2e29a7cee48fdb312) (发布日期: 2025-11-17)
+- [ ] [千star开源项目存在恶意代码](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183692&idx=1&sn=6fe0263dcebcea553282bc9cab6a733f) (发布日期: 2025-11-18)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【漏洞通告】FortiWeb 路径遍历漏洞(CVE-2025-64446) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524782&idx=1&sn=d07c83a2c3ca1c7b02334f51bafb1135](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524782&idx=1&sn=d07c83a2c3ca1c7b02334f51bafb1135) |
-| 2 | 零点击接管全球顶级博彩平台：未绑定密码重置令牌漏洞深度分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490471&idx=1&sn=c0922dda3e26b9693cfeb099de85ed62](https://mp.weixin.qq.com/s?__biz=MzkzNzM1MTcwMA==&mid=2247490471&idx=1&sn=c0922dda3e26b9693cfeb099de85ed62) |
-| 3 | 漏洞推送|璐华RuvarHRM人力资源管理软件存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0) |
-| 4 | 【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（四） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484865&idx=1&sn=325232da10bea5f2e29a7cee48fdb312](https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484865&idx=1&sn=325232da10bea5f2e29a7cee48fdb312) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 漏洞推送|璐华RuvarHRM人力资源管理软件存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485202&idx=1&sn=1d7478f87397181fa54c8ee8345dd4f0) |
-
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W47/2025-11-17/`
+文章已归档到: `doc/2025/2025-11/2025-W47/2025-11-18/`
 
 ## 🔗 数据源说明
 
@@ -100,8 +78,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -110,5 +88,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-17 16:27:27*
+*生成时间: 2025-11-18 04:24:12*
 *报告工具: 微信文章安全归档系统*
