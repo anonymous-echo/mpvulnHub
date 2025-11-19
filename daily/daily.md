@@ -2,19 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 7
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 7篇
+  - BruceFeIix: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **供应链**: 1篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,15 +63,20 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [2025第二届“数证杯”电子数据取证分析大赛初赛服务器取证参考WP](https://mp.weixin.qq.com/s?__biz=Mzk0MTQzNjIyNg==&mid=2247494235&idx=1&sn=8b2ceae2467b03ea7a66736733628fa4) (发布日期: 2025-11-19)
-- [威胁情报：某恶意IP攻击流量分析（一）](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486391&idx=1&sn=8105930f06bd74adab87c6a3de1bd41e) (发布日期: 2025-11-19)
-- [工具推荐 | 一款专为检测和分析 SQL 注入漏洞而设计的插件](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2) (发布日期: 2025-11-19)
-- [AI推理引擎中多个高危漏洞暴露，影响Meta、Nvidia和Microsoft框架](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119588&idx=2&sn=a0f2c69f0e5a59d5212cb2fb53720517) (发布日期: 2025-11-19)
-- [一种新的、可以自我传播的供应链攻击恶意软件 GlassWorm 瞄准了使用 OpenVSX 和VS Code 的开发人员](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494051&idx=1&sn=ae79fa39d56050d0949fbfe9de74e513) (发布日期: 2025-11-19)
-- [TCP协议隐形攻击：Payload注入背后的攻防暗战与实战防护指南](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516746&idx=1&sn=52e68b555c40ed4e73532a4e8e913f6e) (发布日期: 2025-11-19)
-- [一键安全评估：基于Golang的高性能AI渗透测试系统(2025-11-17更新)|工具分享](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247495806&idx=1&sn=546c5c76d5eebfe34b38dca51a844676) (发布日期: 2025-11-19)
+- [ ] [银狐强混淆注入型最新样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494360&idx=1&sn=a11b931910f5ba1cbd4b16197e5bd1d4) (发布日期: 2025-11-19)
+- [ ] [【已复现】深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83) (发布日期: 2025-11-19)
+- [ ] [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-13223)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=2&sn=49ca4eeb550114f1eafc9b886bec1354) (发布日期: 2025-11-19)
+- [ ] [氛围威胁狩猎](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486601&idx=1&sn=239fc3368e2c4548720dd73993d58eaf) (发布日期: 2025-11-19)
+- [ ] [漏洞库，免费的才是最贵的！](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185145&idx=1&sn=860fcb695269c1a9d11716af04dff552) (发布日期: 2025-11-19)
+- [ ] [CNVD漏洞周报2025年第44期](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500839&idx=1&sn=a863ad43b5b3c51fd7ff75f2f69d2cd4) (发布日期: 2025-11-19)
+- [ ] [《全球数据泄露态势月度报告》（2025年10月）| 附下载地址](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540885&idx=1&sn=c4f6f0bba0afc612e81f83f8b81ed920) (发布日期: 2025-11-19)
+- [ ] [Kraken勒索软件攻击细节曝光 可根据设备性能动态调整加密模式](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585479&idx=1&sn=168b34843e3312d38d44dc582689bb78) (发布日期: 2025-11-19)
+- [ ] [企业缩减预算却加薪留人,CISO跳槽率创六年新高；工信部提醒：新型僵尸网络Morte威胁升级| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139370&idx=2&sn=4a019f3df3f1458fd2c09ffcfae72ffc) (发布日期: 2025-11-19)
+- [ ] [陌陌安全应急响应中心漏洞处理流程及评分标准V3.0](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965) (发布日期: 2025-11-19)
+- [ ] [价值$40,000的RCE！](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498600&idx=1&sn=e6caa2b23599841446d87ccd16d101c9) (发布日期: 2025-11-19)
+- [ ] [AI SOP市场划分和AI SOC类型划分](https://mp.weixin.qq.com/s?__biz=MzUyNzMxOTAwMw==&mid=2247485094&idx=1&sn=8a353a198556536e7e3018366f82c0ef) (发布日期: 2025-11-19)
 
 
 ## 🎯 威胁详情分析
@@ -78,27 +85,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 工具推荐 | 一款专为检测和分析 SQL 注入漏洞而设计的插件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2) |
-| 2 | AI推理引擎中多个高危漏洞暴露，影响Meta、Nvidia和Microsoft框架 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119588&idx=2&sn=a0f2c69f0e5a59d5212cb2fb53720517](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119588&idx=2&sn=a0f2c69f0e5a59d5212cb2fb53720517) |
+| 1 |  ] [【已复现】深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83) |
+| 2 |  ] [【在野利用】Google Chrome V8 类型混淆漏洞(CVE-2025-13223)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=2&sn=49ca4eeb550114f1eafc9b886bec1354](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=2&sn=49ca4eeb550114f1eafc9b886bec1354) |
+| 3 |  ] [漏洞库，免费的才是最贵的！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185145&idx=1&sn=860fcb695269c1a9d11716af04dff552](https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650185145&idx=1&sn=860fcb695269c1a9d11716af04dff552) |
+| 4 |  ] [CNVD漏洞周报2025年第44期 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500839&idx=1&sn=a863ad43b5b3c51fd7ff75f2f69d2cd4](https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500839&idx=1&sn=a863ad43b5b3c51fd7ff75f2f69d2cd4) |
+| 5 |  ] [陌陌安全应急响应中心漏洞处理流程及评分标准V3.0 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 工具推荐 | 一款专为检测和分析 SQL 注入漏洞而设计的插件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497249&idx=1&sn=e0ac0735726fcf57b2079383af6491a2) |
-| 2 | TCP协议隐形攻击：Payload注入背后的攻防暗战与实战防护指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516746&idx=1&sn=52e68b555c40ed4e73532a4e8e913f6e](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516746&idx=1&sn=52e68b555c40ed4e73532a4e8e913f6e) |
+| 1 |  ] [银狐强混淆注入型最新样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494360&idx=1&sn=a11b931910f5ba1cbd4b16197e5bd1d4](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494360&idx=1&sn=a11b931910f5ba1cbd4b16197e5bd1d4) |
+| 2 |  ] [【已复现】深信服运维安全管理系统远程命令执行漏洞(CVE-2025-12916)安全风险通告 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504189&idx=1&sn=84ad839ae62f05db65ffdfdc77c86d83) |
+| 3 |  ] [价值$40,000的RCE！ | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498600&idx=1&sn=e6caa2b23599841446d87ccd16d101c9](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498600&idx=1&sn=e6caa2b23599841446d87ccd16d101c9) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 威胁情报：某恶意IP攻击流量分析（一） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486391&idx=1&sn=8105930f06bd74adab87c6a3de1bd41e](https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247486391&idx=1&sn=8105930f06bd74adab87c6a3de1bd41e) |
+| 1 |  ] [银狐强混淆注入型最新样本分析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494360&idx=1&sn=a11b931910f5ba1cbd4b16197e5bd1d4](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494360&idx=1&sn=a11b931910f5ba1cbd4b16197e5bd1d4) |
+| 2 |  ] [陌陌安全应急响应中心漏洞处理流程及评分标准V3.0 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965](https://mp.weixin.qq.com/s?__biz=MzI2OTYzOTQzNw==&mid=2247488975&idx=1&sn=b6810635fecf5a790d90e928fc238965) |
 
-### 供应链
+### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一种新的、可以自我传播的供应链攻击恶意软件 GlassWorm 瞄准了使用 OpenVSX 和VS Code 的开发人员 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494051&idx=1&sn=ae79fa39d56050d0949fbfe9de74e513](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494051&idx=1&sn=ae79fa39d56050d0949fbfe9de74e513) |
+| 1 |  ] [《全球数据泄露态势月度报告》（2025年10月）| 附下载地址 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540885&idx=1&sn=c4f6f0bba0afc612e81f83f8b81ed920](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540885&idx=1&sn=c4f6f0bba0afc612e81f83f8b81ed920) |
 
 
 ## 📁 归档路径
@@ -114,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -124,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-19 01:37:49*
+*生成时间: 2025-11-19 04:24:35*
 *报告工具: 微信文章安全归档系统*
