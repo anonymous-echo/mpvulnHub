@@ -2,20 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 22
+- **总文章数**: 14
 - **数据源分布**:
-  - Doonsec: 22篇
+  - Doonsec: 14篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 8篇
 - **攻击技术**: 4篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
 - **Web安全**: 3篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,28 +63,20 @@
 
 ### Doonsec
 
-- [刚想休息！一夜破掉13个国家防火墙，并调出7个国家系统源码。](https://mp.weixin.qq.com/s?__biz=Mzg2ODY3NDYxNA==&mid=2247486633&idx=1&sn=e814866462e54511fcd76fca2983504c) (发布日期: 2025-11-20)
-- [高危runC漏洞曝光 黑客可突破Docker容器逃逸](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543288&idx=1&sn=84f03402334a772c9736b9081094fd65) (发布日期: 2025-11-20)
-- [Chrome修复2025年第七个0day漏洞](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489284&idx=1&sn=2641d7dedd9ae76df2352937b61e07f6) (发布日期: 2025-11-20)
-- [燃情落幕！2025年网络安全 & 数据安全竞赛幕后纪实 ——xa0以赛铸盾，共筑数字安全防线](https://mp.weixin.qq.com/s?__biz=Mzg3MTUyNjkwNA==&mid=2247484435&idx=1&sn=8d09cdceb472b091a9f9871f4ee188c3) (发布日期: 2025-11-20)
-- [【已复现】Fortinetu2002FortiWeb 命令注入漏洞(CVE-2025-58034)](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b) (发布日期: 2025-11-20)
-- [12个细分领域！网御星云强势入围《2025中国数据安全企业全景图》](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204353&idx=1&sn=d979ec68d7d5ad77f38db792a6ce6260) (发布日期: 2025-11-20)
-- [【业界动态】第十八届中国密码学会年会在天津举办](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998211&idx=1&sn=92e7aba99edfedb56d9791bd05c2ee11) (发布日期: 2025-11-20)
-- [⌈京麒沙龙第18期⌋AI+移动安全专场，立即扫码，锁定你的线下专属席位！](https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850219&idx=1&sn=78ddddbb2874dac305041a00426377e6) (发布日期: 2025-11-20)
-- [实力认证 | 众智维科技多领域入选《2025年中国数据安全企业全景图》](https://mp.weixin.qq.com/s?__biz=MzU5Mjg0NzA5Mw==&mid=2247494830&idx=1&sn=07259be1c6a99ece9b818c87caf6c7ee) (发布日期: 2025-11-20)
-- [JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4) (发布日期: 2025-11-20)
-- [常见未经授权漏洞测试及利用](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712621&idx=1&sn=189f1dffeb2dfda6f58768294a239e2a) (发布日期: 2025-11-20)
-- [智能网联汽车功能安全开发实战培训课程（基于ISO 26262:2025）](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628764&idx=2&sn=b938e0152a361470e067d0b2f85b7291) (发布日期: 2025-11-20)
-- [Finger协议遭滥用 沦为 ClickFix 恶意软件攻击工具](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585531&idx=2&sn=00408b6c3d23eeb9f1108b6691095724) (发布日期: 2025-11-20)
-- [山石网科亮相香港AI防火墙专题活动，展示双A战略创新应用成果](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304108&idx=2&sn=5df2282ef60bce792e765231493ddab1) (发布日期: 2025-11-20)
-- [【病毒分析】专挑制造业下手！揭秘BEAST图形化勒索软件（Windows版）的加密逻辑与免杀手段](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505544&idx=1&sn=56416c26ae65456dd29387da0dda5966) (发布日期: 2025-11-20)
-- [渗透测试 | 二挖某985高校获取2本证书小记（三）](https://mp.weixin.qq.com/s?__biz=MzAwNDkzMTE0Ng==&mid=2247484458&idx=1&sn=361ee4fdf1bf3250869da9a419b815a6) (发布日期: 2025-11-20)
-- [鸿宇多用户商城scan_list.php存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f) (发布日期: 2025-11-20)
-- [速修！FortiWeb无条件RCE利用链发现在野利用](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507976&idx=1&sn=6b5edb53f10e21451c6e14ae478b7268) (发布日期: 2025-11-20)
-- [NSA联合CISA发布新指南，直击隐蔽网络攻击手法；预算削减遇上攻击升级，2026年网络安全面临双重挤压| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139385&idx=2&sn=d07f0a7ffbc111a90290dfe147a03e80) (发布日期: 2025-11-20)
-- [【在野利用】Fortinet FortiWeb OS命令注入漏洞(CVE-2025-58034)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65) (发布日期: 2025-11-20)
-- [【在野利用】Cisco防火墙VPN Web服务器未授权访问漏洞(CVE-2025-20362)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=2&sn=79a11719662e35122dbc56e8f18fe497) (发布日期: 2025-11-20)
-- [针对中文用户展开攻击的Gh0st远控木马新变种攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492834&idx=1&sn=f0745dcaa67bbceb36c7f8616c616d53) (发布日期: 2025-11-20)
+- [用AI攻击AI：Ray AI开源框架中的老旧漏洞被用于攻击集群](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=2&sn=41ec03ab3c0572c4ecc61e20dcd8fdb6) (发布日期: 2025-11-20)
+- [【高危漏洞预警】Fortinet FortiWeb命令注入漏洞CVE-2025-58034](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1) (发布日期: 2025-11-20)
+- [一图读懂GB/T 22080-2025《网络安全技术 信息安全管理体系 要求》](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247501619&idx=2&sn=0df402240ccbe800d9e8c4dbae883fe0) (发布日期: 2025-11-20)
+- [【论文速读】| 面向自主高效的网络安全：一种基于多目标自动化机器学习的入侵检测系统](https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247497377&idx=1&sn=0119bd3570b401e1bc989d046abf08f2) (发布日期: 2025-11-20)
+- [【免费领】渗透测试必备工具：Nmap实战技术全解教程](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247556791&idx=2&sn=1bf0c88e682dd55dafea3f2e885a0578) (发布日期: 2025-11-20)
+- [首发|天地伟业Easy7 存在信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485224&idx=1&sn=12dab424ccfe7fab9086a9ce9e308175) (发布日期: 2025-11-20)
+- [人工智能时代健全网络安全治理体系研究](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175112&idx=1&sn=f5e0fb86fc19884094a727ec8763c83c) (发布日期: 2025-11-20)
+- [【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1026-1108）](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136479&idx=2&sn=2d18d0d67d888d122884e7191613e785) (发布日期: 2025-11-20)
+- [信安从业者为什么要考CISP？](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525782&idx=1&sn=efcaaee8313ef87fb32af896af4fa0da) (发布日期: 2025-11-20)
+- [双第一！阿里云领跑安全运营智能体](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093433&idx=1&sn=63c54ca877f46addf5def7467b30dbbd) (发布日期: 2025-11-20)
+- [绕过JWT签名导致的越权漏洞-玄域靶场实操演示](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483982&idx=1&sn=ab2afe14cd00bc2cb011307420528611) (发布日期: 2025-11-20)
+- [JeecgBoot3.5.0版SQL注入漏洞详细分析记录](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c) (发布日期: 2025-11-20)
+- [【漏洞通告】FortiWeb API 与 CLI 多处命令注入漏洞(CVE-2025-58034)](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68) (发布日期: 2025-11-20)
+- [RocketMQ 命令执行漏洞复现分析](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02) (发布日期: 2025-11-20)
 
 
 ## 🎯 威胁详情分析
@@ -94,23 +85,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 高危runC漏洞曝光 黑客可突破Docker容器逃逸 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543288&idx=1&sn=84f03402334a772c9736b9081094fd65](https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247543288&idx=1&sn=84f03402334a772c9736b9081094fd65) |
-| 2 | Chrome修复2025年第七个0day漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489284&idx=1&sn=2641d7dedd9ae76df2352937b61e07f6](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489284&idx=1&sn=2641d7dedd9ae76df2352937b61e07f6) |
-| 3 | 【已复现】Fortinetu2002FortiWeb 命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b) |
-| 4 | JS逆向 -- 利用土办法+AI编写的视频下载脚本过程复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4](https://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU5MA==&mid=2652040809&idx=1&sn=6a3af62023aba4661cbecef5602199c4) |
-| 5 | 常见未经授权漏洞测试及利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712621&idx=1&sn=189f1dffeb2dfda6f58768294a239e2a](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712621&idx=1&sn=189f1dffeb2dfda6f58768294a239e2a) |
-| 6 | 鸿宇多用户商城scan_list.php存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f) |
-| 7 | 【在野利用】Fortinet FortiWeb OS命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65) |
-| 8 | 【在野利用】Cisco防火墙VPN Web服务器未授权访问漏洞(CVE-2025-20362) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=2&sn=79a11719662e35122dbc56e8f18fe497](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=2&sn=79a11719662e35122dbc56e8f18fe497) |
+| 1 | 用AI攻击AI：Ray AI开源框架中的老旧漏洞被用于攻击集群 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=2&sn=41ec03ab3c0572c4ecc61e20dcd8fdb6](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524465&idx=2&sn=41ec03ab3c0572c4ecc61e20dcd8fdb6) |
+| 2 | 【高危漏洞预警】Fortinet FortiWeb命令注入漏洞CVE-2025-58034 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1) |
+| 3 | 首发|天地伟业Easy7 存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485224&idx=1&sn=12dab424ccfe7fab9086a9ce9e308175](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485224&idx=1&sn=12dab424ccfe7fab9086a9ce9e308175) |
+| 4 | 【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（1026-1108） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136479&idx=2&sn=2d18d0d67d888d122884e7191613e785](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136479&idx=2&sn=2d18d0d67d888d122884e7191613e785) |
+| 5 | 绕过JWT签名导致的越权漏洞-玄域靶场实操演示 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483982&idx=1&sn=ab2afe14cd00bc2cb011307420528611](https://mp.weixin.qq.com/s?__biz=Mzk0NTYwNzY3NQ==&mid=2247483982&idx=1&sn=ab2afe14cd00bc2cb011307420528611) |
+| 6 | JeecgBoot3.5.0版SQL注入漏洞详细分析记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c) |
+| 7 | 【漏洞通告】FortiWeb API 与 CLI 多处命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68) |
+| 8 | RocketMQ 命令执行漏洞复现分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】Fortinetu2002FortiWeb 命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520724&idx=1&sn=ea5c82fc85f3cf5b05dabf1c21ed6d1b) |
-| 2 | 鸿宇多用户商城scan_list.php存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247483976&idx=1&sn=ec7abcbd830c3bccf43d6081661f843f) |
-| 3 | 速修！FortiWeb无条件RCE利用链发现在野利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507976&idx=1&sn=6b5edb53f10e21451c6e14ae478b7268](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507976&idx=1&sn=6b5edb53f10e21451c6e14ae478b7268) |
-| 4 | 【在野利用】Fortinet FortiWeb OS命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495318&idx=1&sn=1520e42c7cee2f4dcee0a2f720c16a65) |
+| 1 | 【高危漏洞预警】Fortinet FortiWeb命令注入漏洞CVE-2025-58034 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491020&idx=1&sn=a327b53864674a3f633b52a9f73593e1) |
+| 2 | JeecgBoot3.5.0版SQL注入漏洞详细分析记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485392&idx=1&sn=1b412936be907f33772f9eaf91abdc2c) |
+| 3 | 【漏洞通告】FortiWeb API 与 CLI 多处命令注入漏洞(CVE-2025-58034) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68](https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501805&idx=2&sn=8347174d02f34aa53010eee073b57c68) |
+| 4 | RocketMQ 命令执行漏洞复现分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02](https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490894&idx=1&sn=3e063f33eb915ebd6eca714cedf93a02) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 双第一！阿里云领跑安全运营智能体 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093433&idx=1&sn=63c54ca877f46addf5def7467b30dbbd](https://mp.weixin.qq.com/s?__biz=MzA4MTQ2MjI5OA==&mid=2664093433&idx=1&sn=63c54ca877f46addf5def7467b30dbbd) |
 
 
 ## 📁 归档路径
@@ -136,5 +133,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-20 08:27:58*
+*生成时间: 2025-11-20 12:40:53*
 *报告工具: 微信文章安全归档系统*
