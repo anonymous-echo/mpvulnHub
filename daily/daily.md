@@ -2,18 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
 - **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,27 +62,18 @@
 
 ### Doonsec
 
-- [【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) (发布日期: 2025-11-23)
-- [每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f) (发布日期: 2025-11-23)
-- [对称加密和非对称加密算法对比](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247563000&idx=2&sn=2c9087c6f73f478ad9b0d78f2105d19c) (发布日期: 2025-11-23)
-- [渗透测试全笔记](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575787&idx=2&sn=44301faa9b3d1aa138db0e8ed78fbbe6) (发布日期: 2025-11-23)
-- [EML安全分析平台版本更新202511](https://mp.weixin.qq.com/s?__biz=Mzk2NDA1MjM1OQ==&mid=2247485234&idx=1&sn=e19af6e4bcce7bcdc5aac531722375a4) (发布日期: 2025-11-23)
+- [ACISP 2026 征稿通知！澳洲信息安全顶会等你来！](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501012&idx=1&sn=f078a8aa7fc09310255565a01cf706ed) (发布日期: 2025-11-23)
+- [我差点就把苹果账号弄丢了:这是我见过的最狡猾的钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183775&idx=1&sn=740e073c7a8c28a9163d66cd728fe43f) (发布日期: 2025-11-23)
+- [『教育攻防』——从弱口令到内网横移！](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247483985&idx=1&sn=cf6335df97f5801c7141b9fde21fe9b6) (发布日期: 2025-11-23)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) |
-| 2 | 每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) |
+| 1 | 『教育攻防』——从弱口令到内网横移！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247483985&idx=1&sn=cf6335df97f5801c7141b9fde21fe9b6](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247483985&idx=1&sn=cf6335df97f5801c7141b9fde21fe9b6) |
 
 
 ## 📁 归档路径
@@ -98,8 +89,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -108,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-23 12:35:27*
+*生成时间: 2025-11-23 16:22:33*
 *报告工具: 微信文章安全归档系统*
