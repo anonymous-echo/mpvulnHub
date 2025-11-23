@@ -2,15 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 2
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 2篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,11 +62,27 @@
 
 ### Doonsec
 
-- [攻防对抗-Windows进程隐藏小技巧，致盲初级蓝队](https://mp.weixin.qq.com/s?__biz=MzkxODc0Mzk4OQ==&mid=2247484792&idx=1&sn=9ba720c308bb82fc49bc1fe9279b7da6) (发布日期: 2025-11-23)
-- [应急篇 | 云原生安全攻防实战](https://mp.weixin.qq.com/s?__biz=MzA3NzE2MjgwMg==&mid=2448909893&idx=1&sn=410a56c54691505368e515aeddc0d677) (发布日期: 2025-11-23)
+- [【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) (发布日期: 2025-11-23)
+- [每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f) (发布日期: 2025-11-23)
+- [对称加密和非对称加密算法对比](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247563000&idx=2&sn=2c9087c6f73f478ad9b0d78f2105d19c) (发布日期: 2025-11-23)
+- [渗透测试全笔记](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575787&idx=2&sn=44301faa9b3d1aa138db0e8ed78fbbe6) (发布日期: 2025-11-23)
+- [EML安全分析平台版本更新202511](https://mp.weixin.qq.com/s?__biz=Mzk2NDA1MjM1OQ==&mid=2247485234&idx=1&sn=e19af6e4bcce7bcdc5aac531722375a4) (发布日期: 2025-11-23)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) |
+| 2 | 每周PDF资源：域内漏洞和利用；跨域攻击分析与防御；url跳转挖掘；kafka集群扩容零数据丢失；25年网络安全意识培训 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651330796&idx=3&sn=28aff32b6f9551ac81732d6ad500755f) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【安全圈】ShinyHunters称通过 Gainsight 与 Salesforce 漏洞窃取百家公司数据 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=3&sn=63717f77b3d16b378601e736f8f73f3c) |
 
 
 ## 📁 归档路径
@@ -79,8 +98,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -89,5 +108,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-23 08:24:22*
+*生成时间: 2025-11-23 12:35:27*
 *报告工具: 微信文章安全归档系统*
