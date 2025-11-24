@@ -2,19 +2,23 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 18
 - **数据源分布**:
-  - Doonsec: 8篇
-  - BruceFeIix: 1篇
+  - Doonsec: 18篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **安全运营**: 3篇
 - **信息泄露**: 2篇
-- **漏洞利用**: 1篇
-- **安全运营**: 1篇
+- **威胁情报**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,18 +67,24 @@
 
 ### Doonsec
 
-- [深圳市网安计算机安全培训中心投诉渠道公示u200c](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486618&idx=1&sn=d68738384a441030b221ee2b380131ab) (发布日期: 2025-11-24)
-- [关于AI自动渗透测试，我自己的看法](https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485227&idx=1&sn=944af64b7ba9b393dae76870e4d12596) (发布日期: 2025-11-24)
-- [全球政府数据泄露：2025年11月报告（有待确认真实性）](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec) (发布日期: 2025-11-24)
-- [【红队】一款基于人工智能的子域名枚举工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493869&idx=1&sn=b02df4f1d8ceb59658a8b3926d351290) (发布日期: 2025-11-24)
-- [数据安全雕花从何入手](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494147&idx=1&sn=692a47706d545925ff758ff2f3c016a7) (发布日期: 2025-11-24)
-- [欢迎「螃蟹游戏服务网」入驻补天专属SRC！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215) (发布日期: 2025-11-24)
-- [CrowdStrike否认发生数据泄露 此前有内部员工向黑客发送系统截图](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72) (发布日期: 2025-11-24)
-- [伊比利亚航空披露一起关联供应商遭入侵的安全事件](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=4&sn=c8803690362c428e38f7012cba71574a) (发布日期: 2025-11-24)
-
-### BruceFeIix
-
-- [ ] [【安全圈】Grafana 修复 SCIM 身份映射漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0) (发布日期: 2025-11-24)
+- [护网-2025 | 网警依法查处一起涉无人机管理平台遭攻击导致数据泄露案](https://mp.weixin.qq.com/s?__biz=MzA4NTk5NzgxOA==&mid=2657569204&idx=1&sn=2d8a64af0b8b00be5916a3b5599cf8f3) (发布日期: 2025-11-24)
+- [SOC运营的演进：持续暴露管理如何变革安全运营](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=1&sn=cf2ff19755d30b74b861f09488bcc8bf) (发布日期: 2025-11-24)
+- [护网-2025 | 网警依法查处一起涉无人机管理平台遭攻击导致数据泄露案](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=2&sn=aac371dcb1321b16323486eca25cc65d) (发布日期: 2025-11-24)
+- [2025-11月Solar应急响应公益月赛 !](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505570&idx=1&sn=1f1c6fb2ff145dc766779632bc88866d) (发布日期: 2025-11-24)
+- [利用 RESILIENT-CS 提升网络安全风险评估的影响评级并提高其整体效率](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628964&idx=3&sn=ec3f1a0b473db7fcd17809a57a4ff0f4) (发布日期: 2025-11-24)
+- [『EDUSRC』——简单JS逆向拿下证书站！](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484014&idx=1&sn=621f9a3e48cf1140c754b34de87b295a) (发布日期: 2025-11-24)
+- [Palo Alto 的 GlobalProtect VPN门户网站遭到230万次恶意扫描探测](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494078&idx=1&sn=696442baf1ab1a9757d2153accf9a35d) (发布日期: 2025-11-24)
+- [『EDUSRC』——简单JS逆向拿下证书站！](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484009&idx=1&sn=7b59c39c472692033750104e5b579090) (发布日期: 2025-11-24)
+- [我为了一个漏洞花了 5 小时 —— 然后被厂商xa0彻底放鸽子](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508350&idx=1&sn=24a7c31d7cdf477f268f5d5ee99265ca) (发布日期: 2025-11-24)
+- [鸿蒙(HarmonyOS)应用安全检测平台-VIP会员版](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499201&idx=1&sn=950f1c13d51a2d3517b495fe118c4d32) (发布日期: 2025-11-24)
+- [热点观察｜天融信科技集团张超：量子VPN构建可信数据流通新通道](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998286&idx=1&sn=ac6af554fb893f7028f147452132feca) (发布日期: 2025-11-24)
+- [论坛即将开始，邀您现场参加：数字生态供应链安全论坛](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534877&idx=2&sn=f56042dde9d6edb40e11136256a5c8de) (发布日期: 2025-11-24)
+- [一国国家铁路 2.3TB 敏感信息泄露，含保密合同与产业规划](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486824&idx=1&sn=6cda4e5441825d4daa0209b7cd515ca6) (发布日期: 2025-11-24)
+- [DudeSuite 漏洞更新播报 20251124](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562873&idx=1&sn=f060b686079b3cfcad9d18b7dbedf45e) (发布日期: 2025-11-24)
+- [安全动态回顾|新型安卓银行木马Sturnus可窃取加密通讯并控制设备 WordPress插件W3TC存在PHP命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0) (发布日期: 2025-11-24)
+- [亚太区领先基建能源集团采用Radware Bot Manager强化安全防护](https://mp.weixin.qq.com/s?__biz=MjM5ODE0Njk2Nw==&mid=2653021734&idx=1&sn=4e257b3a89cb61a63d83a2a925489da8) (发布日期: 2025-11-24)
+- [【成功复现】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-61882)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924) (发布日期: 2025-11-24)
+- [【安全预警】ShadowMQ漏洞模式曝光：Microsoft、Meta、NVIDIA等多款模型推理服务框架面临未授权RCE风险](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c) (发布日期: 2025-11-24)
 
 
 ## 🎯 威胁详情分析
@@ -83,20 +93,46 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [【安全圈】Grafana 修复 SCIM 身份映射漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0) |
+| 1 | 我为了一个漏洞花了 5 小时 —— 然后被厂商xa0彻底放鸽子 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508350&idx=1&sn=24a7c31d7cdf477f268f5d5ee99265ca](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508350&idx=1&sn=24a7c31d7cdf477f268f5d5ee99265ca) |
+| 2 | DudeSuite 漏洞更新播报 20251124 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562873&idx=1&sn=f060b686079b3cfcad9d18b7dbedf45e](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562873&idx=1&sn=f060b686079b3cfcad9d18b7dbedf45e) |
+| 3 | 安全动态回顾|新型安卓银行木马Sturnus可窃取加密通讯并控制设备 WordPress插件W3TC存在PHP命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0) |
+| 4 | 【成功复现】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-61882) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924) |
+| 5 | 【安全预警】ShadowMQ漏洞模式曝光：Microsoft、Meta、NVIDIA等多款模型推理服务框架面临未授权RCE风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全动态回顾|新型安卓银行木马Sturnus可窃取加密通讯并控制设备 WordPress插件W3TC存在PHP命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585564&idx=2&sn=59dbad21b578073773c5b1d979e34ff0) |
+| 2 | 【成功复现】Oracle E-Business Suite远程代码执行漏洞(CVE-2025-61882) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503698&idx=1&sn=e8e9854a3940dfdc812db8961cddf924) |
+| 3 | 【安全预警】ShadowMQ漏洞模式曝光：Microsoft、Meta、NVIDIA等多款模型推理服务框架面临未授权RCE风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495394&idx=1&sn=68944a97bd8428c31da4131fea84bb1c) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 2025-11月Solar应急响应公益月赛 ! | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505570&idx=1&sn=1f1c6fb2ff145dc766779632bc88866d](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247505570&idx=1&sn=1f1c6fb2ff145dc766779632bc88866d) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 欢迎「螃蟹游戏服务网」入驻补天专属SRC！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215) |
+| 1 | SOC运营的演进：持续暴露管理如何变革安全运营 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=1&sn=cf2ff19755d30b74b861f09488bcc8bf](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=1&sn=cf2ff19755d30b74b861f09488bcc8bf) |
+| 2 | 『EDUSRC』——简单JS逆向拿下证书站！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484014&idx=1&sn=621f9a3e48cf1140c754b34de87b295a](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484014&idx=1&sn=621f9a3e48cf1140c754b34de87b295a) |
+| 3 | 『EDUSRC』——简单JS逆向拿下证书站！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484009&idx=1&sn=7b59c39c472692033750104e5b579090](https://mp.weixin.qq.com/s?__biz=MzkwODc4NzQwMQ==&mid=2247484009&idx=1&sn=7b59c39c472692033750104e5b579090) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 全球政府数据泄露：2025年11月报告（有待确认真实性） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec) |
-| 2 | CrowdStrike否认发生数据泄露 此前有内部员工向黑客发送系统截图 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72) |
+| 1 | 护网-2025 | 网警依法查处一起涉无人机管理平台遭攻击导致数据泄露案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTk5NzgxOA==&mid=2657569204&idx=1&sn=2d8a64af0b8b00be5916a3b5599cf8f3](https://mp.weixin.qq.com/s?__biz=MzA4NTk5NzgxOA==&mid=2657569204&idx=1&sn=2d8a64af0b8b00be5916a3b5599cf8f3) |
+| 2 | 护网-2025 | 网警依法查处一起涉无人机管理平台遭攻击导致数据泄露案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=2&sn=aac371dcb1321b16323486eca25cc65d](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540928&idx=2&sn=aac371dcb1321b16323486eca25cc65d) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 论坛即将开始，邀您现场参加：数字生态供应链安全论坛 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534877&idx=2&sn=f56042dde9d6edb40e11136256a5c8de](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247534877&idx=2&sn=f56042dde9d6edb40e11136256a5c8de) |
 
 
 ## 📁 归档路径
@@ -112,8 +148,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **信息泄露** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +158,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-24 04:33:46*
+*生成时间: 2025-11-24 08:29:04*
 *报告工具: 微信文章安全归档系统*
