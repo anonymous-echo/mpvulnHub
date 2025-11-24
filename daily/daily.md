@@ -2,24 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 24
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 24篇
+  - Doonsec: 8篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 8篇
-- **攻击技术**: 2篇
-- **威胁情报**: 1篇
+- **信息泄露**: 2篇
+- **漏洞利用**: 1篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **应用漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -68,30 +63,18 @@
 
 ### Doonsec
 
-- [某edu站点打包高危9分漏洞](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492415&idx=1&sn=3ff21175c9952afa1a0063fa15c36427) (发布日期: 2025-11-24)
-- [破局百万级告警难题：安恒信息×渤海证券打造证券行业AI安全运营样板](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639436&idx=1&sn=caa50e3309df58f46e7ceecea3bd3256) (发布日期: 2025-11-24)
-- [如果抓互联网上的 0day?](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491920&idx=1&sn=f6ccb5364af89f25f01187abaa57bfec) (发布日期: 2025-11-24)
-- [赛事招标丨长春汽车职业技术大学信息安全管理与评估实训平台采购项目(二次）](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495229&idx=1&sn=7fd5615060b62fadeb5f8003c2abebfa) (发布日期: 2025-11-24)
-- [【电子数据取证分析师工种】初赛技术文件](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495229&idx=4&sn=d382160996f6e2aceda1847c8d976006) (发布日期: 2025-11-24)
-- [【网络安全管理员工种】初赛技术文件](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495229&idx=5&sn=44bdc4170b9a1cba1bdb7f5cd7f86b42) (发布日期: 2025-11-24)
-- [【渗透测试员工种】初赛技术文件](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495229&idx=6&sn=fedf8362605d062551fb94b66667f717) (发布日期: 2025-11-24)
-- [漏洞复现--金和OASQL注入](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487378&idx=1&sn=2d8abac0a04e449609c9b4cd3190fb87) (发布日期: 2025-11-24)
-- [Matrix Push C2 利用浏览器通知进行无文件、跨平台网络钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649796954&idx=2&sn=2401dc34bb2141e099de5952dda2421c) (发布日期: 2025-11-24)
-- [ASIC芯片级加速：山石网科防火墙为CGNAT业务构建高性能核心](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304188&idx=2&sn=37dcc1137ba181a903e2123da20236b7) (发布日期: 2025-11-24)
-- [朝鲜黑客组织Kimsuky与Lazarus联手利用0Day漏洞攻击全球关键行业](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549900&idx=2&sn=673882e5fdda011d55666b90b6d3d238) (发布日期: 2025-11-24)
-- [带某公司正常数字签名银狐最新攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494435&idx=1&sn=e8a9fe83ad7444af60605a37c18a0901) (发布日期: 2025-11-24)
-- [【密码学】抛硬币协议](https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247493355&idx=1&sn=ea529988a0102ea067b554168c61dc91) (发布日期: 2025-11-24)
-- [不用注册不花钱！GlobalCVE一键聚合NVD/JVN/ExploitDB，毫秒API+高颜值徽章，让你的工具秒变情报中心](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493924&idx=1&sn=02ead256d2b36f1758905433632de366) (发布日期: 2025-11-24)
-- [日本首相高市早苗涉嫌受贿证据链泄露](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488236&idx=1&sn=c79aec75a9f16b9cecf4955988cffd72) (发布日期: 2025-11-24)
-- [近源渗透在红队实战中的落地](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247514718&idx=1&sn=63d420def6baade480f7af8e2c734e26) (发布日期: 2025-11-24)
-- [安全运维：零信任网络（思维导图）](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294553&idx=2&sn=e9992e31167c5c7043579f8e7c871382) (发布日期: 2025-11-24)
-- [网站漏洞扫描工具VscanPlus](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489211&idx=1&sn=c6f3315946fab9625c1cb3d13d506c3e) (发布日期: 2025-11-24)
-- [摩根大通、花旗、摩根士丹利陷入数据泄露风暴，华尔街金融巨擘遭遇供应链安全重击](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516393&idx=1&sn=554827ecf4299abdb969c6117b5dddec) (发布日期: 2025-11-24)
-- [威胁分析能力建设：从被动防御到主动狩猎的团队进化之路](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488039&idx=1&sn=f3affdac328cfadb2f2cc8469d82ac8c) (发布日期: 2025-11-24)
-- [从实战中提炼：逻辑漏洞合集](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486091&idx=1&sn=56913fbc3ad9dba266012842c5f48723) (发布日期: 2025-11-24)
-- [湘西州网信办对某学校未履行数据安全保护义务作出行政处罚](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652119739&idx=1&sn=0ca27fd7ea311cc4ec091201d13ae15d) (发布日期: 2025-11-24)
-- [聊聊“数据安全工作的屎山雕花”问题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247502938&idx=2&sn=47a97b3b479fb2d28383cefedf844dae) (发布日期: 2025-11-24)
-- [红队新思路 | 利用SQL注入漏洞直接加载Cobalt Strike](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48) (发布日期: 2025-11-24)
+- [深圳市网安计算机安全培训中心投诉渠道公示u200c](https://mp.weixin.qq.com/s?__biz=Mzg3MDYzMjAyNA==&mid=2247486618&idx=1&sn=d68738384a441030b221ee2b380131ab) (发布日期: 2025-11-24)
+- [关于AI自动渗透测试，我自己的看法](https://mp.weixin.qq.com/s?__biz=MzI5MDcyODIzNg==&mid=2247485227&idx=1&sn=944af64b7ba9b393dae76870e4d12596) (发布日期: 2025-11-24)
+- [全球政府数据泄露：2025年11月报告（有待确认真实性）](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec) (发布日期: 2025-11-24)
+- [【红队】一款基于人工智能的子域名枚举工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493869&idx=1&sn=b02df4f1d8ceb59658a8b3926d351290) (发布日期: 2025-11-24)
+- [数据安全雕花从何入手](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494147&idx=1&sn=692a47706d545925ff758ff2f3c016a7) (发布日期: 2025-11-24)
+- [欢迎「螃蟹游戏服务网」入驻补天专属SRC！](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215) (发布日期: 2025-11-24)
+- [CrowdStrike否认发生数据泄露 此前有内部员工向黑客发送系统截图](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72) (发布日期: 2025-11-24)
+- [伊比利亚航空披露一起关联供应商遭入侵的安全事件](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=4&sn=c8803690362c428e38f7012cba71574a) (发布日期: 2025-11-24)
+
+### BruceFeIix
+
+- [ ] [【安全圈】Grafana 修复 SCIM 身份映射漏洞](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0) (发布日期: 2025-11-24)
 
 
 ## 🎯 威胁详情分析
@@ -100,45 +83,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 某edu站点打包高危9分漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492415&idx=1&sn=3ff21175c9952afa1a0063fa15c36427](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492415&idx=1&sn=3ff21175c9952afa1a0063fa15c36427) |
-| 2 | 如果抓互联网上的 0day? | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491920&idx=1&sn=f6ccb5364af89f25f01187abaa57bfec](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491920&idx=1&sn=f6ccb5364af89f25f01187abaa57bfec) |
-| 3 | 漏洞复现--金和OASQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487378&idx=1&sn=2d8abac0a04e449609c9b4cd3190fb87](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487378&idx=1&sn=2d8abac0a04e449609c9b4cd3190fb87) |
-| 4 | 朝鲜黑客组织Kimsuky与Lazarus联手利用0Day漏洞攻击全球关键行业 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549900&idx=2&sn=673882e5fdda011d55666b90b6d3d238](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247549900&idx=2&sn=673882e5fdda011d55666b90b6d3d238) |
-| 5 | 不用注册不花钱！GlobalCVE一键聚合NVD/JVN/ExploitDB，毫秒API+高颜值徽章，让你的工具秒变情报中心 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493924&idx=1&sn=02ead256d2b36f1758905433632de366](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247493924&idx=1&sn=02ead256d2b36f1758905433632de366) |
-| 6 | 网站漏洞扫描工具VscanPlus | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489211&idx=1&sn=c6f3315946fab9625c1cb3d13d506c3e](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489211&idx=1&sn=c6f3315946fab9625c1cb3d13d506c3e) |
-| 7 | 从实战中提炼：逻辑漏洞合集 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486091&idx=1&sn=56913fbc3ad9dba266012842c5f48723](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486091&idx=1&sn=56913fbc3ad9dba266012842c5f48723) |
-| 8 | 红队新思路 | 利用SQL注入漏洞直接加载Cobalt Strike | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 漏洞复现--金和OASQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487378&idx=1&sn=2d8abac0a04e449609c9b4cd3190fb87](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487378&idx=1&sn=2d8abac0a04e449609c9b4cd3190fb87) |
-| 2 | 红队新思路 | 利用SQL注入漏洞直接加载Cobalt Strike | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48](https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247497271&idx=1&sn=bfb84a78dc915a358bfaa78cdc1bce48) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 带某公司正常数字签名银狐最新攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494435&idx=1&sn=e8a9fe83ad7444af60605a37c18a0901](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494435&idx=1&sn=e8a9fe83ad7444af60605a37c18a0901) |
+| 1 |  ] [【安全圈】Grafana 修复 SCIM 身份映射漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072888&idx=2&sn=75ce0dc2c6180e3da1bd88d64a4ae3c0) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 破局百万级告警难题：安恒信息×渤海证券打造证券行业AI安全运营样板 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639436&idx=1&sn=caa50e3309df58f46e7ceecea3bd3256](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639436&idx=1&sn=caa50e3309df58f46e7ceecea3bd3256) |
+| 1 | 欢迎「螃蟹游戏服务网」入驻补天专属SRC！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215](https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247509784&idx=1&sn=d8473ca42e1bf0f12c750f919be30215) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 摩根大通、花旗、摩根士丹利陷入数据泄露风暴，华尔街金融巨擘遭遇供应链安全重击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516393&idx=1&sn=554827ecf4299abdb969c6117b5dddec](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516393&idx=1&sn=554827ecf4299abdb969c6117b5dddec) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 摩根大通、花旗、摩根士丹利陷入数据泄露风暴，华尔街金融巨擘遭遇供应链安全重击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516393&idx=1&sn=554827ecf4299abdb969c6117b5dddec](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247516393&idx=1&sn=554827ecf4299abdb969c6117b5dddec) |
+| 1 | 全球政府数据泄露：2025年11月报告（有待确认真实性） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486134&idx=1&sn=4d9bc21de77660fd031249a6d786ccec) |
+| 2 | CrowdStrike否认发生数据泄露 此前有内部员工向黑客发送系统截图 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72](https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247495289&idx=3&sn=674e48c409ae5ce4d2a8c946a5d11b72) |
 
 
 ## 📁 归档路径
@@ -154,8 +112,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 8 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **信息泄露** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -164,5 +122,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-24 01:44:28*
+*生成时间: 2025-11-24 04:33:46*
 *报告工具: 微信文章安全归档系统*
