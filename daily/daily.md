@@ -2,18 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 23
 - **数据源分布**:
-  - Doonsec: 11篇
+  - BruceFeIix: 23篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 9篇
+- **攻击技术**: 6篇
+- **威胁情报**: 2篇
+- **供应链**: 2篇
 
 ### 漏洞类型分析
+- **网络攻击**: 2篇
+- **Web安全**: 1篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,19 +64,31 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [SaaS安全大崩盘！又一起重大攻击，超200家大中型企业数据泄露](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613402&idx=1&sn=cf81cd3d7623aafe8a8fdf377ec9278b) (发布日期: 2025-11-26)
-- [中国5G+工业互联网大会举办，安恒信息获《数据要素场内流通安全评估技术规范》参编证书](https://mp.weixin.qq.com/s?__biz=MjM5NTE0MjQyMg==&mid=2650639786&idx=2&sn=f89e0234fac86e0d7ecc3c87d7d7aefe) (发布日期: 2025-11-26)
-- [一个有安全意识的测试账号](https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491595&idx=1&sn=68f445dd6355a13081ea62512052a63d) (发布日期: 2025-11-26)
-- [超百亿次部署的Fluent Bit曝高危漏洞，可致云环境沦陷](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484749&idx=1&sn=58f65e8cfd756348c2cb4ae93dbc9f3a) (发布日期: 2025-11-26)
-- [渗透测试之批量刷洞技巧](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508467&idx=1&sn=3c8cbff92f4ce7298638fc9c185777e0) (发布日期: 2025-11-26)
-- [【漏洞情报】ExecuTorch整数溢出漏洞分析与修复指南](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485129&idx=1&sn=9574feb59a85dabce916433935ef7d24) (发布日期: 2025-11-26)
-- [KINGOSOFT高校智慧校园教学综合服务平台存在文件读取漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484015&idx=1&sn=6c4183c0aed316b66d9ab21694178e29) (发布日期: 2025-11-26)
-- [CVSS 评分 2.1 的漏洞也不放过：为了连上 iPhone，安卓这次真的拼了](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901651&idx=1&sn=ea0654536ef2dd780ee3d6037f019ca3) (发布日期: 2025-11-26)
-- [最新最全！52项数据安全国家标准合集](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138121&idx=1&sn=0f386112ed5107694215856b4c19bf93) (发布日期: 2025-11-26)
-- [安全运营：网络安全指南-100页](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294707&idx=1&sn=296a815a1ea4b52bede6207dd35dfa1e) (发布日期: 2025-11-26)
-- [跨代兼容性测试：Windows Server 2019/2022 IPsec VPN配置指南，老方法依然真香！](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458862604&idx=1&sn=6afa517a15b8851887d9703e317d8ec6) (发布日期: 2025-11-26)
+- [ ] [Agentic AI 安全全景：从威胁建模到防御实战](https://mp.weixin.qq.com/s?__biz=MzI5NTQ3NzIxMw==&mid=2247485799&idx=1&sn=daf59f36823ae0eb65db2885890e75ac) (发布日期: 2025-11-26)
+- [ ] [银狐黑产组织捆绑FinalShell安装AsyncRAT远控木马](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494507&idx=1&sn=90ebf7c484b6a0ffc9579b396c64110b) (发布日期: 2025-11-26)
+- [ ] [渗透测试靶机Metasploitable2-Linux攻略](https://mp.weixin.qq.com/s?__biz=MzAwNTUzNjE3OQ==&mid=2649560507&idx=1&sn=6251b0e3a6ba751749eadf44b2de248e) (发布日期: 2025-11-26)
+- [ ] [内网综合渗透靶场一(上) 附靶场环境](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247487137&idx=1&sn=f26d0844058aff2ad256d8d12155160c) (发布日期: 2025-11-26)
+- [ ] [第二届“数证杯”电子数据取证分析大赛在江苏连云港闭幕](https://mp.weixin.qq.com/s?__biz=MzU0MTA3OTU5Ng==&mid=2247570276&idx=1&sn=a92be4193a19896ad6feafcf806d7614) (发布日期: 2025-11-26)
+- [ ] [漏洞预警 |  Claude Code任意文件写入漏洞(CVE-2025-64755)](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484690&idx=1&sn=8e445c52eb6f94fec4630eab0225cf0c) (发布日期: 2025-11-26)
+- [ ] [【样本对抗】PHP类型Webshell通用任意命令执行木马](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503715&idx=1&sn=555cfc1e0dda1a9c8a35fb51ad2fd1d6) (发布日期: 2025-11-26)
+- [ ] [【安全圈】Fluent Bit 多漏洞曝光引发云端入侵风险](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072919&idx=4&sn=1e08e66183d64b564fd711464521f8f1) (发布日期: 2025-11-26)
+- [ ] [跟着黑产学技术：Shai-Hulud 2.0 供应链攻击剖析](https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247494016&idx=1&sn=acc5ed0b25c3a1ce54c78f845a1d167c) (发布日期: 2025-11-26)
+- [ ] [客户内网有个web系统，想要在外网访问，我提供了几种方案](https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247532316&idx=1&sn=9a34170ccc2e46466778b40834369f06) (发布日期: 2025-11-26)
+- [ ] [【高危漏洞预警】Claude Code工具命令注入漏洞CVE-2025-64755](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef) (发布日期: 2025-11-26)
+- [ ] [Shai-Hulud蠕虫攻击波及2.5万余个代码库，通过npm预安装脚本窃取凭证](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=2&sn=bc0b2b67f1cfd2350096aa6fc588f6bb) (发布日期: 2025-11-26)
+- [ ] [Fluent Bit曝出五个高危漏洞，可导致云基础设施遭远程控制](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=3&sn=18b7ba00d5bd991608304b94145548e1) (发布日期: 2025-11-26)
+- [ ] [代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07) (发布日期: 2025-11-26)
+- [ ] [得不到就毁掉：第二轮Sha1-Hulud供应链攻击已发起，影响2.5万+仓库](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524487&idx=1&sn=f170d3131122071dec6e419c6cff562c) (发布日期: 2025-11-26)
+- [ ] [Apache Syncope 硬编码密钥漏洞（CVE-2025-65998）可致用户密码泄露](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604498&idx=3&sn=0d3802aa7534e61d602c5526e8f6d149) (发布日期: 2025-11-26)
+- [ ] [CTF | 2025年福建省大学生数据安全大赛部分WP](https://mp.weixin.qq.com/s?__biz=MzkyOTUxMTE2OQ==&mid=2247484332&idx=1&sn=e803a608ab1f3b1b5ca810360048e9f0) (发布日期: 2025-11-26)
+- [ ] [拆解Crypto24勒索软件的“隐身术”：EDR绕过与权限渗透背后的高级威胁运营逻辑](https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650626273&idx=1&sn=fe5469e698c6955bb14a8e42b66ff45f) (发布日期: 2025-11-26)
+- [ ] [企业管理类系统常见漏洞挖掘指北](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575840&idx=1&sn=e29b2442c178a47b89a0ffcd4af4cbf4) (发布日期: 2025-11-26)
+- [ ] [sm2加密](https://mp.weixin.qq.com/s?__biz=Mzk0NDg4MzgyNA==&mid=2247484783&idx=1&sn=ece0e00433771c79cf08d16409f3b6b9) (发布日期: 2025-11-26)
+- [ ] [俄罗斯APT组织Gamaredon和朝鲜Lazarus疑似存在网络资产共用情况](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183829&idx=1&sn=48a7ed0242ad6a1b0a800d414581b67a) (发布日期: 2025-11-26)
+- [ ] [某统一认证系统前台RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485323&idx=1&sn=5a4ea2f99fc4dc0f9528f28a4896df70) (发布日期: 2025-11-26)
+- [ ] [雷神众测漏洞周报2025.11.17-2025.11.23](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503612&idx=1&sn=54aaea98c3701289462a696248155529) (发布日期: 2025-11-26)
 
 
 ## 🎯 威胁详情分析
@@ -81,22 +97,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 超百亿次部署的Fluent Bit曝高危漏洞，可致云环境沦陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484749&idx=1&sn=58f65e8cfd756348c2cb4ae93dbc9f3a](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484749&idx=1&sn=58f65e8cfd756348c2cb4ae93dbc9f3a) |
-| 2 | 【漏洞情报】ExecuTorch整数溢出漏洞分析与修复指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485129&idx=1&sn=9574feb59a85dabce916433935ef7d24](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485129&idx=1&sn=9574feb59a85dabce916433935ef7d24) |
-| 3 | KINGOSOFT高校智慧校园教学综合服务平台存在文件读取漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484015&idx=1&sn=6c4183c0aed316b66d9ab21694178e29](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484015&idx=1&sn=6c4183c0aed316b66d9ab21694178e29) |
-| 4 | CVSS 评分 2.1 的漏洞也不放过：为了连上 iPhone，安卓这次真的拼了 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901651&idx=1&sn=ea0654536ef2dd780ee3d6037f019ca3](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901651&idx=1&sn=ea0654536ef2dd780ee3d6037f019ca3) |
+| 1 |  ] [漏洞预警 |  Claude Code任意文件写入漏洞(CVE-2025-64755) | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484690&idx=1&sn=8e445c52eb6f94fec4630eab0225cf0c](https://mp.weixin.qq.com/s?__biz=Mzk3NTE5NTI0OQ==&mid=2247484690&idx=1&sn=8e445c52eb6f94fec4630eab0225cf0c) |
+| 2 |  ] [【安全圈】Fluent Bit 多漏洞曝光引发云端入侵风险 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072919&idx=4&sn=1e08e66183d64b564fd711464521f8f1](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072919&idx=4&sn=1e08e66183d64b564fd711464521f8f1) |
+| 3 |  ] [【高危漏洞预警】Claude Code工具命令注入漏洞CVE-2025-64755 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef) |
+| 4 |  ] [Fluent Bit曝出五个高危漏洞，可导致云基础设施遭远程控制 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=3&sn=18b7ba00d5bd991608304b94145548e1](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=3&sn=18b7ba00d5bd991608304b94145548e1) |
+| 5 |  ] [代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07) |
+| 6 |  ] [Apache Syncope 硬编码密钥漏洞（CVE-2025-65998）可致用户密码泄露 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604498&idx=3&sn=0d3802aa7534e61d602c5526e8f6d149](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604498&idx=3&sn=0d3802aa7534e61d602c5526e8f6d149) |
+| 7 |  ] [企业管理类系统常见漏洞挖掘指北 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575840&idx=1&sn=e29b2442c178a47b89a0ffcd4af4cbf4](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575840&idx=1&sn=e29b2442c178a47b89a0ffcd4af4cbf4) |
+| 8 |  ] [某统一认证系统前台RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485323&idx=1&sn=5a4ea2f99fc4dc0f9528f28a4896df70](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485323&idx=1&sn=5a4ea2f99fc4dc0f9528f28a4896df70) |
+| 9 |  ] [雷神众测漏洞周报2025.11.17-2025.11.23 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503612&idx=1&sn=54aaea98c3701289462a696248155529](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503612&idx=1&sn=54aaea98c3701289462a696248155529) |
 
-### 安全运营
+### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 安全运营：网络安全指南-100页 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294707&idx=1&sn=296a815a1ea4b52bede6207dd35dfa1e](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294707&idx=1&sn=296a815a1ea4b52bede6207dd35dfa1e) |
+| 1 |  ] [内网综合渗透靶场一(上) 附靶场环境 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247487137&idx=1&sn=f26d0844058aff2ad256d8d12155160c](https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247487137&idx=1&sn=f26d0844058aff2ad256d8d12155160c) |
+| 2 |  ] [【样本对抗】PHP类型Webshell通用任意命令执行木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503715&idx=1&sn=555cfc1e0dda1a9c8a35fb51ad2fd1d6](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503715&idx=1&sn=555cfc1e0dda1a9c8a35fb51ad2fd1d6) |
+| 3 |  ] [客户内网有个web系统，想要在外网访问，我提供了几种方案 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247532316&idx=1&sn=9a34170ccc2e46466778b40834369f06](https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247532316&idx=1&sn=9a34170ccc2e46466778b40834369f06) |
+| 4 |  ] [【高危漏洞预警】Claude Code工具命令注入漏洞CVE-2025-64755 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491039&idx=1&sn=d49332f1827c961893e5492a319a40ef) |
+| 5 |  ] [代码注入漏洞威胁NVIDIA Isaac-GROOT机器人平台安全 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331145&idx=4&sn=0ef63ee983b17118be228b750a4b4e07) |
+| 6 |  ] [某统一认证系统前台RCE漏洞 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485323&idx=1&sn=5a4ea2f99fc4dc0f9528f28a4896df70](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485323&idx=1&sn=5a4ea2f99fc4dc0f9528f28a4896df70) |
 
-### 信息泄露
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SaaS安全大崩盘！又一起重大攻击，超200家大中型企业数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613402&idx=1&sn=cf81cd3d7623aafe8a8fdf377ec9278b](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613402&idx=1&sn=cf81cd3d7623aafe8a8fdf377ec9278b) |
+| 1 |  ] [银狐黑产组织捆绑FinalShell安装AsyncRAT远控木马 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494507&idx=1&sn=90ebf7c484b6a0ffc9579b396c64110b](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494507&idx=1&sn=90ebf7c484b6a0ffc9579b396c64110b) |
+| 2 |  ] [俄罗斯APT组织Gamaredon和朝鲜Lazarus疑似存在网络资产共用情况 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183829&idx=1&sn=48a7ed0242ad6a1b0a800d414581b67a](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183829&idx=1&sn=48a7ed0242ad6a1b0a800d414581b67a) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [跟着黑产学技术：Shai-Hulud 2.0 供应链攻击剖析 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247494016&idx=1&sn=acc5ed0b25c3a1ce54c78f845a1d167c](https://mp.weixin.qq.com/s?__biz=Mzg4MzA4NTM0OA==&mid=2247494016&idx=1&sn=acc5ed0b25c3a1ce54c78f845a1d167c) |
+| 2 |  ] [得不到就毁掉：第二轮Sha1-Hulud供应链攻击已发起，影响2.5万+仓库 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524487&idx=1&sn=f170d3131122071dec6e419c6cff562c](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524487&idx=1&sn=f170d3131122071dec6e419c6cff562c) |
 
 
 ## 📁 归档路径
@@ -112,8 +146,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -122,5 +156,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-26 01:38:25*
+*生成时间: 2025-11-26 04:26:42*
 *报告工具: 微信文章安全归档系统*
