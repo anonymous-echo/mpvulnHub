@@ -1,16 +1,21 @@
-# 2025-11-28 安全威胁态势报告
+# 2025-11-29 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 1篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 4篇
+- **攻击技术**: 3篇
+- **信息泄露**: 2篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -59,15 +64,57 @@
 
 ### Doonsec
 
-- [论国内渗透专家标配，还得是CISP-PTS](https://mp.weixin.qq.com/s?__biz=MzIxNTM4NDY2MQ==&mid=2247519130&idx=1&sn=4b0a201dc08307378f5aa99c7821e0c6) (发布日期: 2025-11-28)
+- [记某vue框架网站的渗透测试](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500456&idx=1&sn=a387c3c0297646c3b5570778aa3e4418) (发布日期: 2025-11-29)
+- [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d) (发布日期: 2025-11-29)
+- [【漏洞情报】Revive Adserver用户管理系统中的\"添加用户\"查找功能导致信息泄露](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912) (发布日期: 2025-11-29)
+- [朝日数据泄露，影响200万人喝啤酒](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f) (发布日期: 2025-11-29)
+- [驾驶舱域控制器虚拟化平台的运行时安全](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29) (发布日期: 2025-11-29)
+- [Android APK逆向分析：多组件协同漏洞利用链详解](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) (发布日期: 2025-11-29)
+- [个人接单 | web渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495130&idx=1&sn=4472a6259c07c96578d41b2d513856da) (发布日期: 2025-11-29)
+- [意大利国家铁路2.3TB信息泄露，马自达、佳能遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138227&idx=1&sn=c486b83401f8dda42ac314b12644136d) (发布日期: 2025-11-29)
+- [渗透测试之并发的小妙用-绕过限制](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489240&idx=1&sn=99a469dbdd649ea2da293fa07ddfc65c) (发布日期: 2025-11-29)
+- [CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) (发布日期: 2025-11-29)
+- [网络安全框架全景解读（中）：安全治理与体系建设](https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485842&idx=1&sn=a6107c87d3a80bea877ac23c443c75c6) (发布日期: 2025-11-29)
+- [网络安全行业，网络安全人士必须掌握的六个网络安全工具](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496552&idx=1&sn=484f1f7962fd7a2e3e7ec08e400bcf79) (发布日期: 2025-11-29)
+- [美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) (发布日期: 2025-11-29)
 
 
 ## 🎯 威胁详情分析
 
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【漏洞情报】Revive Adserver用户管理系统中的\"添加用户\"查找功能导致信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912) |
+| 2 | Android APK逆向分析：多组件协同漏洞利用链详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) |
+| 3 | CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) |
+| 4 | 美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | .NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d) |
+| 2 | 驾驶舱域控制器虚拟化平台的运行时安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29) |
+| 3 | CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 朝日数据泄露，影响200万人喝啤酒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f) |
+| 2 | 美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Android APK逆向分析：多组件协同漏洞利用链详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) |
+
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-11/2025-W48/2025-11-28/`
+文章已归档到: `doc/2025/2025-11/2025-W48/2025-11-29/`
 
 ## 🔗 数据源说明
 
@@ -78,8 +125,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 0 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -88,5 +135,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-28 20:21:59*
+*生成时间: 2025-11-29 01:27:50*
 *报告工具: 微信文章安全归档系统*
