@@ -2,23 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 20
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 20篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 10篇
-- **攻击技术**: 4篇
-- **威胁情报**: 1篇
+- **攻击技术**: 1篇
 - **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,71 +62,23 @@
 
 ### Doonsec
 
-- [FreeBuf培训“平台赔付保障”漏洞挖掘实战班 | 年终王炸](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=1&sn=357f3fe1b69f30e01015e6c7c4bf9cfc) (发布日期: 2025-11-29)
-- [新型恶意软件即服务Olymp Loader在攻击者论坛宣传反分析与检测规避功能](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=2&sn=7412b6c802cac2ef611068126a295c1a) (发布日期: 2025-11-29)
-- [FreeBuf周报 | 新型黑产AI工具KawaiiGPT降低黑客门槛；黑客出售微软Office 0Day RCE漏洞](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417) (发布日期: 2025-11-29)
-- [某足球协会遭遇数据泄露事件](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492284&idx=1&sn=88faa3ec56d171454ea377076e0b3ea5) (发布日期: 2025-11-29)
-- [NVIDIA DGX Spark曝高危漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=1&sn=5644d33c5b40b1cd18e45d784d580c3c) (发布日期: 2025-11-29)
-- [Apache SkyWalking曝XSS漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a) (发布日期: 2025-11-29)
-- [蒙城二院X华为，华为星河AI乾坤安全服务解决方案助力安徽蒙城第二人民医院医疗网络安全升级](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247506715&idx=1&sn=7ef73bdaefacd14ed802a336413c18f3) (发布日期: 2025-11-29)
-- [GeoServer WMS GetMap XML 外部实体注入漏洞（CVE-2025-58360）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389) (发布日期: 2025-11-29)
-- [NVIDIA Triton推理服务器Python后端命令注入漏洞（CVE-2025-23316）](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4) (发布日期: 2025-11-29)
-- [南北软件ERP ListDir.jsp 目录遍历漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493434&idx=1&sn=0d783e2f46c13a3643987124b5048627) (发布日期: 2025-11-29)
-- [《非涉密政务信息系统开发安全管理》思维导图](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294814&idx=2&sn=10e916668e35c14eaaaf3a3c6e3448f7) (发布日期: 2025-11-29)
-- [聊聊SOC启动—armv8启动总体流程](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247563373&idx=1&sn=09031dd8e3b5289ee3bbe1ed85121853) (发布日期: 2025-11-29)
-- [一公司因未履行数据安全保护义务被依法查处](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493323&idx=1&sn=c861b75da80df33d3632f89cc411aef4) (发布日期: 2025-11-29)
-- [“共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5) (发布日期: 2025-11-29)
-- [【漏洞挖掘Tips】将JS伪造为 PDF 的一些方法](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484674&idx=1&sn=ee0129f2674a549ee73e94ff0b5b8dcc) (发布日期: 2025-11-29)
-- [小型语言模型驱动的钓鱼攻击检测系统](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247484035&idx=1&sn=7e41c8665448d427f8e7e05b8cb51b90) (发布日期: 2025-11-29)
-- [佳会视频会议系统任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484007&idx=1&sn=53c08e5868de3d714124cfd6a5e75620) (发布日期: 2025-11-29)
-- [安全意识培训讲座---get网络安全新技能，筑牢校园防护网](https://mp.weixin.qq.com/s?__biz=Mzk4ODMwOTQ5MQ==&mid=2247485320&idx=1&sn=8a05010eb16b6795ba7012d3e337c4c7) (发布日期: 2025-11-29)
-- [紧急发文，如何用 AI 秒掉绝大多数网站的加密？](https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247492003&idx=1&sn=357661f11837a7db7ee368a62b3e4753) (发布日期: 2025-11-29)
-- [记一次edusrc7rank的简单挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486077&idx=1&sn=f133d6336e7500174bcb6aa42284a328) (发布日期: 2025-11-29)
+- [QQ_9.9.25客户端XSS](https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486157&idx=1&sn=eda688d9266c43b2d7274632e3a35ff7) (发布日期: 2025-11-29)
+- [安全运营的第一入口将被大模型重写：UI 的终结与智能体的崛起](https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488860&idx=1&sn=6f5419f45ea89e3aa12d5f3d1cd6066e) (发布日期: 2025-11-29)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | FreeBuf培训“平台赔付保障”漏洞挖掘实战班 | 年终王炸 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=1&sn=357f3fe1b69f30e01015e6c7c4bf9cfc](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=1&sn=357f3fe1b69f30e01015e6c7c4bf9cfc) |
-| 2 | FreeBuf周报 | 新型黑产AI工具KawaiiGPT降低黑客门槛；黑客出售微软Office 0Day RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417) |
-| 3 | NVIDIA DGX Spark曝高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=1&sn=5644d33c5b40b1cd18e45d784d580c3c](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=1&sn=5644d33c5b40b1cd18e45d784d580c3c) |
-| 4 | Apache SkyWalking曝XSS漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a) |
-| 5 | GeoServer WMS GetMap XML 外部实体注入漏洞（CVE-2025-58360） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389) |
-| 6 | NVIDIA Triton推理服务器Python后端命令注入漏洞（CVE-2025-23316） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4) |
-| 7 | 南北软件ERP ListDir.jsp 目录遍历漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493434&idx=1&sn=0d783e2f46c13a3643987124b5048627](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493434&idx=1&sn=0d783e2f46c13a3643987124b5048627) |
-| 8 | “共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5) |
-| 9 | 【漏洞挖掘Tips】将JS伪造为 PDF 的一些方法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484674&idx=1&sn=ee0129f2674a549ee73e94ff0b5b8dcc](https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484674&idx=1&sn=ee0129f2674a549ee73e94ff0b5b8dcc) |
-| 10 | 佳会视频会议系统任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484007&idx=1&sn=53c08e5868de3d714124cfd6a5e75620](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484007&idx=1&sn=53c08e5868de3d714124cfd6a5e75620) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | FreeBuf周报 | 新型黑产AI工具KawaiiGPT降低黑客门槛；黑客出售微软Office 0Day RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651331356&idx=3&sn=9b7004d09c1195707753dd1bfed00417) |
-| 2 | Apache SkyWalking曝XSS漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096683&idx=2&sn=08e489e9a70ac35651616398b069d68a) |
-| 3 | GeoServer WMS GetMap XML 外部实体注入漏洞（CVE-2025-58360） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=2&sn=52e4ee539fc4a1faf5b3ebc351c24389) |
-| 4 | NVIDIA Triton推理服务器Python后端命令注入漏洞（CVE-2025-23316） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533792&idx=3&sn=2dab9ec6ceb1df3e71b70e33ac75abe4) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | “共建共治、智护未来” | 第二届华为漏洞管理与应急响应技术大会于深圳成功举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458604608&idx=2&sn=04ed151f1624d653c618dff4dbce99f5) |
+| 1 | QQ_9.9.25客户端XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486157&idx=1&sn=eda688d9266c43b2d7274632e3a35ff7](https://mp.weixin.qq.com/s?__biz=MzkxOTI5NzY4MA==&mid=2247486157&idx=1&sn=eda688d9266c43b2d7274632e3a35ff7) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 记一次edusrc7rank的简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486077&idx=1&sn=f133d6336e7500174bcb6aa42284a328](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486077&idx=1&sn=f133d6336e7500174bcb6aa42284a328) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某足球协会遭遇数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492284&idx=1&sn=88faa3ec56d171454ea377076e0b3ea5](https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492284&idx=1&sn=88faa3ec56d171454ea377076e0b3ea5) |
+| 1 | 安全运营的第一入口将被大模型重写：UI 的终结与智能体的崛起 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488860&idx=1&sn=6f5419f45ea89e3aa12d5f3d1cd6066e](https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488860&idx=1&sn=6f5419f45ea89e3aa12d5f3d1cd6066e) |
 
 
 ## 📁 归档路径
@@ -147,8 +94,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 10 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -157,5 +104,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-29 16:23:55*
+*生成时间: 2025-11-29 20:21:16*
 *报告工具: 微信文章安全归档系统*
