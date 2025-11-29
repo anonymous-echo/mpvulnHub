@@ -2,21 +2,18 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 9
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 9篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 2篇
 - **攻击技术**: 2篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,15 +62,9 @@
 
 ### Doonsec
 
-- [华天动力协同办公系统travelAjax存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) (发布日期: 2025-11-29)
-- [POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) (发布日期: 2025-11-29)
-- [【一周安全资讯1129】国家网信办《网络安全标识管理办法》公开征求意见；意大利国家铁路2.3TB敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97) (发布日期: 2025-11-29)
-- [安天AVL SDK反病毒引擎升级通告（20251129）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213186&idx=1&sn=e1a812c6d4a8a766c98eb7c8d2b4d7e8) (发布日期: 2025-11-29)
-- [第142篇：蓝队分析工具箱解密多层加密的恶意网页演示](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487940&idx=1&sn=0372e2c276feca869a662464a747bb7a) (发布日期: 2025-11-29)
-- [导致我获得第一个赏金的简单漏洞（可复用的激活链接 → 账户接管）](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198) (发布日期: 2025-11-29)
-- [2025年团队漏洞挖掘赏金部分成果汇总](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656) (发布日期: 2025-11-29)
-- [超全！CISP全类别详细介绍，后面有福利](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507504&idx=1&sn=faf97636bccf98e26f9e288807c55958) (发布日期: 2025-11-29)
-- [【优质工具】威胁情报安全运营平台](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) (发布日期: 2025-11-29)
+- [赏金猎人必备技能：手把手带你拆解SQL注入（下篇）](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797453&idx=1&sn=a46416492d41e478845a7257126ac518) (发布日期: 2025-11-29)
+- [网传 Windows QQ NT 9.9.25.42744 存在严重跨站脚本攻击漏洞](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504295&idx=1&sn=18e0cd397bcb7f300f181e901bf86f17) (发布日期: 2025-11-29)
+- [QQ nt版本图片onerror代码注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143) (发布日期: 2025-11-29)
 
 
 ## 🎯 威胁详情分析
@@ -82,35 +73,15 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 华天动力协同办公系统travelAjax存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) |
-| 2 | POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) |
-| 3 | 导致我获得第一个赏金的简单漏洞（可复用的激活链接 → 账户接管） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198) |
-| 4 | 2025年团队漏洞挖掘赏金部分成果汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656) |
+| 1 | 网传 Windows QQ NT 9.9.25.42744 存在严重跨站脚本攻击漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504295&idx=1&sn=18e0cd397bcb7f300f181e901bf86f17](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504295&idx=1&sn=18e0cd397bcb7f300f181e901bf86f17) |
+| 2 | QQ nt版本图片onerror代码注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 华天动力协同办公系统travelAjax存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) |
-| 2 | POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【优质工具】威胁情报安全运营平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【优质工具】威胁情报安全运营平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【一周安全资讯1129】国家网信办《网络安全标识管理办法》公开征求意见；意大利国家铁路2.3TB敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97) |
+| 1 | 赏金猎人必备技能：手把手带你拆解SQL注入（下篇） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797453&idx=1&sn=a46416492d41e478845a7257126ac518](https://mp.weixin.qq.com/s?__biz=MjM5MzM0MTY4OQ==&mid=2447797453&idx=1&sn=a46416492d41e478845a7257126ac518) |
+| 2 | QQ nt版本图片onerror代码注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493091&idx=1&sn=ec27d40db266a68e5298327a7c9df143) |
 
 
 ## 📁 归档路径
@@ -126,8 +97,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +107,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-29 04:23:44*
+*生成时间: 2025-11-29 08:25:45*
 *报告工具: 微信文章安全归档系统*
