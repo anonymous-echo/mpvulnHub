@@ -2,20 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 13
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 13篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **漏洞利用**: 4篇
-- **攻击技术**: 3篇
-- **信息泄露**: 2篇
-- **供应链**: 1篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 2篇
 
 ## 🔍 匹配规则
 
@@ -64,19 +65,15 @@
 
 ### Doonsec
 
-- [记某vue框架网站的渗透测试](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500456&idx=1&sn=a387c3c0297646c3b5570778aa3e4418) (发布日期: 2025-11-29)
-- [.NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d) (发布日期: 2025-11-29)
-- [【漏洞情报】Revive Adserver用户管理系统中的\"添加用户\"查找功能导致信息泄露](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912) (发布日期: 2025-11-29)
-- [朝日数据泄露，影响200万人喝啤酒](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f) (发布日期: 2025-11-29)
-- [驾驶舱域控制器虚拟化平台的运行时安全](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29) (发布日期: 2025-11-29)
-- [Android APK逆向分析：多组件协同漏洞利用链详解](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) (发布日期: 2025-11-29)
-- [个人接单 | web渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495130&idx=1&sn=4472a6259c07c96578d41b2d513856da) (发布日期: 2025-11-29)
-- [意大利国家铁路2.3TB信息泄露，马自达、佳能遭勒索攻击|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138227&idx=1&sn=c486b83401f8dda42ac314b12644136d) (发布日期: 2025-11-29)
-- [渗透测试之并发的小妙用-绕过限制](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489240&idx=1&sn=99a469dbdd649ea2da293fa07ddfc65c) (发布日期: 2025-11-29)
-- [CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) (发布日期: 2025-11-29)
-- [网络安全框架全景解读（中）：安全治理与体系建设](https://mp.weixin.qq.com/s?__biz=Mzk2NDgwNjA2NA==&mid=2247485842&idx=1&sn=a6107c87d3a80bea877ac23c443c75c6) (发布日期: 2025-11-29)
-- [网络安全行业，网络安全人士必须掌握的六个网络安全工具](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496552&idx=1&sn=484f1f7962fd7a2e3e7ec08e400bcf79) (发布日期: 2025-11-29)
-- [美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) (发布日期: 2025-11-29)
+- [华天动力协同办公系统travelAjax存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) (发布日期: 2025-11-29)
+- [POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) (发布日期: 2025-11-29)
+- [【一周安全资讯1129】国家网信办《网络安全标识管理办法》公开征求意见；意大利国家铁路2.3TB敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97) (发布日期: 2025-11-29)
+- [安天AVL SDK反病毒引擎升级通告（20251129）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213186&idx=1&sn=e1a812c6d4a8a766c98eb7c8d2b4d7e8) (发布日期: 2025-11-29)
+- [第142篇：蓝队分析工具箱解密多层加密的恶意网页演示](https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487940&idx=1&sn=0372e2c276feca869a662464a747bb7a) (发布日期: 2025-11-29)
+- [导致我获得第一个赏金的简单漏洞（可复用的激活链接 → 账户接管）](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198) (发布日期: 2025-11-29)
+- [2025年团队漏洞挖掘赏金部分成果汇总](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656) (发布日期: 2025-11-29)
+- [超全！CISP全类别详细介绍，后面有福利](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507504&idx=1&sn=faf97636bccf98e26f9e288807c55958) (发布日期: 2025-11-29)
+- [【优质工具】威胁情报安全运营平台](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) (发布日期: 2025-11-29)
 
 
 ## 🎯 威胁详情分析
@@ -85,31 +82,35 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞情报】Revive Adserver用户管理系统中的\"添加用户\"查找功能导致信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485144&idx=1&sn=6ef8a9eacc6df9dd0f87c2c453cf3912) |
-| 2 | Android APK逆向分析：多组件协同漏洞利用链详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) |
-| 3 | CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) |
-| 4 | 美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) |
+| 1 | 华天动力协同办公系统travelAjax存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) |
+| 2 | POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) |
+| 3 | 导致我获得第一个赏金的简单漏洞（可复用的激活链接 → 账户接管） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508416&idx=2&sn=bccda446909907dce49e9245b5f9e198) |
+| 4 | 2025年团队漏洞挖掘赏金部分成果汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486237&idx=1&sn=3827ad774c2fe98a0d84d8c0ae573656) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | .NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500921&idx=2&sn=3efe523b1aad5d98321870e11a553d4d) |
-| 2 | 驾驶舱域控制器虚拟化平台的运行时安全 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629140&idx=1&sn=691afb0d9080680e504d4c1746c3da29) |
-| 3 | CVE-2025-13156 wordpress WooCommerce 的销售点 (POS) 系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488502&idx=1&sn=9b0201c148a84b457d3f39b95ec43381) |
+| 1 | 华天动力协同办公系统travelAjax存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484036&idx=1&sn=dc25468ecb7f8f6b2a1b51a080512757) |
+| 2 | POC|弥特科技全流程追溯系统geticp存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485286&idx=1&sn=a55703f112c8d385f75ae1361629aa37) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【优质工具】威胁情报安全运营平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 【优质工具】威胁情报安全运营平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485495&idx=1&sn=fea4b28abcdee7cd13f56b50c096622c) |
 
 ### 信息泄露
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 朝日数据泄露，影响200万人喝啤酒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503033&idx=2&sn=ec6c7347b24a31d6bb74a829f369a57f) |
-| 2 | 美大型企业集团 Cox Enterprises 披露因 Oracle E-Business Suite 漏洞导致的数据泄露事件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494137&idx=1&sn=3dca11368ff3ac2ad1173747935ed03b) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | Android APK逆向分析：多组件协同漏洞利用链详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485259&idx=1&sn=038891949ecfbc71b31b3a1f86f1b178) |
+| 1 | 【一周安全资讯1129】国家网信办《网络安全标识管理办法》公开征求意见；意大利国家铁路2.3TB敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508379&idx=1&sn=0b837f487f659fd44897dbe60bc60c97) |
 
 
 ## 📁 归档路径
@@ -126,7 +127,7 @@
 
 ### 今日重点关注
 - **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -135,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-29 01:27:50*
+*生成时间: 2025-11-29 04:23:44*
 *报告工具: 微信文章安全归档系统*
