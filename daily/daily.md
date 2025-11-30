@@ -2,16 +2,14 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 6
+- **总文章数**: 2
 - **数据源分布**:
-  - Doonsec: 6篇
+  - Doonsec: 2篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
-- **安全运营**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
 
@@ -62,12 +60,8 @@
 
 ### Doonsec
 
-- [20个任意文件下载漏洞渗透技巧！](https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247489828&idx=1&sn=88f03617e18836e626c2f6e1f7ce44a6) (发布日期: 2025-11-30)
-- [网络安全日志分析平台，提供实时威胁检测、行为异常分析和安全可视化功能](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613450&idx=4&sn=9f2ac5fff4c6f353ead90ffd0d35e330) (发布日期: 2025-11-30)
-- [「EDUSRC」记一次证书站的漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500441&idx=1&sn=0bc5172fe7104e223d4db408bddfb655) (发布日期: 2025-11-30)
-- [某无人机管理平台遭攻击导致数据泄露 被公安部门处罚](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499721&idx=2&sn=c32c7f3fd58bf6d2cf376df7d27f48d1) (发布日期: 2025-11-30)
-- [河南省《非涉密政务信息系统开发安全管理指南(征求意见稿)》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499721&idx=3&sn=ba7bb2202ed0543b8c8da002e91e98ab) (发布日期: 2025-11-30)
-- [本周新发布了多项关基保护、数据安全以及个人信息保护规范标准](https://mp.weixin.qq.com/s?__biz=MzI5MTEyMDUzMw==&mid=2650046778&idx=1&sn=286dd85ecdad05afc7d8f0ba0ca2ab5b) (发布日期: 2025-11-30)
+- [教你如何看懂反病毒报告（三）](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493093&idx=1&sn=9dd6a7c5e877b10fb1caefd88d4c938d) (发布日期: 2025-11-30)
+- [【漏洞预警】QQ Windows客户端跨站脚本漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485307&idx=1&sn=07c89c6bce4614ab55e627a8b109bffd) (发布日期: 2025-11-30)
 
 
 ## 🎯 威胁详情分析
@@ -76,20 +70,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 20个任意文件下载漏洞渗透技巧！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247489828&idx=1&sn=88f03617e18836e626c2f6e1f7ce44a6](https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247489828&idx=1&sn=88f03617e18836e626c2f6e1f7ce44a6) |
-| 2 | 「EDUSRC」记一次证书站的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500441&idx=1&sn=0bc5172fe7104e223d4db408bddfb655](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500441&idx=1&sn=0bc5172fe7104e223d4db408bddfb655) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 「EDUSRC」记一次证书站的漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500441&idx=1&sn=0bc5172fe7104e223d4db408bddfb655](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500441&idx=1&sn=0bc5172fe7104e223d4db408bddfb655) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某无人机管理平台遭攻击导致数据泄露 被公安部门处罚 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499721&idx=2&sn=c32c7f3fd58bf6d2cf376df7d27f48d1](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499721&idx=2&sn=c32c7f3fd58bf6d2cf376df7d27f48d1) |
+| 1 | 【漏洞预警】QQ Windows客户端跨站脚本漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485307&idx=1&sn=07c89c6bce4614ab55e627a8b109bffd](https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247485307&idx=1&sn=07c89c6bce4614ab55e627a8b109bffd) |
 
 
 ## 📁 归档路径
@@ -105,7 +86,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
@@ -115,5 +96,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-11-30 01:48:35*
+*生成时间: 2025-11-30 04:33:46*
 *报告工具: 微信文章安全归档系统*
