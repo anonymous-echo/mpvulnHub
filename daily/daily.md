@@ -9,11 +9,14 @@
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 3篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 4篇
+- **供应链**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **系统漏洞**: 2篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,19 +65,19 @@
 
 ### Doonsec
 
-- [我是如何入侵人工智能聊天机器人以泄露数千条客户记录的（IDOR + 提示注入）](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508449&idx=1&sn=a89d7dd6de4c415bec3b5feba94ffa08) (发布日期: 2025-12-01)
-- [基佬的\"自动化\"渗透测试扫描工具](https://mp.weixin.qq.com/s?__biz=MzA4NzU1Mjk4Mw==&mid=2247492716&idx=1&sn=a9b49b3ddf8da8f73008d36764b4eddf) (发布日期: 2025-12-01)
-- [[Java Puzzle #2 WP] HEAD权限绕过与字符截断CRLF](https://mp.weixin.qq.com/s?__biz=Mzk0NTQyMjk4Ng==&mid=2247484633&idx=1&sn=4a9b2e80dfee1d41eaca6f4ab116096d) (发布日期: 2025-12-01)
-- [RCE安全（二）](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491126&idx=1&sn=f2cdfddc477754f4181e8e6b29dee0a3) (发布日期: 2025-12-01)
-- [鱼叉攻击和水坑攻击](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485125&idx=1&sn=6de588a09f6304341d7efc0a6c7ec613) (发布日期: 2025-12-01)
-- [DudeSuite 漏洞更新播报 20251201](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562886&idx=1&sn=29d4164cef7e654379ad0aa272eb8bc2) (发布日期: 2025-12-01)
-- [【SSRF漏洞】云服务元数据利用分析](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489296&idx=1&sn=a761477cff48cb768c1b12bdf1bfe199) (发布日期: 2025-12-01)
-- [内部福利外泄来袭!特针对湖北省网络和数据安全协会众多会员，武汉大麦云作为战略合作伙伴，推出以下针对网安和开发工程师的专用云服务器](https://mp.weixin.qq.com/s?__biz=Mzg4MDE5NzY3NQ==&mid=2247514015&idx=1&sn=8547bf1534f78c200e7ecfbafec0134c) (发布日期: 2025-12-01)
-- [数据安全，重若千钧｜奖金翻倍！微信敏感数据专项众测正式启动](https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207870&idx=1&sn=ec693a6d4b9a01678279b54a8e727d52) (发布日期: 2025-12-01)
-- [极氪电动汽车行驶区域控制器开发和应用](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522171&idx=2&sn=34b8979ab1f8b36f69904c6242560c53) (发布日期: 2025-12-01)
-- [赛事招标丨广西建设职业技术学院网络安全攻防演练教学靶场平台采购项目](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495300&idx=1&sn=73da4ef67015d25d5ebcf40a68a6a17c) (发布日期: 2025-12-01)
-- [烽烟再起，热血重燃 | 河南省第七届“金盾信安杯”网络与数据安全大赛报名启动！](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495300&idx=2&sn=249c026c943ced9cf892010f432e57de) (发布日期: 2025-12-01)
-- [2025-12-01 最新CVE漏洞情报和技术资讯头条](https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487696&idx=1&sn=8e49f36d219028e9bd41aba6777692e2) (发布日期: 2025-12-01)
+- [十三部门加码虚拟货币监管，筑牢区块链安全防线](https://mp.weixin.qq.com/s?__biz=MzU1OTc2MzE2Mg==&mid=2247490049&idx=1&sn=472418a728531cd1552336437b49ebfd) (发布日期: 2025-12-01)
+- [两千块钱即可获得fastjson 全版本 0day？](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492882&idx=1&sn=f40c088fa0676f60f9ac7faf6ce1ef46) (发布日期: 2025-12-01)
+- [HFish蜜罐-蓝队防守利器](https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484124&idx=1&sn=538376edaf61370601f3a49e18ed4916) (发布日期: 2025-12-01)
+- [网安实验干货每日分享SQL注入-基于联合查询的POST注入-1201](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484163&idx=1&sn=20e0b57ce67ea17a4cfaaca447d59bde) (发布日期: 2025-12-01)
+- [热点观察｜美创科技丁斐：数据安全 × 价值共创？可信数据空间的 “双向奔赴”](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998456&idx=1&sn=f28d38fb089b0cb5e0a79f513f82a055) (发布日期: 2025-12-01)
+- [关于征集人工智能安全向善优秀教育案例的通知](https://mp.weixin.qq.com/s?__biz=MzI0ODI4Njk0Ng==&mid=2247492791&idx=1&sn=a99cb7cccbc7c6134a0799d234be2746) (发布日期: 2025-12-01)
+- [第五届网络空间内生安全学术大会－数字生态供应链安全论坛成功举办](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535013&idx=1&sn=b01b8b5ae3b2216ba396a30395a6e260) (发布日期: 2025-12-01)
+- [若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75) (发布日期: 2025-12-01)
+- [AI赋能，智领未来：山石网科Open XDR安全运营沙龙·江浙沪站圆满落幕](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304333&idx=2&sn=02a58b9254fb4f7b8246c4797dc82eff) (发布日期: 2025-12-01)
+- [筑牢军工软件供应链安全：可信组件库是数字化基石](https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484550&idx=1&sn=e5eadf64f1e8c5b745db2b6c2f8daeb4) (发布日期: 2025-12-01)
+- [WhatsApp堵上了允许研究人员收集35亿个账户数据的漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488507&idx=1&sn=3e1f8c547b116e3d6f0b4f85b72780f3) (发布日期: 2025-12-01)
+- [【1day】最新ruoyi 4.8.1模板注入RCE](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f) (发布日期: 2025-12-01)
+- [提示注入漏洞：2025年OWASP大语言模型（LLM）十大风险之首](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d) (发布日期: 2025-12-01)
 
 
 ## 🎯 威胁详情分析
@@ -83,17 +86,33 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | DudeSuite 漏洞更新播报 20251201 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562886&idx=1&sn=29d4164cef7e654379ad0aa272eb8bc2](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562886&idx=1&sn=29d4164cef7e654379ad0aa272eb8bc2) |
-| 2 | 【SSRF漏洞】云服务元数据利用分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489296&idx=1&sn=a761477cff48cb768c1b12bdf1bfe199](https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247489296&idx=1&sn=a761477cff48cb768c1b12bdf1bfe199) |
-| 3 | 2025-12-01 最新CVE漏洞情报和技术资讯头条 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487696&idx=1&sn=8e49f36d219028e9bd41aba6777692e2](https://mp.weixin.qq.com/s?__biz=Mzg2MTc0NTYyNg==&mid=2247487696&idx=1&sn=8e49f36d219028e9bd41aba6777692e2) |
+| 1 | 两千块钱即可获得fastjson 全版本 0day？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492882&idx=1&sn=f40c088fa0676f60f9ac7faf6ce1ef46](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492882&idx=1&sn=f40c088fa0676f60f9ac7faf6ce1ef46) |
+| 2 | 若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75) |
+| 3 | WhatsApp堵上了允许研究人员收集35亿个账户数据的漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488507&idx=1&sn=3e1f8c547b116e3d6f0b4f85b72780f3](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488507&idx=1&sn=3e1f8c547b116e3d6f0b4f85b72780f3) |
+| 4 | 【1day】最新ruoyi 4.8.1模板注入RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f) |
+| 5 | 提示注入漏洞：2025年OWASP大语言模型（LLM）十大风险之首 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 我是如何入侵人工智能聊天机器人以泄露数千条客户记录的（IDOR + 提示注入） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508449&idx=1&sn=a89d7dd6de4c415bec3b5feba94ffa08](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508449&idx=1&sn=a89d7dd6de4c415bec3b5feba94ffa08) |
-| 2 | RCE安全（二） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491126&idx=1&sn=f2cdfddc477754f4181e8e6b29dee0a3](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491126&idx=1&sn=f2cdfddc477754f4181e8e6b29dee0a3) |
-| 3 | 极氪电动汽车行驶区域控制器开发和应用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522171&idx=2&sn=34b8979ab1f8b36f69904c6242560c53](https://mp.weixin.qq.com/s?__biz=MzkyOTMwMDQ5MQ==&mid=2247522171&idx=2&sn=34b8979ab1f8b36f69904c6242560c53) |
+| 1 | 网安实验干货每日分享SQL注入-基于联合查询的POST注入-1201 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484163&idx=1&sn=20e0b57ce67ea17a4cfaaca447d59bde](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484163&idx=1&sn=20e0b57ce67ea17a4cfaaca447d59bde) |
+| 2 | 若依最新版本4.8.1漏洞 SSTI绕过获取ShiroKey至RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493095&idx=1&sn=29f24f64b1e8dd5b887535fc65093a75) |
+| 3 | 【1day】最新ruoyi 4.8.1模板注入RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484211&idx=1&sn=725b55873a1e5ee3093d7e13d394f25f) |
+| 4 | 提示注入漏洞：2025年OWASP大语言模型（LLM）十大风险之首 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d](https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247510053&idx=1&sn=373f914f67a20ab02de5f63f02928c0d) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | AI赋能，智领未来：山石网科Open XDR安全运营沙龙·江浙沪站圆满落幕 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304333&idx=2&sn=02a58b9254fb4f7b8246c4797dc82eff](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304333&idx=2&sn=02a58b9254fb4f7b8246c4797dc82eff) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 第五届网络空间内生安全学术大会－数字生态供应链安全论坛成功举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535013&idx=1&sn=b01b8b5ae3b2216ba396a30395a6e260](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535013&idx=1&sn=b01b8b5ae3b2216ba396a30395a6e260) |
+| 2 | 筑牢军工软件供应链安全：可信组件库是数字化基石 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484550&idx=1&sn=e5eadf64f1e8c5b745db2b6c2f8daeb4](https://mp.weixin.qq.com/s?__biz=Mzk0MzY1NDc2MA==&mid=2247484550&idx=1&sn=e5eadf64f1e8c5b745db2b6c2f8daeb4) |
 
 
 ## 📁 归档路径
@@ -109,8 +128,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -119,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-01 04:50:21*
+*生成时间: 2025-12-01 08:32:11*
 *报告工具: 微信文章安全归档系统*
