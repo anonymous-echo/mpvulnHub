@@ -2,23 +2,26 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 41
+- **总文章数**: 46
 - **数据源分布**:
-  - Doonsec: 41篇
+  - Doonsec: 45篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 19篇
-- **攻击技术**: 7篇
-- **威胁情报**: 2篇
-- **供应链**: 1篇
+- **漏洞利用**: 28篇
+- **攻击技术**: 22篇
+- **威胁情报**: 3篇
+- **供应链**: 2篇
+- **安全运营**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 15篇
 - **Web安全**: 2篇
-- **网络攻击**: 2篇
-- **系统漏洞**: 1篇
-- **应用漏洞**: 1篇
+- **应用漏洞**: 2篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,47 +70,55 @@
 
 ### Doonsec
 
-- [CrowdStrike 发现BRICKSTORM恶意软件针对某国境内 VMware vCenter 环境](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797081&idx=2&sn=dd78d78ebb50ad0966eda6e066a156bf) (发布日期: 2025-12-05)
-- [Windows 版 Vim 存在漏洞，攻击者可利用该漏洞执行任意代码](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797081&idx=3&sn=76790ee74a38990a910a8635d3aa144c) (发布日期: 2025-12-05)
-- [苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=1&sn=af71ae7d9601345863a4c4e87313ab5d) (发布日期: 2025-12-05)
-- [攻击者在暗网兜售iOS 26全链0Day漏洞利用工具](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=2&sn=631d2e405f22b26e2a6aeb5d9f2fa02b) (发布日期: 2025-12-05)
-- [蓝队工具，一款小白都能用的Windows溯源Tools，支持AI一键分析](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=4&sn=103dd2c7871be00ce1ae94c605da5500) (发布日期: 2025-12-05)
-- [【漏洞脚本】南昊网上阅卷系统 monitor 未授权访问](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487440&idx=1&sn=50a93ed9da9f4f561485d73b3d6639c2) (发布日期: 2025-12-05)
-- [那个 Next.js 的漏洞是真无条件](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485739&idx=1&sn=8a91948643d1ec75faf90a3cfa906646) (发布日期: 2025-12-05)
-- [0090.在聊天机器人实例中测试 XSS](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691387&idx=1&sn=4d6b78b2fca3dee076915ec29523607f) (发布日期: 2025-12-05)
-- [容器&域控权限提升](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247493032&idx=1&sn=27309c14ecef404065f99f661c8e4474) (发布日期: 2025-12-05)
-- [伊朗APT组织MuddyWater部署新型恶意工具链针对中东地区展开攻击——每周威胁情报动态第249期（11.28-12.04）](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492849&idx=1&sn=f476cc834d5493d7ad74b5679b988a27) (发布日期: 2025-12-05)
-- [如何利用AI对混淆js逆向分析还原加密逻辑](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500595&idx=1&sn=52af3b2c0474d6fb57d6a606727fea6a) (发布日期: 2025-12-05)
-- [赛事中标丨中国移动云南公司2025年至2026年网络安全竞赛及攻防演练实战服务项目](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495340&idx=1&sn=cee4a62f6eaa110da79cce2175b8d46a) (发布日期: 2025-12-05)
-- [关于组织开展第三届“数信杯”数据安全大赛的通知](https://mp.weixin.qq.com/s?__biz=Mzk0NTU0ODc0Nw==&mid=2247495340&idx=2&sn=0a38f78e9e75e12431c95d6d55312721) (发布日期: 2025-12-05)
-- [SOC威胁响应效率提升：从被动监控到主动防御的实战转型](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488042&idx=1&sn=76f3679bc948c0696d28e1ce8b68469a) (发布日期: 2025-12-05)
-- [【二次更新：通用利用受限，远程扫描方案】React 远程代码执行漏洞(CVE-2025-55182)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e) (发布日期: 2025-12-05)
-- [代码审计篇三-fastjson1.2.47绕过](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMDkxMQ==&mid=2247488678&idx=1&sn=53e588e457914bac068d0279f289c401) (发布日期: 2025-12-05)
-- [AI泡沫的致命漏洞：大模型不是真正的智能](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550062&idx=1&sn=8248f5a81c6ab532c4255061fb62b781) (发布日期: 2025-12-05)
-- [大模型十大安全威胁（OWASP TOP 10 LLM - 2025）](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550062&idx=3&sn=dbdb86aa242ace9403e0cb31fb9471f8) (发布日期: 2025-12-05)
-- [【漏洞情报】LangChain 提示模板注入漏洞详解：通过属性访问实现攻击](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2) (发布日期: 2025-12-05)
-- [【CVE-2025-55182】漏洞情报员们疯狂的一天](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485680&idx=1&sn=3555dd6dccfd9786a0e7348222625bdb) (发布日期: 2025-12-05)
-- [React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4) (发布日期: 2025-12-05)
-- [一款现代化的自动化安全扫描平台 - Moon-Gazing-Tower (望月塔)](https://mp.weixin.qq.com/s?__biz=MzU2NzY5MzI5Ng==&mid=2247508615&idx=1&sn=306d9f43f2d89f24531455796d775051) (发布日期: 2025-12-05)
-- [20个任意文件下载漏洞挖掘技巧（附实战案例）](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520843&idx=1&sn=85769b402985f9e63019a45c8b2fe0c1) (发布日期: 2025-12-05)
-- [一图看懂防火墙入侵防御功能](https://mp.weixin.qq.com/s?__biz=MzIwNDYzNTYxNQ==&mid=2247504656&idx=1&sn=f69ea37667e2e766285bb1d51972e7ba) (发布日期: 2025-12-05)
-- [Hessian反序列化利用工具](https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247515153&idx=1&sn=0cac7ed2ca79818aad029b7c176348ae) (发布日期: 2025-12-05)
-- [QQ高危漏洞(QVD-2025-45847)复现，速查你的版本！](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484582&idx=1&sn=50edbba2c1569331a725021b37b8783b) (发布日期: 2025-12-05)
-- [浅谈AI大模型红队包含的测试内容](https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTM2NA==&mid=2247484101&idx=1&sn=57b24456f7345e5ce389499d26e44fc7) (发布日期: 2025-12-05)
-- [漏洞预警 | vLLM远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0) (发布日期: 2025-12-05)
-- [抛弃鼠标点点点，run结束即可提交报告，REST API 渗透测试「全自动狙击枪」](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494139&idx=1&sn=48b941ed4b8c213733e8bcc3e38980f1) (发布日期: 2025-12-05)
-- [漏洞预警 | 友加畅捷管理系统未授权访问漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=2&sn=e4000ea8b202f7e279b8fe55d3e17806) (发布日期: 2025-12-05)
-- [漏洞预警 | 金和OA SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021) (发布日期: 2025-12-05)
-- [首批 | 【重磅发布】360数字安全集团通过可信AI云 大模型安全防护围栏能力评估](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247509248&idx=1&sn=c7e44212dd8a85ca741e5024196fcbaa) (发布日期: 2025-12-05)
-- [IDC推荐首位！威努特入选中国数字工厂工业安全厂商](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138379&idx=1&sn=e0d06ebdafe60c08ccba80b68423081a) (发布日期: 2025-12-05)
-- [2025年全球云安全报告](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294999&idx=1&sn=96a11866fe298438b6e2c906d96c7277) (发布日期: 2025-12-05)
-- [什么是工控网络安全审计分析系统？](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655294999&idx=2&sn=b6524de48f1b10b6d31b564778a2ccd5) (发布日期: 2025-12-05)
-- [构建恰当的数据安全文化](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503114&idx=1&sn=5246e0db0419f017e4083ab1aa55c23a) (发布日期: 2025-12-05)
-- [【AI安全】漏洞！SSE+DNS 重绑定可远程监听 MCP 服务器](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484147&idx=1&sn=d2e9432a1d3d2038cd553b0ee60503a9) (发布日期: 2025-12-05)
-- [在校生利用OSS漏洞窃取游戏设计文件，技术型商业秘密侵权案敲响数字资产保护警钟](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462351&idx=1&sn=4d15172aab7372f63fb637b4b5644f2e) (发布日期: 2025-12-05)
-- [英国威胁情报公司怎样发现xa0Lazarus APTxa0的攻击](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486184&idx=1&sn=e670c82bbf7a0c73a7494bcd68ece1a8) (发布日期: 2025-12-05)
-- [CVE-2025-55182漏洞批量检查工具（v2.0）](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486440&idx=1&sn=8f6c7b9aa8cf5f6f616f565f5077aacf) (发布日期: 2025-12-05)
-- [K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！](https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484180&idx=1&sn=52f281e0001beb168c96815ad4f0712d) (发布日期: 2025-12-05)
+- [三未信安双成果入选中国密码学会2025物联网密码应用创新成果名单](https://mp.weixin.qq.com/s?__biz=MzA5ODk0ODM5Nw==&mid=2650332739&idx=1&sn=ca45b0bdf63c4835f6e032c0bc6795f8) (发布日期: 2025-12-05)
+- [Next.js RCE圈子版dddd已集成](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485472&idx=1&sn=12cd225e3c582b1239e650d73923ca32) (发布日期: 2025-12-05)
+- [CVE-2025-55182-Next.js无条件RCE](https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de) (发布日期: 2025-12-05)
+- [岁末有礼 | 致所有与蚂蚁SRC同行的守护者](https://mp.weixin.qq.com/s?__biz=MzI3NDEzNzIxMg==&mid=2650493219&idx=1&sn=7f89a4dddb0e1e2e55efaded2ad17cb1) (发布日期: 2025-12-05)
+- [新型钓鱼攻击仿冒税务部门传播远程控制木马](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486882&idx=1&sn=dbe2f1fcd741f4645ad1d26a8c8e884e) (发布日期: 2025-12-05)
+- [【漏洞复现】nextjs、dify RCE payload](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5) (发布日期: 2025-12-05)
+- [2025年十大软件漏洞清单](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485145&idx=1&sn=4340a9431c3338761817991dfd23e1e2) (发布日期: 2025-12-05)
+- [西湖论剑2025决赛 IOT安全挑战 (漏洞挖掘部分) wp](https://mp.weixin.qq.com/s?__biz=MzE5ODQzMzkyOQ==&mid=2247484542&idx=1&sn=f2848ec67666899baae6eedefb75b852) (发布日期: 2025-12-05)
+- [Next.js无条件RCE可影响Dify](https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488298&idx=1&sn=901a759e6c4bcecba02e15eda5a25214) (发布日期: 2025-12-05)
+- [Next.js CVE-2025-55182研究](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712632&idx=1&sn=c2a5c6b0b3fe635c3812f3e2304c0ae9) (发布日期: 2025-12-05)
+- [【梆梆安全监测】 安全隐私合规监管趋势及漏洞风险报告（1109-1122）](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136567&idx=1&sn=9120d6d92e3130ff5167b7c0f16e543b) (发布日期: 2025-12-05)
+- [反转！dify将昨天的next.js跳蛋漏洞变为大漏洞！dify利用率较高！](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492897&idx=1&sn=855a0644d0d0d09097a752e462c65238) (发布日期: 2025-12-05)
+- [前端圈的核弹: CVE-2025-55182 React/next.js 内存马的一些玩法](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487754&idx=1&sn=72ed5ee33e0e652093785170ca3cd2ac) (发布日期: 2025-12-05)
+- [【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e) (发布日期: 2025-12-05)
+- [Next.js无条件RCE可影响Dify(带回显版本)](https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484346&idx=1&sn=3e0b1bcb07a1827d63f197e6eb9704be) (发布日期: 2025-12-05)
+- [[已复现]Next.js rce](https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839) (发布日期: 2025-12-05)
+- [【注意！已公开】React Server Components存在远程代码执行漏洞（CVE-2025-55182）](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c) (发布日期: 2025-12-05)
+- [Dify RCE漏洞预警（受Next.js影响）](https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b) (发布日期: 2025-12-05)
+- [CVE-2025-55182复现](https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484671&idx=1&sn=6c2924e546e855155861beba7798a965) (发布日期: 2025-12-05)
+- [Next.js RCE(CVE-2025-55182)漏洞复现](https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be) (发布日期: 2025-12-05)
+- [【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389) (发布日期: 2025-12-05)
+- [伪装、潜伏、窃密！新型银狐病毒难防范？网御星云EDR终端防护破局](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204469&idx=1&sn=9d893063d9bb995d76a4e5ebbd52d58d) (发布日期: 2025-12-05)
+- [【漏洞复现】React/Next.js RCE 漏洞（CVE-2025-55182）（含靶场搭建）](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8) (发布日期: 2025-12-05)
+- [银狐木马盯上微信！](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789499&idx=1&sn=7f9455fd288bf5f5c6dbbe660c22f126) (发布日期: 2025-12-05)
+- [Next.js RCE(CVE-2025-66478/CVE-2025-55182)](https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295) (发布日期: 2025-12-05)
+- [干掉AI！Next.js无条件RCE可影响Dify](https://mp.weixin.qq.com/s?__biz=MzkzMjIxMDU5OA==&mid=2247498745&idx=1&sn=0f0c913c88f4b71a2cc953c02c45f9b8) (发布日期: 2025-12-05)
+- [【低危漏洞Tips】甲方乙方水漏洞之爆破账号锁定绕过](https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487351&idx=1&sn=d10badc9387eff4c8cf7e1e04297ac44) (发布日期: 2025-12-05)
+- [境外DDoS洪流来袭 我国多地多行业遭冲击](https://mp.weixin.qq.com/s?__biz=Mzk2NDIzNTYwOA==&mid=2247490425&idx=1&sn=6d77d3c587bc3b2154ef40ce2600c45f) (发布日期: 2025-12-05)
+- [畅捷通TPlus SQL注入漏洞  附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4) (发布日期: 2025-12-05)
+- [《2025 金融机构数据安全合规现状》报告](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247522287&idx=1&sn=486e64f4fbb26cec7055246736b72005) (发布日期: 2025-12-05)
+- [学院投稿-某系统组合拳前台RCE-模板注入](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487128&idx=1&sn=4837043d646b0f83a22d62a23fc2138f) (发布日期: 2025-12-05)
+- [安信天行助力北京市青少年网络和数据安全宣传教育](https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTMyMA==&mid=2648571524&idx=1&sn=0d1ebf7f59fd641d68b943f1aef18b43) (发布日期: 2025-12-05)
+- [网安实验干货每日分享SQL注入-基于报错的注入1-1205](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484180&idx=1&sn=cc90ed0802c09da53da41ead4dbeb212) (发布日期: 2025-12-05)
+- [Linux 系统中两种核心防火墙](https://mp.weixin.qq.com/s?__biz=MzkzMjcxOTk4Mg==&mid=2247486415&idx=1&sn=ae5dbc9a56cead8e75f83db8c24232c9) (发布日期: 2025-12-05)
+- [链接一批优质的安全管理与合规岗位及安全人才｜12月5日更新](https://mp.weixin.qq.com/s?__biz=MzIyOTAxOTYwMw==&mid=2650238231&idx=1&sn=dd24a2bfe2de5d20d7ffce107f488026) (发布日期: 2025-12-05)
+- [ChatGPT开发者数据泄露，但是OpenAI说没被黑](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248660&idx=1&sn=b4d1b51eb69f95e9c0110ad86b35c695) (发布日期: 2025-12-05)
+- [每周高级威胁情报解读(2025.11.28~12.04)](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516916&idx=1&sn=76ed787924d79ebc8b7d5b73e7dd9451) (发布日期: 2025-12-05)
+- [Java反序列化漏洞黑盒挖掘思路-上篇](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493112&idx=1&sn=63972108a3e8fd25c90c20f340afc75e) (发布日期: 2025-12-05)
+- [RSC/Next.js RCE漏洞高可信度检测方法(CVE-2025-55182 & CVE-2025-66478)](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb) (发布日期: 2025-12-05)
+- [React/Next.js 组件 RCE 漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16) (发布日期: 2025-12-05)
+- [【复现】React Server Components远程代码执行漏洞(CVE-2025-55182)风险通告](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454) (发布日期: 2025-12-05)
+- [漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516) (发布日期: 2025-12-05)
+- [【成功复现】React Server Components远程代码执行漏洞(CVE-2025-55182)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff) (发布日期: 2025-12-05)
+- [hessian反序列化利用工具 -- HessianExploit-tool（12月4日更新）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517675&idx=1&sn=2ed3b17816712e3727d859f347119639) (发布日期: 2025-12-05)
+- [苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087558&idx=1&sn=ea6968260ddc19f06b71074a84f39ee6) (发布日期: 2025-12-05)
+
+### BruceFeIix
+
+- [ ] [Intellexa联盟0day漏洞攻击不止：泄露分析揭全球监视黑幕](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183972&idx=1&sn=d2a4411d2ea14dbfb3f7f7af6ef02a28) (发布日期: 2025-12-05)
 
 
 ## 🎯 威胁详情分析
@@ -116,50 +127,88 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Windows 版 Vim 存在漏洞，攻击者可利用该漏洞执行任意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797081&idx=3&sn=76790ee74a38990a910a8635d3aa144c](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797081&idx=3&sn=76790ee74a38990a910a8635d3aa144c) |
-| 2 | 苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=1&sn=af71ae7d9601345863a4c4e87313ab5d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=1&sn=af71ae7d9601345863a4c4e87313ab5d) |
-| 3 | 攻击者在暗网兜售iOS 26全链0Day漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=2&sn=631d2e405f22b26e2a6aeb5d9f2fa02b](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613534&idx=2&sn=631d2e405f22b26e2a6aeb5d9f2fa02b) |
-| 4 | 【漏洞脚本】南昊网上阅卷系统 monitor 未授权访问 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487440&idx=1&sn=50a93ed9da9f4f561485d73b3d6639c2](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487440&idx=1&sn=50a93ed9da9f4f561485d73b3d6639c2) |
-| 5 | 那个 Next.js 的漏洞是真无条件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485739&idx=1&sn=8a91948643d1ec75faf90a3cfa906646](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485739&idx=1&sn=8a91948643d1ec75faf90a3cfa906646) |
-| 6 | 【二次更新：通用利用受限，远程扫描方案】React 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e) |
-| 7 | AI泡沫的致命漏洞：大模型不是真正的智能 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550062&idx=1&sn=8248f5a81c6ab532c4255061fb62b781](https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247550062&idx=1&sn=8248f5a81c6ab532c4255061fb62b781) |
-| 8 | 【漏洞情报】LangChain 提示模板注入漏洞详解：通过属性访问实现攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2) |
-| 9 | 【CVE-2025-55182】漏洞情报员们疯狂的一天 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485680&idx=1&sn=3555dd6dccfd9786a0e7348222625bdb](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485680&idx=1&sn=3555dd6dccfd9786a0e7348222625bdb) |
-| 10 | React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4) |
-| 11 | 20个任意文件下载漏洞挖掘技巧（附实战案例） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520843&idx=1&sn=85769b402985f9e63019a45c8b2fe0c1](https://mp.weixin.qq.com/s?__biz=MzIwMzIyMjYzNA==&mid=2247520843&idx=1&sn=85769b402985f9e63019a45c8b2fe0c1) |
-| 12 | QQ高危漏洞(QVD-2025-45847)复现，速查你的版本！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484582&idx=1&sn=50edbba2c1569331a725021b37b8783b](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484582&idx=1&sn=50edbba2c1569331a725021b37b8783b) |
-| 13 | 漏洞预警 | vLLM远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0) |
-| 14 | 漏洞预警 | 友加畅捷管理系统未授权访问漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=2&sn=e4000ea8b202f7e279b8fe55d3e17806](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=2&sn=e4000ea8b202f7e279b8fe55d3e17806) |
-| 15 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021) |
-| 16 | 【AI安全】漏洞！SSE+DNS 重绑定可远程监听 MCP 服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484147&idx=1&sn=d2e9432a1d3d2038cd553b0ee60503a9](https://mp.weixin.qq.com/s?__biz=MzkxNzU2NDgxNQ==&mid=2247484147&idx=1&sn=d2e9432a1d3d2038cd553b0ee60503a9) |
-| 17 | 在校生利用OSS漏洞窃取游戏设计文件，技术型商业秘密侵权案敲响数字资产保护警钟 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462351&idx=1&sn=4d15172aab7372f63fb637b4b5644f2e](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462351&idx=1&sn=4d15172aab7372f63fb637b4b5644f2e) |
-| 18 | CVE-2025-55182漏洞批量检查工具（v2.0） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486440&idx=1&sn=8f6c7b9aa8cf5f6f616f565f5077aacf](https://mp.weixin.qq.com/s?__biz=MzI3NjM2ODA2Mg==&mid=2247486440&idx=1&sn=8f6c7b9aa8cf5f6f616f565f5077aacf) |
-| 19 | K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484180&idx=1&sn=52f281e0001beb168c96815ad4f0712d](https://mp.weixin.qq.com/s?__biz=MzkzNDM3NjA3Mw==&mid=2247484180&idx=1&sn=52f281e0001beb168c96815ad4f0712d) |
+| 1 | CVE-2025-55182-Next.js无条件RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de](https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de) |
+| 2 | 【漏洞复现】nextjs、dify RCE payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5) |
+| 3 | 2025年十大软件漏洞清单 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485145&idx=1&sn=4340a9431c3338761817991dfd23e1e2](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485145&idx=1&sn=4340a9431c3338761817991dfd23e1e2) |
+| 4 | 西湖论剑2025决赛 IOT安全挑战 (漏洞挖掘部分) wp | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODQzMzkyOQ==&mid=2247484542&idx=1&sn=f2848ec67666899baae6eedefb75b852](https://mp.weixin.qq.com/s?__biz=MzE5ODQzMzkyOQ==&mid=2247484542&idx=1&sn=f2848ec67666899baae6eedefb75b852) |
+| 5 | Next.js CVE-2025-55182研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712632&idx=1&sn=c2a5c6b0b3fe635c3812f3e2304c0ae9](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712632&idx=1&sn=c2a5c6b0b3fe635c3812f3e2304c0ae9) |
+| 6 | 【梆梆安全监测】 安全隐私合规监管趋势及漏洞风险报告（1109-1122） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136567&idx=1&sn=9120d6d92e3130ff5167b7c0f16e543b](https://mp.weixin.qq.com/s?__biz=MjM5NzE0NTIxMg==&mid=2651136567&idx=1&sn=9120d6d92e3130ff5167b7c0f16e543b) |
+| 7 | 反转！dify将昨天的next.js跳蛋漏洞变为大漏洞！dify利用率较高！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492897&idx=1&sn=855a0644d0d0d09097a752e462c65238](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492897&idx=1&sn=855a0644d0d0d09097a752e462c65238) |
+| 8 | 前端圈的核弹: CVE-2025-55182 React/next.js 内存马的一些玩法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487754&idx=1&sn=72ed5ee33e0e652093785170ca3cd2ac](https://mp.weixin.qq.com/s?__biz=MzU0MDcyMTMxOQ==&mid=2247487754&idx=1&sn=72ed5ee33e0e652093785170ca3cd2ac) |
+| 9 | 【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e) |
+| 10 | [已复现]Next.js rce | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839](https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839) |
+| 11 | 【注意！已公开】React Server Components存在远程代码执行漏洞（CVE-2025-55182） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c) |
+| 12 | Dify RCE漏洞预警（受Next.js影响） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b](https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b) |
+| 13 | CVE-2025-55182复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484671&idx=1&sn=6c2924e546e855155861beba7798a965](https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484671&idx=1&sn=6c2924e546e855155861beba7798a965) |
+| 14 | Next.js RCE(CVE-2025-55182)漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be](https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be) |
+| 15 | 【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389) |
+| 16 | 【漏洞复现】React/Next.js RCE 漏洞（CVE-2025-55182）（含靶场搭建） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8) |
+| 17 | Next.js RCE(CVE-2025-66478/CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295](https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295) |
+| 18 | 【低危漏洞Tips】甲方乙方水漏洞之爆破账号锁定绕过 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487351&idx=1&sn=d10badc9387eff4c8cf7e1e04297ac44](https://mp.weixin.qq.com/s?__biz=MzkwMTc2MDE3OA==&mid=2247487351&idx=1&sn=d10badc9387eff4c8cf7e1e04297ac44) |
+| 19 | 畅捷通TPlus SQL注入漏洞  附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4) |
+| 20 | Java反序列化漏洞黑盒挖掘思路-上篇 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493112&idx=1&sn=63972108a3e8fd25c90c20f340afc75e](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493112&idx=1&sn=63972108a3e8fd25c90c20f340afc75e) |
+| 21 | RSC/Next.js RCE漏洞高可信度检测方法(CVE-2025-55182 & CVE-2025-66478) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb) |
+| 22 | React/Next.js 组件 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16) |
+| 23 | 【复现】React Server Components远程代码执行漏洞(CVE-2025-55182)风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454) |
+| 24 | 漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516) |
+| 25 | 【成功复现】React Server Components远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff) |
+| 26 | hessian反序列化利用工具 -- HessianExploit-tool（12月4日更新） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517675&idx=1&sn=2ed3b17816712e3727d859f347119639](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517675&idx=1&sn=2ed3b17816712e3727d859f347119639) |
+| 27 | 苹果爆出“超级漏洞”：官方播客沦为黑客攻击入口 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087558&idx=1&sn=ea6968260ddc19f06b71074a84f39ee6](https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650087558&idx=1&sn=ea6968260ddc19f06b71074a84f39ee6) |
+| 28 |  ] [Intellexa联盟0day漏洞攻击不止：泄露分析揭全球监视黑幕 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183972&idx=1&sn=d2a4411d2ea14dbfb3f7f7af6ef02a28](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183972&idx=1&sn=d2a4411d2ea14dbfb3f7f7af6ef02a28) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 0090.在聊天机器人实例中测试 XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691387&idx=1&sn=4d6b78b2fca3dee076915ec29523607f](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691387&idx=1&sn=4d6b78b2fca3dee076915ec29523607f) |
-| 2 | 容器&域控权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247493032&idx=1&sn=27309c14ecef404065f99f661c8e4474](https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247493032&idx=1&sn=27309c14ecef404065f99f661c8e4474) |
-| 3 | 【二次更新：通用利用受限，远程扫描方案】React 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064459&idx=1&sn=7ed5354c9b8b71280d1657fd99ea345e) |
-| 4 | 【漏洞情报】LangChain 提示模板注入漏洞详解：通过属性访问实现攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2](https://mp.weixin.qq.com/s?__biz=MzA5NDI0NzY3Mg==&mid=2247485173&idx=1&sn=1ba7ea9c417dbe4559868a3c0747fee2) |
-| 5 | React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4) |
-| 6 | 漏洞预警 | vLLM远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=1&sn=eb686b2b87d6029a82bc5305651a5fc0) |
-| 7 | 漏洞预警 | 金和OA SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495164&idx=3&sn=5d638bf5ae51799ad3be44965da51021) |
+| 1 | Next.js RCE圈子版dddd已集成 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485472&idx=1&sn=12cd225e3c582b1239e650d73923ca32](https://mp.weixin.qq.com/s?__biz=MzI4MjI2NDI1Ng==&mid=2247485472&idx=1&sn=12cd225e3c582b1239e650d73923ca32) |
+| 2 | CVE-2025-55182-Next.js无条件RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de](https://mp.weixin.qq.com/s?__biz=MzUzMDQ1MTY0MQ==&mid=2247507611&idx=1&sn=70b541f4915e20e2d871ca4bd9f772de) |
+| 3 | 【漏洞复现】nextjs、dify RCE payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484964&idx=1&sn=25a953dc0ade125907171309f9bac2c5) |
+| 4 | Next.js无条件RCE可影响Dify | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488298&idx=1&sn=901a759e6c4bcecba02e15eda5a25214](https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488298&idx=1&sn=901a759e6c4bcecba02e15eda5a25214) |
+| 5 | 【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064463&idx=1&sn=5a3a9cbb771657ed60a048df2430916e) |
+| 6 | Next.js无条件RCE可影响Dify(带回显版本) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484346&idx=1&sn=3e0b1bcb07a1827d63f197e6eb9704be](https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484346&idx=1&sn=3e0b1bcb07a1827d63f197e6eb9704be) |
+| 7 | [已复现]Next.js rce | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839](https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484795&idx=1&sn=a78bd5aea5fa5f65f19683a8797ad839) |
+| 8 | 【注意！已公开】React Server Components存在远程代码执行漏洞（CVE-2025-55182） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c](https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490629&idx=1&sn=0ee5ec8810cfc1f382625d0ccef4340c) |
+| 9 | Dify RCE漏洞预警（受Next.js影响） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b](https://mp.weixin.qq.com/s?__biz=MzU1NzgyMzA0OA==&mid=2247490662&idx=1&sn=936c18d4fdfe228037a2024c2cda373b) |
+| 10 | Next.js RCE(CVE-2025-55182)漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be](https://mp.weixin.qq.com/s?__biz=MzkxMjY1NDMxMg==&mid=2247485955&idx=1&sn=690823ba37b991cfc72f3fb92129b2be) |
+| 11 | 【在野利用】React Server Components 远程代码执行漏洞(CVE-2025-55182)安全风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504298&idx=1&sn=4c3d5512ec94c6c762f66bee24aad389) |
+| 12 | 【漏洞复现】React/Next.js RCE 漏洞（CVE-2025-55182）（含靶场搭建） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8](https://mp.weixin.qq.com/s?__biz=MzI1OTUyMTI2MQ==&mid=2247484959&idx=1&sn=701ea6b89755c835465f1db7afd216f8) |
+| 13 | Next.js RCE(CVE-2025-66478/CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295](https://mp.weixin.qq.com/s?__biz=MzkxMDY3MzQyNQ==&mid=2247485404&idx=1&sn=aba67cf2b5c3946089b7ba3acadb3295) |
+| 14 | 干掉AI！Next.js无条件RCE可影响Dify | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjIxMDU5OA==&mid=2247498745&idx=1&sn=0f0c913c88f4b71a2cc953c02c45f9b8](https://mp.weixin.qq.com/s?__biz=MzkzMjIxMDU5OA==&mid=2247498745&idx=1&sn=0f0c913c88f4b71a2cc953c02c45f9b8) |
+| 15 | 畅捷通TPlus SQL注入漏洞  附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484015&idx=1&sn=fd091405305f3723ef980819e700eac4) |
+| 16 | 学院投稿-某系统组合拳前台RCE-模板注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487128&idx=1&sn=4837043d646b0f83a22d62a23fc2138f](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487128&idx=1&sn=4837043d646b0f83a22d62a23fc2138f) |
+| 17 | 网安实验干货每日分享SQL注入-基于报错的注入1-1205 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484180&idx=1&sn=cc90ed0802c09da53da41ead4dbeb212](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484180&idx=1&sn=cc90ed0802c09da53da41ead4dbeb212) |
+| 18 | RSC/Next.js RCE漏洞高可信度检测方法(CVE-2025-55182 & CVE-2025-66478) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486259&idx=1&sn=333c3834036849a651133fad6204b4fb) |
+| 19 | React/Next.js 组件 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16) |
+| 20 | 【复现】React Server Components远程代码执行漏洞(CVE-2025-55182)风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484967&idx=1&sn=289c62bd373166618cde6703422c3454) |
+| 21 | 漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516) |
+| 22 | 【成功复现】React Server Components远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503732&idx=1&sn=575510af94597a7a5949d925d7f5b0ff) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 伊朗APT组织MuddyWater部署新型恶意工具链针对中东地区展开攻击——每周威胁情报动态第249期（11.28-12.04） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492849&idx=1&sn=f476cc834d5493d7ad74b5679b988a27](https://mp.weixin.qq.com/s?__biz=MzI0MTE4ODY3Nw==&mid=2247492849&idx=1&sn=f476cc834d5493d7ad74b5679b988a27) |
-| 2 | 英国威胁情报公司怎样发现xa0Lazarus APTxa0的攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486184&idx=1&sn=e670c82bbf7a0c73a7494bcd68ece1a8](https://mp.weixin.qq.com/s?__biz=MzkwNjQxOTk1Mg==&mid=2247486184&idx=1&sn=e670c82bbf7a0c73a7494bcd68ece1a8) |
+| 1 | 伪装、潜伏、窃密！新型银狐病毒难防范？网御星云EDR终端防护破局 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204469&idx=1&sn=9d893063d9bb995d76a4e5ebbd52d58d](https://mp.weixin.qq.com/s?__biz=MzA3NDUzMjc5Ng==&mid=2650204469&idx=1&sn=9d893063d9bb995d76a4e5ebbd52d58d) |
+| 2 | 银狐木马盯上微信！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789499&idx=1&sn=7f9455fd288bf5f5c6dbbe660c22f126](https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789499&idx=1&sn=7f9455fd288bf5f5c6dbbe660c22f126) |
+| 3 | 每周高级威胁情报解读(2025.11.28~12.04) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516916&idx=1&sn=76ed787924d79ebc8b7d5b73e7dd9451](https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516916&idx=1&sn=76ed787924d79ebc8b7d5b73e7dd9451) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 岁末有礼 | 致所有与蚂蚁SRC同行的守护者 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NDEzNzIxMg==&mid=2650493219&idx=1&sn=7f89a4dddb0e1e2e55efaded2ad17cb1](https://mp.weixin.qq.com/s?__biz=MzI3NDEzNzIxMg==&mid=2650493219&idx=1&sn=7f89a4dddb0e1e2e55efaded2ad17cb1) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | ChatGPT开发者数据泄露，但是OpenAI说没被黑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248660&idx=1&sn=b4d1b51eb69f95e9c0110ad86b35c695](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248660&idx=1&sn=b4d1b51eb69f95e9c0110ad86b35c695) |
 
 ### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | React Server Components(React服务端组件)未授权远程代码执行漏洞CVE-2025-55182漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4](https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247492451&idx=1&sn=da73c30b57c74613f6d358309b2c6ac4) |
+| 1 | React/Next.js 组件 RCE 漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16](https://mp.weixin.qq.com/s?__biz=MzkyNzcxMzU0NQ==&mid=2247484055&idx=1&sn=b297d008e3913f3dcf99fc80cc175a16) |
+| 2 | 漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516](https://mp.weixin.qq.com/s?__biz=MzkyNzcxNTczNA==&mid=2247487947&idx=1&sn=6ef9030b02602853cb13a86b81006516) |
 
 
 ## 📁 归档路径
@@ -175,8 +224,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 19 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 28 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 15 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -185,5 +234,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-05 01:41:34*
+*生成时间: 2025-12-05 04:29:52*
 *报告工具: 微信文章安全归档系统*
