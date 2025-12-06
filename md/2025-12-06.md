@@ -2,19 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 5
+- **总文章数**: 10
 - **数据源分布**:
-  - Doonsec: 5篇
+  - Doonsec: 10篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 2篇
+- **漏洞利用**: 4篇
 - **攻击技术**: 2篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,11 +61,16 @@
 
 ### Doonsec
 
-- [深度剖析 Telegram 加密诈骗生态：伪造支持频道与 Drainer 的工业化运作](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504573&idx=4&sn=73323461ed7388d6896d946bad6e54e9) (发布日期: 2025-12-06)
-- [CVE-2025-55182-React以及DIFY利用](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491208&idx=1&sn=eb549be8cbb614797b2ccd5c4ff227b6) (发布日期: 2025-12-06)
-- [第二次终于通过了信息安全工程师考试](https://mp.weixin.qq.com/s?__biz=MzI5MTIwOTQ5MA==&mid=2247489686&idx=1&sn=be7d888042eb11cf834cb02f563e988b) (发布日期: 2025-12-06)
-- [【复现】React服务器组件 - 远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed) (发布日期: 2025-12-06)
-- [【安全预警】MailEnable Failure 反射 XSS](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484168&idx=1&sn=fbadb9372c6a70f48e36932ac90e9790) (发布日期: 2025-12-06)
+- [CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) (发布日期: 2025-12-06)
+- [CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) (发布日期: 2025-12-06)
+- [网信办发布《网络数据安全风险评估办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247581303&idx=1&sn=fe84101fe59014c3537257e1d47c0658) (发布日期: 2025-12-06)
+- [帮管客CRM jiliyu接口存在SQL漏洞](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7) (发布日期: 2025-12-06)
+- [攻防演练事件研判篇（HW本文足够中高级）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575971&idx=1&sn=c5106d9eae9ce8cd64d3a4dc5fb35e6b) (发布日期: 2025-12-06)
+- [核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391) (发布日期: 2025-12-06)
+- [国家网信办发布《网络数据安全风险评估办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522346&idx=1&sn=f8c9a39c2cbeac64b5233c6507d37180) (发布日期: 2025-12-06)
+- [国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175232&idx=2&sn=0f8006618998aac2240ac1049fd8d43f) (发布日期: 2025-12-06)
+- [当 AI 成为安全工程师：Claude Code 自主完成一次挖矿攻击事件响应全记录](https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488867&idx=1&sn=90c24367ccb4e2992d900a98e119eba6) (发布日期: 2025-12-06)
+- [国家互联网信息办公室关于《网络数据安全风险评估办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247602658&idx=1&sn=7edb1119c400146064910dd4c0a8db6d) (发布日期: 2025-12-06)
 
 
 ## 🎯 威胁详情分析
@@ -76,21 +79,17 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-55182-React以及DIFY利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491208&idx=1&sn=eb549be8cbb614797b2ccd5c4ff227b6](https://mp.weixin.qq.com/s?__biz=Mzg5NjUxOTM3Mg==&mid=2247491208&idx=1&sn=eb549be8cbb614797b2ccd5c4ff227b6) |
-| 2 | 【复现】React服务器组件 - 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed) |
+| 1 | CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) |
+| 2 | CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) |
+| 3 | 帮管客CRM jiliyu接口存在SQL漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7) |
+| 4 | 核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【复现】React服务器组件 - 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed) |
-| 2 | 【安全预警】MailEnable Failure 反射 XSS | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484168&idx=1&sn=fbadb9372c6a70f48e36932ac90e9790](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484168&idx=1&sn=fbadb9372c6a70f48e36932ac90e9790) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【复现】React服务器组件 - 远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484230&idx=1&sn=5c614ca804549d44d3206ff7ccc3b4ed) |
+| 1 | CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) |
+| 2 | CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) |
 
 
 ## 📁 归档路径
@@ -106,8 +105,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -116,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-06 08:25:08*
+*生成时间: 2025-12-06 12:38:32*
 *报告工具: 微信文章安全归档系统*
