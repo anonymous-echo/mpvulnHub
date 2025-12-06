@@ -1,19 +1,20 @@
-# 2025-12-05 安全威胁态势报告
+# 2025-12-06 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 16
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 16篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 11篇
-- **攻击技术**: 9篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 2篇
+- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 7篇
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -62,22 +63,14 @@
 
 ### Doonsec
 
-- [React CVE-2025-55182 漏洞介绍与 AWD 靶场复现环境](https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5MjIwNg==&mid=2247484076&idx=1&sn=242246f2cb9e905596517aed73367c7f) (发布日期: 2025-12-05)
-- [CVE-2025-55182 的解释和完整的 RCE PoC](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07) (发布日期: 2025-12-05)
-- [【内网渗透】记首次内网靶场渗透-红日靶场1](https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e) (发布日期: 2025-12-05)
-- [【已复现】Next.js 无条件RCE，回显Payload+内存马Payload](https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7) (发布日期: 2025-12-05)
-- [伪装成投诉举报证据红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494625&idx=1&sn=04820402d776808b34e8ac8b7d2bb91e) (发布日期: 2025-12-05)
-- [Next.js RCE(CVE-2025-55182) POC和EXP(凑个热闹)](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350) (发布日期: 2025-12-05)
-- [新鲜出炉 | CVE-2025-66478打了一个小鬼子的站](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef) (发布日期: 2025-12-05)
-- [【已复现】Next.js 无条件RCE，回显Payload+内存马Payload](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648) (发布日期: 2025-12-05)
-- [金融证券App攻防演进：从数据加密到运行时自保护的深度技术剖析](https://mp.weixin.qq.com/s?__biz=MzU3OTIxNzk4Ng==&mid=2247487427&idx=1&sn=056245a00724f9374f703c5f4c2682a5) (发布日期: 2025-12-05)
-- [Kyber：后量子时代的加密守门人](https://mp.weixin.qq.com/s?__biz=Mzg5NzY5NjM5Mg==&mid=2247485237&idx=1&sn=9b66fa6c68ce3fbaa73a11dc7d2ec375) (发布日期: 2025-12-05)
-- [React Server Components 远程RCE利用工具](https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485194&idx=1&sn=59fca13a3b60537c046f9c6bb08c575e) (发布日期: 2025-12-05)
-- [React Server Components 远程代码执行漏洞(CVE-2025-55182)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c) (发布日期: 2025-12-05)
-- [学员分享 | 我的 OSED 漏洞利用实战备考历程](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525901&idx=1&sn=3e390077c15c453a0e61bd77ca3b1bf9) (发布日期: 2025-12-05)
-- [车联网漏洞挖掘方法及典型案例剖析](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629235&idx=1&sn=24fa94fcec236e1d1775444e9103153b) (发布日期: 2025-12-05)
-- [CVE-2025-55182：React/Next.js RCE漏洞验证与分析](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6) (发布日期: 2025-12-05)
-- [REACT RCE CVE-2025-55182 复现](https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4) (发布日期: 2025-12-05)
+- [React 远程代码执行漏洞（CVE-2025-55182）复现注意要点](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7) (发布日期: 2025-12-06)
+- [CVE-2025-55182 Dify内存马二开加验证](https://mp.weixin.qq.com/s?__biz=MzkwMTcwNzEwOA==&mid=2247483823&idx=1&sn=2c90c76f6ce9294ac29c35c7fb8b63d0) (发布日期: 2025-12-06)
+- [密码学CTF题目-密码学](https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485230&idx=1&sn=180ade46a3f8192c4223d57a9ecffbfb) (发布日期: 2025-12-06)
+- [覆盖全场景！Next.js RCE 多个 POC 合集整理：无/有回显/内存马/反弹 Shell|CVE-2025-55182](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f) (发布日期: 2025-12-06)
+- [华硕警告称：AiCloud路由器存在新的严重身份验证绕过漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494209&idx=1&sn=da8c89ed66279b3d87cc14f08ec155be) (发布日期: 2025-12-06)
+- [SSL握手里的“门道”：一次加密通信的诞生，运维必知！](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516867&idx=1&sn=133ff2357e9462236be9b7102be46729) (发布日期: 2025-12-06)
+- [网络安全行业，为什么一定要构建应急响应和演练机制？](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496885&idx=4&sn=1c89fbc33c641cd0dde8f25ca66ef51e) (发布日期: 2025-12-06)
+- [针对构建数据安全文化的一点补充](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503127&idx=1&sn=e775e8beccc98ad2e63b38e047dee235) (发布日期: 2025-12-06)
 
 
 ## 🎯 威胁详情分析
@@ -86,36 +79,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | React CVE-2025-55182 漏洞介绍与 AWD 靶场复现环境 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5MjIwNg==&mid=2247484076&idx=1&sn=242246f2cb9e905596517aed73367c7f](https://mp.weixin.qq.com/s?__biz=Mzk0MTQ5MjIwNg==&mid=2247484076&idx=1&sn=242246f2cb9e905596517aed73367c7f) |
-| 2 | CVE-2025-55182 的解释和完整的 RCE PoC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07) |
-| 3 | 【已复现】Next.js 无条件RCE，回显Payload+内存马Payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7](https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7) |
-| 4 | Next.js RCE(CVE-2025-55182) POC和EXP(凑个热闹) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350) |
-| 5 | 新鲜出炉 | CVE-2025-66478打了一个小鬼子的站 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525438&idx=1&sn=1407fa031a669dc037e016ba777421ef) |
-| 6 | 【已复现】Next.js 无条件RCE，回显Payload+内存马Payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648) |
-| 7 | React Server Components 远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c) |
-| 8 | 学员分享 | 我的 OSED 漏洞利用实战备考历程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525901&idx=1&sn=3e390077c15c453a0e61bd77ca3b1bf9](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247525901&idx=1&sn=3e390077c15c453a0e61bd77ca3b1bf9) |
-| 9 | 车联网漏洞挖掘方法及典型案例剖析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629235&idx=1&sn=24fa94fcec236e1d1775444e9103153b](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629235&idx=1&sn=24fa94fcec236e1d1775444e9103153b) |
-| 10 | CVE-2025-55182：React/Next.js RCE漏洞验证与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6) |
-| 11 | REACT RCE CVE-2025-55182 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4](https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4) |
+| 1 | React 远程代码执行漏洞（CVE-2025-55182）复现注意要点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7) |
+| 2 | CVE-2025-55182 Dify内存马二开加验证 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTcwNzEwOA==&mid=2247483823&idx=1&sn=2c90c76f6ce9294ac29c35c7fb8b63d0](https://mp.weixin.qq.com/s?__biz=MzkwMTcwNzEwOA==&mid=2247483823&idx=1&sn=2c90c76f6ce9294ac29c35c7fb8b63d0) |
+| 3 | 覆盖全场景！Next.js RCE 多个 POC 合集整理：无/有回显/内存马/反弹 Shell|CVE-2025-55182 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f) |
+| 4 | 华硕警告称：AiCloud路由器存在新的严重身份验证绕过漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494209&idx=1&sn=da8c89ed66279b3d87cc14f08ec155be](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494209&idx=1&sn=da8c89ed66279b3d87cc14f08ec155be) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-55182 的解释和完整的 RCE PoC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533855&idx=1&sn=dac7a39bf1a471bf6a1e580c37aa9d07) |
-| 2 | 【内网渗透】记首次内网靶场渗透-红日靶场1 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e](https://mp.weixin.qq.com/s?__biz=MzYyNTcyMTE5NQ==&mid=2247483828&idx=1&sn=3fc92307f22d55d35b5f954901c55a6e) |
-| 3 | 【已复现】Next.js 无条件RCE，回显Payload+内存马Payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7](https://mp.weixin.qq.com/s?__biz=MzkzNjM5NDU0OA==&mid=2247486362&idx=1&sn=36f6f2853fb1efbf4ce4454abd4aa8e7) |
-| 4 | Next.js RCE(CVE-2025-55182) POC和EXP(凑个热闹) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350](https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486192&idx=1&sn=be1d8b998951712a0408bd0d8767d350) |
-| 5 | 【已复现】Next.js 无条件RCE，回显Payload+内存马Payload | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648](https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247487731&idx=1&sn=dd3113831eae589af627a569026d2648) |
-| 6 | React Server Components 远程RCE利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485194&idx=1&sn=59fca13a3b60537c046f9c6bb08c575e](https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485194&idx=1&sn=59fca13a3b60537c046f9c6bb08c575e) |
-| 7 | React Server Components 远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493469&idx=1&sn=f84fe7c15e50d162607b21323939e72c) |
-| 8 | CVE-2025-55182：React/Next.js RCE漏洞验证与分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6](https://mp.weixin.qq.com/s?__biz=MzkzNTgzOTg4Mg==&mid=2247486629&idx=1&sn=dd2d3845695f46fccca499405e1237d6) |
-| 9 | REACT RCE CVE-2025-55182 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4](https://mp.weixin.qq.com/s?__biz=Mzk0MTY5NDg3Mw==&mid=2247484354&idx=1&sn=19743e5b1ea1a1d13e0fa65efe8f57f4) |
+| 1 | React 远程代码执行漏洞（CVE-2025-55182）复现注意要点 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7](https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515659&idx=2&sn=3e8d95f0aa92edea96e37b137e488cd7) |
+| 2 | 覆盖全场景！Next.js RCE 多个 POC 合集整理：无/有回显/内存马/反弹 Shell|CVE-2025-55182 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496085&idx=1&sn=22f362fd2642d32d311d76a68d3d368f) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 网络安全行业，为什么一定要构建应急响应和演练机制？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496885&idx=4&sn=1c89fbc33c641cd0dde8f25ca66ef51e](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247496885&idx=4&sn=1c89fbc33c641cd0dde8f25ca66ef51e) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W49/2025-12-05/`
+文章已归档到: `doc/2025/2025-12/2025-W49/2025-12-06/`
 
 ## 🔗 数据源说明
 
@@ -126,8 +111,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 11 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 7 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -136,5 +121,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-05 16:27:03*
+*生成时间: 2025-12-06 01:27:36*
 *报告工具: 微信文章安全归档系统*
