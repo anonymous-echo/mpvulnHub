@@ -1,18 +1,20 @@
-# 2025-12-06 安全威胁态势报告
+# 2025-12-07 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 10
+- **总文章数**: 13
 - **数据源分布**:
-  - Doonsec: 10篇
+  - Doonsec: 13篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 2篇
+- **漏洞利用**: 5篇
+- **攻击技术**: 3篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,16 +63,19 @@
 
 ### Doonsec
 
-- [CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) (发布日期: 2025-12-06)
-- [CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC）](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) (发布日期: 2025-12-06)
-- [网信办发布《网络数据安全风险评估办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247581303&idx=1&sn=fe84101fe59014c3537257e1d47c0658) (发布日期: 2025-12-06)
-- [帮管客CRM jiliyu接口存在SQL漏洞](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7) (发布日期: 2025-12-06)
-- [攻防演练事件研判篇（HW本文足够中高级）](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247575971&idx=1&sn=c5106d9eae9ce8cd64d3a4dc5fb35e6b) (发布日期: 2025-12-06)
-- [核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391) (发布日期: 2025-12-06)
-- [国家网信办发布《网络数据安全风险评估办法（征求意见稿）》](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522346&idx=1&sn=f8c9a39c2cbeac64b5233c6507d37180) (发布日期: 2025-12-06)
-- [国家网信办就《网络数据安全风险评估办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175232&idx=2&sn=0f8006618998aac2240ac1049fd8d43f) (发布日期: 2025-12-06)
-- [当 AI 成为安全工程师：Claude Code 自主完成一次挖矿攻击事件响应全记录](https://mp.weixin.qq.com/s?__biz=Mzg4MjI0MDAyMg==&mid=2247488867&idx=1&sn=90c24367ccb4e2992d900a98e119eba6) (发布日期: 2025-12-06)
-- [国家互联网信息办公室关于《网络数据安全风险评估办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247602658&idx=1&sn=7edb1119c400146064910dd4c0a8db6d) (发布日期: 2025-12-06)
+- [启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞（CVE-2025-47372）](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=2&sn=844ff30945c4be31bb51532692996474) (发布日期: 2025-12-07)
+- [图形化渗透测试辅助工具AuxTools | 更新-5.8.0](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=4&sn=f51d1e77dc9b5f427d0035b821259c02) (发布日期: 2025-12-07)
+- [GRE VPN 技术全解析：从原理到实战](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485400&idx=1&sn=501dae5f41df2187bf600a3946b8a4c3) (发布日期: 2025-12-07)
+- [【0day】泛微OA从历史漏洞到全新0day，附EXP](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486554&idx=1&sn=cb18f3b4b1b2c2775ab3f48b6a2d86dc) (发布日期: 2025-12-07)
+- [手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500677&idx=1&sn=48e6821f6c8b8c1f897988b65a4455a7) (发布日期: 2025-12-07)
+- [React/Next.js RCE漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af) (发布日期: 2025-12-07)
+- [信息安全漏洞周报【第050期】](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064470&idx=1&sn=4ed4d45e68d204dd3e2be64ab87595ae) (发布日期: 2025-12-07)
+- [智能渗透系统“黑曜石”：AI驱动的下一代网络安全测试](https://mp.weixin.qq.com/s?__biz=MzAxNTQwMjAzOA==&mid=2452515040&idx=1&sn=ca5f177bb74b278e3eb3c10bce034501) (发布日期: 2025-12-07)
+- [CTF密码学深度解析：开启时间之轮](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485376&idx=1&sn=da022e5f23e42c1ee4065ddb19082a29) (发布日期: 2025-12-07)
+- [【漏洞复现】React(next.js)远程代码执行漏洞(CVE-2025-55182)](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec) (发布日期: 2025-12-07)
+- [1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494242&idx=1&sn=9d8db6f1a5a827450be7f05b495edafd) (发布日期: 2025-12-07)
+- [国家互联网信息办公室《网络数据安全风险评估办法（征求意见稿）》公开征求意见](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499780&idx=1&sn=ca64460cb5a421284098de82356ef979) (发布日期: 2025-12-07)
+- [网络数据安全风险评估办法（征求意见稿）](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492423&idx=1&sn=1833ab8df3088d530f6176872ceb2f70) (发布日期: 2025-12-07)
 
 
 ## 🎯 威胁详情分析
@@ -79,22 +84,30 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) |
-| 2 | CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) |
-| 3 | 帮管客CRM jiliyu接口存在SQL漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484024&idx=1&sn=17062de33dbf8d15335f4c9b18cb1fd7) |
-| 4 | 核弹级漏洞？名为核弹，实为跳蛋，CVE-2025-55182 复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545882&idx=1&sn=c7759fe40964a0a84d86445046f59391) |
+| 1 | 启动过程遭入侵：高通骁龙8 Gen3及5G调制解调器曝出高危漏洞（CVE-2025-47372） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=2&sn=844ff30945c4be31bb51532692996474](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613536&idx=2&sn=844ff30945c4be31bb51532692996474) |
+| 2 | 【0day】泛微OA从历史漏洞到全新0day，附EXP | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486554&idx=1&sn=cb18f3b4b1b2c2775ab3f48b6a2d86dc](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486554&idx=1&sn=cb18f3b4b1b2c2775ab3f48b6a2d86dc) |
+| 3 | React/Next.js RCE漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af) |
+| 4 | 信息安全漏洞周报【第050期】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064470&idx=1&sn=4ed4d45e68d204dd3e2be64ab87595ae](https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064470&idx=1&sn=4ed4d45e68d204dd3e2be64ab87595ae) |
+| 5 | 【漏洞复现】React(next.js)远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CVE-2025-55182｜React/Next.js远程代码执行漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=1&sn=8cd878ba7b925bed6f27280e5e44a90d) |
-| 2 | CVE-2025-58360｜GeoServer未经授权的XML外部实体注入漏洞（POC） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08](https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486268&idx=2&sn=63b1734639c0250ae5c3bf52fd021c08) |
+| 1 | React/Next.js RCE漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af](https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247487274&idx=1&sn=e6f0b46fbc5a5e6ddfb6c503161526af) |
+| 2 | 【漏洞复现】React(next.js)远程代码执行漏洞(CVE-2025-55182) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484628&idx=1&sn=0dfa641c6e0c93851068e426948a82ec) |
+| 3 | 1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494242&idx=1&sn=9d8db6f1a5a827450be7f05b495edafd](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494242&idx=1&sn=9d8db6f1a5a827450be7f05b495edafd) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500677&idx=1&sn=48e6821f6c8b8c1f897988b65a4455a7](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500677&idx=1&sn=48e6821f6c8b8c1f897988b65a4455a7) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W49/2025-12-06/`
+文章已归档到: `doc/2025/2025-12/2025-W49/2025-12-07/`
 
 ## 🔗 数据源说明
 
@@ -105,8 +118,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -115,5 +128,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-06 12:38:32*
+*生成时间: 2025-12-07 01:49:09*
 *报告工具: 微信文章安全归档系统*
