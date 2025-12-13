@@ -1,22 +1,20 @@
-# 2025-12-12 安全威胁态势报告
+# 2025-12-13 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 14
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 14篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
-- **攻击技术**: 3篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 1篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
 - **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,20 +63,22 @@
 
 ### Doonsec
 
-- [国家能源局发布《能源行业数据安全管理办法（试行）》](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522641&idx=1&sn=7ceb3c11df38682152ee0ab6394695cb) (发布日期: 2025-12-12)
-- [【高危漏洞预警】React Server Components拒绝服务漏洞CVE-2025-55184](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491124&idx=1&sn=88d031b8496434681ef279ca81871dd2) (发布日期: 2025-12-12)
-- [“就装个小软件”引发百万元损失，某科技公司勒索软件事件纪实](https://mp.weixin.qq.com/s?__biz=MzU0MDkxNjEwNg==&mid=2247494436&idx=2&sn=f25f1cdbdeffbc0f4ab9637b8be6a7ef) (发布日期: 2025-12-12)
-- [第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办](https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486274&idx=1&sn=0705d79ecf3e4a1a7277d1b876175688) (发布日期: 2025-12-12)
-- [第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办](https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490923&idx=1&sn=0fdda6bf3e59e3f059ab2c2c780dbe2e) (发布日期: 2025-12-12)
-- [内网渗透(六)：权限提升](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247488108&idx=1&sn=9182d50ce84777753761f05c06e53500) (发布日期: 2025-12-12)
-- [基于Fastadmin框架的涉网平台从渗透测试到电子数据取证一条龙手册](https://mp.weixin.qq.com/s?__biz=Mzg4MTcyMTc5Nw==&mid=2247490109&idx=1&sn=169d0effcdd8de8b6dd9ce6eb4413609) (发布日期: 2025-12-12)
-- [海莲花APT组织攻击活动和攻击手法](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494746&idx=1&sn=f118e244feee545ee5d5b94cf2873ded) (发布日期: 2025-12-12)
-- [利用大语言模型优化 CodeQL 漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484622&idx=1&sn=ff55a9a5b177d2e872df3a11e43de02f) (发布日期: 2025-12-12)
-- [ZKTime 熵基智能考勤管理系统 ic1ock SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc) (发布日期: 2025-12-12)
-- [论文研读与思考 | 基于优化的针对作为评判器的LLM的提示注入攻击](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490387&idx=1&sn=877ecea0d46c1209852e38d8aeb8f845) (发布日期: 2025-12-12)
-- [2025AI云产业大会·AI云安全分论坛成功召开！共筑AI云安全防线](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247509747&idx=1&sn=da179cba957322802e187c3ee5311143) (发布日期: 2025-12-12)
-- [IoT安全 | 无人机安全攻防 (三)：Wi-Fi链路劫持与密码破解](https://mp.weixin.qq.com/s?__biz=MzkyODMxMjQ3OQ==&mid=2247486160&idx=1&sn=ed457002b1b4ad33eae61650dcf6cd02) (发布日期: 2025-12-12)
-- [Venom：新一代红队作战平台，模块化资产发现+漏扫+利用一体化](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493075&idx=1&sn=8eb188f8b152bea4fe660ab61caa93a6) (发布日期: 2025-12-12)
+- [利用AI自动化工具发现零检测的GhostPenguin后门攻击Linux服务器](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613644&idx=3&sn=ca04ade3623d09032b1be47e212e6d1e) (发布日期: 2025-12-13)
+- [CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613644&idx=4&sn=6188e3d518a3b38bbeaa64c9f2c5307d) (发布日期: 2025-12-13)
+- [2025年最常被利用的20个漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517215&idx=2&sn=ed62be135cee1941641ebbb440e01a77) (发布日期: 2025-12-13)
+- [乱拳打死老师傅，提示词注入和大模型越狱方法有一套](https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTM2NA==&mid=2247484169&idx=1&sn=f075094a7915f604f82b5afb0abb37ea) (发布日期: 2025-12-13)
+- [技术分享会—LLM for 白盒漏洞检测](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486937&idx=1&sn=306eeb91eab3c063b203f8bfa6db54cd) (发布日期: 2025-12-13)
+- [「干货分享」应急响应之文件上传漏洞排查](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e) (发布日期: 2025-12-13)
+- [云安全RSS订阅源分享](https://mp.weixin.qq.com/s?__biz=MzIyMzM2MzE1OQ==&mid=2247484862&idx=1&sn=2144f3daee953651f08ef86599c5c904) (发布日期: 2025-12-13)
+- [青梅竹马：一道融合密码学与文化的CTF逆向题深度解析](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485673&idx=1&sn=c328142ce3345bb8ade95ca4c9be8547) (发布日期: 2025-12-13)
+- [个人接单 | web渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495260&idx=1&sn=4e5e8033a4670f42e2dda8e0b307cff7) (发布日期: 2025-12-13)
+- [红队必备！EHole指纹探测工具，5分钟摸清目标底细](https://mp.weixin.qq.com/s?__biz=MzYzNjAwMjQ3OQ==&mid=2247484830&idx=1&sn=3b34fdb02ac47472dc59bef0eca8462f) (发布日期: 2025-12-13)
+- [CVE-2025-55182挖矿木马分析](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712691&idx=1&sn=531a0a739cd50fe21cbe6b89dc60951c) (发布日期: 2025-12-13)
+- [智能网联汽车功能安全开发实战培训课程（基于ISO 26262:2025）](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629382&idx=2&sn=7b8a8fe1d2b4b5a192ed92b474d8573f) (发布日期: 2025-12-13)
+- [2026年CISP考试计划已出](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507659&idx=1&sn=ec65ca6cddc503b0b0c438876a31a6e4) (发布日期: 2025-12-13)
+- [通过github actions在线编译安全工具](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489317&idx=1&sn=454fc6286afb5adfab50951ad1172302) (发布日期: 2025-12-13)
+- [安全工具整合之痛：破解企业安全栈兼容性难题的实战攻略](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0Njk1MQ==&mid=2247488048&idx=1&sn=e44dbf2c62a75aab1f2a53fab7f00638) (发布日期: 2025-12-13)
+- [Fortinet警告称FortiCloud SSO登录认证绕过存在严重漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494270&idx=1&sn=0cc38e6864c15b3e9386c5f822d0632e) (发布日期: 2025-12-13)
 
 
 ## 🎯 威胁详情分析
@@ -87,30 +87,29 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】React Server Components拒绝服务漏洞CVE-2025-55184 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491124&idx=1&sn=88d031b8496434681ef279ca81871dd2](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491124&idx=1&sn=88d031b8496434681ef279ca81871dd2) |
-| 2 | 第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486274&idx=1&sn=0705d79ecf3e4a1a7277d1b876175688](https://mp.weixin.qq.com/s?__biz=MzI0NDg4MTIyNQ==&mid=2247486274&idx=1&sn=0705d79ecf3e4a1a7277d1b876175688) |
-| 3 | 第十五届网络安全漏洞分析与风险评估大会——企业家高峰论坛顺利举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490923&idx=1&sn=0fdda6bf3e59e3f059ab2c2c780dbe2e](https://mp.weixin.qq.com/s?__biz=MzI1NzQ0NTMxMQ==&mid=2247490923&idx=1&sn=0fdda6bf3e59e3f059ab2c2c780dbe2e) |
-| 4 | 利用大语言模型优化 CodeQL 漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484622&idx=1&sn=ff55a9a5b177d2e872df3a11e43de02f](https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484622&idx=1&sn=ff55a9a5b177d2e872df3a11e43de02f) |
-| 5 | ZKTime 熵基智能考勤管理系统 ic1ock SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc) |
+| 1 | CTF竞赛系统、知识竞赛系统、漏洞靶场练习系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613644&idx=4&sn=6188e3d518a3b38bbeaa64c9f2c5307d](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613644&idx=4&sn=6188e3d518a3b38bbeaa64c9f2c5307d) |
+| 2 | 2025年最常被利用的20个漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517215&idx=2&sn=ed62be135cee1941641ebbb440e01a77](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517215&idx=2&sn=ed62be135cee1941641ebbb440e01a77) |
+| 3 | 技术分享会—LLM for 白盒漏洞检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486937&idx=1&sn=306eeb91eab3c063b203f8bfa6db54cd](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486937&idx=1&sn=306eeb91eab3c063b203f8bfa6db54cd) |
+| 4 | 「干货分享」应急响应之文件上传漏洞排查 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e) |
+| 5 | CVE-2025-55182挖矿木马分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712691&idx=1&sn=531a0a739cd50fe21cbe6b89dc60951c](https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712691&idx=1&sn=531a0a739cd50fe21cbe6b89dc60951c) |
+| 6 | Fortinet警告称FortiCloud SSO登录认证绕过存在严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494270&idx=1&sn=0cc38e6864c15b3e9386c5f822d0632e](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494270&idx=1&sn=0cc38e6864c15b3e9386c5f822d0632e) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 内网渗透(六)：权限提升 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247488108&idx=1&sn=9182d50ce84777753761f05c06e53500](https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247488108&idx=1&sn=9182d50ce84777753761f05c06e53500) |
-| 2 | ZKTime 熵基智能考勤管理系统 ic1ock SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493526&idx=1&sn=15f5d03a396bc348b6966415851313cc) |
-| 3 | 论文研读与思考 | 基于优化的针对作为评判器的LLM的提示注入攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490387&idx=1&sn=877ecea0d46c1209852e38d8aeb8f845](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490387&idx=1&sn=877ecea0d46c1209852e38d8aeb8f845) |
+| 1 | 乱拳打死老师傅，提示词注入和大模型越狱方法有一套 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTM2NA==&mid=2247484169&idx=1&sn=f075094a7915f604f82b5afb0abb37ea](https://mp.weixin.qq.com/s?__biz=MzkxNDMxMTM2NA==&mid=2247484169&idx=1&sn=f075094a7915f604f82b5afb0abb37ea) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 海莲花APT组织攻击活动和攻击手法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494746&idx=1&sn=f118e244feee545ee5d5b94cf2873ded](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494746&idx=1&sn=f118e244feee545ee5d5b94cf2873ded) |
+| 1 | 「干货分享」应急响应之文件上传漏洞排查 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500803&idx=1&sn=895e23d008aec77e4f1b75f09cebc79e) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W50/2025-12-12/`
+文章已归档到: `doc/2025/2025-12/2025-W50/2025-12-13/`
 
 ## 🔗 数据源说明
 
@@ -121,8 +120,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -131,5 +130,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-12 16:26:21*
+*生成时间: 2025-12-13 01:38:03*
 *报告工具: 微信文章安全归档系统*
