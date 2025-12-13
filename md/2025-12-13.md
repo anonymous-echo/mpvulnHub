@@ -2,23 +2,19 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 15
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 12篇
-  - BruceFeIix: 3篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **威胁情报**: 2篇
+- **漏洞利用**: 4篇
 - **攻击技术**: 1篇
 - **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **网络攻击**: 2篇
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -67,24 +63,12 @@
 
 ### Doonsec
 
-- [巴西APT组织Water Saci整活新高度！用AI转代码+WhatsApp传毒，专偷银行账户还会自动群发](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487483&idx=1&sn=8eb6b1a983e9aa7c836b7bd36966befd) (发布日期: 2025-12-13)
-- [一次攻防演练中RCE绕过waf获取webshell](https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484038&idx=1&sn=ec78d5e9b1b7a639ea677c0943de91c0) (发布日期: 2025-12-13)
-- [CTF Web巅峰拆解（第3期）：2025高难度题核心，搞定这3类漏洞直接冲榜](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487116&idx=1&sn=6963ee74186a6523c0c2c701dc68c16b) (发布日期: 2025-12-13)
-- [【漏洞检测脚本】React Server Components 拒绝服务漏洞（CVE-2025-55184）](https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487090&idx=1&sn=576ba6a08928185630bfbd3f6cc1b8af) (发布日期: 2025-12-13)
-- [致远分析云存在任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484061&idx=1&sn=5443ca9732ec6640787d1abab2efa7c6) (发布日期: 2025-12-13)
-- [关于网络安全超低价格考证CISP、PTE、NISP](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489280&idx=1&sn=fce79dc1802d25c10f6becd0151ea1d7) (发布日期: 2025-12-13)
-- [安天AVL SDK反病毒引擎升级通告（20251213）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213254&idx=1&sn=0d25b709abcfac328e743759047af7ad) (发布日期: 2025-12-13)
-- [【一周安全资讯1213】国家网信办《网络数据安全风险评估办法》公开征求意见；勒索软件利用EDR工具隐秘执行恶意代码](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508464&idx=1&sn=4150f7bfe1f03db42cbe66ec87248ccf) (发布日期: 2025-12-13)
-- [打工是没前途的：全球漏洞赏金实时更新汇总](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528704&idx=1&sn=fe14cffea9b7caf1d405e899fd7a1b23) (发布日期: 2025-12-13)
-- [银行数据中心容器云网络安全防护能力建设规划](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247516943&idx=1&sn=9c21c335266b047b71b6903a6f0f16e4) (发布日期: 2025-12-13)
-- [云安全RSS订阅源分享](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493943&idx=1&sn=1ac52874614c799a794904bff9fc4127) (发布日期: 2025-12-13)
-- [【Nday】Go-fastdfs 未授权+任意文件上传](https://mp.weixin.qq.com/s?__biz=MzYzNzExNjA1OA==&mid=2247483907&idx=1&sn=5813875d0aec32fdec320be76d763540) (发布日期: 2025-12-13)
-
-### BruceFeIix
-
-- [ ] [Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、反弹shell等](https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6) (发布日期: 2025-12-13)
-- [ ] [银狐Gh0stRAT 和 WinOS远程控制木马演进过程](https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484311&idx=1&sn=616314bdd3c00d1c288d8970d6731baa) (发布日期: 2025-12-13)
-- [ ] [一个真正的SRC是需要良好的沟通环境的](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg5MjMxOA==&mid=2247484050&idx=1&sn=caf5dfd7c3bbeea60ad0c2d6fc511b31) (发布日期: 2025-12-13)
+- [第十五届网络安全漏洞分析与风险评估大会-网络漏洞治理生态分会成功举办](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464092&idx=1&sn=e9a5389533032154bf172cbae9164e8c) (发布日期: 2025-12-13)
+- [React 组件远程代码执行漏洞-CVE-2025-55182 Poc](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e) (发布日期: 2025-12-13)
+- [技术分享会—LLM for 白盒漏洞检测](https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487958&idx=1&sn=765c8390535ed221d851585b65b2b94c) (发布日期: 2025-12-13)
+- [EDUSRC双一流证书站高危10RANK打包案例分享](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484461&idx=1&sn=35db28eec622eb5c92e6a4ebce837806) (发布日期: 2025-12-13)
+- [android 12月公开漏洞分析：普通app绕过BAL限制(附poc)](https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484788&idx=1&sn=cca5b14aa65c1754f0324eff9d3107c2) (发布日期: 2025-12-13)
+- [SDL序列课程-第64篇-安全需求-权限设计需求-客户端中有标志用户权限的cookie选项需做加密处理或者把权限控制放在服务端](https://mp.weixin.qq.com/s?__biz=Mzk0NzE5NjI0Mg==&mid=2247484931&idx=1&sn=92b7f0252c088481651c95fe95007783) (发布日期: 2025-12-13)
 
 
 ## 🎯 威胁详情分析
@@ -93,31 +77,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | CTF Web巅峰拆解（第3期）：2025高难度题核心，搞定这3类漏洞直接冲榜 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487116&idx=1&sn=6963ee74186a6523c0c2c701dc68c16b](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487116&idx=1&sn=6963ee74186a6523c0c2c701dc68c16b) |
-| 2 | 【漏洞检测脚本】React Server Components 拒绝服务漏洞（CVE-2025-55184） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487090&idx=1&sn=576ba6a08928185630bfbd3f6cc1b8af](https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487090&idx=1&sn=576ba6a08928185630bfbd3f6cc1b8af) |
-| 3 | 致远分析云存在任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484061&idx=1&sn=5443ca9732ec6640787d1abab2efa7c6](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484061&idx=1&sn=5443ca9732ec6640787d1abab2efa7c6) |
-| 4 | 打工是没前途的：全球漏洞赏金实时更新汇总 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528704&idx=1&sn=fe14cffea9b7caf1d405e899fd7a1b23](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528704&idx=1&sn=fe14cffea9b7caf1d405e899fd7a1b23) |
-| 5 | 【Nday】Go-fastdfs 未授权+任意文件上传 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNzExNjA1OA==&mid=2247483907&idx=1&sn=5813875d0aec32fdec320be76d763540](https://mp.weixin.qq.com/s?__biz=MzYzNzExNjA1OA==&mid=2247483907&idx=1&sn=5813875d0aec32fdec320be76d763540) |
-| 6 |  ] [Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、反弹shell等 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6](https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483728&idx=1&sn=1880f55d13f8502b709ac1b09daafbe6) |
+| 1 | 第十五届网络安全漏洞分析与风险评估大会-网络漏洞治理生态分会成功举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464092&idx=1&sn=e9a5389533032154bf172cbae9164e8c](https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651464092&idx=1&sn=e9a5389533032154bf172cbae9164e8c) |
+| 2 | React 组件远程代码执行漏洞-CVE-2025-55182 Poc | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e) |
+| 3 | 技术分享会—LLM for 白盒漏洞检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487958&idx=1&sn=765c8390535ed221d851585b65b2b94c](https://mp.weixin.qq.com/s?__biz=MzU4MjYxNTYwNA==&mid=2247487958&idx=1&sn=765c8390535ed221d851585b65b2b94c) |
+| 4 | android 12月公开漏洞分析：普通app绕过BAL限制(附poc) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484788&idx=1&sn=cca5b14aa65c1754f0324eff9d3107c2](https://mp.weixin.qq.com/s?__biz=Mzg2MDc0NTIxOQ==&mid=2247484788&idx=1&sn=cca5b14aa65c1754f0324eff9d3107c2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 一次攻防演练中RCE绕过waf获取webshell | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484038&idx=1&sn=ec78d5e9b1b7a639ea677c0943de91c0](https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484038&idx=1&sn=ec78d5e9b1b7a639ea677c0943de91c0) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 巴西APT组织Water Saci整活新高度！用AI转代码+WhatsApp传毒，专偷银行账户还会自动群发 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487483&idx=1&sn=8eb6b1a983e9aa7c836b7bd36966befd](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487483&idx=1&sn=8eb6b1a983e9aa7c836b7bd36966befd) |
-| 2 |  ] [银狐Gh0stRAT 和 WinOS远程控制木马演进过程 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484311&idx=1&sn=616314bdd3c00d1c288d8970d6731baa](https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484311&idx=1&sn=616314bdd3c00d1c288d8970d6731baa) |
+| 1 | React 组件远程代码执行漏洞-CVE-2025-55182 Poc | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [一个真正的SRC是需要良好的沟通环境的 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=Mzg4Mjg5MjMxOA==&mid=2247484050&idx=1&sn=caf5dfd7c3bbeea60ad0c2d6fc511b31](https://mp.weixin.qq.com/s?__biz=Mzg4Mjg5MjMxOA==&mid=2247484050&idx=1&sn=caf5dfd7c3bbeea60ad0c2d6fc511b31) |
+| 1 | EDUSRC双一流证书站高危10RANK打包案例分享 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484461&idx=1&sn=35db28eec622eb5c92e6a4ebce837806](https://mp.weixin.qq.com/s?__biz=MzkzMTc4ODE1OA==&mid=2247484461&idx=1&sn=35db28eec622eb5c92e6a4ebce837806) |
+
+### 供应链
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | React 组件远程代码执行漏洞-CVE-2025-55182 Poc | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e](https://mp.weixin.qq.com/s?__biz=Mzk0MDMyNjUxNw==&mid=2247484465&idx=1&sn=bdd58e98db2e2146848fd14811136f7e) |
 
 
 ## 📁 归档路径
@@ -133,8 +114,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-13 04:26:14*
+*生成时间: 2025-12-13 08:25:31*
 *报告工具: 微信文章安全归档系统*
