@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 4
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 4篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **威胁情报**: 1篇
+- **漏洞利用**: 4篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 2篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,25 +60,10 @@
 
 ### Doonsec
 
-- [第十五届VARA大会 | 网络漏洞治理生态分会成功举办](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255291&idx=1&sn=2c50d8255aa20a63e2fb1ff0457da3a5) (发布日期: 2025-12-13)
-- [伪装成购车预算配置某红队样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494747&idx=1&sn=19b7fdf5475bbee161fa553c4425c249) (发布日期: 2025-12-13)
-- [【0day】契约锁高危漏洞首发，附 Nday POC](https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484792&idx=1&sn=d0611ab73488ad4c1518b95dc91c85e0) (发布日期: 2025-12-13)
-- [百万年薪招聘网络安全意识与文化人才，什么样的人能胜任？](https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485296&idx=1&sn=67102c631b2a858c842499fd44fef56f) (发布日期: 2025-12-13)
-- [【安全圈】苹果 iOS26.2 修复 25 个漏洞 谷歌、字节跳动、阿里巴巴等参与“救场”](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=3&sn=052ef64cb3596b544a0ab6914d1d2a76) (发布日期: 2025-12-13)
-- [Windows远程访问连接管理器曝提权漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=1&sn=8197b075c0e21a353a900e48ada418ee) (发布日期: 2025-12-13)
-- [Apache Struts 2曝拒绝服务漏洞](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=2&sn=ec1149680b5942bab4e065d621ef22f4) (发布日期: 2025-12-13)
-- [美特CRM mobileupload.jsp 任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493543&idx=1&sn=f35cf8dad2d8da552a5840a3aa081e0c) (发布日期: 2025-12-13)
-- [苹果0Day漏洞遭利用，针对特定iPhone用户发起复杂攻击](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=1&sn=121e3b62a5e2ac021fcedcfb4d9a55cc) (发布日期: 2025-12-13)
-- [React再曝新高危漏洞，可致拒绝服务攻击与源代码泄露](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=2&sn=27ae787533404873bbf570ce31825a16) (发布日期: 2025-12-13)
-- [FreeBuf周报 | 大学生出售Webshell入侵5200余政府教育网站；Notepad++漏洞可被利用劫持更新植入恶意软件](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=3&sn=165ba7417870cdd12222a3e987ebafec) (发布日期: 2025-12-13)
-- [图形化反序列化漏洞综合利用工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485830&idx=1&sn=9ec4459b9a9c2e5ad31f02f7e2be0c70) (发布日期: 2025-12-13)
-- [【注意】新型勒索软件正将员工手机变成进入公司网络的后门](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493424&idx=1&sn=a897e77807e964da47910816fb6d278d) (发布日期: 2025-12-13)
-- [文件上传漏洞绕过记录](https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484478&idx=1&sn=7cfdbc77e5062e7778a161af6be58361) (发布日期: 2025-12-13)
-- [CVE-2025-8088武器化那些事](https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483807&idx=1&sn=3db967776e04e6692d3f76cae483fa27) (发布日期: 2025-12-13)
-- [《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175297&idx=1&sn=2b3358d423ffdb9e08ce6f5cb747fe58) (发布日期: 2025-12-13)
-- [一图读懂《数据安全技术 电子产品信息清除技术要求》](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175297&idx=2&sn=66ed45478703f86ddd0bcac6bc647e7b) (发布日期: 2025-12-13)
-- [高危漏洞威胁情报合集 | 绿盟漏洞情报（2025-12-12）](https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f) (发布日期: 2025-12-13)
-- [新型01flip勒索软件袭击亚太关键基础设施：基于Rust的跨平台武器搭载Sliver C2框架](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525506&idx=1&sn=b7e3502ccc295db7f6e7cdab74b1e3fd) (发布日期: 2025-12-13)
+- [【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1) (发布日期: 2025-12-13)
+- [【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4) (发布日期: 2025-12-13)
+- [无0day复杂利用！挖逻辑纯靠 “肉眼扫描器”？](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb) (发布日期: 2025-12-13)
+- [密码重置漏洞挖掘指南：从原理到实战的完整路径](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352) (发布日期: 2025-12-13)
 
 
 ## 🎯 威胁详情分析
@@ -91,25 +72,10 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 第十五届VARA大会 | 网络漏洞治理生态分会成功举办 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255291&idx=1&sn=2c50d8255aa20a63e2fb1ff0457da3a5](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255291&idx=1&sn=2c50d8255aa20a63e2fb1ff0457da3a5) |
-| 2 | 【0day】契约锁高危漏洞首发，附 Nday POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484792&idx=1&sn=d0611ab73488ad4c1518b95dc91c85e0](https://mp.weixin.qq.com/s?__biz=MzYzNDE4ODczNA==&mid=2247484792&idx=1&sn=d0611ab73488ad4c1518b95dc91c85e0) |
-| 3 | 【安全圈】苹果 iOS26.2 修复 25 个漏洞 谷歌、字节跳动、阿里巴巴等参与“救场” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=3&sn=052ef64cb3596b544a0ab6914d1d2a76](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073188&idx=3&sn=052ef64cb3596b544a0ab6914d1d2a76) |
-| 4 | Windows远程访问连接管理器曝提权漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=1&sn=8197b075c0e21a353a900e48ada418ee](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=1&sn=8197b075c0e21a353a900e48ada418ee) |
-| 5 | Apache Struts 2曝拒绝服务漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=2&sn=ec1149680b5942bab4e065d621ef22f4](https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096702&idx=2&sn=ec1149680b5942bab4e065d621ef22f4) |
-| 6 | 美特CRM mobileupload.jsp 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493543&idx=1&sn=f35cf8dad2d8da552a5840a3aa081e0c](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493543&idx=1&sn=f35cf8dad2d8da552a5840a3aa081e0c) |
-| 7 | 苹果0Day漏洞遭利用，针对特定iPhone用户发起复杂攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=1&sn=121e3b62a5e2ac021fcedcfb4d9a55cc](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=1&sn=121e3b62a5e2ac021fcedcfb4d9a55cc) |
-| 8 | React再曝新高危漏洞，可致拒绝服务攻击与源代码泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=2&sn=27ae787533404873bbf570ce31825a16](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=2&sn=27ae787533404873bbf570ce31825a16) |
-| 9 | FreeBuf周报 | 大学生出售Webshell入侵5200余政府教育网站；Notepad++漏洞可被利用劫持更新植入恶意软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=3&sn=165ba7417870cdd12222a3e987ebafec](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332234&idx=3&sn=165ba7417870cdd12222a3e987ebafec) |
-| 10 | 图形化反序列化漏洞综合利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485830&idx=1&sn=9ec4459b9a9c2e5ad31f02f7e2be0c70](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247485830&idx=1&sn=9ec4459b9a9c2e5ad31f02f7e2be0c70) |
-| 11 | 文件上传漏洞绕过记录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484478&idx=1&sn=7cfdbc77e5062e7778a161af6be58361](https://mp.weixin.qq.com/s?__biz=MzkzMjk5MDU3Nw==&mid=2247484478&idx=1&sn=7cfdbc77e5062e7778a161af6be58361) |
-| 12 | CVE-2025-8088武器化那些事 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483807&idx=1&sn=3db967776e04e6692d3f76cae483fa27](https://mp.weixin.qq.com/s?__biz=MzkxNzQ5OTQ0Mw==&mid=2247483807&idx=1&sn=3db967776e04e6692d3f76cae483fa27) |
-| 13 | 高危漏洞威胁情报合集 | 绿盟漏洞情报（2025-12-12） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f](https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 高危漏洞威胁情报合集 | 绿盟漏洞情报（2025-12-12） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f](https://mp.weixin.qq.com/s?__biz=MzE5ODgwNzgzMA==&mid=2247484997&idx=1&sn=23a873476ec22ffb9ff29d3310d8161f) |
+| 1 | 【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1) |
+| 2 | 【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4) |
+| 3 | 无0day复杂利用！挖逻辑纯靠 “肉眼扫描器”？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb) |
+| 4 | 密码重置漏洞挖掘指南：从原理到实战的完整路径 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352) |
 
 
 ## 📁 归档路径
@@ -125,8 +91,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -135,5 +101,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-13 12:39:01*
+*生成时间: 2025-12-13 16:24:37*
 *报告工具: 微信文章安全归档系统*
