@@ -2,17 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 1
+- **总文章数**: 30
 - **数据源分布**:
-  - BruceFeIix: 1篇
+  - Doonsec: 30篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 1篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 6篇
+- **安全运营**: 5篇
+- **攻击技术**: 3篇
+- **威胁情报**: 3篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -60,24 +64,78 @@
 
 ## 📰 文章详细列表
 
-### BruceFeIix
+### Doonsec
 
-- [ ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) (发布日期: 2025-12-14)
+- [CVE-2025-55182复现学习](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247870&idx=1&sn=2ac768318e4ca71d301e2e05bc88f86f) (发布日期: 2025-12-14)
+- [CVE-2025-55182复现学习](https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247490284&idx=1&sn=ca57ccc183a7a3aec9d1b287d2f7fe39) (发布日期: 2025-12-14)
+- [实战分享——大道至简之弱口令到任意用户接管](https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484314&idx=1&sn=e3792f941a9f249e40b4db944e271a9c) (发布日期: 2025-12-14)
+- [网络安全行业，大数据安全应知应会的100条术语](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247498222&idx=4&sn=6e722619946884ee29763538ef1fcb2d) (发布日期: 2025-12-14)
+- [【招聘】-阿里集团安全部招聘安全工程师（渗透攻防）](https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247546034&idx=1&sn=fc6913f2a8a66ee783e4a0a8908827b6) (发布日期: 2025-12-14)
+- [0096.从默认 IIS 页面到关键 SQL 注入](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691482&idx=1&sn=c87c618ab6511c5c8c7bb833ce9dd509) (发布日期: 2025-12-14)
+- [国家能源局发布《能源行业数据安全管理办法(试 行)》](https://mp.weixin.qq.com/s?__biz=MzI5MTEyMDUzMw==&mid=2650046789&idx=1&sn=599e270071aad61287e93d249f8d629e) (发布日期: 2025-12-14)
+- [司法部发的 “案件材料” 藏毒！中亚APT组织 “血狼”（Bloody Wolf）用 10 年前旧软件偷机密，还会 “地理隐身”](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487487&idx=1&sn=1b198317ec9fa3d3c28ed2c7f18ca23b) (发布日期: 2025-12-14)
+- [[代码审计-新0day]华天动力OA存在多个SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b) (发布日期: 2025-12-14)
+- [「干货分享」分享云安全浪潮src漏洞挖掘技巧](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85) (发布日期: 2025-12-14)
+- [CTF Crypto 模块拆解（第 4 期）：2025 赛事高频密码学，从古典密码到现代加密实战](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487143&idx=1&sn=cf4127c9aed8c02ce20cd8d06eaf0c54) (发布日期: 2025-12-14)
+- [AI应用支出报告：安全工具为何消失在榜单之外？](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535409&idx=2&sn=99e05f2d6efe12ca37678d394fed1438) (发布日期: 2025-12-14)
+- [企业管理类系统常见漏洞挖掘指北](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493173&idx=1&sn=6e15250a03947e0178765dbfe20fcfc8) (发布日期: 2025-12-14)
+- [一个专为红队打造的集成化安全平台](https://mp.weixin.qq.com/s?__biz=Mzg4Njg3MDk5Ng==&mid=2247487143&idx=1&sn=26bd9b8a8cd26cc8c64b11324930d1ac) (发布日期: 2025-12-14)
+- [【应急响应基础】六、应急工具使用](https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488106&idx=1&sn=de7b429419bf485c6d4a5193d36beb35) (发布日期: 2025-12-14)
+- [SOC运营的演进：持续暴露管理如何变革安全运营](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613646&idx=3&sn=db81b7bca534715cc9522b61250d0039) (发布日期: 2025-12-14)
+- [Windows GUI界面的渗透测试工具箱，支持TscanPlus扫描结果和天狐工具箱工具导入快速部署](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613646&idx=4&sn=5dc0e28f6712320a9a1d3f6f0cb9962a) (发布日期: 2025-12-14)
+- [「干货分享」分享云安全浪潮src漏洞挖掘技巧](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0) (发布日期: 2025-12-14)
+- [SRC实战-挖穿某app](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72) (发布日期: 2025-12-14)
+- [SRC挖掘之“捡”洞系列](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494425&idx=1&sn=297bc7e774fab92746fd9aee3f773cd7) (发布日期: 2025-12-14)
+- [NXP: SOC 安全的下一步](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629398&idx=1&sn=980c6dbea3dcec56cc758d76eb8cc09f) (发布日期: 2025-12-14)
+- [智能网联汽车功能安全开发实战培训课程（基于ISO 26262:2025）](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629398&idx=2&sn=6b48a06f1a9b449805ccfbd910dd8fde) (发布日期: 2025-12-14)
+- [广汽三菱汽车：车联网系统安全评估技术及应用](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629398&idx=3&sn=45552c20043f98c440b17e4e53bd6848) (发布日期: 2025-12-14)
+- [mix Python代码混淆与RC4流密码破解](https://mp.weixin.qq.com/s?__biz=MzYzNzA5MzQ3Nw==&mid=2247485734&idx=1&sn=35b5a3da7dd3b5166f68eae77fe81cfd) (发布日期: 2025-12-14)
+- [真实网络战场上的首次对决：AI渗透测试代理与人类专家的全面比较研究](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517245&idx=3&sn=c368a3000135cd1f3606302d140e3f35) (发布日期: 2025-12-14)
+- [告别命令行复杂的证书管理！可视化OpenVPN证书管理系统实战，一键发证、过期提醒全搞定](https://mp.weixin.qq.com/s?__biz=MzI4NjAzMTk3MA==&mid=2458862881&idx=1&sn=313b3c6b8919751974797605059c208e) (发布日期: 2025-12-14)
+- [OSCP必备技能17-SQL注入小技巧](https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485652&idx=1&sn=ae92f1d7a0dacb58a30e35b81256534d) (发布日期: 2025-12-14)
+- [《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布](https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247499886&idx=2&sn=511bca7c5f8d000b3a6bc14824d99024) (发布日期: 2025-12-14)
+- [能源行业数据安全管理办法（试行）](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492485&idx=1&sn=bb22d11935f28becaa08ff9827644241) (发布日期: 2025-12-14)
+- [【蓝队】一个集成多源威胁情报的聚合平台](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493951&idx=1&sn=6ab90422c4e53d40c562ae42f8c60894) (发布日期: 2025-12-14)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | CVE-2025-55182复现学习 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247870&idx=1&sn=2ac768318e4ca71d301e2e05bc88f86f](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247870&idx=1&sn=2ac768318e4ca71d301e2e05bc88f86f) |
+| 2 | CVE-2025-55182复现学习 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247490284&idx=1&sn=ca57ccc183a7a3aec9d1b287d2f7fe39](https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247490284&idx=1&sn=ca57ccc183a7a3aec9d1b287d2f7fe39) |
+| 3 | [代码审计-新0day]华天动力OA存在多个SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b) |
+| 4 | 「干货分享」分享云安全浪潮src漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85) |
+| 5 | 企业管理类系统常见漏洞挖掘指北 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493173&idx=1&sn=6e15250a03947e0178765dbfe20fcfc8](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493173&idx=1&sn=6e15250a03947e0178765dbfe20fcfc8) |
+| 6 | 「干货分享」分享云安全浪潮src漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 0096.从默认 IIS 页面到关键 SQL 注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691482&idx=1&sn=c87c618ab6511c5c8c7bb833ce9dd509](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691482&idx=1&sn=c87c618ab6511c5c8c7bb833ce9dd509) |
+| 2 | [代码审计-新0day]华天动力OA存在多个SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493663&idx=1&sn=fa5ba34423dae4e33561f70d6577b44b) |
+| 3 | OSCP必备技能17-SQL注入小技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485652&idx=1&sn=ae92f1d7a0dacb58a30e35b81256534d](https://mp.weixin.qq.com/s?__biz=MzIzODMyMzQxNQ==&mid=2247485652&idx=1&sn=ae92f1d7a0dacb58a30e35b81256534d) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) |
+| 1 | 司法部发的 “案件材料” 藏毒！中亚APT组织 “血狼”（Bloody Wolf）用 10 年前旧软件偷机密，还会 “地理隐身” | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487487&idx=1&sn=1b198317ec9fa3d3c28ed2c7f18ca23b](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487487&idx=1&sn=1b198317ec9fa3d3c28ed2c7f18ca23b) |
+| 2 | 【应急响应基础】六、应急工具使用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488106&idx=1&sn=de7b429419bf485c6d4a5193d36beb35](https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488106&idx=1&sn=de7b429419bf485c6d4a5193d36beb35) |
+| 3 | 【蓝队】一个集成多源威胁情报的聚合平台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493951&idx=1&sn=6ab90422c4e53d40c562ae42f8c60894](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493951&idx=1&sn=6ab90422c4e53d40c562ae42f8c60894) |
 
-### 信息泄露
+### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 |  ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) |
+| 1 | 「干货分享」分享云安全浪潮src漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486781&idx=1&sn=35b65af88ed25e59701075752fbc3e85) |
+| 2 | SOC运营的演进：持续暴露管理如何变革安全运营 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613646&idx=3&sn=db81b7bca534715cc9522b61250d0039](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613646&idx=3&sn=db81b7bca534715cc9522b61250d0039) |
+| 3 | 「干货分享」分享云安全浪潮src漏洞挖掘技巧 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500808&idx=1&sn=e96532d1266a641c925b566309520aa0) |
+| 4 | SRC实战-挖穿某app | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72) |
+| 5 | SRC挖掘之“捡”洞系列 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494425&idx=1&sn=297bc7e774fab92746fd9aee3f773cd7](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494425&idx=1&sn=297bc7e774fab92746fd9aee3f773cd7) |
 
 
 ## 📁 归档路径
@@ -93,8 +151,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
-- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -103,5 +161,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-14 04:36:13*
+*生成时间: 2025-12-14 08:26:19*
 *报告工具: 微信文章安全归档系统*
