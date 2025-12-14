@@ -1,17 +1,19 @@
-# 2025-12-13 安全威胁态势报告
+# 2025-12-14 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 4篇
+  - BruceFeIix: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **威胁情报**: 1篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -58,29 +60,29 @@
 
 ## 📰 文章详细列表
 
-### Doonsec
+### BruceFeIix
 
-- [【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1) (发布日期: 2025-12-13)
-- [【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4) (发布日期: 2025-12-13)
-- [无0day复杂利用！挖逻辑纯靠 “肉眼扫描器”？](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb) (发布日期: 2025-12-13)
-- [密码重置漏洞挖掘指南：从原理到实战的完整路径](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352) (发布日期: 2025-12-13)
+- [ ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) (发布日期: 2025-12-14)
 
 
 ## 🎯 威胁详情分析
 
-### 漏洞利用
+### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1](https://mp.weixin.qq.com/s?__biz=MzU1Mjk3MDY1OA==&mid=2247521822&idx=1&sn=9dd92f168e76d32c0a819cc5ca8ddca1) |
-| 2 | 【安全工具速递】CVE-2025-55182 图形化利用工具更新至V1.1.5版本，爽到飞起～ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4](https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485244&idx=1&sn=95f35f1959d2dbadbd2500e62aaf74c4) |
-| 3 | 无0day复杂利用！挖逻辑纯靠 “肉眼扫描器”？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521803&idx=1&sn=6ef2c1380a7553883a99bfac5cefeabb) |
-| 4 | 密码重置漏洞挖掘指南：从原理到实战的完整路径 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352](https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247493084&idx=1&sn=5a1c91109518f88f24fc4db8daeb8352) |
+| 1 |  ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 |  ] [网军“捡漏”：数据泄露如何助力国家级APT搭建C2基础设施 | BruceFeIix | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184155&idx=1&sn=d45a7d0b48176c346a427406b19f3eb5) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W50/2025-12-13/`
+文章已归档到: `doc/2025/2025-12/2025-W50/2025-12-14/`
 
 ## 🔗 数据源说明
 
@@ -91,8 +93,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **威胁情报** 是今日主要威胁类型，共 1 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -101,5 +103,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-13 16:24:37*
+*生成时间: 2025-12-14 04:36:13*
 *报告工具: 微信文章安全归档系统*
