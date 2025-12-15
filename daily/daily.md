@@ -2,19 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 39
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 39篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 5篇
+- **漏洞利用**: 13篇
 - **安全运营**: 5篇
-- **攻击技术**: 1篇
+- **攻击技术**: 2篇
+- **威胁情报**: 2篇
+- **信息泄露**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -64,27 +65,45 @@
 
 ### Doonsec
 
-- [联合众测活动 | 顺丰SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491469&idx=1&sn=9cbdf7f28238a80df14cca7e64eeb1ad) (发布日期: 2025-12-15)
-- [无需任何凭据自动创建管理员账号,一个高度隐蔽的WordPress后门](https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493869&idx=1&sn=b7718d1c0708d91ad43e4ffd60553d2a) (发布日期: 2025-12-15)
-- [雷神众测漏洞周报2025.12.8-2025.12.14](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503633&idx=1&sn=ed8c46701570f36906982f6edf548eae) (发布日期: 2025-12-15)
-- [国家能源局印发：《能源行业数据安全管理办法（试行）》](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541144&idx=2&sn=c7e717c531202216f323b102f5161b9a) (发布日期: 2025-12-15)
-- [一图读懂 | 强制性国家标准GB 46864-2025《数据安全技术 电子产品信息清除技术要求》](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541144&idx=3&sn=afc98efef10347aa24373442444eb36f) (发布日期: 2025-12-15)
-- [2023年全国网络安全行业职业技能大赛-电子数据取证分析师-初赛C卷(15号)-Writeup](https://mp.weixin.qq.com/s?__biz=MzkyOTI4NTY4MQ==&mid=2247492115&idx=1&sn=132b099aa01d913b25312308458868fb) (发布日期: 2025-12-15)
-- [Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、批量扫描、反弹shell等](https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483741&idx=1&sn=6b2e485c43aff796ab2aa71abcc386dc) (发布日期: 2025-12-15)
-- [密码学：香农一次一密是绝对安全的证明过程](https://mp.weixin.qq.com/s?__biz=MzU3MzAzMzk3OA==&mid=2247485252&idx=1&sn=e3cf19798fcfa989473132b9375e7866) (发布日期: 2025-12-15)
-- [企业安全“护身符”：等保测评，不可逾越的安全红线](https://mp.weixin.qq.com/s?__biz=MzU5MTIxNzg0Ng==&mid=2247488373&idx=1&sn=bf8baa49041fed365f06595e26a05624) (发布日期: 2025-12-15)
-- [联合众测活动 | 平安SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145716&idx=2&sn=0c02c5b0a0bf0225be7d3501d329dc3e) (发布日期: 2025-12-15)
-- [联合众测活动 | 顺丰SRC携手爱奇艺等11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=1&sn=4f9a6bf6a3a34fe2551c2b3c318fade4) (发布日期: 2025-12-15)
-- [爱奇艺SRC2025年第三季度奖励公告](https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=2&sn=60a3c458b9a5b330fdccf900dc7c55e7) (发布日期: 2025-12-15)
-- [联合众测活动 | 唯品会SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281729&idx=1&sn=902a4a6a9351fa350b314d6d9d71bc21) (发布日期: 2025-12-15)
-- [【WEB安全】React-RCS RCE（CVE-2025-55182）漏洞复现](https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721) (发布日期: 2025-12-15)
-- [【业界动态】强制性国家标准GB 46864-2025《数据安全技术 电子产品信息清除技术要求》（附全文下载链接）](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998897&idx=2&sn=b3c05e481a4e932cbea04107c6f8bb4c) (发布日期: 2025-12-15)
-- [威胁响应CISP-TRExa0/xa0CISP-TRS全国报名启动](https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247526003&idx=1&sn=f2c097e0243024960174ee5c2dffe5d8) (发布日期: 2025-12-15)
-- [CVE-2025-55182检测工具](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484355&idx=1&sn=4125a2378ec60528040afb327976b48a) (发布日期: 2025-12-15)
-- [DudeSuite 漏洞更新播报 20251215](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562897&idx=1&sn=b1c8b117f61849a953dbc9c856750ba5) (发布日期: 2025-12-15)
-- [新型钓鱼攻击借Calendly伪装知名品牌 伺机劫持广告管理账户](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585940&idx=1&sn=33aed090089c8de04379d5c96752d1e0) (发布日期: 2025-12-15)
-- [山石网科亮相四川高教信息化2025年会，AI赋能教育安全新生态](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304606&idx=1&sn=11232113e69a85dc45c947062292baa7) (发布日期: 2025-12-15)
-- [AI 简讯｜AWS re:Invent 2025; F5引入抗量子加密机制；Saviynt推出AI驱动的身份平台](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304606&idx=2&sn=1b6e6f0f0b328d8ec870432ebdfddb6c) (发布日期: 2025-12-15)
+- [三大核心引擎驱动，启明星辰以“超级智能体”实现安全运营高效协同](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735252&idx=2&sn=c0dde12d23df7ff1f8c7e0bb95a83f58) (发布日期: 2025-12-15)
+- [江南信安荣获2025网络安全“金帽子”年度杰出安全服务商奖项](https://mp.weixin.qq.com/s?__biz=MzA4MTE0MTEwNQ==&mid=2668670941&idx=1&sn=910adce89f3d5997fbfeaadb0aff3285) (发布日期: 2025-12-15)
+- [精品产品 | 捷普车载防火墙](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507331&idx=1&sn=5f6bb03d7dc017822f91d3c2c0d05129) (发布日期: 2025-12-15)
+- [每周网安资讯 （12.9-12.15）| Adobe多款产品存在输入验证不恰当漏洞](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507331&idx=3&sn=64b16d9efef5c9285619c19a52077d53) (发布日期: 2025-12-15)
+- [强网杯2025决赛复现](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=1&sn=772414290f665251e45086ee738cd157) (发布日期: 2025-12-15)
+- [Windows惊现“连环漏洞”：未修补的RasMan缺陷可被任意用户触发崩溃，直通系统最高权限](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=2&sn=3a78ff2f491c5072c958977b42355fab) (发布日期: 2025-12-15)
+- [看雪【勒索病毒应急响应服务】上线！](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=3&sn=b862b079ee38c0e9607690b0574930dc) (发布日期: 2025-12-15)
+- [距离开赛仅剩5天 | 河南省第七届“金盾信安杯”网络与数据安全大赛等你来战！](https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448691519&idx=1&sn=106ef1ab11115cc666bca1899de5f9e0) (发布日期: 2025-12-15)
+- [《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布](https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448691519&idx=2&sn=a57ad7b2dadbf1386c0e05361d0a415b) (发布日期: 2025-12-15)
+- [《数据安全技术 电子产品信息清除技术要求》强制性国家标准答记者问](https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448691519&idx=3&sn=bbcbac7cba6feaadf46e272ec9dab624) (发布日期: 2025-12-15)
+- [一图读懂｜《数据安全技术 电子产品信息清除技术要求》强制性国家标准](https://mp.weixin.qq.com/s?__biz=MjM5NjA2NzY3NA==&mid=2448691519&idx=4&sn=e89bcaada29bc78bcdeaeb015a910428) (发布日期: 2025-12-15)
+- [最近网上怎么不见“大神”秀漏洞了？新《网络安全法》两张罚单告诉你答案！](https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488933&idx=1&sn=b370f2aa2d6c39e5c0c53e746ba55636) (发布日期: 2025-12-15)
+- [构筑运营商数据安全新防线：任子行“数安智鉴、智枢、智巡”一体化运营管控体系](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597825&idx=1&sn=6f1a0a4a1f831dd1e3614dccc96a17fa) (发布日期: 2025-12-15)
+- [国家级“官方认证”| 珞安科技产品首批入选“工业领域数据安全工具库”工具名录](https://mp.weixin.qq.com/s?__biz=MzU2NjI5NzY1OA==&mid=2247514150&idx=1&sn=bb3e33750eab18aa17b665349ac4706f) (发布日期: 2025-12-15)
+- [强叔侃墙 | IPsec VPN——给你的网络穿上“安全隐形衣”](https://mp.weixin.qq.com/s?__biz=MzAwODU5NzYxOA==&mid=2247506839&idx=1&sn=1a549e0aa5413a1c4c276cac1446dcbc) (发布日期: 2025-12-15)
+- [数据安全不容“装睡”！某医药公司“四大皆空”被依法处罚](https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247493429&idx=1&sn=7bc0fec03653706dc7d0a81336ccbcbc) (发布日期: 2025-12-15)
+- [全部OA-图形化综合漏洞利用工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486017&idx=1&sn=2bb93084899d275781c5b7fbd9f78026) (发布日期: 2025-12-15)
+- [CVE-2025-2945 pgAdmin <9.2 后台命令执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce) (发布日期: 2025-12-15)
+- [【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=2&sn=277fd3663e820da5c8b55a0b2fcf73de) (发布日期: 2025-12-15)
+- [行业首个！亚信安全信界浏览器斩获CCRC权威认证，树立企业安全浏览器新标杆](https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650626600&idx=1&sn=e44a42e9a23e2ee69f9e36660b94958a) (发布日期: 2025-12-15)
+- [安全问题不容“装睡”！某公司数据安全“四大皆空”，被依法处罚！](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175308&idx=2&sn=47bb33e5fe1259b13cafa4c0d9dd1be0) (发布日期: 2025-12-15)
+- [联合众测活动 | 中通SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486545&idx=1&sn=5c401ba8836fb6ba338a163af4d31cfd) (发布日期: 2025-12-15)
+- [CNVD漏洞周报2025年第48期](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=1&sn=cc5d16d7609a4315335ae839fff90ab8) (发布日期: 2025-12-15)
+- [上周关注度较高的产品安全漏洞(20251208-20251214)](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=2&sn=0783034e514e64ef03d33ae23d52e2c7) (发布日期: 2025-12-15)
+- [【复现】Apache Tika XXE漏洞（CVE-2025-66516）](https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492539&idx=1&sn=8a04206213a94828bd4a9760a8b4cc1a) (发布日期: 2025-12-15)
+- [CISSP白皮书丨网络安全和业务繁荣的权威指南](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493433&idx=1&sn=459502d76f487bacd2d9da70aacdd6fe) (发布日期: 2025-12-15)
+- [漏洞复现|通天星CMSV6车载视频监控平台_StandardReportMediaAction_getImage存在信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485327&idx=1&sn=18be2e89947081f4b8e4790a3e561aca) (发布日期: 2025-12-15)
+- [因网络安全合规造假，知名军工软件供应商前员工被刑事诉讼](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515329&idx=1&sn=43efc5378ba344972f3741dcb27bb88e) (发布日期: 2025-12-15)
+- [处罚案例 | 某医药公司数据安全“四大皆空”，被依法处罚！](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502274&idx=1&sn=c332d55684eb3f9826ac2e6d633dd4d3) (发布日期: 2025-12-15)
+- [某edusrc教育厅漏洞简单挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9) (发布日期: 2025-12-15)
+- [能源行业数据安全新规发布：能源行业重要数据、能源行业核心数据的处理者应建立数据安全工作体系（附原文）](https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502273&idx=1&sn=5b8d4140d47463abef431a9f5eae6f75) (发布日期: 2025-12-15)
+- [100W+以色列车辆数据涉嫌数据泄露](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488543&idx=1&sn=b5e69de16c4cfc579299f6964400c68a) (发布日期: 2025-12-15)
+- [【国内网安政策简评】《大型网络平台个人信息保护规定（征求意见稿）》学习思考](https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486574&idx=1&sn=813615b07d9e04b9ac98e622eb64b4dd) (发布日期: 2025-12-15)
+- [别再被入侵指标淹没！SOC分析师必备的5个威胁情报“炼金术](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139717&idx=1&sn=517f69107ab43b310d3afb8ef942e9d0) (发布日期: 2025-12-15)
+- [SHADOW-VOID-042组织冒充趋势科技发起钓鱼攻击，意图渗透关键基础设施](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525527&idx=1&sn=6232a8be2fa37146557e0023e598fe57) (发布日期: 2025-12-15)
+- [联合众测活动 | 小鹏汽车SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484191&idx=1&sn=d0f1262e657ec6be0273b7f004a3d964) (发布日期: 2025-12-15)
+- [百万奖金池开抢！网络安全大神速来！提漏洞、发文章直接领现金，单洞最高 20 万！](https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485339&idx=1&sn=df2e830682456a34646c79618798b553) (发布日期: 2025-12-15)
+- [论文研读与思考 | GraphDDoS：使用图神经网络的有效DDoS攻击检测](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490429&idx=1&sn=79fe7054238050fae26d17472c147bb4) (发布日期: 2025-12-15)
+- [联合众测活动 | BOSS直聘SRC携手11家SRC开启跨年狩猎翻倍盛典！](https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486261&idx=1&sn=c9f37c1188d6206ae18e11fee920c265) (发布日期: 2025-12-15)
 
 
 ## 🎯 威胁详情分析
@@ -93,27 +112,49 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 雷神众测漏洞周报2025.12.8-2025.12.14 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503633&idx=1&sn=ed8c46701570f36906982f6edf548eae](https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503633&idx=1&sn=ed8c46701570f36906982f6edf548eae) |
-| 2 | Next.js/React漏洞利用工具，支持waf绕过、哥斯拉内存马、批量扫描、反弹shell等 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483741&idx=1&sn=6b2e485c43aff796ab2aa71abcc386dc](https://mp.weixin.qq.com/s?__biz=MzYzNjMxODg1NA==&mid=2247483741&idx=1&sn=6b2e485c43aff796ab2aa71abcc386dc) |
-| 3 | 【WEB安全】React-RCS RCE（CVE-2025-55182）漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721](https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721) |
-| 4 | CVE-2025-55182检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484355&idx=1&sn=4125a2378ec60528040afb327976b48a](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484355&idx=1&sn=4125a2378ec60528040afb327976b48a) |
-| 5 | DudeSuite 漏洞更新播报 20251215 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562897&idx=1&sn=b1c8b117f61849a953dbc9c856750ba5](https://mp.weixin.qq.com/s?__biz=MzA3ODUzNzMzOQ==&mid=2648562897&idx=1&sn=b1c8b117f61849a953dbc9c856750ba5) |
+| 1 | 每周网安资讯 （12.9-12.15）| Adobe多款产品存在输入验证不恰当漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507331&idx=3&sn=64b16d9efef5c9285619c19a52077d53](https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247507331&idx=3&sn=64b16d9efef5c9285619c19a52077d53) |
+| 2 | 强网杯2025决赛复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=1&sn=772414290f665251e45086ee738cd157](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=1&sn=772414290f665251e45086ee738cd157) |
+| 3 | Windows惊现“连环漏洞”：未修补的RasMan缺陷可被任意用户触发崩溃，直通系统最高权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=2&sn=3a78ff2f491c5072c958977b42355fab](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=2&sn=3a78ff2f491c5072c958977b42355fab) |
+| 4 | 最近网上怎么不见“大神”秀漏洞了？新《网络安全法》两张罚单告诉你答案！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488933&idx=1&sn=b370f2aa2d6c39e5c0c53e746ba55636](https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488933&idx=1&sn=b370f2aa2d6c39e5c0c53e746ba55636) |
+| 5 | 全部OA-图形化综合漏洞利用工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486017&idx=1&sn=2bb93084899d275781c5b7fbd9f78026](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486017&idx=1&sn=2bb93084899d275781c5b7fbd9f78026) |
+| 6 | CVE-2025-2945 pgAdmin <9.2 后台命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce) |
+| 7 | 【免费领】智能设备安全技术干货：路由器0day漏洞挖掘指南 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=2&sn=277fd3663e820da5c8b55a0b2fcf73de](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=2&sn=277fd3663e820da5c8b55a0b2fcf73de) |
+| 8 | CNVD漏洞周报2025年第48期 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=1&sn=cc5d16d7609a4315335ae839fff90ab8](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=1&sn=cc5d16d7609a4315335ae839fff90ab8) |
+| 9 | 上周关注度较高的产品安全漏洞(20251208-20251214) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=2&sn=0783034e514e64ef03d33ae23d52e2c7](https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496571&idx=2&sn=0783034e514e64ef03d33ae23d52e2c7) |
+| 10 | 【复现】Apache Tika XXE漏洞（CVE-2025-66516） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492539&idx=1&sn=8a04206213a94828bd4a9760a8b4cc1a](https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492539&idx=1&sn=8a04206213a94828bd4a9760a8b4cc1a) |
+| 11 | 漏洞复现|通天星CMSV6车载视频监控平台_StandardReportMediaAction_getImage存在信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485327&idx=1&sn=18be2e89947081f4b8e4790a3e561aca](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485327&idx=1&sn=18be2e89947081f4b8e4790a3e561aca) |
+| 12 | 某edusrc教育厅漏洞简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9) |
+| 13 | 百万奖金池开抢！网络安全大神速来！提漏洞、发文章直接领现金，单洞最高 20 万！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485339&idx=1&sn=df2e830682456a34646c79618798b553](https://mp.weixin.qq.com/s?__biz=Mzk0NjQ2NzQ0Ng==&mid=2247485339&idx=1&sn=df2e830682456a34646c79618798b553) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【WEB安全】React-RCS RCE（CVE-2025-55182）漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721](https://mp.weixin.qq.com/s?__biz=MzkzMzYzNzIzNQ==&mid=2247485962&idx=1&sn=17cd1aa28a1f7fd374d9beeab178b721) |
+| 1 | CVE-2025-2945 pgAdmin <9.2 后台命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce](https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247557017&idx=1&sn=3bcac8d17dcc9bbd5cd1bb18f71af6ce) |
+| 2 | 【国内网安政策简评】《大型网络平台个人信息保护规定（征求意见稿）》学习思考 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486574&idx=1&sn=813615b07d9e04b9ac98e622eb64b4dd](https://mp.weixin.qq.com/s?__biz=Mzg3OTg0OTAyOQ==&mid=2247486574&idx=1&sn=813615b07d9e04b9ac98e622eb64b4dd) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 看雪【勒索病毒应急响应服务】上线！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=3&sn=b862b079ee38c0e9607690b0574930dc](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605280&idx=3&sn=b862b079ee38c0e9607690b0574930dc) |
+| 2 | 别再被入侵指标淹没！SOC分析师必备的5个威胁情报“炼金术 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139717&idx=1&sn=517f69107ab43b310d3afb8ef942e9d0](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139717&idx=1&sn=517f69107ab43b310d3afb8ef942e9d0) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 联合众测活动 | 顺丰SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491469&idx=1&sn=9cbdf7f28238a80df14cca7e64eeb1ad](https://mp.weixin.qq.com/s?__biz=MzU3OTAyODk4MQ==&mid=2247491469&idx=1&sn=9cbdf7f28238a80df14cca7e64eeb1ad) |
-| 2 | 联合众测活动 | 平安SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145716&idx=2&sn=0c02c5b0a0bf0225be7d3501d329dc3e](https://mp.weixin.qq.com/s?__biz=MzIzODAwMTYxNQ==&mid=2652145716&idx=2&sn=0c02c5b0a0bf0225be7d3501d329dc3e) |
-| 3 | 联合众测活动 | 顺丰SRC携手爱奇艺等11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=1&sn=4f9a6bf6a3a34fe2551c2b3c318fade4](https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=1&sn=4f9a6bf6a3a34fe2551c2b3c318fade4) |
-| 4 | 爱奇艺SRC2025年第三季度奖励公告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=2&sn=60a3c458b9a5b330fdccf900dc7c55e7](https://mp.weixin.qq.com/s?__biz=MzI0OTIwMjE2NA==&mid=2247485967&idx=2&sn=60a3c458b9a5b330fdccf900dc7c55e7) |
-| 5 | 联合众测活动 | 唯品会SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281729&idx=1&sn=902a4a6a9351fa350b314d6d9d71bc21](https://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652281729&idx=1&sn=902a4a6a9351fa350b314d6d9d71bc21) |
+| 1 | 三大核心引擎驱动，启明星辰以“超级智能体”实现安全运营高效协同 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735252&idx=2&sn=c0dde12d23df7ff1f8c7e0bb95a83f58](https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651735252&idx=2&sn=c0dde12d23df7ff1f8c7e0bb95a83f58) |
+| 2 | 联合众测活动 | 中通SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486545&idx=1&sn=5c401ba8836fb6ba338a163af4d31cfd](https://mp.weixin.qq.com/s?__biz=MzUyMTcwNTY3Mg==&mid=2247486545&idx=1&sn=5c401ba8836fb6ba338a163af4d31cfd) |
+| 3 | 某edusrc教育厅漏洞简单挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486277&idx=1&sn=abf5e33ce5624a3c68125accf7d16ac9) |
+| 4 | 联合众测活动 | 小鹏汽车SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484191&idx=1&sn=d0f1262e657ec6be0273b7f004a3d964](https://mp.weixin.qq.com/s?__biz=MzkzNTY5MTQ1NA==&mid=2247484191&idx=1&sn=d0f1262e657ec6be0273b7f004a3d964) |
+| 5 | 联合众测活动 | BOSS直聘SRC携手11家SRC开启跨年狩猎翻倍盛典！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486261&idx=1&sn=c9f37c1188d6206ae18e11fee920c265](https://mp.weixin.qq.com/s?__biz=MzkyODIwNDI3NA==&mid=2247486261&idx=1&sn=c9f37c1188d6206ae18e11fee920c265) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 100W+以色列车辆数据涉嫌数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488543&idx=1&sn=b5e69de16c4cfc579299f6964400c68a](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488543&idx=1&sn=b5e69de16c4cfc579299f6964400c68a) |
 
 
 ## 📁 归档路径
@@ -129,8 +170,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 5 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -139,5 +180,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-15 12:48:15*
+*生成时间: 2025-12-15 16:31:23*
 *报告工具: 微信文章安全归档系统*
