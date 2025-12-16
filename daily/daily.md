@@ -2,23 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 28
+- **总文章数**: 36
 - **数据源分布**:
-  - Doonsec: 28篇
+  - Doonsec: 36篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 13篇
-- **威胁情报**: 4篇
-- **攻击技术**: 3篇
-- **安全运营**: 2篇
-- **信息泄露**: 1篇
+- **漏洞利用**: 15篇
+- **攻击技术**: 5篇
+- **威胁情报**: 3篇
+- **安全运营**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 2篇
-- **Web安全**: 1篇
-- **网络攻击**: 1篇
+- **Web安全**: 4篇
+- **应用漏洞**: 2篇
 
 ## 🔍 匹配规则
 
@@ -67,34 +66,42 @@
 
 ### Doonsec
 
-- [吉林某医药公司数据安全“四大皆空” 被依法处罚！](https://mp.weixin.qq.com/s?__biz=Mzg4MDE0MzQzMw==&mid=2247488436&idx=1&sn=aa3c7fe4220ce154f4a41e132ebf41f3) (发布日期: 2025-12-16)
-- [ByteSRC 新年福利｜0 积分兑换「前路有光」限定礼盒](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495837&idx=1&sn=e46ef5dec86831dc7d683b378f8632fa) (发布日期: 2025-12-16)
-- [漏洞管理警惕“账面修复”陷阱：测试与生产的脱节](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541150&idx=2&sn=9dcb7efbe5b2f15fef0b9ce97d176c50) (发布日期: 2025-12-16)
-- [Gogs 零日漏洞深度分析（CVE-2025-8110）:超700台服务器已被攻陷](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486310&idx=1&sn=cf8627fbd06df44b5762417ffe9b9a7b) (发布日期: 2025-12-16)
-- [破局而立 | 天空卫士凭借\"专精\"解锁数据安全双重认可](https://mp.weixin.qq.com/s?__biz=MzA5MjQyODY1Mw==&mid=2648520361&idx=1&sn=f06327d993a655d7c4735e94a7de3d9d) (发布日期: 2025-12-16)
-- [【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利）](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508399&idx=1&sn=9272a6d97fe7fb7c7275f3daf07d603a) (发布日期: 2025-12-16)
-- [【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利）](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488939&idx=1&sn=d176b1302f9426e1125369bbe9c56555) (发布日期: 2025-12-16)
-- [【业界动态】国家能源局印发《能源行业数据安全管理办法（试行）》（附全文）](https://mp.weixin.qq.com/s?__biz=MzA3NzgzNDM0OQ==&mid=2664998932&idx=3&sn=913b6ac7c025f9de9535d6d74a681f53) (发布日期: 2025-12-16)
-- [【已复现】FreePBX 认证绕过/SQL注入/任意文件上传漏洞链 (CVE-2025-66039/61675/61678)](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42) (发布日期: 2025-12-16)
-- [【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利）](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247506888&idx=1&sn=1ff186e8aa33f16b522b4ef5fca6e3ab) (发布日期: 2025-12-16)
-- [GitHub React2Shell 扫描器 (CVE-2025-55182) 被证实为恶意软件](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=3&sn=64b2a163b66bc5b910e4ce3f13faea5d) (发布日期: 2025-12-16)
-- [新型 SantaStealer 恶意软件会从浏览器和加密货币钱包中窃取数据](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=4&sn=a8f34becc2a74513645eae8600df418a) (发布日期: 2025-12-16)
-- [CVE-2025-64669：揭示 Windows 管理中心中的本地权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=5&sn=984fbcd8defbb0a12b30db33d9542682) (发布日期: 2025-12-16)
-- [越南人民海军125旅（Lữ đoàn 125）数据泄露](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488564&idx=1&sn=f925c3867b496a6f834e62807f16a2d5) (发布日期: 2025-12-16)
-- [2025年最危险的25个软件漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504603&idx=1&sn=b44cc869405df81dbf1cbb1f2ffab0f7) (发布日期: 2025-12-16)
-- [PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486928&idx=1&sn=0f85780ae3366d75a7eaae3dffcc7970) (发布日期: 2025-12-16)
-- [AI云产业发展大会|启明星辰田源：《基于超级智能体技术的智能联邦安全运营系统》](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247509918&idx=1&sn=d4a6f2866641c3884f09411138ee938e) (发布日期: 2025-12-16)
-- [银狐远控一键编译调试与开发教程](https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500459&idx=1&sn=040336ebb05520aaf8bc8e96f224b921) (发布日期: 2025-12-16)
-- [【漏洞通告】React/Next.js 远程命令执行漏洞 CVE-2025-55182/CVE-2025-66478](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e) (发布日期: 2025-12-16)
-- [NETREAPER：集成70余款渗透测试工具](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=1&sn=b2ca638bfce1ca5ff0d1539089dbe9b6) (发布日期: 2025-12-16)
-- [K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=2&sn=a07ed21e6f7034a5751e5f33140a5fc5) (发布日期: 2025-12-16)
-- [《进击的Agent ，进化的安全》 2025 OWASP中国安全技术论坛报名开始了](https://mp.weixin.qq.com/s?__biz=MjM5OTk5NDMyMw==&mid=2652099097&idx=1&sn=e82cb028920d2a60bf2a1237829bb4bb) (发布日期: 2025-12-16)
-- [创宇大模型网关荣获IT168“2025年度技术卓越奖”，树立大模型安全治理新标杆](https://mp.weixin.qq.com/s?__biz=MjM5NzA3Nzg2MA==&mid=2649872936&idx=1&sn=cadeb56f823572715cdcbcf70b24c557) (发布日期: 2025-12-16)
-- [速修！帆软 FineReport 前台远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3) (发布日期: 2025-12-16)
-- [勒索软件团伙滥用Shanya可执行文件打包器隐匿EDR禁用工具](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247585955&idx=1&sn=dc928ba3d12334d3bf08cb9f0abaeedd) (发布日期: 2025-12-16)
-- [直击React高危漏洞 | 山石网科深度防护，筑牢安全壁垒](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304643&idx=2&sn=8e6cb3d8980eb32e80bda9b7f2641a81) (发布日期: 2025-12-16)
-- [[安全研究篇]关于微软powershell零日漏洞的POC](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493770&idx=1&sn=a57bd1ccb33512ba121a1669e6637508) (发布日期: 2025-12-16)
-- [CVE-2025-64669：揭示 Windows 管理中心中的本地权限提升漏洞](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533957&idx=1&sn=70e8f10748a6ac005f7a84194035a490) (发布日期: 2025-12-16)
+- [记一次攻防从smb弱口令激活guest用户到克隆administrator桌面](https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484103&idx=1&sn=b8f072ec6ff4c8be6f8c1f6efa7fc33a) (发布日期: 2025-12-16)
+- [记一次攻防从smb弱口令激活guest用户到克隆administrator桌面](https://mp.weixin.qq.com/s?__biz=MzkxMDcwOTg5Nw==&mid=2247484085&idx=1&sn=9fb5257748f2dd9cd93bb49c023b3625) (发布日期: 2025-12-16)
+- [斗象实力入选工信部赛迪《中国威胁情报市场研究报告（2025）》](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247535478&idx=2&sn=188010998561f0d636595609dab978b9) (发布日期: 2025-12-16)
+- [40款开源工具正在重新定义安全团队保护技术栈的方式](https://mp.weixin.qq.com/s?__biz=Mzk4ODI4MDEzNQ==&mid=2247484056&idx=1&sn=1dbd4d5847015e498401e43241afd6ae) (发布日期: 2025-12-16)
+- [Argus：百眼巨人上线！新一代应急响应与威胁狩猎神器](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493165&idx=1&sn=6671b3110746ae88cf17c7377e58d4bf) (发布日期: 2025-12-16)
+- [【已复现】帆软报表 export/excel 存在前台SQL注入漏洞，可导致远程代码执行](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495706&idx=1&sn=6b01b5576bd631e1724a4839121e0766) (发布日期: 2025-12-16)
+- [【安全圈】PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=3&sn=82520125d0a2bfd6a170cb07064fcc26) (发布日期: 2025-12-16)
+- [【安全圈】严重的 Plesk 漏洞允许用户获取 Root 级别访问权限](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=4&sn=c1841caa9f7803503c27e512e8039810) (发布日期: 2025-12-16)
+- [FreePBX 修复多个严重漏洞](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=1&sn=bc36c9f6d44d660e3000cd5b371b5f50) (发布日期: 2025-12-16)
+- [React RSC 新漏洞可导致 DoS 和源代码泄露](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=2&sn=bd7c744b1ab80e6eeb119c4307ab5cdd) (发布日期: 2025-12-16)
+- [【漏洞通告】帆软 FineReport SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e) (发布日期: 2025-12-16)
+- [安全意识 | 公共场合哪些骚操作可能泄露机密信息](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649381&idx=1&sn=0afa957b71b99440aec19233944bf866) (发布日期: 2025-12-16)
+- [自动化集成Web漏洞扫描器 -- NucleiFuzzer](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487058&idx=1&sn=af7bce5e5627687542c051b032c29dc9) (发布日期: 2025-12-16)
+- [【复现】帆软报表export/excel SQL注入漏洞风险通告](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5) (发布日期: 2025-12-16)
+- [Fastjson1.2.83-0day(开autotype)+mysql不出网打法](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=1&sn=ded7f35ff75c04978a03afeaa466bc9f) (发布日期: 2025-12-16)
+- [【闪石星曜 Java代码审计】？？？？？](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=2&sn=2517603873b8df376fb13e10887af3a3) (发布日期: 2025-12-16)
+- [一文搞懂SoC的架构](https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247564495&idx=1&sn=76220c9d2b88b9b56ce818dc9b4cb6e2) (发布日期: 2025-12-16)
+- [美创高校供应链数据安全创新解决方案获评“年度创新方案”](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247603061&idx=2&sn=04008c52452c273cd7ba9d5fc7b250a4) (发布日期: 2025-12-16)
+- [专题·漏洞生态 | 对人工智能驱动网络漏洞治理的新思考](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255523&idx=1&sn=656cc065dd7f27e017e38178e804aa81) (发布日期: 2025-12-16)
+- [Struts2全版本图形化漏洞检测工具](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486018&idx=1&sn=622a1c0b7fcbf21d40022c5f1bf4002d) (发布日期: 2025-12-16)
+- [当AI的“讨好型人格”成为漏洞：数字谄媚如何塑造下一代网络威胁](https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488948&idx=1&sn=57ef9f2f5470b8d30c447820db691d3b) (发布日期: 2025-12-16)
+- [伪装“精选”标签，知名VPN扩展被曝窃取数百万用户AI聊天记录](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605412&idx=2&sn=3fc484d9157c8e99ee4e8618ebe344eb) (发布日期: 2025-12-16)
+- [【已复现】FineReport 帆软报表前台远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a) (发布日期: 2025-12-16)
+- [【安全事件】5000万国内居民身份信息泄露](https://mp.weixin.qq.com/s?__biz=MzY0MDExMTI0Ng==&mid=2247483796&idx=1&sn=cdd8e31baae283166d77af9ab6b603fd) (发布日期: 2025-12-16)
+- [【应急响应基础】七、勒索病毒排查](https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488829&idx=1&sn=67924b7c31edd58a2cbedfe5f24089c4) (发布日期: 2025-12-16)
+- [读懂 | GB 46864-2025《数据安全技术 电子产品信息清除技术要求》](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247522447&idx=1&sn=cc5188ff440ad7b63663c8a54b189174) (发布日期: 2025-12-16)
+- [能源行业数据安全管理办法（试行）](https://mp.weixin.qq.com/s?__biz=MzI3NjUzOTQ0NQ==&mid=2247522447&idx=2&sn=5b7e8402cd36b7b02009285d37758a9b) (发布日期: 2025-12-16)
+- [预警丨防范PolarEdge僵尸网络](https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649175315&idx=2&sn=15fbd99fb1c0ee2035651417b5dac9d4) (发布日期: 2025-12-16)
+- [数据安全共同体计划｜观安信息再获殊荣，彰显数据安全领域专业实力](https://mp.weixin.qq.com/s?__biz=MzIxNDIzNTcxMg==&mid=2247510172&idx=1&sn=2ee4db81152c8122cf5129cfd166ee89) (发布日期: 2025-12-16)
+- [最简单的edusrc证书站挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486294&idx=1&sn=ffe4ca165bea0a149e8f24dff868060d) (发布日期: 2025-12-16)
+- [CVE-2025-8110 0day 绕过分析与复现](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525575&idx=1&sn=ebc81b9d83cbc0c0c8fdcc5522ba1fe5) (发布日期: 2025-12-16)
+- [发布 | 《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布](https://mp.weixin.qq.com/s?__biz=MzkyNDUyNzU1MQ==&mid=2247489254&idx=1&sn=aab5c19e0a6194993dc85b4929a02c1a) (发布日期: 2025-12-16)
+- [【附POC及复现环境】Gogs命令注入漏洞详细复现（CVE-2025-8110）](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2) (发布日期: 2025-12-16)
+- [方案解读 |《关于完善数据流通安全治理 更好促进数据要素市场化价值化的实施方案》](https://mp.weixin.qq.com/s?__biz=MzI0NjAyMjU4MA==&mid=2649597836&idx=1&sn=2fb6b02f0d76ba689d9538daf9817a8c) (发布日期: 2025-12-16)
+- [【转载】后量子时代数据加密安全方案研究](https://mp.weixin.qq.com/s?__biz=MzA4MTE0MTEwNQ==&mid=2668670945&idx=1&sn=a2e8e68d27c21a27b496acc058fac059) (发布日期: 2025-12-16)
+- [关于防范PolarEdge僵尸网络的风险提示](https://mp.weixin.qq.com/s?__biz=MzA5Nzc4Njg1NA==&mid=2247489337&idx=1&sn=87ce40b9a502be497f5ea66262cf9cfc) (发布日期: 2025-12-16)
 
 
 ## 🎯 威胁详情分析
@@ -103,49 +110,51 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 漏洞管理警惕“账面修复”陷阱：测试与生产的脱节 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541150&idx=2&sn=9dcb7efbe5b2f15fef0b9ce97d176c50](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541150&idx=2&sn=9dcb7efbe5b2f15fef0b9ce97d176c50) |
-| 2 | Gogs 零日漏洞深度分析（CVE-2025-8110）:超700台服务器已被攻陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486310&idx=1&sn=cf8627fbd06df44b5762417ffe9b9a7b](https://mp.weixin.qq.com/s?__biz=Mzk0NjY3NjE4Ng==&mid=2247486310&idx=1&sn=cf8627fbd06df44b5762417ffe9b9a7b) |
-| 3 | 【已复现】FreePBX 认证绕过/SQL注入/任意文件上传漏洞链 (CVE-2025-66039/61675/61678) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42) |
-| 4 | GitHub React2Shell 扫描器 (CVE-2025-55182) 被证实为恶意软件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=3&sn=64b2a163b66bc5b910e4ce3f13faea5d](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=3&sn=64b2a163b66bc5b910e4ce3f13faea5d) |
-| 5 | CVE-2025-64669：揭示 Windows 管理中心中的本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=5&sn=984fbcd8defbb0a12b30db33d9542682](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504818&idx=5&sn=984fbcd8defbb0a12b30db33d9542682) |
-| 6 | 2025年最危险的25个软件漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504603&idx=1&sn=b44cc869405df81dbf1cbb1f2ffab0f7](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247504603&idx=1&sn=b44cc869405df81dbf1cbb1f2ffab0f7) |
-| 7 | PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486928&idx=1&sn=0f85780ae3366d75a7eaae3dffcc7970](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486928&idx=1&sn=0f85780ae3366d75a7eaae3dffcc7970) |
-| 8 | 【漏洞通告】React/Next.js 远程命令执行漏洞 CVE-2025-55182/CVE-2025-66478 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e) |
-| 9 | K8_Struts2_EXP：一键检测与利用Struts2 高危漏洞！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=2&sn=a07ed21e6f7034a5751e5f33140a5fc5](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485799&idx=2&sn=a07ed21e6f7034a5751e5f33140a5fc5) |
-| 10 | 速修！帆软 FineReport 前台远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3) |
-| 11 | 直击React高危漏洞 | 山石网科深度防护，筑牢安全壁垒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304643&idx=2&sn=8e6cb3d8980eb32e80bda9b7f2641a81](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304643&idx=2&sn=8e6cb3d8980eb32e80bda9b7f2641a81) |
-| 12 | [安全研究篇]关于微软powershell零日漏洞的POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493770&idx=1&sn=a57bd1ccb33512ba121a1669e6637508](https://mp.weixin.qq.com/s?__biz=MzkyNDI2NjQzNg==&mid=2247493770&idx=1&sn=a57bd1ccb33512ba121a1669e6637508) |
-| 13 | CVE-2025-64669：揭示 Windows 管理中心中的本地权限提升漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533957&idx=1&sn=70e8f10748a6ac005f7a84194035a490](https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247533957&idx=1&sn=70e8f10748a6ac005f7a84194035a490) |
+| 1 | 【已复现】帆软报表 export/excel 存在前台SQL注入漏洞，可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495706&idx=1&sn=6b01b5576bd631e1724a4839121e0766](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495706&idx=1&sn=6b01b5576bd631e1724a4839121e0766) |
+| 2 | 【安全圈】PCPcat 恶意软件利用 React2Shell 漏洞攻击 5.9 万余台服务器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=3&sn=82520125d0a2bfd6a170cb07064fcc26](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=3&sn=82520125d0a2bfd6a170cb07064fcc26) |
+| 3 | 【安全圈】严重的 Plesk 漏洞允许用户获取 Root 级别访问权限 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=4&sn=c1841caa9f7803503c27e512e8039810](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073227&idx=4&sn=c1841caa9f7803503c27e512e8039810) |
+| 4 | FreePBX 修复多个严重漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=1&sn=bc36c9f6d44d660e3000cd5b371b5f50](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=1&sn=bc36c9f6d44d660e3000cd5b371b5f50) |
+| 5 | React RSC 新漏洞可导致 DoS 和源代码泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=2&sn=bd7c744b1ab80e6eeb119c4307ab5cdd](https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524668&idx=2&sn=bd7c744b1ab80e6eeb119c4307ab5cdd) |
+| 6 | 【漏洞通告】帆软 FineReport SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e) |
+| 7 | 自动化集成Web漏洞扫描器 -- NucleiFuzzer | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487058&idx=1&sn=af7bce5e5627687542c051b032c29dc9](https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247487058&idx=1&sn=af7bce5e5627687542c051b032c29dc9) |
+| 8 | 【复现】帆软报表export/excel SQL注入漏洞风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5) |
+| 9 | Fastjson1.2.83-0day(开autotype)+mysql不出网打法 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=1&sn=ded7f35ff75c04978a03afeaa466bc9f](https://mp.weixin.qq.com/s?__biz=Mzg3MDU1MjgwNA==&mid=2247487640&idx=1&sn=ded7f35ff75c04978a03afeaa466bc9f) |
+| 10 | 专题·漏洞生态 | 对人工智能驱动网络漏洞治理的新思考 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255523&idx=1&sn=656cc065dd7f27e017e38178e804aa81](https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255523&idx=1&sn=656cc065dd7f27e017e38178e804aa81) |
+| 11 | Struts2全版本图形化漏洞检测工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486018&idx=1&sn=622a1c0b7fcbf21d40022c5f1bf4002d](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486018&idx=1&sn=622a1c0b7fcbf21d40022c5f1bf4002d) |
+| 12 | 当AI的“讨好型人格”成为漏洞：数字谄媚如何塑造下一代网络威胁 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488948&idx=1&sn=57ef9f2f5470b8d30c447820db691d3b](https://mp.weixin.qq.com/s?__biz=MzkyOTMxNDM3Ng==&mid=2247488948&idx=1&sn=57ef9f2f5470b8d30c447820db691d3b) |
+| 13 | 【已复现】FineReport 帆软报表前台远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a) |
+| 14 | CVE-2025-8110 0day 绕过分析与复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525575&idx=1&sn=ebc81b9d83cbc0c0c8fdcc5522ba1fe5](https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247525575&idx=1&sn=ebc81b9d83cbc0c0c8fdcc5522ba1fe5) |
+| 15 | 【附POC及复现环境】Gogs命令注入漏洞详细复现（CVE-2025-8110） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【已复现】FreePBX 认证绕过/SQL注入/任意文件上传漏洞链 (CVE-2025-66039/61675/61678) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495695&idx=1&sn=52322f7422505317c58cf0a59fe20e42) |
-| 2 | 【漏洞通告】React/Next.js 远程命令执行漏洞 CVE-2025-55182/CVE-2025-66478 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492383&idx=1&sn=600c3cb7f325dd4c243cbf66131a820e) |
-| 3 | 速修！帆软 FineReport 前台远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3](https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508065&idx=1&sn=1841693a3085a9b4ead40ec4ed33d2c3) |
+| 1 | 【已复现】帆软报表 export/excel 存在前台SQL注入漏洞，可导致远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495706&idx=1&sn=6b01b5576bd631e1724a4839121e0766](https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247495706&idx=1&sn=6b01b5576bd631e1724a4839121e0766) |
+| 2 | 【漏洞通告】帆软 FineReport SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524894&idx=1&sn=84857c02e8f8e9111b6fc5c0ba7ab19e) |
+| 3 | 【复现】帆软报表export/excel SQL注入漏洞风险通告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484979&idx=1&sn=837d849a59a4a707a9421f9d10cd7cb5) |
+| 4 | 【已复现】FineReport 帆软报表前台远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a](https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247493026&idx=1&sn=335ea08dbc624b131e892b228237a17a) |
+| 5 | 【附POC及复现环境】Gogs命令注入漏洞详细复现（CVE-2025-8110） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2](https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247485254&idx=1&sn=309ce475ac24dccc0076e469a61ec1f2) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508399&idx=1&sn=9272a6d97fe7fb7c7275f3daf07d603a](https://mp.weixin.qq.com/s?__biz=MzU3MzEwMTQ3NQ==&mid=2247508399&idx=1&sn=9272a6d97fe7fb7c7275f3daf07d603a) |
-| 2 | 【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488939&idx=1&sn=d176b1302f9426e1125369bbe9c56555](https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488939&idx=1&sn=d176b1302f9426e1125369bbe9c56555) |
-| 3 | 【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247506888&idx=1&sn=1ff186e8aa33f16b522b4ef5fca6e3ab](https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247506888&idx=1&sn=1ff186e8aa33f16b522b4ef5fca6e3ab) |
-| 4 | 银狐远控一键编译调试与开发教程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500459&idx=1&sn=040336ebb05520aaf8bc8e96f224b921](https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500459&idx=1&sn=040336ebb05520aaf8bc8e96f224b921) |
+| 1 | 斗象实力入选工信部赛迪《中国威胁情报市场研究报告（2025）》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247535478&idx=2&sn=188010998561f0d636595609dab978b9](https://mp.weixin.qq.com/s?__biz=MzU0MDI1MjUxMg==&mid=2247535478&idx=2&sn=188010998561f0d636595609dab978b9) |
+| 2 | Argus：百眼巨人上线！新一代应急响应与威胁狩猎神器 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493165&idx=1&sn=6671b3110746ae88cf17c7377e58d4bf](https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493165&idx=1&sn=6671b3110746ae88cf17c7377e58d4bf) |
+| 3 | 【应急响应基础】七、勒索病毒排查 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488829&idx=1&sn=67924b7c31edd58a2cbedfe5f24089c4](https://mp.weixin.qq.com/s?__biz=MzUxMTk4OTA1NQ==&mid=2247488829&idx=1&sn=67924b7c31edd58a2cbedfe5f24089c4) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | ByteSRC 新年福利｜0 积分兑换「前路有光」限定礼盒 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495837&idx=1&sn=e46ef5dec86831dc7d683b378f8632fa](https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247495837&idx=1&sn=e46ef5dec86831dc7d683b378f8632fa) |
-| 2 | AI云产业发展大会|启明星辰田源：《基于超级智能体技术的智能联邦安全运营系统》 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247509918&idx=1&sn=d4a6f2866641c3884f09411138ee938e](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247509918&idx=1&sn=d4a6f2866641c3884f09411138ee938e) |
+| 1 | 最简单的edusrc证书站挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486294&idx=1&sn=ffe4ca165bea0a149e8f24dff868060d](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486294&idx=1&sn=ffe4ca165bea0a149e8f24dff868060d) |
 
-### 信息泄露
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 越南人民海军125旅（Lữ đoàn 125）数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488564&idx=1&sn=f925c3867b496a6f834e62807f16a2d5](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488564&idx=1&sn=f925c3867b496a6f834e62807f16a2d5) |
+| 1 | 美创高校供应链数据安全创新解决方案获评“年度创新方案” | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247603061&idx=2&sn=04008c52452c273cd7ba9d5fc7b250a4](https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247603061&idx=2&sn=04008c52452c273cd7ba9d5fc7b250a4) |
 
 
 ## 📁 归档路径
@@ -161,8 +170,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 13 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 15 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -171,5 +180,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-16 08:30:58*
+*生成时间: 2025-12-16 12:45:58*
 *报告工具: 微信文章安全归档系统*
