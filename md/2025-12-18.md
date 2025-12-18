@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 25
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 25篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 17篇
-- **攻击技术**: 7篇
+- **漏洞利用**: 3篇
 - **威胁情报**: 2篇
+- **攻击技术**: 1篇
 - **安全运营**: 1篇
-- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 8篇
+- **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
 ## 🔍 匹配规则
@@ -66,31 +65,22 @@
 
 ### Doonsec
 
-- [【成功复现】IdeaCMS SQL注入漏洞(CVE-2025-5569)](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf) (发布日期: 2025-12-18)
-- [【锐评】关于支付宝苹果免密漏洞](https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491133&idx=1&sn=a0d8f63ff3c64b52e69c369edec8544c) (发布日期: 2025-12-18)
-- [CNNVD统计本周公开漏洞新增1733个；美国三大金融监管机构联手出台AI网络安全新规| 牛览](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139752&idx=1&sn=570fb6110c69cbcfed90d252fb73f816) (发布日期: 2025-12-18)
-- [喜报频传！安势清源SCA入选ISC.AI 2025 创新百强，供应链安全技术标杆实至名归！](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492294&idx=1&sn=238814e84047c3262aa734fbacbc1969) (发布日期: 2025-12-18)
-- [三度蝉联！华云安入选 ISC.AI 2025 数字安全创新能力百强，AI 赋能安全运营u200b](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501621&idx=1&sn=083b9e0e0b5bf05468ab50913d544e2a) (发布日期: 2025-12-18)
-- [俄罗斯APT组织Gamaredon（APT-C-53）玩“漏洞蹦迪”！WinRAR新漏洞偷乌克兰机密，解压文件=开门揖盗](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f) (发布日期: 2025-12-18)
-- [代码审计-铜哨云用户中心前台任意文件上传漏洞-0day](https://mp.weixin.qq.com/s?__biz=Mzg3OTkwMDY4NQ==&mid=2247483790&idx=1&sn=55ca05f6683e91c558bfc45d68b34e8f) (发布日期: 2025-12-18)
-- [【漏洞预警】Panabit日志审计系统 app_handle.php 命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda) (发布日期: 2025-12-18)
-- [记一次某EIS办公平台0day挖掘审计过程](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524051&idx=1&sn=f924a121fb2bf68e88375ba0aaebfa8e) (发布日期: 2025-12-18)
-- [紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！](https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488309&idx=1&sn=0a7d50b082de2badb5a2ca2ff50163fa) (发布日期: 2025-12-18)
-- [帆软报表sql注入漏洞【2025-10-20】](https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed) (发布日期: 2025-12-18)
-- [【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利）](https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504947&idx=1&sn=b1824707d40134c218df8f43c5197ec6) (发布日期: 2025-12-18)
-- [今日分享|GB 37932-2025  数据安全技术 数据交易服务安全要求](https://mp.weixin.qq.com/s?__biz=MzUyNjk2MDU4MQ==&mid=2247487689&idx=1&sn=138b60e69229dcb5cbb9c539b51c54a3) (发布日期: 2025-12-18)
-- [【漏洞预警】panabit日志审计系统 app_handle.php 命令注入](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0) (发布日期: 2025-12-18)
-- [支付宝苹果免密漏洞](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484155&idx=1&sn=f2ebbf69899b3f6fa090c638c90deabf) (发布日期: 2025-12-18)
-- [【代码审计】.net快速高效漏洞挖掘](https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491115&idx=1&sn=8ef684de06af30d92e53350a21fc815b) (发布日期: 2025-12-18)
-- [网安实验干货每日分享SQL注入-基于报错的注入2-1218](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484201&idx=1&sn=99dc058a32c6789b22549b3a128a3eb1) (发布日期: 2025-12-18)
-- [一款基于AI技术的JavaScript资产扫描与安全分析工具](https://mp.weixin.qq.com/s?__biz=Mzk0MDQzNzY5NQ==&mid=2247493998&idx=1&sn=36cf69b422b8588eadd7712d9f7dd114) (发布日期: 2025-12-18)
-- [某证书站多个系统高危漏洞实战案例](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489315&idx=2&sn=70455a2b7803e382cfaddf313a23b8f0) (发布日期: 2025-12-18)
-- [紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！](https://mp.weixin.qq.com/s?__biz=MzI3MzExMTk5Mw==&mid=2247484605&idx=1&sn=a6204675b99a7a05b8c934d3727e9aa8) (发布日期: 2025-12-18)
-- [Windows GUI界面的渗透测试工具箱，支持TscanPlus扫描结果和天狐工具箱工具导入快速部署](https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248697&idx=1&sn=2f0dd64c998dc95583d2f8011340c919) (发布日期: 2025-12-18)
-- [0day漏洞复现 | 华天动力OA 8000前台getAwokeListData存在SQL注入漏洞【附poc】](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962) (发布日期: 2025-12-18)
-- [蜂信物联(FastBee)物联网平台任意文件读取漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b) (发布日期: 2025-12-18)
-- [红队资产指纹识别神器——Muki 2.02](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485823&idx=1&sn=3b50c0c9307709346a60581029a472e9) (发布日期: 2025-12-18)
-- [CVE-2025-8110 Gogs远程命令注入漏洞](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76) (发布日期: 2025-12-18)
+- [APK，一次“重打包”，一次失控：APK 后门植入原理与防范实战](https://mp.weixin.qq.com/s?__biz=Mzk4ODk4NDEyOA==&mid=2247484870&idx=1&sn=cae1ce39c80bfc7c1a86281065c45d7e) (发布日期: 2025-12-18)
+- [“秒响应”安全运营摘星计划|中数通信息有限公司AOne办公安全建设与运营](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247510076&idx=1&sn=58b5afadcd17dd381893822ae6b3c485) (发布日期: 2025-12-18)
+- [政策解读丨重磅！《能源行业数据安全管理办法（试行）》发布，能源行业机构应如何应对？](https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247526969&idx=1&sn=d0e7e68a3a82d34cced2f4ee72178016) (发布日期: 2025-12-18)
+- [[AI安全论文] (45)C&S24 AISL: 基于攻击意图驱动与序列学习方法的APT攻击检测](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502294&idx=1&sn=2f63aadca401673dc59bca08f976d015) (发布日期: 2025-12-18)
+- [三证齐发，全维守护！极安科技再获CCRC应急响应及安全运维双项资质](https://mp.weixin.qq.com/s?__biz=MzkyODY5ODE4MA==&mid=2247483782&idx=1&sn=e5780f86f97d15297a7205f87bac38f9) (发布日期: 2025-12-18)
+- [支付宝苹果免密授权漏洞到底是真的吗？我想说几句](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492971&idx=1&sn=301efedd4c05ca6a5a75b997c1940007) (发布日期: 2025-12-18)
+- [警惕Gafgyt新型变种Resentual僵尸网络快速传播](https://mp.weixin.qq.com/s?__biz=MzU0Mzc4MzgxMQ==&mid=2247484778&idx=1&sn=5050c09ad00b09f7e1517bc3fbb380b4) (发布日期: 2025-12-18)
+- [针对 PHP-Proxy 的已知明文攻击：从破碎的加密到 FastCGI 远程代码执行（RCE）](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58) (发布日期: 2025-12-18)
+- [【辟谣】支付宝支付漏洞？苹果免密漏洞？实则误解与甩锅](https://mp.weixin.qq.com/s?__biz=Mzk0NDU1NTA5MA==&mid=2247484736&idx=1&sn=5dcd1f8e2c61fdbdb75e0e17f5d3f6e9) (发布日期: 2025-12-18)
+- [安全快报 | 中东地区多国政府和外交机构遭Ashen Lepus网络间谍组织恶意软件入侵](https://mp.weixin.qq.com/s?__biz=MzU3MDA0MTE2Mg==&mid=2247493392&idx=1&sn=be2f059b3ab2d33f37d0bcc8ea62a42e) (发布日期: 2025-12-18)
+- [山石网科携新一代安全防火墙亮相2025人工智能创新技术大会](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304709&idx=2&sn=bc422904ac3444837f629c0201df5382) (发布日期: 2025-12-18)
+- [VS Code应用市场恶意扩展：伪藏身PNG文件植入木马程序](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586009&idx=2&sn=7aa8e20de252b2cde6405cd1666433b6) (发布日期: 2025-12-18)
+- [快来，工作地长沙，招移动安全](https://mp.weixin.qq.com/s?__biz=MzIwOTA4NTg4MA==&mid=2652491378&idx=1&sn=64f58454238186a36d51299ccf79637b) (发布日期: 2025-12-18)
+- [基于PIR增强的可搜索加密方案研究](https://mp.weixin.qq.com/s?__biz=MzI1MjAyMTg1Ng==&mid=2650471910&idx=1&sn=0b962feb1dca69d7bc07e8d9a9a26129) (发布日期: 2025-12-18)
+- [从奥运赛场到FBI十大通缉犯：BlockSec详解前奥运滑雪选手的加密犯罪轨迹](https://mp.weixin.qq.com/s?__biz=MzkyMzI2NzIyMw==&mid=2247490542&idx=1&sn=fb8ba211418008b1c47b253ece3b44fb) (发布日期: 2025-12-18)
+- [紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！](https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489554&idx=1&sn=42351b07940aad8201fd78d346ce8e73) (发布日期: 2025-12-18)
 
 
 ## 🎯 威胁详情分析
@@ -99,54 +89,28 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【成功复现】IdeaCMS SQL注入漏洞(CVE-2025-5569) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf) |
-| 2 | 【锐评】关于支付宝苹果免密漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491133&idx=1&sn=a0d8f63ff3c64b52e69c369edec8544c](https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491133&idx=1&sn=a0d8f63ff3c64b52e69c369edec8544c) |
-| 3 | CNNVD统计本周公开漏洞新增1733个；美国三大金融监管机构联手出台AI网络安全新规| 牛览 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139752&idx=1&sn=570fb6110c69cbcfed90d252fb73f816](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139752&idx=1&sn=570fb6110c69cbcfed90d252fb73f816) |
-| 4 | 俄罗斯APT组织Gamaredon（APT-C-53）玩“漏洞蹦迪”！WinRAR新漏洞偷乌克兰机密，解压文件=开门揖盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f) |
-| 5 | 代码审计-铜哨云用户中心前台任意文件上传漏洞-0day | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTkwMDY4NQ==&mid=2247483790&idx=1&sn=55ca05f6683e91c558bfc45d68b34e8f](https://mp.weixin.qq.com/s?__biz=Mzg3OTkwMDY4NQ==&mid=2247483790&idx=1&sn=55ca05f6683e91c558bfc45d68b34e8f) |
-| 6 | 【漏洞预警】Panabit日志审计系统 app_handle.php 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda) |
-| 7 | 记一次某EIS办公平台0day挖掘审计过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524051&idx=1&sn=f924a121fb2bf68e88375ba0aaebfa8e](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524051&idx=1&sn=f924a121fb2bf68e88375ba0aaebfa8e) |
-| 8 | 紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488309&idx=1&sn=0a7d50b082de2badb5a2ca2ff50163fa](https://mp.weixin.qq.com/s?__biz=MzIzMjg0MjM5OQ==&mid=2247488309&idx=1&sn=0a7d50b082de2badb5a2ca2ff50163fa) |
-| 9 | 帆软报表sql注入漏洞【2025-10-20】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed](https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed) |
-| 10 | 【漏洞预警】panabit日志审计系统 app_handle.php 命令注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0) |
-| 11 | 支付宝苹果免密漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484155&idx=1&sn=f2ebbf69899b3f6fa090c638c90deabf](https://mp.weixin.qq.com/s?__biz=MzkxNzY0MzE2NQ==&mid=2247484155&idx=1&sn=f2ebbf69899b3f6fa090c638c90deabf) |
-| 12 | 【代码审计】.net快速高效漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491115&idx=1&sn=8ef684de06af30d92e53350a21fc815b](https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247491115&idx=1&sn=8ef684de06af30d92e53350a21fc815b) |
-| 13 | 某证书站多个系统高危漏洞实战案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489315&idx=2&sn=70455a2b7803e382cfaddf313a23b8f0](https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247489315&idx=2&sn=70455a2b7803e382cfaddf313a23b8f0) |
-| 14 | 紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3MzExMTk5Mw==&mid=2247484605&idx=1&sn=a6204675b99a7a05b8c934d3727e9aa8](https://mp.weixin.qq.com/s?__biz=MzI3MzExMTk5Mw==&mid=2247484605&idx=1&sn=a6204675b99a7a05b8c934d3727e9aa8) |
-| 15 | 0day漏洞复现 | 华天动力OA 8000前台getAwokeListData存在SQL注入漏洞【附poc】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962) |
-| 16 | 蜂信物联(FastBee)物联网平台任意文件读取漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484075&idx=1&sn=54f2576b2ebefa4a745995cf1bd1198b) |
-| 17 | CVE-2025-8110 Gogs远程命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76) |
+| 1 | 支付宝苹果免密授权漏洞到底是真的吗？我想说几句 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492971&idx=1&sn=301efedd4c05ca6a5a75b997c1940007](https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492971&idx=1&sn=301efedd4c05ca6a5a75b997c1940007) |
+| 2 | 【辟谣】支付宝支付漏洞？苹果免密漏洞？实则误解与甩锅 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDU1NTA5MA==&mid=2247484736&idx=1&sn=5dcd1f8e2c61fdbdb75e0e17f5d3f6e9](https://mp.weixin.qq.com/s?__biz=Mzk0NDU1NTA5MA==&mid=2247484736&idx=1&sn=5dcd1f8e2c61fdbdb75e0e17f5d3f6e9) |
+| 3 | 紧急提醒！苹果用户请注意，支付宝这个“免密漏洞”正在盗空你的钱包！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489554&idx=1&sn=42351b07940aad8201fd78d346ce8e73](https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489554&idx=1&sn=42351b07940aad8201fd78d346ce8e73) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【成功复现】IdeaCMS SQL注入漏洞(CVE-2025-5569) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf](https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503752&idx=1&sn=18bfdfa936f43198a0f2b7b5e0bb04bf) |
-| 2 | 【漏洞预警】Panabit日志审计系统 app_handle.php 命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492417&idx=1&sn=75795ace444d52d9a7d4faa359045fda) |
-| 3 | 帆软报表sql注入漏洞【2025-10-20】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed](https://mp.weixin.qq.com/s?__biz=Mzk0MTI4NTIzNQ==&mid=2247496083&idx=1&sn=94e1c5878fe35637b1d4ba3b17165eed) |
-| 4 | 【漏洞预警】panabit日志审计系统 app_handle.php 命令注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0](https://mp.weixin.qq.com/s?__biz=MzkyMTMwNjU1Mg==&mid=2247492412&idx=1&sn=54ffba6c784ae3930480725b1eb893e0) |
-| 5 | 网安实验干货每日分享SQL注入-基于报错的注入2-1218 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484201&idx=1&sn=99dc058a32c6789b22549b3a128a3eb1](https://mp.weixin.qq.com/s?__biz=MzYzOTAwMjY5NQ==&mid=2247484201&idx=1&sn=99dc058a32c6789b22549b3a128a3eb1) |
-| 6 | 0day漏洞复现 | 华天动力OA 8000前台getAwokeListData存在SQL注入漏洞【附poc】 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493162&idx=1&sn=cf1f35305307e0a7433bed158bb6d962) |
-| 7 | CVE-2025-8110 Gogs远程命令注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484369&idx=1&sn=3501c16655a46932edbb241e507c5c76) |
+| 1 | 针对 PHP-Proxy 的已知明文攻击：从破碎的加密到 FastCGI 远程代码执行（RCE） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508729&idx=1&sn=a315bd932e9672cad26f652cf9271d58) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 俄罗斯APT组织Gamaredon（APT-C-53）玩“漏洞蹦迪”！WinRAR新漏洞偷乌克兰机密，解压文件=开门揖盗 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487534&idx=1&sn=8178740473afce8332f924506ef0b74f) |
-| 2 | 【重磅官宣】实战收官！2025 第二届“Solar杯”应急响应挑战赛正式启动（文末福利） | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504947&idx=1&sn=b1824707d40134c218df8f43c5197ec6](https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504947&idx=1&sn=b1824707d40134c218df8f43c5197ec6) |
+| 1 | [AI安全论文] (45)C&S24 AISL: 基于攻击意图驱动与序列学习方法的APT攻击检测 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502294&idx=1&sn=2f63aadca401673dc59bca08f976d015](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502294&idx=1&sn=2f63aadca401673dc59bca08f976d015) |
+| 2 | 三证齐发，全维守护！极安科技再获CCRC应急响应及安全运维双项资质 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyODY5ODE4MA==&mid=2247483782&idx=1&sn=e5780f86f97d15297a7205f87bac38f9](https://mp.weixin.qq.com/s?__biz=MzkyODY5ODE4MA==&mid=2247483782&idx=1&sn=e5780f86f97d15297a7205f87bac38f9) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 三度蝉联！华云安入选 ISC.AI 2025 数字安全创新能力百强，AI 赋能安全运营u200b | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501621&idx=1&sn=083b9e0e0b5bf05468ab50913d544e2a](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501621&idx=1&sn=083b9e0e0b5bf05468ab50913d544e2a) |
-
-### 供应链
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 喜报频传！安势清源SCA入选ISC.AI 2025 创新百强，供应链安全技术标杆实至名归！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492294&idx=1&sn=238814e84047c3262aa734fbacbc1969](https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247492294&idx=1&sn=238814e84047c3262aa734fbacbc1969) |
+| 1 | “秒响应”安全运营摘星计划|中数通信息有限公司AOne办公安全建设与运营 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247510076&idx=1&sn=58b5afadcd17dd381893822ae6b3c485](https://mp.weixin.qq.com/s?__biz=Mzk0MjM1MDg2Mg==&mid=2247510076&idx=1&sn=58b5afadcd17dd381893822ae6b3c485) |
 
 
 ## 📁 归档路径
@@ -162,8 +126,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 17 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 8 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -172,5 +136,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-18 04:34:16*
+*生成时间: 2025-12-18 08:30:14*
 *报告工具: 微信文章安全归档系统*
