@@ -1,18 +1,22 @@
-# 2025-12-19 安全威胁态势报告
+# 2025-12-20 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 11
+- **总文章数**: 21
 - **数据源分布**:
-  - Doonsec: 11篇
+  - Doonsec: 21篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
+- **漏洞利用**: 7篇
+- **攻击技术**: 5篇
 - **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **Web安全**: 2篇
+- **应用漏洞**: 2篇
 - **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
@@ -63,17 +67,27 @@
 
 ### Doonsec
 
-- [什么？瞎逛也能捡到高危漏洞？](https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483835&idx=1&sn=22362148fdb8ae6c7b24f012228d1bb4) (发布日期: 2025-12-19)
-- [【漏洞预警】Apache Airflow Providers Edge3权限提升漏洞(CVE-2025-67895)](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491153&idx=1&sn=41256cbdf79b54780d80dae55103bfc4) (发布日期: 2025-12-19)
-- [Termux-X：移动安全与极客的终极武器——在指尖免ROOT运行Kali NetHunter](https://mp.weixin.qq.com/s?__biz=MzkzODk4ODc2Ng==&mid=2247484487&idx=1&sn=0a2c0275cfcf79ef6e1b12ba0fb1cd6b) (发布日期: 2025-12-19)
-- [Kali Nethunter 生态智能化升级：AI赋能移动渗透测试新体验](https://mp.weixin.qq.com/s?__biz=MzkzODk4ODc2Ng==&mid=2247484487&idx=2&sn=8982d319494aadb21b89d05957c23c7b) (发布日期: 2025-12-19)
-- [疑似海莲花APT组织白加黑攻击样本分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494869&idx=1&sn=ae278536e08f0ffb2e3924501e7de9c4) (发布日期: 2025-12-19)
-- [具身智能安全入侵，证据何寻？美亚柏科前沿揭秘“数字痕迹”取证新突破](https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651449626&idx=1&sn=085297bcafe46dff449894cb400b5da7) (发布日期: 2025-12-19)
-- [OWASP发布2026智能体应用十大安全风险！](https://mp.weixin.qq.com/s?__biz=MzUzODYyMDIzNw==&mid=2247522831&idx=1&sn=b7c887a5486f8537c8382c30ee5d625c) (发布日期: 2025-12-19)
-- [CVE-2025-55182 React2Shell 深入详解](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483896&idx=1&sn=e85b3d3de4f6ac511c5777725718b9ee) (发布日期: 2025-12-19)
-- [中识云平台 sys_user_list 信息泄露漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7) (发布日期: 2025-12-19)
-- [第五届“鹏城杯”联邦网络靶场协同攻防演练初赛write up](https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247490569&idx=1&sn=56529a32d5ca65e613b52a891894736b) (发布日期: 2025-12-19)
-- [数据安全与渗透测试：保卫金库与测试门锁](https://mp.weixin.qq.com/s?__biz=Mzk0NTc2MTMxNQ==&mid=2247485125&idx=1&sn=16a690766c146855573a996aa70bb8e5) (发布日期: 2025-12-19)
+- [NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) (发布日期: 2025-12-20)
+- [Wireshark在渗透测试实战中的 30 个分析技巧](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=4&sn=d4b63349aff3cbb32802294870f457a4) (发布日期: 2025-12-20)
+- [好靶场-PHP反序列化入门练习-WP](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488848&idx=1&sn=d42dcf6a37875ad792b5600a10d7aa7b) (发布日期: 2025-12-20)
+- [技术分享会—AI安全：大模型提示词注入](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945) (发布日期: 2025-12-20)
+- [【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433) (发布日期: 2025-12-20)
+- [帆软export/excelSQL注入漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) (发布日期: 2025-12-20)
+- [SRC中自动化查找目录遍历获取赏金](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597) (发布日期: 2025-12-20)
+- [特定目标画像实战，情报分析师如何挖掘人物与企业背景](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564491&idx=1&sn=d0f83958fa053619b8042a3809aea012) (发布日期: 2025-12-20)
+- [2026年CISP，NISP考试计划已出，有需要的师傅联系我](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507752&idx=1&sn=060b4c9dfdc81261c3ae0a97848ced0f) (发布日期: 2025-12-20)
+- [超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294) (发布日期: 2025-12-20)
+- [个人接单 | web渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495314&idx=1&sn=84f5e4b9841809d2169d7a671a9f2da4) (发布日期: 2025-12-20)
+- [Donot(肚脑虫) APT组织攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9) (发布日期: 2025-12-20)
+- [实战|内网中vcenter集群攻击全程实录，学会你也行！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99) (发布日期: 2025-12-20)
+- [漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) (发布日期: 2025-12-20)
+- [原创 Paper | React2Shell 漏洞利用分析报告](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce) (发布日期: 2025-12-20)
+- [工信部预警新型僵尸网络、智能体十大安全风险出炉|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138713&idx=1&sn=f6e1238600d58f4c8b8ae7e15b7b34b7) (发布日期: 2025-12-20)
+- [40款开源安全工具](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492535&idx=1&sn=6cfda7b7b5fe729507660b5f19d46557) (发布日期: 2025-12-20)
+- [【安全锐评】ISO/IEC 27001并不等同于信息安全合规](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247487101&idx=2&sn=d0497c700ec92a0eff9a04adb480096e) (发布日期: 2025-12-20)
+- [护网—2025 | 数据安全无免责区，人员少技术弱不是挡箭牌！](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120256&idx=1&sn=ecfaa3ce999f12087ea2eceebb5c11d5) (发布日期: 2025-12-20)
+- [Notepad++修复了攻击者可推送恶意更新文件的漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212) (发布日期: 2025-12-20)
+- [网络安全行业，网络安全服务外包发展趋势浅析](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247498801&idx=3&sn=76bd10af0a7f64ecf235e70959f8cbca) (发布日期: 2025-12-20)
 
 
 ## 🎯 威胁详情分析
@@ -82,21 +96,40 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 什么？瞎逛也能捡到高危漏洞？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483835&idx=1&sn=22362148fdb8ae6c7b24f012228d1bb4](https://mp.weixin.qq.com/s?__biz=Mzk4ODMxODQyMQ==&mid=2247483835&idx=1&sn=22362148fdb8ae6c7b24f012228d1bb4) |
-| 2 | 【漏洞预警】Apache Airflow Providers Edge3权限提升漏洞(CVE-2025-67895) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491153&idx=1&sn=41256cbdf79b54780d80dae55103bfc4](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491153&idx=1&sn=41256cbdf79b54780d80dae55103bfc4) |
-| 3 | CVE-2025-55182 React2Shell 深入详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483896&idx=1&sn=e85b3d3de4f6ac511c5777725718b9ee](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483896&idx=1&sn=e85b3d3de4f6ac511c5777725718b9ee) |
-| 4 | 中识云平台 sys_user_list 信息泄露漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493587&idx=1&sn=8d998b1629d8a4bd038e8b3ac220e7b7) |
+| 1 | NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) |
+| 2 | 【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433) |
+| 3 | 帆软export/excelSQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) |
+| 4 | 超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294) |
+| 5 | 漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) |
+| 6 | 原创 Paper | React2Shell 漏洞利用分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce) |
+| 7 | Notepad++修复了攻击者可推送恶意更新文件的漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212) |
+
+### 攻击技术
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) |
+| 2 | 技术分享会—AI安全：大模型提示词注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945) |
+| 3 | 帆软export/excelSQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) |
+| 4 | 实战|内网中vcenter集群攻击全程实录，学会你也行！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99) |
+| 5 | 漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 疑似海莲花APT组织白加黑攻击样本分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494869&idx=1&sn=ae278536e08f0ffb2e3924501e7de9c4](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494869&idx=1&sn=ae278536e08f0ffb2e3924501e7de9c4) |
+| 1 | Donot(肚脑虫) APT组织攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | SRC中自动化查找目录遍历获取赏金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W51/2025-12-19/`
+文章已归档到: `doc/2025/2025-12/2025-W51/2025-12-20/`
 
 ## 🔗 数据源说明
 
@@ -107,8 +140,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -117,5 +150,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-19 16:26:51*
+*生成时间: 2025-12-20 01:38:17*
 *报告工具: 微信文章安全归档系统*
