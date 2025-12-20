@@ -2,21 +2,20 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 21
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 21篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 7篇
-- **攻击技术**: 5篇
+- **漏洞利用**: 6篇
+- **攻击技术**: 3篇
 - **威胁情报**: 1篇
 - **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **应用漏洞**: 2篇
+- **Web安全**: 1篇
 - **系统漏洞**: 1篇
 - **网络攻击**: 1篇
 
@@ -67,27 +66,18 @@
 
 ### Doonsec
 
-- [NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) (发布日期: 2025-12-20)
-- [Wireshark在渗透测试实战中的 30 个分析技巧](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=4&sn=d4b63349aff3cbb32802294870f457a4) (发布日期: 2025-12-20)
-- [好靶场-PHP反序列化入门练习-WP](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NTY0OQ==&mid=2247488848&idx=1&sn=d42dcf6a37875ad792b5600a10d7aa7b) (发布日期: 2025-12-20)
-- [技术分享会—AI安全：大模型提示词注入](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945) (发布日期: 2025-12-20)
-- [【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433) (发布日期: 2025-12-20)
-- [帆软export/excelSQL注入漏洞分析](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) (发布日期: 2025-12-20)
-- [SRC中自动化查找目录遍历获取赏金](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597) (发布日期: 2025-12-20)
-- [特定目标画像实战，情报分析师如何挖掘人物与企业背景](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564491&idx=1&sn=d0f83958fa053619b8042a3809aea012) (发布日期: 2025-12-20)
-- [2026年CISP，NISP考试计划已出，有需要的师傅联系我](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507752&idx=1&sn=060b4c9dfdc81261c3ae0a97848ced0f) (发布日期: 2025-12-20)
-- [超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294) (发布日期: 2025-12-20)
-- [个人接单 | web渗透测试](https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247495314&idx=1&sn=84f5e4b9841809d2169d7a671a9f2da4) (发布日期: 2025-12-20)
-- [Donot(肚脑虫) APT组织攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9) (发布日期: 2025-12-20)
-- [实战|内网中vcenter集群攻击全程实录，学会你也行！](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99) (发布日期: 2025-12-20)
-- [漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) (发布日期: 2025-12-20)
-- [原创 Paper | React2Shell 漏洞利用分析报告](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce) (发布日期: 2025-12-20)
-- [工信部预警新型僵尸网络、智能体十大安全风险出炉|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138713&idx=1&sn=f6e1238600d58f4c8b8ae7e15b7b34b7) (发布日期: 2025-12-20)
-- [40款开源安全工具](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492535&idx=1&sn=6cfda7b7b5fe729507660b5f19d46557) (发布日期: 2025-12-20)
-- [【安全锐评】ISO/IEC 27001并不等同于信息安全合规](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247487101&idx=2&sn=d0497c700ec92a0eff9a04adb480096e) (发布日期: 2025-12-20)
-- [护网—2025 | 数据安全无免责区，人员少技术弱不是挡箭牌！](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120256&idx=1&sn=ecfaa3ce999f12087ea2eceebb5c11d5) (发布日期: 2025-12-20)
-- [Notepad++修复了攻击者可推送恶意更新文件的漏洞](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212) (发布日期: 2025-12-20)
-- [网络安全行业，网络安全服务外包发展趋势浅析](https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247498801&idx=3&sn=76bd10af0a7f64ecf235e70959f8cbca) (发布日期: 2025-12-20)
+- [【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca) (发布日期: 2025-12-20)
+- [俄罗斯APT组织Calisto玩起“钓鱼连续剧”！给无国界记者发空邮件，逼你主动要毒附件](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0) (发布日期: 2025-12-20)
+- [【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) (发布日期: 2025-12-20)
+- [记一次未授权访问到接管后台通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969) (发布日期: 2025-12-20)
+- [非典型SSRF漏洞详解](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b) (发布日期: 2025-12-20)
+- [安天AVL SDK反病毒引擎升级通告（20251220）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213340&idx=1&sn=a63ed389cc2d00f3581d3e3ed32e750a) (发布日期: 2025-12-20)
+- [【一周安全资讯1220】《数据安全技术 公共数据开放安全要求》等6项国家标准公开征求意见；美国政府网站遭SEO污染攻击](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508569&idx=1&sn=3fe5484805cdd7859625ffc5686dfd45) (发布日期: 2025-12-20)
+- [最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c) (发布日期: 2025-12-20)
+- [Unity手游无Root注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7) (发布日期: 2025-12-20)
+- [Fortinet多款网络安全设备高危漏洞](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828) (发布日期: 2025-12-20)
+- [金融企业安全建设（PART 4）：收官篇——数据安全为核，业务安全为翼，安全运营筑闭环](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20) (发布日期: 2025-12-20)
+- [【已复现】CVE-2025-66516 Apache Tika PDF XXE](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367) (发布日期: 2025-12-20)
 
 
 ## 🎯 威胁详情分析
@@ -96,35 +86,32 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) |
-| 2 | 【安全圈】拳头游戏发现主板致命漏洞，多家厂商紧急修复 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073304&idx=2&sn=b1c32749fab00f883b96ae2d3966a433) |
-| 3 | 帆软export/excelSQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) |
-| 4 | 超过25,000台FortiCloud SSO设备暴露于远程攻击之下-Fortinet身份验证绕过漏洞被现实攻击利用 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517465&idx=2&sn=d70695f9351a3b59f603ef8108e38294) |
-| 5 | 漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) |
-| 6 | 原创 Paper | React2Shell 漏洞利用分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce](https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991085&idx=1&sn=94166cbccbc745bfe1717b633cd2d0ce) |
-| 7 | Notepad++修复了攻击者可推送恶意更新文件的漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494359&idx=1&sn=644f02ba259a44a7dd224590296cb212) |
+| 1 | 【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) |
+| 2 | 记一次未授权访问到接管后台通杀漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969) |
+| 3 | 非典型SSRF漏洞详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b) |
+| 4 | 最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c) |
+| 5 | Fortinet多款网络安全设备高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828) |
+| 6 | 【已复现】CVE-2025-66516 Apache Tika PDF XXE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | NVIDIA Merlin框架存在反序列化漏洞，可致AI管道遭RCE攻击 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613705&idx=2&sn=2910c2df2a6d02c36428a0933fbf43b9) |
-| 2 | 技术分享会—AI安全：大模型提示词注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945](https://mp.weixin.qq.com/s?__biz=MzU2MDE2MjU1Mw==&mid=2247486965&idx=1&sn=46f2e9a9a738746cf24dc803c9d8d945) |
-| 3 | 帆软export/excelSQL注入漏洞分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247501000&idx=1&sn=01e0c394be8d3596a334dc6f22ba10e5) |
-| 4 | 实战|内网中vcenter集群攻击全程实录，学会你也行！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99](https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247494561&idx=1&sn=1c1a54f91a766372c6e64e072c4b8d99) |
-| 5 | 漏洞复现 | 用友U8 Cloud MARosterPhotoServlet SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493217&idx=1&sn=7e0d26c488948d0325e8de984a28b13e) |
+| 1 | 【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca) |
+| 2 | 【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) |
+| 3 | Unity手游无Root注入工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Donot(肚脑虫) APT组织攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494897&idx=1&sn=5d70506b8c6ae8fab1429afbd176e5b9) |
+| 1 | 俄罗斯APT组织Calisto玩起“钓鱼连续剧”！给无国界记者发空邮件，逼你主动要毒附件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0) |
 
 ### 安全运营
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SRC中自动化查找目录遍历获取赏金 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498821&idx=1&sn=44eb0ffb9c56d4b3cc0e5148ed996597) |
+| 1 | 金融企业安全建设（PART 4）：收官篇——数据安全为核，业务安全为翼，安全运营筑闭环 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20) |
 
 
 ## 📁 归档路径
@@ -140,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 7 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -150,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-20 01:38:17*
+*生成时间: 2025-12-20 04:26:28*
 *报告工具: 微信文章安全归档系统*
