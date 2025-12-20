@@ -2,22 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 6
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 6篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 3篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 4篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 1篇
-- **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -66,18 +61,12 @@
 
 ### Doonsec
 
-- [【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca) (发布日期: 2025-12-20)
-- [俄罗斯APT组织Calisto玩起“钓鱼连续剧”！给无国界记者发空邮件，逼你主动要毒附件](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0) (发布日期: 2025-12-20)
-- [【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) (发布日期: 2025-12-20)
-- [记一次未授权访问到接管后台通杀漏洞](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969) (发布日期: 2025-12-20)
-- [非典型SSRF漏洞详解](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b) (发布日期: 2025-12-20)
-- [安天AVL SDK反病毒引擎升级通告（20251220）](https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650213340&idx=1&sn=a63ed389cc2d00f3581d3e3ed32e750a) (发布日期: 2025-12-20)
-- [【一周安全资讯1220】《数据安全技术 公共数据开放安全要求》等6项国家标准公开征求意见；美国政府网站遭SEO污染攻击](https://mp.weixin.qq.com/s?__biz=MzIzMDQwMjg5NA==&mid=2247508569&idx=1&sn=3fe5484805cdd7859625ffc5686dfd45) (发布日期: 2025-12-20)
-- [最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c) (发布日期: 2025-12-20)
-- [Unity手游无Root注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7) (发布日期: 2025-12-20)
-- [Fortinet多款网络安全设备高危漏洞](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828) (发布日期: 2025-12-20)
-- [金融企业安全建设（PART 4）：收官篇——数据安全为核，业务安全为翼，安全运营筑闭环](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20) (发布日期: 2025-12-20)
-- [【已复现】CVE-2025-66516 Apache Tika PDF XXE](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367) (发布日期: 2025-12-20)
+- [记录某系统实战内网K8S渗透](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc) (发布日期: 2025-12-20)
+- [聊一聊《数据安全风险评估办法》征求意见稿](https://mp.weixin.qq.com/s?__biz=MzA5MTYyMDQ0OQ==&mid=2247494190&idx=1&sn=a82ea668b8c2163128970a42353c9871) (发布日期: 2025-12-20)
+- [【JAVA安全研究】鉴权绕过 %0a%0d 的 \"隐形陷阱\" Spring与Shrio中 Matcher的鉴权绕过 CVE-..](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=1&sn=2c480dbb6cebd6b8326f1149655ca66a) (发布日期: 2025-12-20)
+- [【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=2&sn=d16a929844c24b43b5f82fd57c6dafaa) (发布日期: 2025-12-20)
+- [【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=3&sn=5e6c2d4dca791657021d3208d2c97c6e) (发布日期: 2025-12-20)
+- [【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac) (发布日期: 2025-12-20)
 
 
 ## 🎯 威胁详情分析
@@ -86,32 +75,16 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) |
-| 2 | 记一次未授权访问到接管后台通杀漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247486997&idx=1&sn=c3ea5a85ef34536fe746e51f3d593969) |
-| 3 | 非典型SSRF漏洞详解 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490130&idx=1&sn=5d7e0895711954457e9af592fe0d8b4b) |
-| 4 | 最新Nessus2025.12.8版本主机漏洞扫描/探测工具Windows/Linux下载 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c](https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485847&idx=1&sn=6ef507eb9b153ac69e514c65f72f5e6c) |
-| 5 | Fortinet多款网络安全设备高危漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485238&idx=1&sn=70ca32570209097491db690323777828) |
-| 6 | 【已复现】CVE-2025-66516 Apache Tika PDF XXE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367](https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486512&idx=1&sn=9e1587bf49c9e5b0f1e1bbfd1cd03367) |
+| 1 | 【JAVA安全研究】鉴权绕过 %0a%0d 的 \"隐形陷阱\" Spring与Shrio中 Matcher的鉴权绕过 CVE-.. | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=1&sn=2c480dbb6cebd6b8326f1149655ca66a](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=1&sn=2c480dbb6cebd6b8326f1149655ca66a) |
+| 2 | 【JAVA安全研究】鉴权绕过 shiro CVE-2010-3863 漏洞研究 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=2&sn=d16a929844c24b43b5f82fd57c6dafaa](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=2&sn=d16a929844c24b43b5f82fd57c6dafaa) |
+| 3 | 【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=3&sn=5e6c2d4dca791657021d3208d2c97c6e](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=3&sn=5e6c2d4dca791657021d3208d2c97c6e) |
+| 4 | 【JAVA安全研究】鉴权绕过 Spring中间件双重编码%25%32%66 绕过 CVE-2020-11989 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac](https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484478&idx=4&sn=45f69090997fd5ec2f11945e97c4b9ac) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全预警】东胜物流软件 WmsZXFeeGridSource SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484171&idx=1&sn=733db8597cdc3a7ed74c6347496282ca) |
-| 2 | 【漏洞脚本】WPS文档中心 多人实时协作的在线Office operate 未授权访问至远程代码执行 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8](https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247487504&idx=1&sn=eff6d3a74615e9eae681887280304ed8) |
-| 3 | Unity手游无Root注入工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7](https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247499408&idx=1&sn=5260012899e6425667e8d24a354dd9d7) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 俄罗斯APT组织Calisto玩起“钓鱼连续剧”！给无国界记者发空邮件，逼你主动要毒附件 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487558&idx=1&sn=bc33a3eb532722acecbf5767d017dfd0) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 金融企业安全建设（PART 4）：收官篇——数据安全为核，业务安全为翼，安全运营筑闭环 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247485988&idx=1&sn=1a32b4194326133a5acb6694a7234a20) |
+| 1 | 记录某系统实战内网K8S渗透 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc](https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247553584&idx=1&sn=71eb816ec2676f9401fa78a94f5211fc) |
 
 
 ## 📁 归档路径
@@ -127,8 +100,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -137,5 +110,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-20 04:26:28*
+*生成时间: 2025-12-20 08:26:44*
 *报告工具: 微信文章安全归档系统*
