@@ -2,20 +2,16 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 1
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 1篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **攻击技术**: 5篇
-- **漏洞利用**: 4篇
-- **安全运营**: 1篇
+- **漏洞利用**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 5篇
-- **应用漏洞**: 1篇
 
 ## 🔍 匹配规则
 
@@ -64,23 +60,7 @@
 
 ### Doonsec
 
-- [[AI安全论文] (46)大佬团队探索 IDS-Agent: 一种用于物联网可解释入侵检测的大模型Agent](https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502307&idx=1&sn=14bbf074e2b5960e7164a53db463f5ca) (发布日期: 2025-12-20)
-- [Microsoft DNN NTLM暴露(CVE-2025-52488)](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493604&idx=1&sn=61a2e89683248aa440ff4654ac54a497) (发布日期: 2025-12-20)
-- [世纪东凌中，艾特思、全鑫达候选！中信证券统一源代码审计平台AI研判能力开发服务及代码审计策略优化驻场服务采购项目](https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653933255&idx=3&sn=92380f3cc2089c9cdaa392442fa06f61) (发布日期: 2025-12-20)
-- [CyberStrikeAI 知识库功能上线：安全专家随时在身边](https://mp.weixin.qq.com/s?__biz=Mzg5MjcxMDA4OQ==&mid=2247483824&idx=1&sn=9df4e1dd0a53e41876262ad5f45cbd79) (发布日期: 2025-12-20)
-- [AI 大模型平台安全风险评估合集](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485365&idx=1&sn=7f4b2a6987aa188d629e111810cf418b) (发布日期: 2025-12-20)
-- [30小时教你进阶CTF-密码学：顶尖硕博战队亲授，从古典密码到RSA攻击](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458605813&idx=2&sn=1544b92906faa55850d3f74922c5c4a0) (发布日期: 2025-12-20)
-- [Linux内核首个Rust漏洞CVE-2025-68260曝光](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=2&sn=c887e63995c76837b3cd9b9c5b5718d2) (发布日期: 2025-12-20)
-- [FreeBuf周报 | 2025年Chrome浏览器八大0Day漏洞；攻击者利用React2Shell漏洞部署Linux后门](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=3&sn=6aff928a66bcd027a52142ceedc0bd25) (发布日期: 2025-12-20)
-- [市护没拿下的sql注入后续](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=1&sn=e14676a7a6293a12f5ea40b955f2f462) (发布日期: 2025-12-20)
-- [SQL特殊位置注入：order注入和limit注入](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=2&sn=9391b376c8500ef75a65e78bd20ce091) (发布日期: 2025-12-20)
-- [SQL注入-其他位置注入(一)](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=3&sn=efeaae514da5411fc27a46889f66c124) (发布日期: 2025-12-20)
-- [SQL注入-其他位置注入(二)](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=4&sn=0091155c2286e703257a1d30b832c6f4) (发布日期: 2025-12-20)
-- [漏洞复现|铜哨云用户中心/Fileopt.ashx存在文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485339&idx=1&sn=0122ace110f8c7e402ecc0f9dd9d892d) (发布日期: 2025-12-20)
-- [某盲盒交友平台前台SQL注入流程](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487189&idx=1&sn=5176991705949bfe46c9266a17eb7648) (发布日期: 2025-12-20)
-- [某企业src弱口令案例](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486361&idx=1&sn=dfb325c67dfbbfb2dc982240d1e4aae0) (发布日期: 2025-12-20)
-- [应急分析溯源日志工具-功能强大的Web日志安全分析工具](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576147&idx=1&sn=9b67e0df746e6bf30fb6432048680895) (发布日期: 2025-12-20)
-- [智能网联汽车功能安全开发实战培训课程（基于ISO 26262:2025）](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629552&idx=2&sn=ccec3b091f63726ed90e776e1cf98eed) (发布日期: 2025-12-20)
+- [主流主板新的BIOS漏洞攻陷某些游戏反作弊系统](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184338&idx=1&sn=5fe0fd68cae5c63312da8c6f69d8dd1d) (发布日期: 2025-12-20)
 
 
 ## 🎯 威胁详情分析
@@ -89,26 +69,7 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Microsoft DNN NTLM暴露(CVE-2025-52488) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493604&idx=1&sn=61a2e89683248aa440ff4654ac54a497](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493604&idx=1&sn=61a2e89683248aa440ff4654ac54a497) |
-| 2 | Linux内核首个Rust漏洞CVE-2025-68260曝光 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=2&sn=c887e63995c76837b3cd9b9c5b5718d2](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=2&sn=c887e63995c76837b3cd9b9c5b5718d2) |
-| 3 | FreeBuf周报 | 2025年Chrome浏览器八大0Day漏洞；攻击者利用React2Shell漏洞部署Linux后门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=3&sn=6aff928a66bcd027a52142ceedc0bd25](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332621&idx=3&sn=6aff928a66bcd027a52142ceedc0bd25) |
-| 4 | 漏洞复现|铜哨云用户中心/Fileopt.ashx存在文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485339&idx=1&sn=0122ace110f8c7e402ecc0f9dd9d892d](https://mp.weixin.qq.com/s?__biz=MzIzOTM2MzczNQ==&mid=2247485339&idx=1&sn=0122ace110f8c7e402ecc0f9dd9d892d) |
-
-### 攻击技术
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 市护没拿下的sql注入后续 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=1&sn=e14676a7a6293a12f5ea40b955f2f462](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=1&sn=e14676a7a6293a12f5ea40b955f2f462) |
-| 2 | SQL特殊位置注入：order注入和limit注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=2&sn=9391b376c8500ef75a65e78bd20ce091](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=2&sn=9391b376c8500ef75a65e78bd20ce091) |
-| 3 | SQL注入-其他位置注入(一) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=3&sn=efeaae514da5411fc27a46889f66c124](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=3&sn=efeaae514da5411fc27a46889f66c124) |
-| 4 | SQL注入-其他位置注入(二) | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=4&sn=0091155c2286e703257a1d30b832c6f4](https://mp.weixin.qq.com/s?__biz=MzAxODg2MDU0MA==&mid=2247483898&idx=4&sn=0091155c2286e703257a1d30b832c6f4) |
-| 5 | 某盲盒交友平台前台SQL注入流程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487189&idx=1&sn=5176991705949bfe46c9266a17eb7648](https://mp.weixin.qq.com/s?__biz=MzkyMjM5NDM3NQ==&mid=2247487189&idx=1&sn=5176991705949bfe46c9266a17eb7648) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 某企业src弱口令案例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486361&idx=1&sn=dfb325c67dfbbfb2dc982240d1e4aae0](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486361&idx=1&sn=dfb325c67dfbbfb2dc982240d1e4aae0) |
+| 1 | 主流主板新的BIOS漏洞攻陷某些游戏反作弊系统 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184338&idx=1&sn=5fe0fd68cae5c63312da8c6f69d8dd1d](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184338&idx=1&sn=5fe0fd68cae5c63312da8c6f69d8dd1d) |
 
 
 ## 📁 归档路径
@@ -124,8 +85,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 5 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 5 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 1 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -134,5 +95,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-20 12:38:56*
+*生成时间: 2025-12-20 16:24:11*
 *报告工具: 微信文章安全归档系统*
