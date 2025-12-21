@@ -2,17 +2,22 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 3
+- **总文章数**: 16
 - **数据源分布**:
-  - Doonsec: 3篇
+  - Doonsec: 16篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
+- **漏洞利用**: 2篇
 - **攻击技术**: 2篇
+- **威胁情报**: 2篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
-- **系统漏洞**: 1篇
+- **Web安全**: 1篇
+- **应用漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -61,19 +66,52 @@
 
 ### Doonsec
 
-- [【免杀研究】PE文件植入后门之CodeCave](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485977&idx=1&sn=38027a43a10a37ba5b774cf709537c29) (发布日期: 2025-12-21)
-- [【安全预警】大华icc receive RCE](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62) (发布日期: 2025-12-21)
-- [若依4.8.1模板注入学习](https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632) (发布日期: 2025-12-21)
+- [推荐一本书--《AI驱动的企业安全：架构、方法论与实践》](https://mp.weixin.qq.com/s?__biz=Mzg4MzYwMTU0Mw==&mid=2247485008&idx=1&sn=2a9ef8260367f87f8764eee3b684b77e) (发布日期: 2025-12-21)
+- [Recorded Future发布2025年威胁情报现状报告](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485247&idx=1&sn=01ca5523fb7dce2a7ce057fb96ccb0ac) (发布日期: 2025-12-21)
+- [RansomHouse 通过多层数据处理升级加密技术](https://mp.weixin.qq.com/s?__biz=MzIxNDg5ODQxMg==&mid=2247483823&idx=1&sn=c8db4a3192f877b27105fcb65cf14b01) (发布日期: 2025-12-21)
+- [基于人工智能的海上自主水面船舶（MASS）网络安全系统研发与验证](https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247629636&idx=1&sn=5fd9b9f3539da4a7334bda3a74a0e0c2) (发布日期: 2025-12-21)
+- [CISSP复习题及答案解析-人员安全与风险管理](https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655295657&idx=2&sn=172621134597427d7cda70f526e63ea5) (发布日期: 2025-12-21)
+- [每周PDF资源：Gemini AI安全性与红队报告；大模型双向隐私授权；红蓝对抗常见技战法；容器镜像瘦身指南；安全开发手册](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651332681&idx=3&sn=5ae93097478b752f1fe82cb989d67ef3) (发布日期: 2025-12-21)
+- [GitHub上所有CVE漏洞利用合集-并持续更新](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486028&idx=1&sn=7895f3743c1c751042ae9de2e50f7e1d) (发布日期: 2025-12-21)
+- [【题解】河南省第七届金盾信安杯网络与数据安全大赛](https://mp.weixin.qq.com/s?__biz=MzkxMjc0NDg4NA==&mid=2247484140&idx=1&sn=0d9c4780289a7ea1af9797e139ce9a82) (发布日期: 2025-12-21)
+- [无需分配，照样注入：利用程序入口点实现进程注入](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492365&idx=1&sn=02cb560868ce61fdc6a3c63e93f5e7ef) (发布日期: 2025-12-21)
+- [记一次SRC高危逻辑漏洞挖掘](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486379&idx=1&sn=6863328a422495230488faa548464376) (发布日期: 2025-12-21)
+- [马跃新程，聚力共赢！四大成果发布，四大方向确定！记上汽集团2025年度网络及数据安全工作会议](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649648&idx=1&sn=7de6d3af3e21ac287b1c91d277702461) (发布日期: 2025-12-21)
+- [知识星球 | 怎么看开源软件风险评估工具：Scorecards？](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649648&idx=2&sn=1afb157d2cf547c44862b46162820383) (发布日期: 2025-12-21)
+- [揭秘银狐组织利用 SEO 投毒分发 ValleyRAT 的攻击活动](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504896&idx=1&sn=95a59fc3c7f9364100dbc1b79ce44385) (发布日期: 2025-12-21)
+- [蓝凌OA DingUsers.aspx sql注入](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493612&idx=1&sn=f9dbb534d5a58709fde3a91528e329ff) (发布日期: 2025-12-21)
+- [一文读懂 DDoS 攻击：黑客是如何让服务器 “罢工” 的？](https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247576138&idx=1&sn=26bf6ee11b934cb70548ee0d2255fad4) (发布日期: 2025-12-21)
+- [持续开展安全意识培训：降低网络钓鱼风险的关键](https://mp.weixin.qq.com/s?__biz=MzU0MDc5ODM0Mg==&mid=2247485301&idx=1&sn=f05f968ab8cb5ba7f14046c155919723) (发布日期: 2025-12-21)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | GitHub上所有CVE漏洞利用合集-并持续更新 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486028&idx=1&sn=7895f3743c1c751042ae9de2e50f7e1d](https://mp.weixin.qq.com/s?__biz=MzUzNDczNjQ2OQ==&mid=2247486028&idx=1&sn=7895f3743c1c751042ae9de2e50f7e1d) |
+| 2 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486379&idx=1&sn=6863328a422495230488faa548464376](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486379&idx=1&sn=6863328a422495230488faa548464376) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【安全预警】大华icc receive RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62) |
-| 2 | 若依4.8.1模板注入学习 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632](https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632) |
+| 1 | 无需分配，照样注入：利用程序入口点实现进程注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492365&idx=1&sn=02cb560868ce61fdc6a3c63e93f5e7ef](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492365&idx=1&sn=02cb560868ce61fdc6a3c63e93f5e7ef) |
+| 2 | 蓝凌OA DingUsers.aspx sql注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493612&idx=1&sn=f9dbb534d5a58709fde3a91528e329ff](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493612&idx=1&sn=f9dbb534d5a58709fde3a91528e329ff) |
+
+### 威胁情报
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | Recorded Future发布2025年威胁情报现状报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485247&idx=1&sn=01ca5523fb7dce2a7ce057fb96ccb0ac](https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247485247&idx=1&sn=01ca5523fb7dce2a7ce057fb96ccb0ac) |
+| 2 | 揭秘银狐组织利用 SEO 投毒分发 ValleyRAT 的攻击活动 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504896&idx=1&sn=95a59fc3c7f9364100dbc1b79ce44385](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504896&idx=1&sn=95a59fc3c7f9364100dbc1b79ce44385) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 记一次SRC高危逻辑漏洞挖掘 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486379&idx=1&sn=6863328a422495230488faa548464376](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486379&idx=1&sn=6863328a422495230488faa548464376) |
 
 
 ## 📁 归档路径
@@ -89,8 +127,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +137,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-21 08:26:36*
+*生成时间: 2025-12-21 12:39:46*
 *报告工具: 微信文章安全归档系统*
