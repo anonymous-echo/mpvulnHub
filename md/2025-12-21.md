@@ -2,21 +2,17 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 8
+- **总文章数**: 3
 - **数据源分布**:
-  - Doonsec: 8篇
+  - Doonsec: 3篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
 - **攻击技术**: 2篇
-- **漏洞利用**: 1篇
-- **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **应用漏洞**: 2篇
 - **系统漏洞**: 1篇
-- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,36 +61,19 @@
 
 ### Doonsec
 
-- [工具分享——有超级浓缩弱口令字典，弱口令手拿把掐！](https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484333&idx=1&sn=511333efce0ea8e9721f88b7d05c0464) (发布日期: 2025-12-21)
-- [信创平台遭“精准猎杀”！越南APT组织海莲花搞渗透，这些诱饵专坑政务人员](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119) (发布日期: 2025-12-21)
-- [传奇黑客 ｜ 马拉加病毒作者之谜](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486636&idx=1&sn=657976d33a6a228a8f0b555271120744) (发布日期: 2025-12-21)
-- [HW攻防 | 记一次从小程序到内网vcenter接管全过程](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df) (发布日期: 2025-12-21)
-- [基于可信身份构建可扩展内生安全防护系统](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535528&idx=1&sn=bb1c13af0ef3f8011de997a1e286a94d) (发布日期: 2025-12-21)
-- [CTF Pwn模块拆解（第11期·进阶篇）：2025赛事核心，搞定ROP进阶、堆漏洞精准利用与内核入门](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8) (发布日期: 2025-12-21)
-- [大疆招聘中/高级网络安全专家！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528860&idx=1&sn=8c8cc1e66e269563d00e1c3f0475a0ec) (发布日期: 2025-12-21)
-- [Python反序列化：谁说 Python 只有 pickle RCE？](https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434) (发布日期: 2025-12-21)
+- [【免杀研究】PE文件植入后门之CodeCave](https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485977&idx=1&sn=38027a43a10a37ba5b774cf709537c29) (发布日期: 2025-12-21)
+- [【安全预警】大华icc receive RCE](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62) (发布日期: 2025-12-21)
+- [若依4.8.1模板注入学习](https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632) (发布日期: 2025-12-21)
 
 
 ## 🎯 威胁详情分析
-
-### 漏洞利用
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | CTF Pwn模块拆解（第11期·进阶篇）：2025赛事核心，搞定ROP进阶、堆漏洞精准利用与内核入门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | HW攻防 | 记一次从小程序到内网vcenter接管全过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df) |
-| 2 | Python反序列化：谁说 Python 只有 pickle RCE？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434](https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434) |
-
-### 威胁情报
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 信创平台遭“精准猎杀”！越南APT组织海莲花搞渗透，这些诱饵专坑政务人员 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119) |
+| 1 | 【安全预警】大华icc receive RCE | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484172&idx=1&sn=58c6548254935de8ff233158913ddf62) |
+| 2 | 若依4.8.1模板注入学习 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632](https://mp.weixin.qq.com/s?__biz=Mzg4NTczMTMyMQ==&mid=2247486267&idx=1&sn=45753660fcc9e1fc4a996149ff5e4632) |
 
 
 ## 📁 归档路径
@@ -111,7 +90,7 @@
 
 ### 今日重点关注
 - **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
-- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
+- **系统漏洞** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -120,5 +99,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-21 04:37:16*
+*生成时间: 2025-12-21 08:26:36*
 *报告工具: 微信文章安全归档系统*
