@@ -2,21 +2,21 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 8
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 8篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 4篇
-- **信息泄露**: 2篇
+- **攻击技术**: 2篇
+- **漏洞利用**: 1篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 2篇
-- **网络攻击**: 2篇
+- **应用漏洞**: 2篇
+- **系统漏洞**: 1篇
+- **网络攻击**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,25 +65,14 @@
 
 ### Doonsec
 
-- [至少148亿元！近三年受害企业支付勒索软件赎金金额创新高](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613706&idx=2&sn=e88e611ae1626fe241f147466ccf6351) (发布日期: 2025-12-21)
-- [0101.将漏洞与未经身份验证的数据库访问联系起来：一次协作式漏洞搜寻](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691544&idx=1&sn=6ff2f4f17b52e035359c4d795f9866cd) (发布日期: 2025-12-21)
-- [意想不到的账号信息泄露](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498825&idx=1&sn=9b836ed5406f6120db5c636ffb3a4d3a) (发布日期: 2025-12-21)
-- [【安全圈】某国企海外子公司疑遭数据泄露](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=1&sn=19f4504f34fde82fdf1315b4ab2cb8e4) (发布日期: 2025-12-21)
-- [【安全圈】朝鲜黑客2025年盗走20.2亿美元加密货币](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=3&sn=b51ec4cafcc0665769f9e7345bca48d6) (发布日期: 2025-12-21)
-- [「干货分享」微信内置浏览器渗透测试中绕过限制的多种调试方案](https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247500984&idx=1&sn=893733b08664d18d14d0eee80263af0c) (发布日期: 2025-12-21)
-- [原创 Paper | React2Shell 漏洞利用分析报告](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247936&idx=1&sn=7428ea3750a49c7ba92d0e75172fbfc4) (发布日期: 2025-12-21)
-- [魔鬼藏在细节里，情报分析如何战胜认知偏见！](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564535&idx=1&sn=87cf06c32f75b5783fc6297c04cdf2d4) (发布日期: 2025-12-21)
-- [0day漏洞复现 | 华天动力OA前台接口getRelationData存在SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf) (发布日期: 2025-12-21)
-- [SideWinder APT组织针对我国军工某次攻击活动分析](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494916&idx=1&sn=bdfac71c13063f80c2e2563eacb0fb43) (发布日期: 2025-12-21)
-- [少而致命：朝鲜如何以更少的攻击主导2025年全球加密货币黑客活动？](https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247517514&idx=2&sn=7ae1c28671e53b87bbed84ce041b1cfe) (发布日期: 2025-12-21)
-- [代码注入令网站强制开启vconsole](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489374&idx=1&sn=dc320ef88601ff62fd27d3a97a79b595) (发布日期: 2025-12-21)
-- [一图读懂《数据安全技术 电子产品信息清除技术要求》](https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247492542&idx=1&sn=00818fdd999832edbe647a76463cd4de) (发布日期: 2025-12-21)
-- [若依4.8.1模板注入学习](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488928&idx=1&sn=c1fbd3bcebfec37d5146632c286e1e85) (发布日期: 2025-12-21)
-- [随笔 | 数据安全的下一个十年（4）](https://mp.weixin.qq.com/s?__biz=MzI1NjQxMzIzMw==&mid=2247498283&idx=1&sn=89313f7f348c676e841ca6a0c257aee8) (发布日期: 2025-12-21)
-- [SQL注入实战：在xa0information_schemaxa0地图中，从理论走向攻击台](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484009&idx=1&sn=5428e63e720dc4f634abcd29e6b87b04) (发布日期: 2025-12-21)
-- [悉尼大学遭黑客攻击——学生和教职工数据泄露](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120285&idx=2&sn=06b348798283b4a3d864892112961ded) (发布日期: 2025-12-21)
-- [黑客组织利用Office漏洞执行恶意代码](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503355&idx=2&sn=2e1310a4b29c8324efda46abcbdee60e) (发布日期: 2025-12-21)
-- [虚假的电影 <一战再战> 种子文件在字幕中隐藏恶意软件](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494363&idx=1&sn=7f156f6f38175b0a60c8a1b7392db8d9) (发布日期: 2025-12-21)
+- [工具分享——有超级浓缩弱口令字典，弱口令手拿把掐！](https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484333&idx=1&sn=511333efce0ea8e9721f88b7d05c0464) (发布日期: 2025-12-21)
+- [信创平台遭“精准猎杀”！越南APT组织海莲花搞渗透，这些诱饵专坑政务人员](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119) (发布日期: 2025-12-21)
+- [传奇黑客 ｜ 马拉加病毒作者之谜](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486636&idx=1&sn=657976d33a6a228a8f0b555271120744) (发布日期: 2025-12-21)
+- [HW攻防 | 记一次从小程序到内网vcenter接管全过程](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df) (发布日期: 2025-12-21)
+- [基于可信身份构建可扩展内生安全防护系统](https://mp.weixin.qq.com/s?__biz=Mzg4MDU0NTQ4Mw==&mid=2247535528&idx=1&sn=bb1c13af0ef3f8011de997a1e286a94d) (发布日期: 2025-12-21)
+- [CTF Pwn模块拆解（第11期·进阶篇）：2025赛事核心，搞定ROP进阶、堆漏洞精准利用与内核入门](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8) (发布日期: 2025-12-21)
+- [大疆招聘中/高级网络安全专家！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247528860&idx=1&sn=8c8cc1e66e269563d00e1c3f0475a0ec) (发布日期: 2025-12-21)
+- [Python反序列化：谁说 Python 只有 pickle RCE？](https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434) (发布日期: 2025-12-21)
 
 
 ## 🎯 威胁详情分析
@@ -92,32 +81,20 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 0101.将漏洞与未经身份验证的数据库访问联系起来：一次协作式漏洞搜寻 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691544&idx=1&sn=6ff2f4f17b52e035359c4d795f9866cd](https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647691544&idx=1&sn=6ff2f4f17b52e035359c4d795f9866cd) |
-| 2 | 原创 Paper | React2Shell 漏洞利用分析报告 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247936&idx=1&sn=7428ea3750a49c7ba92d0e75172fbfc4](https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247936&idx=1&sn=7428ea3750a49c7ba92d0e75172fbfc4) |
-| 3 | 0day漏洞复现 | 华天动力OA前台接口getRelationData存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf) |
-| 4 | 黑客组织利用Office漏洞执行恶意代码 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503355&idx=2&sn=2e1310a4b29c8324efda46abcbdee60e](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503355&idx=2&sn=2e1310a4b29c8324efda46abcbdee60e) |
+| 1 | CTF Pwn模块拆解（第11期·进阶篇）：2025赛事核心，搞定ROP进阶、堆漏洞精准利用与内核入门 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8](https://mp.weixin.qq.com/s?__biz=MzkzNzk5MjEyNg==&mid=2247487408&idx=1&sn=38c033e6318bdbe4bb03e4db320e3da8) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 0day漏洞复现 | 华天动力OA前台接口getRelationData存在SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493255&idx=1&sn=359ec65a6ce1564d84ca7f561d819daf) |
-| 2 | 代码注入令网站强制开启vconsole | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489374&idx=1&sn=dc320ef88601ff62fd27d3a97a79b595](https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489374&idx=1&sn=dc320ef88601ff62fd27d3a97a79b595) |
-| 3 | 若依4.8.1模板注入学习 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488928&idx=1&sn=c1fbd3bcebfec37d5146632c286e1e85](https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488928&idx=1&sn=c1fbd3bcebfec37d5146632c286e1e85) |
-| 4 | SQL注入实战：在xa0information_schemaxa0地图中，从理论走向攻击台 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484009&idx=1&sn=5428e63e720dc4f634abcd29e6b87b04](https://mp.weixin.qq.com/s?__biz=MzY0MDE4OTg4Mw==&mid=2247484009&idx=1&sn=5428e63e720dc4f634abcd29e6b87b04) |
+| 1 | HW攻防 | 记一次从小程序到内网vcenter接管全过程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df](https://mp.weixin.qq.com/s?__biz=MzYyMzg3NDQ1Mw==&mid=2247487046&idx=1&sn=b26e7fbc4710fa98ea38213680b8d2df) |
+| 2 | Python反序列化：谁说 Python 只有 pickle RCE？ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434](https://mp.weixin.qq.com/s?__biz=MzkzMzE5Nzc3MA==&mid=2247483718&idx=1&sn=86e3ec92b5847e22b5918953868a4434) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | SideWinder APT组织针对我国军工某次攻击活动分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494916&idx=1&sn=bdfac71c13063f80c2e2563eacb0fb43](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494916&idx=1&sn=bdfac71c13063f80c2e2563eacb0fb43) |
-
-### 信息泄露
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 【安全圈】某国企海外子公司疑遭数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=1&sn=19f4504f34fde82fdf1315b4ab2cb8e4](https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=1&sn=19f4504f34fde82fdf1315b4ab2cb8e4) |
-| 2 | 悉尼大学遭黑客攻击——学生和教职工数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120285&idx=2&sn=06b348798283b4a3d864892112961ded](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120285&idx=2&sn=06b348798283b4a3d864892112961ded) |
+| 1 | 信创平台遭“精准猎杀”！越南APT组织海莲花搞渗透，这些诱饵专坑政务人员 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487549&idx=1&sn=c24697208a3881d1aaa7b763635a9119) |
 
 
 ## 📁 归档路径
@@ -133,8 +110,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 2 篇相关文章
+- **攻击技术** 是今日主要威胁类型，共 2 篇相关文章
+- **应用漏洞** 是今日主要漏洞类型，共 2 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -143,5 +120,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-21 01:49:29*
+*生成时间: 2025-12-21 04:37:16*
 *报告工具: 微信文章安全归档系统*
