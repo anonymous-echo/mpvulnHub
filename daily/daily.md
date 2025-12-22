@@ -1,17 +1,22 @@
-# 2025-12-21 安全威胁态势报告
+# 2025-12-22 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 4
+- **总文章数**: 17
 - **数据源分布**:
-  - Doonsec: 4篇
+  - Doonsec: 17篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **威胁情报**: 2篇
+- **漏洞利用**: 4篇
+- **信息泄露**: 2篇
+- **威胁情报**: 1篇
+- **安全运营**: 1篇
 
 ### 漏洞类型分析
+- **网络攻击**: 3篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -60,25 +65,59 @@
 
 ### Doonsec
 
-- [Sentinel：应急响应自动化分析工具](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485379&idx=1&sn=53cc456ebcec371cf6a9416b5088f903) (发布日期: 2025-12-21)
-- [CN某广电威胁情报](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488629&idx=1&sn=9007f58cad749217f2662bedd385bdce) (发布日期: 2025-12-21)
-- [移动安全 | 某APP逆向工程分析记录](https://mp.weixin.qq.com/s?__biz=Mzk1NzM3NTMyOA==&mid=2247484030&idx=1&sn=f5a0394a2fed9f6dd18a75831f28bba0) (发布日期: 2025-12-21)
-- [凌日网络与安全团队在重庆市大学生信息安全竞赛与“古剑山”第三届全国大学生网络攻防大赛获奖](https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484814&idx=1&sn=a136a3213990a8aadc8575242a8ff0f7) (发布日期: 2025-12-21)
+- [政策解读丨能源行业数据安全管理办法(试行)](https://mp.weixin.qq.com/s?__biz=MzA4NzE5MzkzNA==&mid=2650387892&idx=1&sn=2071ac918534f75ff9d5a48521469fe1) (发布日期: 2025-12-22)
+- [音乐流媒体巨头遭网络攻击，近三千万用户数据泄露](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=1&sn=33ad50f6d073a585372e718065c5aecb) (发布日期: 2025-12-22)
+- [攻击者利用React2Shell漏洞部署Linux后门程序，日本成重点攻击目标](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=3&sn=118751ea5720e2bc14f5073eeb2428ea) (发布日期: 2025-12-22)
+- [超全！网络安全考试认证CISP全类别详细介绍](https://mp.weixin.qq.com/s?__biz=MzU4OTg4Nzc4MQ==&mid=2247507822&idx=1&sn=d2fecb7cd902f9d29d482bbc76cff034) (发布日期: 2025-12-22)
+- [与俄罗斯有关联的黑客利用微软365设备代码进行网络钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649797235&idx=1&sn=7fc317b6bcb2fea72955f599f5f93472) (发布日期: 2025-12-22)
+- [网络安全周刊#28：React2Shell 漏洞利用机制](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489611&idx=1&sn=ff0340ffa27b80ef15f63c58f16ab2da) (发布日期: 2025-12-22)
+- [从0到1AI  Agent检测敏感信息泄露实践](https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486509&idx=1&sn=ec7a9ba63121a375f4437a22cb52c257) (发布日期: 2025-12-22)
+- [以“AI+数据安全”领雁！祝贺美创牵头项目入选浙江省科技厅“尖兵领雁”计划 ！](https://mp.weixin.qq.com/s?__biz=MzA3NDE0NDUyNA==&mid=2650819464&idx=1&sn=d7e326871f685882dcced07165241c0c) (发布日期: 2025-12-22)
+- [【以色列军事】以色列公司、互联网服务提供商和与军事及政府部门相关的实体的敏感数据泄露](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488639&idx=1&sn=f80bd8112d76f34b7b6099932f901b2d) (发布日期: 2025-12-22)
+- [漏洞复现 | 天锐绿盾审批系统 addUpFile.do 任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493284&idx=1&sn=df3dde9cd41b517507413689ed4af7ee) (发布日期: 2025-12-22)
+- [警惕！你引用的 .NET 库可能全是“李鬼”，源码里竟然藏着俄语黑客的后门](https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447901725&idx=1&sn=b7a267166456ced61d91e10213483bb5) (发布日期: 2025-12-22)
+- [安全运营-钓鱼邮件大模型提效](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980106&idx=1&sn=ba011181b675a10937170681a3205e28) (发布日期: 2025-12-22)
+- [WordPress主题Soledad曝高危漏洞！低权限用户可秒变管理员，5.7万网站曾面临接管风险](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462462&idx=1&sn=e14ce919fe1ae52a48ae2de3ce5ab4ea) (发布日期: 2025-12-22)
+- [【全球首创视角】ISO/IEC 27001：2022基于底层逻辑的解读和实施培训教材（3）4.3 确定信息安全管理体系范围](https://mp.weixin.qq.com/s?__biz=MzA5OTEyNzc1Nw==&mid=2247487118&idx=1&sn=9adcf734d1cbaef374671cc32c281cf7) (发布日期: 2025-12-22)
+- [大学校园网络应急响应处理流程](https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496398&idx=1&sn=cbb0e7de3ac08a4798d9a0332d3c3fcb) (发布日期: 2025-12-22)
+- [网络安全专业人士承认发动勒索软件攻击](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120300&idx=1&sn=e62ab1986a0c2c5312c93b8feb031d5d) (发布日期: 2025-12-22)
+- [【Word、Excel 与压缩包（含伪加密）解密】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048848&idx=1&sn=896c39adf669183c994518a29181228c) (发布日期: 2025-12-22)
 
 
 ## 🎯 威胁详情分析
+
+### 漏洞利用
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 攻击者利用React2Shell漏洞部署Linux后门程序，日本成重点攻击目标 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=3&sn=118751ea5720e2bc14f5073eeb2428ea](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=3&sn=118751ea5720e2bc14f5073eeb2428ea) |
+| 2 | 网络安全周刊#28：React2Shell 漏洞利用机制 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489611&idx=1&sn=ff0340ffa27b80ef15f63c58f16ab2da](https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489611&idx=1&sn=ff0340ffa27b80ef15f63c58f16ab2da) |
+| 3 | 漏洞复现 | 天锐绿盾审批系统 addUpFile.do 任意文件上传漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493284&idx=1&sn=df3dde9cd41b517507413689ed4af7ee](https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247493284&idx=1&sn=df3dde9cd41b517507413689ed4af7ee) |
+| 4 | WordPress主题Soledad曝高危漏洞！低权限用户可秒变管理员，5.7万网站曾面临接管风险 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462462&idx=1&sn=e14ce919fe1ae52a48ae2de3ce5ab4ea](https://mp.weixin.qq.com/s?__biz=MzIwMTQ2MzU5Nw==&mid=2652462462&idx=1&sn=e14ce919fe1ae52a48ae2de3ce5ab4ea) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Sentinel：应急响应自动化分析工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485379&idx=1&sn=53cc456ebcec371cf6a9416b5088f903](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485379&idx=1&sn=53cc456ebcec371cf6a9416b5088f903) |
-| 2 | CN某广电威胁情报 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488629&idx=1&sn=9007f58cad749217f2662bedd385bdce](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488629&idx=1&sn=9007f58cad749217f2662bedd385bdce) |
+| 1 | 大学校园网络应急响应处理流程 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496398&idx=1&sn=cbb0e7de3ac08a4798d9a0332d3c3fcb](https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496398&idx=1&sn=cbb0e7de3ac08a4798d9a0332d3c3fcb) |
+
+### 安全运营
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 安全运营-钓鱼邮件大模型提效 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980106&idx=1&sn=ba011181b675a10937170681a3205e28](https://mp.weixin.qq.com/s?__biz=MzA5NzEwOTUzMw==&mid=2447980106&idx=1&sn=ba011181b675a10937170681a3205e28) |
+
+### 信息泄露
+
+| 序号 | 文章标题 | 来源 | 链接 |
+|------|----------|------|------|
+| 1 | 音乐流媒体巨头遭网络攻击，近三千万用户数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=1&sn=33ad50f6d073a585372e718065c5aecb](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613720&idx=1&sn=33ad50f6d073a585372e718065c5aecb) |
+| 2 | 【以色列军事】以色列公司、互联网服务提供商和与军事及政府部门相关的实体的敏感数据泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488639&idx=1&sn=f80bd8112d76f34b7b6099932f901b2d](https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247488639&idx=1&sn=f80bd8112d76f34b7b6099932f901b2d) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W51/2025-12-21/`
+文章已归档到: `doc/2025/2025-12/2025-W52/2025-12-22/`
 
 ## 🔗 数据源说明
 
@@ -89,8 +128,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **威胁情报** 是今日主要威胁类型，共 2 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 0 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **网络攻击** 是今日主要漏洞类型，共 3 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -99,5 +138,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-21 20:22:00*
+*生成时间: 2025-12-22 01:48:43*
 *报告工具: 微信文章安全归档系统*
