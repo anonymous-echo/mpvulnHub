@@ -2,16 +2,15 @@
 
 ## 📊 数据概览
 
-- **总文章数**: 17
+- **总文章数**: 12
 - **数据源分布**:
-  - Doonsec: 17篇
+  - Doonsec: 12篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 4篇
-- **攻击技术**: 3篇
-- **安全运营**: 2篇
+- **漏洞利用**: 3篇
+- **攻击技术**: 2篇
 - **威胁情报**: 1篇
 
 ### 漏洞类型分析
@@ -64,23 +63,18 @@
 
 ### Doonsec
 
-- [安全团队人员应该怎么分配？基于 NICE Framework 的配置建议](https://mp.weixin.qq.com/s?__biz=MzI0NDgyMjgwNQ==&mid=2247484297&idx=1&sn=a59f07462cac0279dcb2afcc6dd36d95) (发布日期: 2025-12-25)
-- [记一次SRC渗透测试实战](https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486665&idx=1&sn=f6de7890b57d8aa3c21f1ca8190fc028) (发布日期: 2025-12-25)
-- [别再被AI忽悠了！CISO吐槽：不能省时间的SOC工具，都是贴标垃圾](https://mp.weixin.qq.com/s?__biz=Mzg3OTYxODQxNg==&mid=2247487582&idx=1&sn=3cdd68ba0b1641015620920019e43329) (发布日期: 2025-12-25)
-- [AI 赋能漏洞管理全链路：从多源漏洞情报采集到定制化响应的实践解密](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501643&idx=1&sn=73b29aad5aad737c6df98843d3d5e77c) (发布日期: 2025-12-25)
-- [n8n工作流自动化工具中的认证后远程代码执行漏洞（CVE-2025-68613）](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254) (发布日期: 2025-12-25)
-- [Webshell后门分析](https://mp.weixin.qq.com/s?__biz=MzkwOTg4NDk5NQ==&mid=2247485263&idx=1&sn=e9b5e97432a25cae57f8464f9515ade2) (发布日期: 2025-12-25)
-- [【Shadowrend 斩影 1.1.5】开发日志3 — 一个集成AI大模型的渗透测试框架](https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485911&idx=1&sn=b9b2144d8ad02a6925bb1d7d65fed686) (发布日期: 2025-12-25)
-- [数据安全风险评估进入新阶段 丨安信天行锚定新规构建数据安全风险评估闭环治理方案](https://mp.weixin.qq.com/s?__biz=MzA5MzMxMTMyMA==&mid=2648571591&idx=1&sn=f5f51793a4f5fb6f4706b19795c0034b) (发布日期: 2025-12-25)
-- [Web安全难题频出，嘉韦思大模型防御系统如何“破局”？](https://mp.weixin.qq.com/s?__biz=MzIxNTA4OTI5Mg==&mid=2647713350&idx=1&sn=907aa5c7a0485c52c5a247e67d53bc43) (发布日期: 2025-12-25)
-- [用 CloudFlare Workers 实现有访问控制的 Payload 投递](https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247492498&idx=1&sn=8cbb504b1cffadc4ea12074da032c424) (发布日期: 2025-12-25)
-- [红队技巧：自动生成DLL代理实现劫持](https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485376&idx=1&sn=0fb5b102aae3dd9c7c3bb939bded1368) (发布日期: 2025-12-25)
-- [工业流自动化平台n8n曝代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763) (发布日期: 2025-12-25)
-- [SQL注入绕开登录？过滤器+数据验证双保险！——Web应用安全实战（PART 3 下）](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486214&idx=1&sn=416d39de196ef2455107585a56678573) (发布日期: 2025-12-25)
-- [逆向实战｜某App加密请求包抓包与Hook技巧解析](https://mp.weixin.qq.com/s?__biz=MzI0NjE1NDYyOA==&mid=2247486360&idx=1&sn=05c7e46a8a689ab5d71e647740534c4f) (发布日期: 2025-12-25)
-- [MiSRC 2025年度获奖白帽公布](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519815&idx=1&sn=4162f6dc5195067ebe5b98ba4c30c735) (发布日期: 2025-12-25)
-- [\"lc\"键漏洞：LangChain高危缺陷](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484386&idx=1&sn=a53339b2c46f20d01a3d246ae0a5e0d4) (发布日期: 2025-12-25)
-- [Sentinel - 应急响应自动化分析工具](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488706&idx=1&sn=fc646eddad847a7e9b6b7a49e47061b7) (发布日期: 2025-12-25)
+- [专访4位CISO：如何化挫败为机遇](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=1&sn=543e31369ff321daba9159fd097f0628) (发布日期: 2025-12-25)
+- [携程回应数据安全争议：柬埔寨合作未启动，已全部暂停](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=3&sn=54d4e74377ae5f27b34382f4c8000923) (发布日期: 2025-12-25)
+- [免费赠送 | 青少年安全意识科普素材（第八期）](https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247649802&idx=4&sn=407f446a5f5548ffaf6a75e6ecf0196c) (发布日期: 2025-12-25)
+- [专家解读｜实施网络数据安全风险评估办法 加强国家网络数据安全能力建设](https://mp.weixin.qq.com/s?__biz=MzkxNDY4MTQwOQ==&mid=2247485067&idx=1&sn=409f4bf5b326854c0ea6716a9d016dba) (发布日期: 2025-12-25)
+- [深入理解 CVE-2025–68613：n8n 工作流自动化工具中的高危远程代码执行漏洞](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295) (发布日期: 2025-12-25)
+- [伪造Windows激活工具域名暗藏恶意软件](https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247504952&idx=2&sn=ea6434144f7fcc8d434c302eefa9fa1b) (发布日期: 2025-12-25)
+- [帆软报表 FineReport export/excel SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86) (发布日期: 2025-12-25)
+- [银狐远控免杀与shellcode修复思路分析 01](https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500505&idx=2&sn=b4c83f70e20464e661f4e0aa84b5962d) (发布日期: 2025-12-25)
+- [天融信双方案获IDC推荐，为安全智能体加持下的私有云安全建设赋能](https://mp.weixin.qq.com/s?__biz=MzA3OTMxNTcxNA==&mid=2650981162&idx=2&sn=b0fe44d9edfe6004303b3367a8b80026) (发布日期: 2025-12-25)
+- [山石方案｜某游戏公司主备数据中心高性能安全防护解决方案](https://mp.weixin.qq.com/s?__biz=MzAxMDE4MTAzMQ==&mid=2661304816&idx=2&sn=267d7366d7f2df6ee2eb421519d2ae53) (发布日期: 2025-12-25)
+- [守护数字世界，CISSP安心保障为您护航](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493477&idx=1&sn=f829dc45ba236ff269d77ba7036f4e5c) (发布日期: 2025-12-25)
+- [甲骨文 EBS 漏洞导致 350 万人信息泄露](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9) (发布日期: 2025-12-25)
 
 
 ## 🎯 威胁详情分析
@@ -89,31 +83,22 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | AI 赋能漏洞管理全链路：从多源漏洞情报采集到定制化响应的实践解密 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501643&idx=1&sn=73b29aad5aad737c6df98843d3d5e77c](https://mp.weixin.qq.com/s?__biz=MzI1Njc5NTY1MQ==&mid=2247501643&idx=1&sn=73b29aad5aad737c6df98843d3d5e77c) |
-| 2 | n8n工作流自动化工具中的认证后远程代码执行漏洞（CVE-2025-68613） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254) |
-| 3 | 工业流自动化平台n8n曝代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763) |
-| 4 | \"lc\"键漏洞：LangChain高危缺陷 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484386&idx=1&sn=a53339b2c46f20d01a3d246ae0a5e0d4](https://mp.weixin.qq.com/s?__biz=MzYyMjI4MTQ3NA==&mid=2247484386&idx=1&sn=a53339b2c46f20d01a3d246ae0a5e0d4) |
+| 1 | 深入理解 CVE-2025–68613：n8n 工作流自动化工具中的高危远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295) |
+| 2 | 帆软报表 FineReport export/excel SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86) |
+| 3 | 甲骨文 EBS 漏洞导致 350 万人信息泄露 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9](https://mp.weixin.qq.com/s?__biz=Mzk2ODExMjEyNA==&mid=2247486964&idx=1&sn=733133fad565b6318c21d24a56cf8eb9) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | n8n工作流自动化工具中的认证后远程代码执行漏洞（CVE-2025-68613） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254](https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517785&idx=1&sn=68e2bbd49e4ef7fbc073803f0749e254) |
-| 2 | 工业流自动化平台n8n曝代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763](https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489315&idx=1&sn=6e2af38d2615dec72a232799f1609763) |
-| 3 | SQL注入绕开登录？过滤器+数据验证双保险！——Web应用安全实战（PART 3 下） | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486214&idx=1&sn=416d39de196ef2455107585a56678573](https://mp.weixin.qq.com/s?__biz=MzkzMjYzMjU3OA==&mid=2247486214&idx=1&sn=416d39de196ef2455107585a56678573) |
+| 1 | 深入理解 CVE-2025–68613：n8n 工作流自动化工具中的高危远程代码执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295](https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247508853&idx=1&sn=29af4f6b574b87c09f095a47909a3295) |
+| 2 | 帆软报表 FineReport export/excel SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493648&idx=1&sn=d840cd56608a0afa38fa32f4ce10fc86) |
 
 ### 威胁情报
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | Sentinel - 应急响应自动化分析工具 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488706&idx=1&sn=fc646eddad847a7e9b6b7a49e47061b7](https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247488706&idx=1&sn=fc646eddad847a7e9b6b7a49e47061b7) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | 记一次SRC渗透测试实战 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486665&idx=1&sn=f6de7890b57d8aa3c21f1ca8190fc028](https://mp.weixin.qq.com/s?__biz=MzkzODQzNTU2NA==&mid=2247486665&idx=1&sn=f6de7890b57d8aa3c21f1ca8190fc028) |
-| 2 | MiSRC 2025年度获奖白帽公布 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519815&idx=1&sn=4162f6dc5195067ebe5b98ba4c30c735](https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247519815&idx=1&sn=4162f6dc5195067ebe5b98ba4c30c735) |
+| 1 | 银狐远控免杀与shellcode修复思路分析 01 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500505&idx=2&sn=b4c83f70e20464e661f4e0aa84b5962d](https://mp.weixin.qq.com/s?__biz=Mzk0MjUwNDE2OA==&mid=2247500505&idx=2&sn=b4c83f70e20464e661f4e0aa84b5962d) |
 
 
 ## 📁 归档路径
@@ -129,7 +114,7 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 3 篇相关文章
 - **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
@@ -139,5 +124,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-25 04:37:41*
+*生成时间: 2025-12-25 08:29:04*
 *报告工具: 微信文章安全归档系统*
