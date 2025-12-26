@@ -1,22 +1,20 @@
-# 2025-12-25 安全威胁态势报告
+# 2025-12-26 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 19
+- **总文章数**: 5
 - **数据源分布**:
-  - Doonsec: 19篇
+  - Doonsec: 5篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 9篇
-- **攻击技术**: 6篇
-- **威胁情报**: 1篇
-- **安全运营**: 1篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
+- **供应链**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 3篇
-- **应用漏洞**: 1篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -65,25 +63,11 @@
 
 ### Doonsec
 
-- [WVP-GB28181摄像头管理端api/user/all存在敏感信息泄露漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649) (发布日期: 2025-12-25)
-- [【高危漏洞预警】Windows PowerShell 命令注入漏洞CVE-2025-54100](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d) (发布日期: 2025-12-25)
-- [【高危漏洞预警】LangChain序列化注入漏洞CVE-2025-68664](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d) (发布日期: 2025-12-25)
-- [宇视科技视频管理系统VM.php接口存在远程命令执行漏洞](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522) (发布日期: 2025-12-25)
-- [新型CaddyWiper数据擦除恶意软件攻击乌克兰网络](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494981&idx=1&sn=97a24ca8b445a103647546799bea96f4) (发布日期: 2025-12-25)
-- [【AI安全】提示词Prompt注入攻击实录](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522177&idx=1&sn=bc8834b1c5080008e1ea644acd2ee195) (发布日期: 2025-12-25)
-- [多角度看OWASP API 安全十大风险](https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247490144&idx=1&sn=7046c1d47a090feeecd7682ea92775a8) (发布日期: 2025-12-25)
-- [Java 代码审计 - 反序列化漏洞](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485816&idx=1&sn=6ef920c149b587a9f11f7039c3ea2694) (发布日期: 2025-12-25)
-- [【安全预警】孚盟云CRM LicMould SQL注入](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484175&idx=1&sn=24d16d898f418363dac785d5376c182f) (发布日期: 2025-12-25)
-- [湾Job | 内推直达！蚂蚁国际数据安全专家热招！](https://mp.weixin.qq.com/s?__biz=MzkwOTUyODE5Mg==&mid=2247486217&idx=1&sn=da675d2e66d9994e78285cb4a1dc30a3) (发布日期: 2025-12-25)
-- [【圣诞节快乐】EasyTools渗透测试工具箱V2.0.3更新(新增白加黑挖掘与自动编译、文件上传自动bypass测试等功能)](https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484672&idx=1&sn=42b9f5c9cba2b1c4618844a9caa46cae) (发布日期: 2025-12-25)
-- [银狐GhostRAT/WinOS变种键盘记录和屏幕截图的排查思路](https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484315&idx=1&sn=26f61c3ada53d3000e90639fe5642dd6) (发布日期: 2025-12-25)
-- [记一次对母校的漏洞挖掘经历](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524079&idx=1&sn=86442649afa66fc853ebd4876bca2e7d) (发布日期: 2025-12-25)
-- [CVE-2025-55182 完整调试分析复现](https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484715&idx=1&sn=ac7808aa3051f14e53fffc0fd85a5e8c) (发布日期: 2025-12-25)
-- [SRC混子的漏洞挖掘之道](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3) (发布日期: 2025-12-25)
-- [慢雾：去中心化永续合约安全审计指南](https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504034&idx=1&sn=c4174518c7087011675ce1c0a165bc5c) (发布日期: 2025-12-25)
-- [OWASP 2026年智能体应用安全TOP10风险、常见漏洞示例、攻击示例](https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496957&idx=1&sn=e531dfdd390a5bbd65806b3b154660e2) (发布日期: 2025-12-25)
-- [备考CISSP丨2026年CISSP官方培训开班计划更新](https://mp.weixin.qq.com/s?__biz=MzUzNTg4NDAyMg==&mid=2247493482&idx=1&sn=cca6ebe94c141522639c331ce044548e) (发布日期: 2025-12-25)
-- [智隼 FTA 推出“内网文件传输安全可视化”解决方案](https://mp.weixin.qq.com/s?__biz=Mzk0MDQ5MTQ4NA==&mid=2247488504&idx=1&sn=d0ca09f07d6905f83aa5a1a4607043d7) (发布日期: 2025-12-25)
+- [药业管理软件XSDService.asmx存在SQL注入漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180) (发布日期: 2025-12-26)
+- [镜像安全治理实战：筑起云原生时代的“软件供应链”防线](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517015&idx=1&sn=c1eee90933ad71b8db2454771eb6fd0f) (发布日期: 2025-12-26)
+- [美两大巨头达成数十亿美元的AI和云安全协议](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247503391&idx=1&sn=d89321973147fe86e7a86210ec30717e) (发布日期: 2025-12-26)
+- [新型 DroidLock 恶意软件会锁定安卓设备并索要赎金](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494379&idx=1&sn=00061c47ccff905f2726b4ceca626949) (发布日期: 2025-12-26)
+- [Burp 未授权漏洞验证高效辅助插件|自动获取拼接接口|](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496416&idx=1&sn=ad1e5000196034c0afd07bd1e4d4ec87) (发布日期: 2025-12-26)
 
 
 ## 🎯 威胁详情分析
@@ -92,43 +76,25 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | WVP-GB28181摄像头管理端api/user/all存在敏感信息泄露漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489772&idx=1&sn=89ffd79780ffff9dc6f22c74d1e64649) |
-| 2 | 【高危漏洞预警】Windows PowerShell 命令注入漏洞CVE-2025-54100 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d) |
-| 3 | 【高危漏洞预警】LangChain序列化注入漏洞CVE-2025-68664 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d) |
-| 4 | 宇视科技视频管理系统VM.php接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522) |
-| 5 | Java 代码审计 - 反序列化漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485816&idx=1&sn=6ef920c149b587a9f11f7039c3ea2694](https://mp.weixin.qq.com/s?__biz=MzU5NjYwNDIyOQ==&mid=2247485816&idx=1&sn=6ef920c149b587a9f11f7039c3ea2694) |
-| 6 | 记一次对母校的漏洞挖掘经历 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524079&idx=1&sn=86442649afa66fc853ebd4876bca2e7d](https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247524079&idx=1&sn=86442649afa66fc853ebd4876bca2e7d) |
-| 7 | CVE-2025-55182 完整调试分析复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484715&idx=1&sn=ac7808aa3051f14e53fffc0fd85a5e8c](https://mp.weixin.qq.com/s?__biz=MzkzNTY5NzA0Mg==&mid=2247484715&idx=1&sn=ac7808aa3051f14e53fffc0fd85a5e8c) |
-| 8 | SRC混子的漏洞挖掘之道 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3) |
-| 9 | OWASP 2026年智能体应用安全TOP10风险、常见漏洞示例、攻击示例 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496957&idx=1&sn=e531dfdd390a5bbd65806b3b154660e2](https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496957&idx=1&sn=e531dfdd390a5bbd65806b3b154660e2) |
+| 1 | 药业管理软件XSDService.asmx存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180) |
+| 2 | Burp 未授权漏洞验证高效辅助插件|自动获取拼接接口| | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496416&idx=1&sn=ad1e5000196034c0afd07bd1e4d4ec87](https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247496416&idx=1&sn=ad1e5000196034c0afd07bd1e4d4ec87) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 【高危漏洞预警】Windows PowerShell 命令注入漏洞CVE-2025-54100 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=1&sn=1f328994d2a26d0fde8abd0372a1485d) |
-| 2 | 【高危漏洞预警】LangChain序列化注入漏洞CVE-2025-68664 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d](https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247491191&idx=2&sn=f8a0edca0c26d28848a0df6dc4f2349d) |
-| 3 | 宇视科技视频管理系统VM.php接口存在远程命令执行漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522](https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247484255&idx=1&sn=9c21d5518e80e693495d22ffd7d46522) |
-| 4 | 【AI安全】提示词Prompt注入攻击实录 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522177&idx=1&sn=bc8834b1c5080008e1ea644acd2ee195](https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247522177&idx=1&sn=bc8834b1c5080008e1ea644acd2ee195) |
-| 5 | 【安全预警】孚盟云CRM LicMould SQL注入 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484175&idx=1&sn=24d16d898f418363dac785d5376c182f](https://mp.weixin.qq.com/s?__biz=Mzk0ODYwNjI1NA==&mid=2247484175&idx=1&sn=24d16d898f418363dac785d5376c182f) |
-| 6 | 智隼 FTA 推出“内网文件传输安全可视化”解决方案 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk0MDQ5MTQ4NA==&mid=2247488504&idx=1&sn=d0ca09f07d6905f83aa5a1a4607043d7](https://mp.weixin.qq.com/s?__biz=Mzk0MDQ5MTQ4NA==&mid=2247488504&idx=1&sn=d0ca09f07d6905f83aa5a1a4607043d7) |
+| 1 | 药业管理软件XSDService.asmx存在SQL注入漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484125&idx=1&sn=565c69a81af0b5a4519d2f9b7e9e1180) |
 
-### 威胁情报
+### 供应链
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 银狐GhostRAT/WinOS变种键盘记录和屏幕截图的排查思路 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484315&idx=1&sn=26f61c3ada53d3000e90639fe5642dd6](https://mp.weixin.qq.com/s?__biz=MzU2Njg4MTgzNg==&mid=2247484315&idx=1&sn=26f61c3ada53d3000e90639fe5642dd6) |
-
-### 安全运营
-
-| 序号 | 文章标题 | 来源 | 链接 |
-|------|----------|------|------|
-| 1 | SRC混子的漏洞挖掘之道 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3](https://mp.weixin.qq.com/s?__biz=Mzk1NzgzMjkxOQ==&mid=2247486524&idx=1&sn=314046b80c762c31c04790b04fb368d3) |
+| 1 | 镜像安全治理实战：筑起云原生时代的“软件供应链”防线 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517015&idx=1&sn=c1eee90933ad71b8db2454771eb6fd0f](https://mp.weixin.qq.com/s?__biz=Mzg3NTUzOTg3NA==&mid=2247517015&idx=1&sn=c1eee90933ad71b8db2454771eb6fd0f) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W52/2025-12-25/`
+文章已归档到: `doc/2025/2025-12/2025-W52/2025-12-26/`
 
 ## 🔗 数据源说明
 
@@ -139,8 +105,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 9 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 3 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -149,5 +115,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-25 16:26:35*
+*生成时间: 2025-12-26 01:44:02*
 *报告工具: 微信文章安全归档系统*
