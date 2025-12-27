@@ -1,20 +1,19 @@
-# 2025-12-26 安全威胁态势报告
+# 2025-12-27 安全威胁态势报告
 
 ## 📊 数据概览
 
-- **总文章数**: 12
+- **总文章数**: 9
 - **数据源分布**:
-  - Doonsec: 12篇
+  - Doonsec: 9篇
 
 ## 🚨 安全威胁态势分析
 
 ### 威胁类型分布
-- **漏洞利用**: 6篇
-- **攻击技术**: 6篇
+- **漏洞利用**: 2篇
+- **攻击技术**: 1篇
 
 ### 漏洞类型分析
-- **Web安全**: 4篇
-- **系统漏洞**: 3篇
+- **Web安全**: 1篇
 
 ## 🔍 匹配规则
 
@@ -63,18 +62,15 @@
 
 ### Doonsec
 
-- [Microsoft Windows SDK 权限提升挖掘过程？](https://mp.weixin.qq.com/s?__biz=MzkzMzczODA0OQ==&mid=2247484373&idx=1&sn=ef5915031e5157d04b693ed0fa992aa5) (发布日期: 2025-12-26)
-- [KEDACOM phoenix监控平台upload_fcgi接口存在任意文件上传漏洞 附POC](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489784&idx=1&sn=859c354763a758a2aba703c21c772211) (发布日期: 2025-12-26)
-- [TryHackMe-SOC-Section 3：核心 SoC 解决方案(2)](https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247489387&idx=1&sn=12a777a6ebab2e6dee5480bbde118669) (发布日期: 2025-12-26)
-- [TryHackMe-SOC-Section 3：核心 SoC 解决方案(1)](https://mp.weixin.qq.com/s?__biz=MzkxODcyNjk4NQ==&mid=2247489243&idx=1&sn=15f00efc9ffece247d34ecc5e734c3e9) (发布日期: 2025-12-26)
-- [用友NC Cloud IMetaWebService4BqCloud SQL注入漏洞](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323) (发布日期: 2025-12-26)
-- [一款赏金猎人xss漏洞扫描工具——Mey](https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0) (发布日期: 2025-12-26)
-- [帆软 excel SQL注入漏洞复现](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19) (发布日期: 2025-12-26)
-- [速查 | CVE-2025-54100 PowerShell RCE漏洞](https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3) (发布日期: 2025-12-26)
-- [Spring-gateway RCE分析](https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=1&sn=0ecbb04c0fc82b3b2c7f446c941ee85d) (发布日期: 2025-12-26)
-- [2026版【闪石星曜@Java代码审计零基础到高阶实战班】线上培训课程，一对一学习指导，迭代持续更新式课程......](https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=2&sn=97be18f5f34be49068ed8679393ddc88) (发布日期: 2025-12-26)
-- [AI安全新范式：ReAct Agent在自动化渗透测试中的理论与实战](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NTIyMA==&mid=2247485405&idx=1&sn=45a9485f4fac38c338d36e56cd6345ee) (发布日期: 2025-12-26)
-- [【漏洞通告】PowerShell 远程代码执行漏洞(CVE-2025-54100)](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374) (发布日期: 2025-12-26)
+- [所有关基用户请注意！CISA新版AI安全指南出台，再不分离OT网络就晚了！](https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650613800&idx=3&sn=7ca03a6d04162b7567c21d727735e64b) (发布日期: 2025-12-27)
+- [黑名单过滤下为何还能无限制SQL注入！](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529007&idx=1&sn=7822683b070582fb9d155143c5c79368) (发布日期: 2025-12-27)
+- [估值将超630亿元！这家数据安全独角兽是如何炼成的？](https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515388&idx=1&sn=fc3f153deda189172f8332326ba9fb4d) (发布日期: 2025-12-27)
+- [日产汽车客户数据遭泄露，甲骨文曝0Day漏洞|一周特辑](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138923&idx=1&sn=90e0196ba42344b621f8c057f28b9be7) (发布日期: 2025-12-27)
+- [五个情报分析必备知识点，结构化技术助力剔除偏见](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565078&idx=1&sn=d844189f3bba6e8295fbdd8858752f72) (发布日期: 2025-12-27)
+- [dify产品 upload接口存在SSRF漏洞 附POC](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484137&idx=1&sn=0a5e903b9e1313d2618dd60dbb463c60) (发布日期: 2025-12-27)
+- [数据安全建设资质最新一览表](https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652120365&idx=1&sn=bdff6faa211298d8c50ccc9af75d077e) (发布日期: 2025-12-27)
+- [医疗网络中如何选择合适的防火墙部署模式](https://mp.weixin.qq.com/s?__biz=MzAxNjY1NjU5Mw==&mid=2247496448&idx=1&sn=cf7cf6eb5bef26cef28da788a805caea) (发布日期: 2025-12-27)
+- [伪造的开源情报和GPT工具GitHub仓库传播PyStoreRAT恶意软件有效载荷](https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247494382&idx=1&sn=02132b869b413ed238e61192e3f24c3b) (发布日期: 2025-12-27)
 
 
 ## 🎯 威胁详情分析
@@ -83,28 +79,19 @@
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | KEDACOM phoenix监控平台upload_fcgi接口存在任意文件上传漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489784&idx=1&sn=859c354763a758a2aba703c21c772211](https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489784&idx=1&sn=859c354763a758a2aba703c21c772211) |
-| 2 | 用友NC Cloud IMetaWebService4BqCloud SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323) |
-| 3 | 一款赏金猎人xss漏洞扫描工具——Mey | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0](https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0) |
-| 4 | 帆软 excel SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19) |
-| 5 | 速查 | CVE-2025-54100 PowerShell RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3](https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3) |
-| 6 | 【漏洞通告】PowerShell 远程代码执行漏洞(CVE-2025-54100) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374) |
+| 1 | 日产汽车客户数据遭泄露，甲骨文曝0Day漏洞|一周特辑 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138923&idx=1&sn=90e0196ba42344b621f8c057f28b9be7](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138923&idx=1&sn=90e0196ba42344b621f8c057f28b9be7) |
+| 2 | dify产品 upload接口存在SSRF漏洞 附POC | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484137&idx=1&sn=0a5e903b9e1313d2618dd60dbb463c60](https://mp.weixin.qq.com/s?__biz=Mzk2NDkwMDg3Nw==&mid=2247484137&idx=1&sn=0a5e903b9e1313d2618dd60dbb463c60) |
 
 ### 攻击技术
 
 | 序号 | 文章标题 | 来源 | 链接 |
 |------|----------|------|------|
-| 1 | 用友NC Cloud IMetaWebService4BqCloud SQL注入漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323](https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247493656&idx=1&sn=23b7e3430c93d9a8b57db6796e01d323) |
-| 2 | 一款赏金猎人xss漏洞扫描工具——Mey | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0](https://mp.weixin.qq.com/s?__biz=MzkwMDMwNDgwNQ==&mid=2247485935&idx=1&sn=7f93536f07c81b13f416f35586d506e0) |
-| 3 | 帆软 excel SQL注入漏洞复现 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19](https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485606&idx=1&sn=0095e213fbb942d8adf67039b8a92d19) |
-| 4 | 速查 | CVE-2025-54100 PowerShell RCE漏洞 | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3](https://mp.weixin.qq.com/s?__biz=MzU3MTU3NTY2NA==&mid=2247488688&idx=1&sn=cb0f185e24189f506d98aa356d08bcb3) |
-| 5 | Spring-gateway RCE分析 | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=1&sn=0ecbb04c0fc82b3b2c7f446c941ee85d](https://mp.weixin.qq.com/s?__biz=Mzg5MDk4MzkyMA==&mid=2247485147&idx=1&sn=0ecbb04c0fc82b3b2c7f446c941ee85d) |
-| 6 | 【漏洞通告】PowerShell 远程代码执行漏洞(CVE-2025-54100) | Doonsec | [https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374](https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524915&idx=1&sn=1ffdb6448c8cb0c7db885c2f53ee7374) |
+| 1 | 黑名单过滤下为何还能无限制SQL注入！ | Doonsec | [https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529007&idx=1&sn=7822683b070582fb9d155143c5c79368](https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247529007&idx=1&sn=7822683b070582fb9d155143c5c79368) |
 
 
 ## 📁 归档路径
 
-文章已归档到: `doc/2025/2025-12/2025-W52/2025-12-26/`
+文章已归档到: `doc/2025/2025-12/2025-W52/2025-12-27/`
 
 ## 🔗 数据源说明
 
@@ -115,8 +102,8 @@
 ## 📈 趋势分析
 
 ### 今日重点关注
-- **漏洞利用** 是今日主要威胁类型，共 6 篇相关文章
-- **Web安全** 是今日主要漏洞类型，共 4 篇相关文章
+- **漏洞利用** 是今日主要威胁类型，共 2 篇相关文章
+- **Web安全** 是今日主要漏洞类型，共 1 篇相关文章
 
 ### 安全建议
 - 及时关注高危漏洞的修复进展
@@ -125,5 +112,5 @@
 - 建立完善的安全运营体系
 
 ---
-*生成时间: 2025-12-26 20:21:46*
+*生成时间: 2025-12-27 01:41:43*
 *报告工具: 微信文章安全归档系统*
